@@ -17,7 +17,7 @@ datasets
 The datasets are located in the ``data/datasets`` directory.
 
 +--------------------+------------------------------+----------+------------------------------+
-| Dataset            | Language Families            | Words    | Source                       |
+| Dataset            | Language Families            | Entries  | Source                       |
 +====================+==============================+==========+==============================+
 | abvd               | Austronesian                 |    12414 | Greenhill et al, 2008        |
 +--------------------+------------------------------+----------+------------------------------+
