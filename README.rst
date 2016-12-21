@@ -95,7 +95,9 @@ code
 
 The ``code`` directory contains the source code used to run the study's
 experiment. It is Python 3 code and needs `NumPy`_, `LingPy`_, `scikit-learn`_,
-and `biopython`_ as direct dependencies (listed in ``requirements.txt``).
+and `biopython`_ as direct dependencies. You should use ``requirements.txt`` to
+install the dependencies, as the code is only guaranteed to work with the
+specified versions of those.
 
 
 setup and usage

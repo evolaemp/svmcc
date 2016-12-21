@@ -50,22 +50,21 @@ def make_wordlist(data, dataset_path, schema='ipa'):
 	Expects {lang: {gloss: [ipa,]}}; returns a Wordlist instance.
 	The last column of the header is needed for the sample ID.
 	"""
-	tokens = load_tokens(dataset_path, schema)
-	if tokens:
+	try:
+		tokens = load_tokens(dataset_path, schema)
 		assert len(tokens) == len(data)
+	except AssertionError:
+		raise ValueError('Could not find tokens in {}'.format(dataset_path))
 	
 	new_data = {}  # the data formatted as LexStat wants it
-	new_data[0] = ['doculect', 'concept', 'ipa', 'index']  # header
-	if tokens:
-		new_data[0].append('tokens')
+	new_data[0] = ['doculect', 'concept', 'ipa', 'index', 'tokens']  # header
 	
 	key = 1
 	for lang in sorted(data.keys()):
 		for gloss in sorted(data[lang].keys()):
 			for index, ipa in enumerate(data[lang][gloss]):
 				new_data[key] = [lang, gloss, ipa, index+1]
-				if tokens:
-					new_data[key].append(tokens[lang][gloss][index])
+				new_data[key].append(tokens[lang][gloss][index])
 				key += 1
 	
 	return Wordlist(new_data)
@@ -74,41 +73,22 @@ def make_wordlist(data, dataset_path, schema='ipa'):
 
 def load_tokens(dataset_path, schema):
 	"""
-	Returns {lang: {gloss: [tokens,]}} or None if there are no tokens.
+	Returns {lang: {gloss: [tokens,]}} dict from the given dataset or raises
+	AssertionError if there are no tokens.
 	"""
 	tokens = {}
 	
 	with open(dataset_path) as f:
 		reader = csv.reader(f, delimiter='\t')
 		header = next(reader)
+		assert 'tokens' in header
 		
-		if 'tokens' in header:
-			for line in reader:
-				if line[0] not in tokens:
-					tokens[line[0]] = {}
-				if line[3] not in tokens[line[0]]:
-					tokens[line[0]][line[3]]  = []
-				tokens[line[0]][line[3]].append(line[7])
-		else:
-			for line in reader:
-				if line[0] not in tokens:
-					tokens[line[0]] = {}
-				if line[3] not in tokens[line[0]]:
-					tokens[line[0]][line[3]]  = []
-				
-				transcription = line[5]
-				if schema == 'ipa':
-					segments = ipa2tokens(
-						transcription.replace(' ', '_'),
-						merge_vowels=False
-					)
-				else:
-					segments = asjp2tokens(
-						transcription.replace(' ','_'),
-						merge_vowels=False
-					)
-				
-				tokens[line[0]][line[3]].append(' '.join(segments))
+		for line in reader:
+			if line[0] not in tokens:
+				tokens[line[0]] = {}
+			if line[3] not in tokens[line[0]]:
+				tokens[line[0]][line[3]]  = []
+			tokens[line[0]][line[3]].append(line[7])
 	
 	return tokens
 
@@ -120,9 +100,7 @@ def filter_wordlist(wordlist, lang1, lang2):
 	only entries of the two languages given.
 	"""
 	new_data = {}  # the data formatted as LexStat wants it
-	new_data[0] = ['doculect', 'concept', 'ipa', 'index']  # header
-	if 'tokens' in wordlist.header:
-		new_data[0].append('tokens')
+	new_data[0] = ['doculect', 'concept', 'ipa', 'index', 'tokens']  # header
 	
 	key = 1
 	for entry in wordlist._data.values():
