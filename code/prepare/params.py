@@ -20,7 +20,10 @@ def _load_logodds(params_dir):
 	consumption by calc_pmi_score().
 	"""
 	file_path = os.path.join(params_dir, 'logodds.csv')
-	assert os.path.exists(file_path)
+	try:
+		assert os.path.exists(file_path)
+	except AssertionError:
+		raise ValueError('Could not find the PMI logodds file')
 	
 	# ASJP sound classes
 	with open(file_path) as f:
@@ -46,11 +49,19 @@ def _load_gap_penalties(params_dir):
 	"""
 	Returns the (penalty1, penalty2) tuple stored in the params dir.
 	"""
-	file_path = os.path.join(params_dir, 'gapPenalties.txt')
-	assert os.path.exists(file_path)
+	file_path = os.path.join(params_dir, 'gap_penalties.txt')
+	
+	try:
+		assert os.path.exists(file_path)
+	except AssertionError:
+		raise ValueError('Could not find the PMI gap penalties file')
 	
 	with open(file_path) as f:
 		penalties = tuple([float(x.strip()) for x in f.readlines()])
 	
-	assert len(penalties) == 2
+	try:
+		assert len(penalties) == 2
+	except AssertionError:
+		raise ValueError('Could not parse the PMI gap penalties file')
+	
 	return penalties

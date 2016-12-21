@@ -94,8 +94,8 @@ code
 ====
 
 The ``code`` directory contains the source code used to run the study's
-experiment. It is Python 3 code and needs `LingPy`_, `scikit-learn`_,
-`bipython`_ as direct dependencies.
+experiment. It is Python 3 code and needs `NumPy`_, `LingPy`_, `scikit-learn`_,
+and `biopython`_ as direct dependencies (listed in ``requirements.txt``).
 
 
 setup and usage
@@ -137,6 +137,7 @@ links
 
 .. _`tsv`: https://en.wikipedia.org/wiki/Tab-separated_values 
 .. _`Creative Commons Attribution-ShareAlike 4.0 International License`: https://creativecommons.org/licenses/by-sa/4.0/
+.. _`NumPy`: https://github.com/numpy/numpy
 .. _`LingPy`: https://github.com/lingpy/lingpy
 .. _`scikit-learn`: https://github.com/scikit-learn/scikit-learn
 .. _`biopython`: https://github.com/biopython/biopython

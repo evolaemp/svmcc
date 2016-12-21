@@ -7,6 +7,8 @@ def find_dataset(this_dir, dataset_name):
 	Returns the absolute path to the dataset.
 	Returns None if the dataset is not found in the given dir.
 	"""
+	this_dir = os.path.abspath(this_dir)
+	
 	for file_name in os.listdir(this_dir):
 		file_path = os.path.join(this_dir, file_name)
 		

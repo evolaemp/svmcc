@@ -88,7 +88,7 @@ class Cli:
 			from code.check import check
 			
 			dataset_path, _ = self._find_dataset(args.dataset)
-			check(dataset_path, PARAMS_DIR)
+			return check(dataset_path, PARAMS_DIR)
 		
 		
 		usage = 'manage.py check dataset'
@@ -117,7 +117,7 @@ class Cli:
 			write_targets(targets, name, VECTORS_DIR)
 			
 			end = time.time()
-			print('Done in ' + str(round(end-start, 3)) +'s.')
+			return 'done in {} seconds'.format(round(end-start, 3))
 		
 		
 		usage = 'manage.py prepare dataset'
@@ -151,7 +151,7 @@ class Cli:
 				write_targets(targets, dataset_name, OUTPUT_DIR)
 			
 			end = time.time()
-			print('Patched in ' + str(round(end-start, 3)) +'s.')
+			return 'patched in {} seconds'.format(round(end-start, 3))
 		
 		
 		usage = 'manage.py patch dataset'
@@ -218,5 +218,7 @@ class Cli:
 		except Exception as err:
 			self.parser.error(str(err))
 		
-		print(res)
+		if res:
+			print(res)
+		
 		self.parser.exit()

@@ -11,8 +11,10 @@ from code.prepare.utils import make_sample_id, is_asjp_data, explode_sample_id
 def prepare(dataset_path, params_dir):
 	"""
 	Returns the samples and targets found in the dataset.
+	
 	The samples are {sample_id: [feature1, feature2,..]} for all features and
 	samples in the dataset.
+	
 	The targets are {sample_id: target} for all sample IDs in the samples {}.
 	"""
 	samples = {}  # sample_id: [feature1, ..., feature7]
@@ -134,6 +136,7 @@ def get_average_gloss_len(data):
 def write_samples(samples, dataset_name, output_dir):
 	"""
 	Writes the samples in .tsv format.
+	
 	The entries are ordered by the sample ID in order to make differences
 	easily git-diff-able.
 	"""
@@ -158,6 +161,7 @@ def write_samples(samples, dataset_name, output_dir):
 def write_targets(targets, dataset_name, output_dir):
 	"""
 	Writes the targets in .tsv format.
+	
 	The entries are ordered by the sample ID in order to make differences
 	easily git-diff-able.
 	"""
