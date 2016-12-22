@@ -114,6 +114,7 @@ setup and usage
     source path/to/my/venv/bin/activate
     
     # install the dependencies
+    # it is important to use the versions specified in the requirements file
     pip install -r requirements.txt
     
     # use manage.py to invoke the commands
@@ -123,13 +124,31 @@ setup and usage
 commands
 --------
 
-TBA
+``python manage.py prepare <dataset>``
+    Prepares the specified dataset for SVM consumption; i.e., generates the
+    samples and targets files for the respective dataset. These files are
+    stored in the ``data/vectors`` directory.
+
+``python manage.py check <dataset>``
+    Does a few quick checks to ensure that the specified dataset is ready to be
+    prepared for SVM consumption. This was useful during development as the
+    bigger datasets took quite some time to raise an error during preparation.
+
+``python manage.py patch (--lexstat | --targets) <dataset>``
+    Patches the samples/targets files for the specified dataset by either
+    re-calculating the LexStat scores (the samples file) or re-compiling the
+    targets file. This was useful during development.
+
+``python manage.py test``
+    Runs the code's unit tests. If you want to re-produce the experiment,
+    running the unit tests will ensure that eveyrthing is set up correctly.
 
 
 licence
 -------
 
-The source code is published under the `MIT License`_.
+The source code (but not the data) is published under the MIT Licence (see the
+``LICENCE`` file).
 
 
 links
@@ -143,4 +162,3 @@ links
 .. _`LingPy`: https://github.com/lingpy/lingpy
 .. _`scikit-learn`: https://github.com/scikit-learn/scikit-learn
 .. _`biopython`: https://github.com/biopython/biopython
-.. _`MIT License`: http://choosealicense.com/licenses/mit/

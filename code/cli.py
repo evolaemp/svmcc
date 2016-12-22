@@ -154,7 +154,7 @@ class Cli:
 			return 'patched in {} seconds'.format(round(end-start, 3))
 		
 		
-		usage = 'manage.py patch dataset'
+		usage = 'manage.py patch (--lexstat | --targets) dataset'
 		description = 'patch dataset samples or targets'
 		
 		subp = self.subparsers.add_parser('patch', usage=usage,
