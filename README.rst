@@ -77,9 +77,11 @@ vectors
 -------
 
 The ``data/vectors`` directory contains the samples and targets (in the machine
-learning sense) derived from the respective datasets, again in tsv format. Each
-sample represents a pair of words from different doculects but denoting the
-same gloss. The sample features are described in section 4.3 of the paper.
+learning sense) derived from the datasets, in csv format. With the exception of
+``central_asian``, which is split into two because its size exceeds 100 MB,
+there is a single vector file per dataset. In these files each row comprises a
+pair of words from different languages but with the same meaning. The features
+are described in section 4.3 of the paper.
 
 
 params
@@ -95,9 +97,9 @@ code
 
 The ``code`` directory contains the source code used to run the study's
 experiment. It is Python 3 code and needs `NumPy`_, `LingPy`_, `scikit-learn`_,
-and `biopython`_ as direct dependencies. You should use ``requirements.txt`` to
-install the dependencies, as the code is only guaranteed to work with the
-specified versions of those.
+`biopython`_, and `pandas`_ as direct dependencies. You should use
+``requirements.txt`` to install the dependencies, as the code is only
+guaranteed to work with the specified versions of those.
 
 
 setup and usage
@@ -162,3 +164,4 @@ links
 .. _`LingPy`: https://github.com/lingpy/lingpy
 .. _`scikit-learn`: https://github.com/scikit-learn/scikit-learn
 .. _`biopython`: https://github.com/biopython/biopython
+.. _`pandas`: https://github.com/pandas-dev/pandas
