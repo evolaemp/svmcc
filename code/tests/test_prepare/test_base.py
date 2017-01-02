@@ -5,6 +5,7 @@ from unittest import TestCase, skip
 from code.cli import PARAMS_DIR, TESTS_DIR
 
 from code.prepare.base import *
+from code.prepare.base import _prepare
 from code.prepare.params import load_params
 from code.prepare.pmi import get_pairs
 
@@ -48,7 +49,7 @@ class PrepareTestCase(TestCase):
 	
 	# @skip('for speed')
 	def test_prepare(self):
-		samples, targets = prepare(FIXTURE_DATASET, PARAMS_DIR)
+		samples, targets = _prepare(FIXTURE_DATASET, PARAMS_DIR)
 		self.assertEqual(len(samples), 2613)
 		
 		for key, sample in samples.items():

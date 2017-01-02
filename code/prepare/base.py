@@ -2,6 +2,7 @@ import csv
 import os
 
 from code.prepare.lexstat import set_schema, make_wordlist, calc_lexstat
+from code.prepare.feature7 import create_pandas_frame
 from code.prepare.params import load_params
 from code.prepare.pmi import get_asjp_data, prepare_lang_pair
 from code.prepare.utils import make_sample_id, is_asjp_data, explode_sample_id
@@ -10,10 +11,23 @@ from code.prepare.utils import make_sample_id, is_asjp_data, explode_sample_id
 
 def prepare(dataset_path, params_dir):
 	"""
+	Calculates the features and targets for the given raw dataset and returns a
+	pandas DataFrame containing the "prepared" data ready for SVM consumption.
+	
+	This function is a wrapper around the _prepare function (that does most of
+	the work). The create_pandas_frame function takes care of feature7.
+	"""
+	samples, targets = _prepare(dataset_path, params_dir)
+	return create_pandas_frame(dataset_path, samples, targets)
+
+
+
+def _prepare(dataset_path, params_dir):
+	"""
 	Returns the samples and targets found in the dataset.
 	
-	The samples are {sample_id: [feature1, feature2,..]} for all features and
-	samples in the dataset.
+	The samples are {sample_id: [feature1, feature2,..]} for features 1-6 and
+	the LexStat features for all sample IDs in the dataset.
 	
 	The targets are {sample_id: target} for all sample IDs in the samples {}.
 	"""
@@ -176,3 +190,13 @@ def write_targets(targets, dataset_name, output_dir):
 		writer.writerow(['sample_id', 'target'])
 		for key in sorted(targets.keys()):
 			writer.writerow([key, int(targets[key])])
+
+
+
+def write(frame, dataset_name, output_dir):
+	"""
+	Writes the given pandas DataFrame into a file with the given name in the
+	given directory.
+	"""
+	file_path = os.path.join(output_dir, dataset_name +'.csv')
+	frame.to_csv(file_path, index=False, float_format='%.10f')

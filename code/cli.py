@@ -106,15 +106,14 @@ class Cli:
 		Inits the subparser that handles the prepare command.
 		"""
 		def prepare(args):
-			from code.prepare.base import prepare, write_samples, write_targets
+			from code.prepare.base import prepare, write
 			
 			start = time.time()
 			
 			dataset_path, name = self._find_dataset(args.dataset)
 			
-			samples, targets = prepare(dataset_path, PARAMS_DIR)
-			write_samples(samples, name, VECTORS_DIR)
-			write_targets(targets, name, VECTORS_DIR)
+			frame = prepare(dataset_path, PARAMS_DIR)
+			write(frame, name, VECTORS_DIR)
 			
 			end = time.time()
 			return 'done in {} seconds'.format(round(end-start, 3))
