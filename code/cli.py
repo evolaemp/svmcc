@@ -22,9 +22,16 @@ PARAMS_DIR = 'data/params'
 
 """
 The directory where the SVM samples and targets are expected to be located.
-Used by the `prepare` and `patch` commands.
+Used by the `prepare`, `patch` and `infer` commands.
 """
 VECTORS_DIR = 'data/vectors'
+
+
+"""
+The directory where the files containing the SVM-inferred cognate classes are
+expected to be located. Used by the `infer` command.
+"""
+INFERRED_DIR = 'data/inferred'
 
 
 """
@@ -56,6 +63,7 @@ class Cli:
 			title='subcommands')
 		
 		self._init_check()
+		self._init_infer()
 		self._init_prepare()
 		self._init_patch()
 		self._init_test()
@@ -99,6 +107,28 @@ class Cli:
 		subp.add_argument('dataset', help=(
 			'name of (e.g. mayan) or path to the dataset to check'))
 		subp.set_defaults(func=check)
+	
+	
+	def _init_infer(self):
+		"""
+		Inits the subparser that handles the infer command.
+		"""
+		def infer(args):
+			from code.infer import infer as main
+			
+			start = time.time()
+			
+			main(VECTORS_DIR, INFERRED_DIR)
+			
+			end = time.time()
+			return 'done in {} seconds'.format(round(end-start, 3))
+		
+		usage = 'manage.py infer'
+		description = 'runs the svm-based automatic cognate detection'
+		
+		subp = self.subparsers.add_parser('infer', usage=usage,
+			description=description, help=description)
+		subp.set_defaults(func=infer)
 	
 	
 	def _init_prepare(self):
