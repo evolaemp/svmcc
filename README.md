@@ -112,17 +112,16 @@ python manage.py --help
 
 ### commands
 
-`python manage.py prepare <dataset>` prepares the specified dataset for SVM
-consumption; i.e., generates the vector file for the respective dataset;
-`data/vectors` is the default output directory.
+`python manage.py prepare <dataset>` reads a dataset, generates its samples and
+targets, and writes a vector file ready for svm consumption; `data/vectors` is
+the default output directory.
 
-`python manage.py infer` runs SVM-based inferring of cognate classes using the
-vector files in the `data/vectors` directory; `data/inferred` is the default
-output directory for this command.
+`python manage.py infer` reads a directory of vector files, runs svm-based
+automatic cognate detection, and writes the inferred classes into an output
+directory; the default input and output directories are `data/vectors` and
+`data/inferred`, respectively.
 
-`python manage.py test` runs the code's unit tests; if you want to re-produce
-the experiment, running the unit tests first will ensure that eveyrthing is set
-up correctly.
+`python manage.py test` runs some unit tests.
 
 
 ### licence

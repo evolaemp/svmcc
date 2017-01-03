@@ -65,7 +65,6 @@ class Cli:
 		self._init_check()
 		self._init_infer()
 		self._init_prepare()
-		self._init_patch()
 		self._init_test()
 	
 	
@@ -118,16 +117,25 @@ class Cli:
 			
 			start = time.time()
 			
-			main(VECTORS_DIR, INFERRED_DIR)
+			main(args.vectors_dir, args.output_dir)
 			
 			end = time.time()
 			return 'done in {} seconds'.format(round(end-start, 3))
 		
 		usage = 'manage.py infer'
-		description = 'runs the svm-based automatic cognate detection'
+		description = (
+			'read a directory of vector files, '
+			'run svm-based automatic cognate detection, '
+			'and write the inferred classes into an output directory')
 		
 		subp = self.subparsers.add_parser('infer', usage=usage,
 			description=description, help=description)
+		subp.add_argument('--vectors-dir', default=VECTORS_DIR, help=(
+			'the directory from which to read the vector files; '
+			'defaults to {}'.format(VECTORS_DIR)))
+		subp.add_argument('--output-dir', default=INFERRED_DIR, help=(
+			'the directory in which to create the output files; '
+			'defaults to {}'.format(INFERRED_DIR)))
 		subp.set_defaults(func=infer)
 	
 	
@@ -142,20 +150,28 @@ class Cli:
 			
 			dataset_path, name = self._find_dataset(args.dataset)
 			
-			frame = prepare(dataset_path, PARAMS_DIR)
-			write(frame, name, VECTORS_DIR)
+			frame = prepare(dataset_path, args.params_dir)
+			write(frame, name, args.output_dir)
 			
 			end = time.time()
 			return 'done in {} seconds'.format(round(end-start, 3))
 		
 		
 		usage = 'manage.py prepare dataset'
-		description = 'prepare a dataset for SVM consumption'
+		description = (
+			'read a dataset, generate its samples and targets, '
+			'and write a vector file ready for svm consumption')
 		
 		subp = self.subparsers.add_parser('prepare', usage=usage,
 			description=description, help=description)
 		subp.add_argument('dataset', help=(
 			'name of (e.g. mayan) or path to the dataset to prepare'))
+		subp.add_argument('--params-dir', default=PARAMS_DIR, help=(
+			'the directory from which to read the PMI parameters; '
+			'defaults to {}'.format(PARAMS_DIR)))
+		subp.add_argument('--output-dir', default=VECTORS_DIR, help=(
+			'the directory in which to create the output file; '
+			'defaults to {}'.format(VECTORS_DIR)))
 		subp.set_defaults(func=prepare)
 	
 	
