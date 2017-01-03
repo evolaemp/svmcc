@@ -159,7 +159,6 @@ DAFANG	yig	fire	221	82	mto	1	m t o
 NANJIANG	ywt	fire	221	82	ato	3	a t o	
 LISU	lis	fire	221	82	ato	3	a t o	
 NUSU	nuf	fire	221	82	mi	1	m i	
-ACHANG	acn	fire	221	82	poi	-1	p o i	
 NAXI	nbf	fire	221	82	mi	1	m i	
 BURMESE	mya	fish	227	19	Na	1	N a	
 ZAIWA	atb	fish	227	19	Noco	1	N o c o	
@@ -174,7 +173,6 @@ DAFANG	yig	fish	227	19	No	1	N o
 LISU	lis	fish	227	19	Nua	1	N u a	
 NUSU	nuf	fish	227	19	Na	1	N a	
 ACHANG	acn	fish	227	19	NaSua	1	N a S u a	
-NAXI	nbf	fish	227	19	5i	-1	5 i	
 BURMESE	mya	dog	2009	21	khw$e	1	khw$ e	
 ZAIWA	atb	dog	2009	21	kh~ui	1	kh~ u i	
 AKHA	ahk	dog	2009	21	a7khy$	1	a 7 khy$	
@@ -410,9 +408,7 @@ NANJIANG	ywt	tongue	1205	44	la	1	l a
 LISU	lis	tongue	1205	44	laCh~3	1	l a Ch~ 3	
 NUSU	nuf	tongue	1205	44	fra	1	f r a	
 ACHANG	acn	tongue	1205	44	so	1	s o	
-NAXI	nbf	tongue	1205	44	si	-2	s i	
 BURMESE	mya	person	683	18	lu	1	l u	
-ZAIWA	atb	person	683	18	py~u	-1	py~ u	
 AKHA	ahk	person	683	18	ch~oha	1	ch~ o h a	
 BIYUE	byo	person	683	18	ch~u	1	ch~ u	
 MPI	mpz	person	683	18	ch~oN	1	ch~ o N	

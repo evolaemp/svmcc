@@ -50,12 +50,6 @@ Nizjam Khanty		ashes	646	646	χɔːjəm	8	χ ɔː j ə m
 Sherkaly Khanty		ashes	646	646	χɔːjəm	8	χ ɔː j ə m	
 Kazym Khanty		ashes	646	646	raːtχiʃ	7	r aː t χ i ʃ	
 Obdorsk Khanty		ashes	646	646	ræːtχis	7	r æː t χ i s	
-North Mansi		bark	1204	1204	sul	-10	s u l	
-Middle Lozva Mansi		bark	1204	1204	sul	-10	s u l	
-Lower Lozva Mansi		bark	1204	1204	sul	-10	s u l	
-Pelymka Mansi		bark	1204	1204	sul	-10	s u l	
-Konda Mansi		bark	1204	1204	suːl	-10	s uː l	
-Tavda Mansi		bark	1204	1204	su	-10	s u	
 Vakh Khanty		bark	1204	1204	kæːr	11	k æː r	
 Verkhne-Kalymsk Khanty		bark	1204	1204	kæːr	11	k æː r	
 Vasjugan Khanty		bark	1204	1204	kæːr	11	k æː r	
@@ -323,9 +317,6 @@ Jugan Khanty		die	1494	1494	suːraːɬ	38	s uː r aː ɬ
 Upper Demjanka Khanty		die	1494	1494	suːraːt	38	s uː r aː t	
 Konda Khanty		die	1494	1494	joːχaːt	40	j oː χ aː t	
 Nizjam Khanty		die	1494	1494	toχaːt	41	t o χ aː t	
-Kazym Khanty		die	1494	1494	pɔːsaːɬə	-42	p ɔː s aː ɬ ə	
-Synja Khanty		die	1494	1494	posaːlə	-42	p o s aː l ə	
-Obdorsk Khanty		die	1494	1494	paːsæːlə	-42	p aː s æː l ə	
 North Mansi		dog	2009	2009	aːmp	43	aː m p	
 Middle Lozva Mansi		dog	2009	2009	oɔmp	43	o m p	
 Lower Lozva Mansi		dog	2009	2009	ɔːmp	43	ɔː m p	
@@ -441,11 +432,7 @@ Kazym Khanty		eat	1336	1336	ɬɛː	52	ɬ ɛː
 Synja Khanty		eat	1336	1336	leː	52	l eː	
 Obdorsk Khanty		eat	1336	1336	liː	52	l iː	
 North Mansi		egg	744	744	muŋi	54	m u ŋ i	
-Middle Lozva Mansi		egg	744	744	ɲæmrəχ	-53	ɲ æ m r ə χ	
-Lower Lozva Mansi		egg	744	744	ɲamrəχ	-53	ɲ a m r ə χ	
-Pelymka Mansi		egg	744	744	ɲɔmərtkə	-53	ɲ ɔ m ə r t k ə	
 Konda Mansi		egg	744	744	moŋ	54	m o ŋ	
-Tavda Mansi		egg	744	744	ɲamərtk	-53	ɲ a m ə r t k	
 Vakh Khanty		egg	744	744	mɔːk	55	m ɔː k	
 Verkhne-Kalymsk Khanty		egg	744	744	moːk	55	m oː k	
 Vartovskoje Khanty		egg	744	744	moːk	55	m oː k	
@@ -1045,15 +1032,6 @@ Konda Mansi		moon	1313	1313	joːŋqəp	100	j oː ŋ q ə p
 Tavda Mansi		moon	1313	1313	jamp	100	j a m p	
 Vakh Khanty		moon	1313	1313	iːkiː	101	iː k iː	
 Vasjugan Khanty		moon	1313	1313	iːkiː	101	iː k iː	
-Tremjugan Khanty		moon	1313	1313	tɨːɬəs	-102	t ɨː ɬ ə s	
-Jugan Khanty		moon	1313	1313	tɨːləs	-102	t ɨː l ə s	
-Upper Demjanka Khanty		moon	1313	1313	tiːləʃ	-102	t iː l ə ʃ	
-Konda Khanty		moon	1313	1313	tiːləʃ	-102	t iː l ə ʃ	
-Nizjam Khanty		moon	1313	1313	tiləsj	-102	t i l ə s j	
-Sherkaly Khanty		moon	1313	1313	tiləsj	-102	t i l ə s j	
-Kazym Khanty		moon	1313	1313	tiɬəsj	-102	t i ɬ ə s j	
-Synja Khanty		moon	1313	1313	tiləsj	-102	t i l ə s j	
-Obdorsk Khanty		moon	1313	1313	tiːləsj	-102	t iː l ə s j	
 North Mansi		mountain	639	639	ur	107	u r	
 Middle Lozva Mansi		mountain	639	639	ur	107	u r	
 Lower Lozva Mansi		mountain	639	639	əχ	103	ə χ	
@@ -1353,26 +1331,11 @@ Nizjam Khanty		round	1395	1395	jeːŋtaː	140	j eː ŋ t aː
 Kazym Khanty		round	1395	1395	jɛːŋtaː	140	j ɛː ŋ t aː	
 Synja Khanty		round	1395	1395	jeːŋtaː	140	j eː ŋ t aː	
 Obdorsk Khanty		round	1395	1395	jeːŋtæː	140	j eː ŋ t æː	
-North Mansi		salt	1274	1274	solwəl	-215	s o l w ə l	
 Middle Lozva Mansi		salt	1274	1274	sʲæχ	216	sʲ æ χ	
 Lower Lozva Mansi		salt	1274	1274	ʃæχ	216	ʃ æ χ	
 Pelymka Mansi		salt	1274	1274	sʲæχ	216	sʲ æ χ	
 Konda Mansi		salt	1274	1274	ʃæχ	216	ʃ æ χ	
 Tavda Mansi		salt	1274	1274	ʧiχ	216	tʃ i χ	
-Vakh Khanty		salt	1274	1274	salnə	-217	s a l n ə	
-Verkhne-Kalymsk Khanty		salt	1274	1274	salnaː	-217	s a l n aː	
-Vasjugan Khanty		salt	1274	1274	salnaː	-217	s a l n aː	
-Vartovskoje Khanty		salt	1274	1274	saɬnə	-217	s a ɬ n ə	
-Likrisovskoje Khanty		salt	1274	1274	saθnə	-217	s a θ n ə	
-Malyj Jugan Khanty		salt	1274	1274	saɬɬə	-217	s a ɬː ə	
-Tremjugan Khanty		salt	1274	1274	saɬɬə	-217	s a ɬː ə	
-Jugan Khanty		salt	1274	1274	saɬɬə	-217	s a ɬː ə	
-Upper Demjanka Khanty		salt	1274	1274	sat	-217	s a t	
-Konda Khanty		salt	1274	1274	sat	-217	s a t	
-Nizjam Khanty		salt	1274	1274	sotə	-217	s o t ə	
-Sherkaly Khanty		salt	1274	1274	sotə	-217	s o t ə	
-Kazym Khanty		salt	1274	1274	soɬ	-217	s o ɬ	
-Obdorsk Khanty		salt	1274	1274	sal	-217	s a l	
 North Mansi		sand	671	671	jeːm	146	j eː m	
 Middle Lozva Mansi		sand	671	671	jiːm	146	j iː m	
 Lower Lozva Mansi		sand	671	671	jeːm	146	j eː m	
@@ -1405,7 +1368,6 @@ Nizjam Khanty		say	1458	1458	lop	150	l o p
 Sherkaly Khanty		say	1458	1458	lop	150	l o p	
 Kazym Khanty		say	1458	1458	ɭop	150	ɭ o p	
 Synja Khanty		say	1458	1458	jaːstə	149	j aː s t ə	
-Obdorsk Khanty		say	1458	1458	læːw	-150	l æː w	
 North Mansi		see	1409	1409	waːɣ	151	w aː ɣ	
 Middle Lozva Mansi		see	1409	1409	uj	151	u j	
 Pelymka Mansi		see	1409	1409	wəi	151	w əi	
@@ -1426,15 +1388,10 @@ Sherkaly Khanty		see	1409	1409	uː	151	uː
 Kazym Khanty		see	1409	1409	waːnt	152	w aː n t	
 Synja Khanty		see	1409	1409	waːt	152	w aː t	
 Obdorsk Khanty		see	1409	1409	wæːnt	152	w æː n t	
-North Mansi		seed	714	714	uːrlaχ	-154	uː r l a χ	
-Middle Lozva Mansi		seed	714	714	urləχ	-154	u r l ə χ	
 Pelymka Mansi		seed	714	714	tajim	155	t a j i m	
 Konda Mansi		seed	714	714	toɔjəm	155	t o j ə m	
 Tavda Mansi		seed	714	714	tejim	155	t e j i m	
 Vakh Khanty		seed	714	714	læːseːm	156	l æː s eː m	
-Upper Demjanka Khanty		seed	714	714	jeːm	-153	j eː m	
-Konda Khanty		seed	714	714	jeːm	-153	j eː m	
-Nizjam Khanty		seed	714	714	sjeːmaː	-153	s j eː m aː	
 North Mansi		short	1645	1645	waːtʲi	219	w aː tʲ i	
 Middle Lozva Mansi		short	1645	1645	uːŋkʷæ	220	uː ŋ kʷ æ	
 Lower Lozva Mansi		short	1645	1645	œːnkʷə	220	œː n kʷ ə	
@@ -1565,7 +1522,6 @@ Upper Demjanka Khanty		snake	730	730	meɣχarwoːjə	224	m e ɣ χ a r w oː j �
 Konda Khanty		snake	730	730	waχtəwoːjə	225	w a χ t ə w oː j ə	
 Kazym Khanty		snake	730	730	jɛːməŋwɔːj	226	j ɛː m ə ŋ w ɔː j	
 Obdorsk Khanty		snake	730	730	oχtiːwaːj	225	o χ t iː w aː j	
-North Mansi		stand	1442	1442	ʎuːʎi	-171	ʎ uː ʎ i	
 Middle Lozva Mansi		stand	1442	1442	tuɲsʲi	170	t u ɲ sʲ i	
 Lower Lozva Mansi		stand	1442	1442	toɲsʲi	170	t o ɲ sʲ i	
 Pelymka Mansi		stand	1442	1442	tuɲsʲi	170	t u ɲ sʲ i	
@@ -1733,7 +1689,6 @@ Nizjam Khanty		thin	1400	1400	waːsj	227	w aː s j
 Sherkaly Khanty		thin	1400	1400	waːsj	227	w aː s j	
 Kazym Khanty		thin	1400	1400	waːsj	227	w aː s j	
 Synja Khanty		thin	1400	1400	waːsj	227	w aː s j	
-Obdorsk Khanty		thin	1400	1400	asæː	-228	a s æː	
 North Mansi		this	1214	1214	ti	186	t i	
 Middle Lozva Mansi		this	1214	1214	tʲə	186	tʲ ə	
 Lower Lozva Mansi		this	1214	1214	ti	186	t i	
@@ -1936,8 +1891,6 @@ Kazym Khanty		what	1236	1236	muj	198	m u j
 Synja Khanty		what	1236	1236	muj	198	m u j	
 Obdorsk Khanty		what	1236	1236	malaː	198	m a l aː	
 North Mansi		white	1335	1335	jaːŋk	201	j aː ŋ k	
-Middle Lozva Mansi		white	1335	1335	sɔrɲəŋ	-202	s ɔ r ɲ ə ŋ	
-Lower Lozva Mansi		white	1335	1335	sarəɲ	-202	s a r ə ɲ	
 Pelymka Mansi		white	1335	1335	sairiŋ	202	s ai r i ŋ	
 Konda Mansi		white	1335	1335	sɔjrəŋ	202	s ɔ j r ə ŋ	
 Tavda Mansi		white	1335	1335	sajraŋ	202	s a j r a ŋ	
@@ -2017,8 +1970,6 @@ North Mansi		worm	1219	1219	peːrk	237	p eː r k
 Middle Lozva Mansi		worm	1219	1219	peːrk	237	p eː r k	
 Lower Lozva Mansi		worm	1219	1219	peːrk	237	p eː r k	
 Pelymka Mansi		worm	1219	1219	wujaːsʲəχ	234	w u j aː sʲ ə χ	
-Konda Mansi		worm	1219	1219	qʷɔr	-236	qʷ ɔ r	
-Tavda Mansi		worm	1219	1219	qort	-236	q o r t	
 Vakh Khanty		worm	1219	1219	meɣleːr	235	m e ɣ l eː r	
 Vasjugan Khanty		worm	1219	1219	meɣjeːr	235	m e ɣ j eː r	
 Tremjugan Khanty		worm	1219	1219	meɣɬær	235	m e ɣ ɬ æ r	

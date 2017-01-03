@@ -49,7 +49,6 @@ Dianfang_Tujia		bone	1394	1394	lu⁵⁵+ka⁵⁵	12	l u ⁵⁵ k a ⁵⁵
 Boluo_Tujia		bone	1394	1394	kʰa²¹+kʰɨe⁵³	13	kʰ a ²¹ kʰ ɨ e ⁵³	
 Tanxi_Tujia		bone	1394	1394	kʰa²¹+kɨ²¹	13	kʰ a ²¹ k ɨ ²¹	
 Tasha_Tujia		breast	1402	1402	li⁵⁵+ku̯ɔ⁵⁵+ʦʰɔŋ⁵⁵	14	l i ⁵⁵ k w ɔ ⁵⁵ tsʰ ɔ ŋ ⁵⁵	
-Duogu_Tujia		breast	1402	1402	ɕĩ⁴⁴+tʰã²¹	-166	ɕ ĩ ∼ ⁴⁴ tʰ ã ∼ ²¹	
 Dianfang_Tujia		breast	1402	1402	li⁵⁵+kʰo⁵⁵+ʦʰũ⁵⁵	14	l i ⁵⁵ kʰ o ⁵⁵ tsʰ ũ ∼ ⁵⁵	
 Boluo_Tujia		breast	1402	1402	dẽ³³+go¹³+lẽ³³	14	d ẽ ∼ ³³ g o ¹³ l ẽ ∼ ³³	
 Tanxi_Tujia		breast	1402	1402	ɕiõ⁵⁵+kẽ²¹+ʥiã²¹	15	ɕ i õ ∼ ⁵⁵ k ẽ ∼ ²¹ dʑ i ã ∼ ²¹	
@@ -63,8 +62,6 @@ Boluo_Tujia		claw (nail)	2128	2128	ʥie⁵³+mũ²¹+ko²¹+lo²¹	18	dʑ i e �
 Tanxi_Tujia		claw (nail)	2128	2128	ʥe⁵⁵+mo⁵⁵+kʰo²¹	18	dʑ e ⁵⁵ m o ⁵⁵ kʰ o ²¹	
 Tasha_Tujia		cloud	1489	1489	me²⁴+la⁵⁵+ɔŋ²¹	19	m e ²⁴ l a ⁵⁵ ɔ ŋ ²¹	
 Dianfang_Tujia		cloud	1489	1489	mɨe³⁵+la⁵⁵+ɣũ²¹	19	m ɨ e ³⁵ l a ⁵⁵ ɣ ũ ∼ ²¹	
-Boluo_Tujia		cloud	1489	1489	jẽ²¹+doʉ³³	-167	j ẽ ∼ ²¹ d o ʉ ³³	
-Tanxi_Tujia		cloud	1489	1489	jüẽ³³	-168	j y ẽ ∼ ³³	
 Tasha_Tujia		cold	1287	1287	sa²¹	20	s a ²¹	
 Duogu_Tujia		cold	1287	1287	sa⁵³	20	s a ⁵³	
 Dianfang_Tujia		cold	1287	1287	sa⁵⁵	20	s a ⁵⁵	
@@ -225,8 +222,6 @@ Boluo_Tujia		lie	1411	1411	kʰaʉ¹³	71	kʰ a ʉ ¹³
 Tasha_Tujia		liver	1224	1224	aŋ⁵⁵+a⁵⁵	72	a ŋ ⁵⁵ a ⁵⁵	
 Duogu_Tujia		liver	1224	1224	a⁵³+ŋai⁴⁴	72	a ⁵³ ŋ a i ⁴⁴	
 Dianfang_Tujia		liver	1224	1224	ã⁵⁵+ŋa⁵⁵	72	ã ∼ ⁵⁵ ŋ a ⁵⁵	
-Boluo_Tujia		liver	1224	1224	kæ̃³³	-169	k æ̃ ∼ ³³	
-Tanxi_Tujia		liver	1224	1224	kã³³	-170	k ã ∼ ³³	
 Tasha_Tujia		long	1203	1203	ɣɤ²¹	73	ɣ ɤ ²¹	
 Duogu_Tujia		long	1203	1203	ɣɨe²¹	73	ɣ ɨ e ²¹	
 Dianfang_Tujia		long	1203	1203	ɣɨe²¹	73	ɣ ɨ e ²¹	
@@ -255,7 +250,6 @@ Tanxi_Tujia		meat	634	634	si³⁵	78	s i ³⁵
 Tasha_Tujia		moon	1313	1313	su²¹+su²¹	79	s u ²¹ s u ²¹	
 Duogu_Tujia		moon	1313	1313	su²¹+su²¹+kʰa²¹+ʨi̯e⁴⁴	79	s u ²¹ s u ²¹ kʰ a ²¹ tɕ j e ⁴⁴	
 Dianfang_Tujia		moon	1313	1313	su²¹+su²¹	79	s u ²¹ s u ²¹	
-Boluo_Tujia		moon	1313	1313	je²¹+liã⁴⁵	-171	j e ²¹ l i ã ∼ ⁴⁵	
 Tanxi_Tujia		moon	1313	1313	lo³⁵+ɕi⁵⁵+dʉ³⁵	80	l o ³⁵ ɕ i ⁵⁵ d ʉ ³⁵	
 Tasha_Tujia		mountain	639	639	kʰu⁵⁵+li̯ɛ⁵⁵	81	kʰ u ⁵⁵ l j ɛ ⁵⁵	
 Duogu_Tujia		mountain	639	639	kʰu⁵³+ʦa⁵³	81	kʰ u ⁵³ ts a ⁵³	
@@ -267,8 +261,6 @@ Duogu_Tujia		mouth	674	674	ʦa²⁴+ʨʰi⁴⁴	83	ts a ²⁴ tɕʰ i ⁴⁴
 Dianfang_Tujia		mouth	674	674	ʦa³⁵+ʨʰi⁵⁵	83	ts a ³⁵ tɕʰ i ⁵⁵	
 Boluo_Tujia		mouth	674	674	a²¹+ze²¹	84	a ²¹ z e ²¹	
 Tanxi_Tujia		mouth	674	674	ʔa²¹+ze²¹	84	ʔ a ²¹ z e ²¹	
-Duogu_Tujia		name	1405	1405	mĩ²¹+ʦi²⁴	-172	m ĩ ∼ ²¹ ts i ²⁴	
-Dianfang_Tujia		name	1405	1405	mĩ²¹+ʦi³⁵	-173	m ĩ ∼ ²¹ ts i ³⁵	
 Boluo_Tujia		name	1405	1405	nioʉ³³	85	n i o ʉ ³³	
 Tanxi_Tujia		name	1405	1405	niʉ³⁵+bo²¹	85	n i ʉ ³⁵ b o ²¹	
 Duogu_Tujia		near	1942	1942	ʦũ⁵³	155	ts ũ ∼ ⁵³	
@@ -320,7 +312,6 @@ Tanxi_Tujia		road	667	667	lo³³	100	l o ³³
 Tasha_Tujia		root	670	670	ʨi⁵⁵+la²¹	101	tɕ i ⁵⁵ l a ²¹	
 Duogu_Tujia		root	670	670	ʨi⁵³+la²¹	101	tɕ i ⁵³ l a ²¹	
 Dianfang_Tujia		root	670	670	ʨi⁵⁵+la²¹	101	tɕ i ⁵⁵ l a ²¹	
-Tanxi_Tujia		root	670	670	kẽ³³	-174	k ẽ ∼ ³³	
 Tasha_Tujia		round	1395	1395	pɔ²¹+lu̯ɔ⁵⁵+lu̯ɔ⁵⁵	102	p ɔ ²¹ l w ɔ ⁵⁵ l w ɔ ⁵⁵	
 Duogu_Tujia		round	1395	1395	tʰuã²¹+kʰo⁵³+li⁴⁴	103	tʰ u ã ∼ ²¹ kʰ o ⁵³ l i ⁴⁴	
 Dianfang_Tujia		round	1395	1395	kʰu²¹+lo⁵⁵+lo²¹	102	kʰ u ²¹ l o ⁵⁵ l o ²¹	
@@ -334,8 +325,6 @@ Tanxi_Tujia		salt	1274	1274	ʔa²¹+si⁵⁵	158	ʔ a ²¹ s i ⁵⁵
 Tasha_Tujia		sand	671	671	a²¹+pu²⁴+li⁵⁵	104	a ²¹ p u ²⁴ l i ⁵⁵	
 Duogu_Tujia		sand	671	671	ɣa²¹+pʰi²⁴+pʰi⁵³	104	ɣ a ²¹ pʰ i ²⁴ pʰ i ⁵³	
 Dianfang_Tujia		sand	671	671	a²¹+pu³⁵+li³⁵	104	a ²¹ p u ³⁵ l i ³⁵	
-Boluo_Tujia		sand	671	671	sa⁵³+ʦi²¹	-175	s a ⁵³ ts i ²¹	
-Tanxi_Tujia		sand	671	671	lʉ³⁵+sa⁵⁵+ʦi²¹	-176	l ʉ ³⁵ s a ⁵⁵ ts i ²¹	
 Tasha_Tujia		say	1458	1458	li²¹	105	l i ²¹	
 Duogu_Tujia		say	1458	1458	li²¹	105	l i ²¹	
 Dianfang_Tujia		say	1458	1458	li²¹	105	l i ²¹	
@@ -393,8 +382,6 @@ Tanxi_Tujia		stand	1442	1442	du³³	119	d u ³³
 Tasha_Tujia		star	1430	1430	ɕi²¹+pu²⁴+li⁵⁵	120	ɕ i ²¹ p u ²⁴ l i ⁵⁵	
 Duogu_Tujia		star	1430	1430	si⁵³+zi²¹	120	s i ⁵³ z i ²¹	
 Dianfang_Tujia		star	1430	1430	si⁵¹+zi²¹	120	s i ⁵¹ z i ²¹	
-Boluo_Tujia		star	1430	1430	tʰiæ̃³³+sẽ³³+ʦi⁵³	-177	tʰ i æ̃ ∼ ³³ s ẽ ∼ ³³ ts i ⁵³	
-Tanxi_Tujia		star	1430	1430	ɕẽ³³+ʦi³³	-178	ɕ ẽ ∼ ³³ ts i ³³	
 Tasha_Tujia		stone	857	857	a²¹+pa²¹	121	a ²¹ p a ²¹	
 Duogu_Tujia		stone	857	857	ɣa²¹+pa²¹	121	ɣ a ²¹ p a ²¹	
 Dianfang_Tujia		stone	857	857	a²¹+pa²¹	121	a ²¹ p a ²¹	

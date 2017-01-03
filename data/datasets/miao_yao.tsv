@@ -33,7 +33,6 @@ HMONG_NJUA	hnj	star	1430	74	hn~oqo	1	hn~ o q o
 BUNU	bwx	star	1430	74	takuna	1	t a k u n a	
 SHE_CHINA	shx	star	1430	74	neitaN	1	n e i t a N	
 YAO	ium	star	1430	74	Lei	2	L e i	
-YAO	ium	one	1493	11	yet	-1	y e t	
 HMU	hea	stone	857	77	xi	1	x i	
 XIANGXI_HMONG	mmr	stone	857	77	qoz3	1	q o z 3	
 HMONG_NJUA	hnj	stone	857	77	ze	1	z e	
@@ -100,12 +99,6 @@ HMONG_NJUA	hnj	full	1429	95	po	1	p o
 BUNU	bwx	full	1429	95	Ten	2	T e n	
 SHE_CHINA	shx	full	1429	95	paN	1	p a N	
 YAO	ium	full	1429	95	pw~aN	1	pw~ a N	
-HMU	hea	new	1231	96	xh~i	-1	xh~ i	
-XIANGXI_HMONG	mmr	new	1231	96	TE	-1	T E	
-HMONG_NJUA	hnj	new	1231	96	ch~a	-1	ch~ a	
-BUNU	bwx	new	1231	96	Tin	-1	T i n	
-SHE_CHINA	shx	new	1231	96	t3hin	-1	t 3 h i n	
-YAO	ium	new	1231	96	sy~an	-1	sy~ a n	
 HMU	hea	we	1212	3	pi	1	p i	
 XIANGXI_HMONG	mmr	we	1212	3	p3	1	p 3	
 HMONG_NJUA	hnj	we	1212	3	pe	1	p e	
@@ -144,10 +137,8 @@ SHE_CHINA	shx	nose	1221	41	kh~uNpiu	1	kh~ u N p i u
 YAO	ium	nose	1221	41	by~ut	1	by~ u t	
 HMU	hea	tooth	1380	43	mh~i	1	mh~ i	
 XIANGXI_HMONG	mmr	tooth	1380	43	qoTE	2	q o T E	
-HMONG_NJUA	hnj	tooth	1380	43	nh~a	-1	nh~ a	
 BUNU	bwx	tooth	1380	43	famh~in	1	f a mh~ i n	
 SHE_CHINA	shx	tooth	1380	43	mun	1	m u n	
-YAO	ium	tooth	1380	43	mun	-1	m u n	
 HMU	hea	tongue	1205	44	qani	1	q a n i	
 XIANGXI_HMONG	mmr	tongue	1205	44	qomy~a	1	q o my~ a	
 HMONG_NJUA	hnj	tongue	1205	44	mp~lai	1	mp~ l a i	
@@ -210,12 +201,6 @@ HMONG_NJUA	hnj	bone	1394	31	ch~an	1	ch~ a n
 BUNU	bwx	bone	1394	31	ka8ona	1	k a 8 o n a	
 SHE_CHINA	shx	bone	1394	31	suNko	1	s u N k o	
 YAO	ium	bone	1394	31	buN	1	b u N	
-HMU	hea	die	1494	61	ta	-1	t a	
-XIANGXI_HMONG	mmr	die	1494	61	to	-1	t o	
-HMONG_NJUA	hnj	die	1494	61	tua	-1	t u a	
-BUNU	bwx	die	1494	61	to	-1	t o	
-SHE_CHINA	shx	die	1494	61	th~a	-1	th~ a	
-YAO	ium	die	1494	61	tai	-1	t a i	
 HMU	hea	road (path)	667	85	ki	1	k i	
 XIANGXI_HMONG	mmr	road (path)	667	85	k3	1	k 3	
 HMONG_NJUA	hnj	road (path)	667	85	ke	1	k e	

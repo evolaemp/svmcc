@@ -26,7 +26,6 @@ ARABIC_LEBANESE	apc	come	1446	66	3Za	4	3 Z a
 GEEZ	gez	come	1446	66	mc7	5	m c 7	
 TIGRAI	tir	come	1446	66	masX~7e	5	m a sX~ 7 e	
 AMHARIC_3	amh	come	1446	66	m3ta	5	m 3 t a	
-HARARI_2	har	come	1446	66	%diZa	-2	% d i Z a	
 MEHRI_2	gdq	come	1446	66	nukaX	6	n u k a X	
 JIBBALI	shv	come	1446	66	nikaX	6	n i k a X	
 SOQOTRI_2	sqt	come	1446	66	gedah	7	g e d a h	
@@ -46,7 +45,6 @@ ARABIC_QURANIC	arb	water	948	75	ma	1	m a
 ARABIC_LEBANESE	apc	water	948	75	may	1	m a y	
 GEEZ	gez	water	948	75	may	1	m a y	
 TIGRAI	tir	water	948	75	may	1	m a y	
-AMHARIC_3	amh	water	948	75	%w3ha	-2	% w 3 h a	
 HARARI_2	har	water	948	75	miy	1	m i y	
 MEHRI_2	gdq	water	948	75	Xemuh	1	X e m u h	
 JIBBALI	shv	water	948	75	mih	1	m i h	
@@ -66,7 +64,6 @@ SYRIAC_2	syc	mountain	639	86	tX~ur	53	tX~ u r
 ARABIC_QURANIC	arb	mountain	639	86	Zabal	54	Z a b a l	
 ARABIC_LEBANESE	apc	mountain	639	86	Zabel	54	Z a b e l	
 GEEZ	gez	mountain	639	86	dab3r	55	d a b 3 r	
-TIGRAI	tir	mountain	639	86	%mba	-2	% m b a	
 AMHARIC_3	amh	mountain	639	86	t3rara	56	t 3 r a r a	
 HARARI_2	har	mountain	639	86	sEri	57	s E r i	
 MEHRI_2	gdq	mountain	639	86	karmaym	58	k a r m a y m	
@@ -75,13 +72,10 @@ SOQOTRI_2	sqt	mountain	639	86	fedehon	60	f e d e h o n
 SIWA	siz	mountain	639	86	adrar	62	a d r a r	
 GHADAMES_2	gha	mountain	639	86	adurar	62	a d u r a r	
 AHAGGAR	thv	mountain	639	86	adrar	62	a d r a r	
-ZENAGA_2	zen	mountain	639	86	%3rg3m	-2	% 3 r g 3 m	
 QABYLE	kab	mountain	639	86	adrar	62	a d r a r	
 HAUSA_3	hau	mountain	639	86	"duC""e"	63	"d u C"" e"	
 BOLEWA	bol	mountain	639	86	guoS3w	64	g u o S 3 w	
-BEJA_2	bej	mountain	639	86	%reba	-2	% r e b a	
 OROMO	gaz	mountain	639	86	tulu	65	t u l u	
-DAHALO_2	dal	mountain	639	86	%mulima	-2	% m u l i m a	
 KAFFA	kbr	mountain	639	86	gudo	66	g u d o	
 SYRIAC_2	syc	sun	1343	72	SemS	1	S e m S	
 ARABIC_QURANIC	arb	sun	1343	72	Sams	1	S a m s	
@@ -102,7 +96,6 @@ HAUSA_3	hau	sun	1343	72	rana	9	r a n a
 BOLEWA	bol	sun	1343	72	futi	10	f u t i	
 BEJA_2	bej	sun	1343	72	yin	11	y i n	also: in
 OROMO	gaz	sun	1343	72	adu	12	a d u	
-DAHALO_2	dal	sun	1343	72	%ado	-2	% a d o	
 KAFFA	kbr	sun	1343	72	abo	13	a b o	
 SYRIAC_2	syc	star	1430	74	kawb3b	71	k a w b 3 b	
 ARABIC_QURANIC	arb	star	1430	74	kawkab	71	k a w k a b	
@@ -123,7 +116,6 @@ HAUSA_3	hau	star	1430	74	tauraro	76	t a u r a r o
 BOLEWA	bol	star	1430	74	janja	77	j a n j a	
 BEJA_2	bej	star	1430	74	hayuk	78	h a y u k	
 OROMO	gaz	star	1430	74	urji	79	u r j i	
-DAHALO_2	dal	star	1430	74	%!ingilXe	-2	% ! i n g i l X e	
 KAFFA	kbr	star	1430	74	tojano	80	t o j a n o	
 SYRIAC_2	syc	one	1493	11	Xad	72	X a d	
 ARABIC_QURANIC	arb	one	1493	11	waXid	72	w a X i d	
@@ -172,7 +164,6 @@ ARABIC_QURANIC	arb	stone	857	77	XaZar	83	X a Z a r
 ARABIC_LEBANESE	apc	stone	857	77	XaZar	83	X a Z a r	
 GEEZ	gez	stone	857	77	3b3n	81	3 b 3 n	
 TIGRAI	tir	stone	857	77	3m3ni	81	3 m 3 n i	
-AMHARIC_3	amh	stone	857	77	%d3ngay	-2	% d 3 n g a y	
 HARARI_2	har	stone	857	77	un	81	u n	
 MEHRI_2	gdq	stone	857	77	cower	84	c o w e r	
 JIBBALI	shv	stone	857	77	fudun	85	f u d u n	
@@ -184,9 +175,7 @@ ZENAGA_2	zen	stone	857	77	ti7rg3t	88	t i 7 r g 3 t
 QABYLE	kab	stone	857	77	adxax	90	a d x a x	
 HAUSA_3	hau	stone	857	77	"duc""e"	91	"d u c"" e"	
 BOLEWA	bol	stone	857	77	guso	92	g u s o	
-BEJA_2	bej	stone	857	77	%awe	-2	% a w e	
 OROMO	gaz	stone	857	77	daga	93	d a g a	
-DAHALO_2	dal	stone	857	77	%mawete	-2	% m a w e t e	
 KAFFA	kbr	stone	857	77	taqo	94	t a q o	
 SYRIAC_2	syc	skin	763	28	meSk	71	m e S k	
 ARABIC_QURANIC	arb	skin	763	28	Zild	73	Z i l d	
@@ -194,7 +183,6 @@ ARABIC_LEBANESE	apc	skin	763	28	Zild	73	Z i l d
 GEEZ	gez	skin	763	28	maX3s	74	m a X 3 s	
 TIGRAI	tir	skin	763	28	kw~3rbat	75	kw~ 3 r b a t	
 AMHARIC_3	amh	skin	763	28	kod3	76	k o d 3	
-HARARI_2	har	skin	763	28	%goga	-2	% g o g a	
 MEHRI_2	gdq	skin	763	28	gEd	73	g E d	
 JIBBALI	shv	skin	763	28	god	73	g o d	
 SOQOTRI_2	sqt	skin	763	28	gad	73	g a d	
@@ -233,9 +221,6 @@ KAFFA	kbr	fire	221	82	qaqo	4	q a q o
 SYRIAC_2	syc	fish	227	19	nun	11	n u n	
 ARABIC_QURANIC	arb	fish	227	19	Xut	13	X u t	
 ARABIC_LEBANESE	apc	fish	227	19	nun	11	n u n	
-GEEZ	gez	fish	227	19	%Xasa	-2	% X a s a	
-TIGRAI	tir	fish	227	19	%Xasa	-2	% X a s a	
-AMHARIC_3	amh	fish	227	19	%asa	-2	% a s a	
 HARARI_2	har	fish	227	19	tulEm	14	t u l E m	
 MEHRI_2	gdq	fish	227	19	cayd	15	c a y d	
 JIBBALI	shv	fish	227	19	cod	15	c o d	
@@ -255,11 +240,8 @@ ARABIC_QURANIC	arb	dog	2009	21	kalb	31	k a l b
 ARABIC_LEBANESE	apc	dog	2009	21	kal3b	31	k a l 3 b	
 GEEZ	gez	dog	2009	21	kal3b	31	k a l 3 b	
 TIGRAI	tir	dog	2009	21	kalbi	31	k a l b i	
-AMHARIC_3	amh	dog	2009	21	%wuSa	-2	% w u S a	also: %w3Sa
-HARARI_2	har	dog	2009	21	%buCi	-2	% b u C i	
 MEHRI_2	gdq	dog	2009	21	mbayl	32	m b a y l	
 JIBBALI	shv	dog	2009	21	kob	31	k o b	
-SOQOTRI_2	sqt	dog	2009	21	%kalb	-2	% k a l b	
 SIWA	siz	dog	2009	21	agurz3ni	35	a g u r z 3 n i	
 GHADAMES_2	gha	dog	2009	21	idi	36	i d i	
 AHAGGAR	thv	dog	2009	21	eydi	36	e y d i	
@@ -297,7 +279,6 @@ ARABIC_QURANIC	arb	tree	906	23	SaZar	33	S a Z a r
 ARABIC_LEBANESE	apc	tree	906	23	SaZar	33	S a Z a r	
 GEEZ	gez	tree	906	23	X3d	31	X 3 d	
 TIGRAI	tir	tree	906	23	om	34	o m	
-AMHARIC_3	amh	tree	906	23	zaf	-2	z a f	
 HARARI_2	har	tree	906	23	lEfu	35	l E f u	
 MEHRI_2	gdq	tree	906	23	h3rmayt	36	h 3 r m a y t	
 JIBBALI	shv	tree	906	23	heyrom	36	h e y r o m	
@@ -307,7 +288,6 @@ AHAGGAR	thv	tree	906	23	aS3k	40	a S 3 k
 ZENAGA_2	zen	tree	906	23	aSa7r	41	a S a 7 r	
 HAUSA_3	hau	tree	906	23	itaCe	42	i t a C e	
 BOLEWA	bol	tree	906	23	Soiwi	43	S o i w i	
-BEJA_2	bej	tree	906	23	"%Sed""ar"	-2	"% S e d"" a r"	
 OROMO	gaz	tree	906	23	muqa	44	m u q a	
 DAHALO_2	dal	tree	906	23	koro	45	k o r o	
 KAFFA	kbr	tree	906	23	mito	46	m i t o	
@@ -323,7 +303,6 @@ JIBBALI	shv	leaf	628	25	cxiZfot	96	c x i Z f o t
 SOQOTRI_2	sqt	leaf	628	25	saXlifo	96	s a X l i f o	
 GHADAMES_2	gha	leaf	628	25	t3fra	98	t 3 f r a	
 AHAGGAR	thv	leaf	628	25	afraw	98	a f r a w	
-ZENAGA_2	zen	leaf	628	25	%t3jburuxd	-2	% t 3 j b u r u x d	
 QABYLE	kab	leaf	628	25	if3r	98	i f 3 r	
 HAUSA_3	hau	leaf	628	25	ga5e	99	g a 5 e	
 BOLEWA	bol	leaf	628	25	owu	10	o w u	
@@ -371,7 +350,6 @@ HAUSA_3	hau	blood	946	30	jini	83	j i n i
 BOLEWA	bol	blood	946	30	domi	81	d o m i	
 BEJA_2	bej	blood	946	30	boy	84	b o y	
 OROMO	gaz	blood	946	30	diga	85	d i g a	
-DAHALO_2	dal	blood	946	30	%diga	-2	% d i g a	
 KAFFA	kbr	blood	946	30	damo	81	d a m o	
 SYRIAC_2	syc	full	1429	95	m3le	61	m 3 l e	
 ARABIC_QURANIC	arb	full	1429	95	mal7an	61	m a l 7 a n	
@@ -392,7 +370,6 @@ HAUSA_3	hau	full	1429	95	Cika	65	C i k a
 BOLEWA	bol	full	1429	95	gamt	66	g a m t	also: gw~unt
 BEJA_2	bej	full	1429	95	atab	67	a t a b	
 OROMO	gaz	full	1429	95	gutu	68	g u t u	
-DAHALO_2	dal	full	1429	95	%!ok	-2	% ! o k	
 KAFFA	kbr	full	1429	95	Cen	69	C e n	
 SYRIAC_2	syc	new	1231	96	Xad3t	11	X a d 3 t	
 ARABIC_QURANIC	arb	new	1231	96	Zadid	12	Z a d i d	
@@ -403,7 +380,6 @@ AMHARIC_3	amh	new	1231	96	adis	11	a d i s
 HARARI_2	har	new	1231	96	Xajis	11	X a j i s	
 MEHRI_2	gdq	new	1231	96	Xeydin	13	X e y d i n	
 JIBBALI	shv	new	1231	96	odin	13	o d i n	
-SOQOTRI_2	sqt	new	1231	96	%gadid	-2	% g a d i d	
 SIWA	siz	new	1231	96	atrar	16	a t r a r	
 AHAGGAR	thv	new	1231	96	inay	17	i n a y	
 ZENAGA_2	zen	new	1231	96	3n3n	17	3 n 3 n	also: 3y3n
@@ -411,7 +387,6 @@ HAUSA_3	hau	new	1231	96	sabo	18	s a b o
 BOLEWA	bol	new	1231	96	poyo	19	p o y o	
 BEJA_2	bej	new	1231	96	ga	20	g a	
 OROMO	gaz	new	1231	96	hara	21	h a r a	
-DAHALO_2	dal	new	1231	96	%mp~ia	-2	% mp~ i a	
 KAFFA	kbr	new	1231	96	andero	22	a n d e r o	
 SYRIAC_2	syc	we	1212	3	X3nan	11	X 3 n a n	
 ARABIC_QURANIC	arb	we	1212	3	naXnu	11	n a X n u	
@@ -453,7 +428,6 @@ BOLEWA	bol	horn	1393	34	"b""olu"	15	"b"" o l u"
 BEJA_2	bej	horn	1393	34	da7	16	d a 7	
 OROMO	gaz	horn	1393	34	gafa	17	g a f a	
 DAHALO_2	dal	horn	1393	34	tumpo	18	t u m p o	
-KAFFA	kbr	horn	1393	34	%qaro	-2	% q a r o	
 SYRIAC_2	syc	name	1405	100	S3m	81	S 3 m	
 ARABIC_QURANIC	arb	name	1405	100	ism	81	i s m	
 ARABIC_LEBANESE	apc	name	1405	100	3s3m	81	3 s 3 m	
@@ -470,7 +444,6 @@ ZENAGA_2	zen	name	1405	100	eS3m	81	e S 3 m
 QABYLE	kab	name	1405	100	is3m	81	i s 3 m	
 HAUSA_3	hau	name	1405	100	suna	81	s u n a	
 BOLEWA	bol	name	1405	100	siNkwo	81	s i N k w o	
-BEJA_2	bej	name	1405	100	%sim	-2	% s i m	also: %sum
 OROMO	gaz	name	1405	100	maqa	83	m a q a	
 DAHALO_2	dal	name	1405	100	sare	84	s a r e	
 KAFFA	kbr	name	1405	100	Sigo	85	S i g o	
@@ -479,7 +452,6 @@ ARABIC_QURANIC	arb	ear	1247	39	un	81	u n
 ARABIC_LEBANESE	apc	ear	1247	39	3d3n	81	3 d 3 n	
 GEEZ	gez	ear	1247	39	3z3n	81	3 z 3 n	
 TIGRAI	tir	ear	1247	39	3zni	81	3 z n i	
-AMHARIC_3	amh	ear	1247	39	%joro	-2	% j o r o	
 HARARI_2	har	ear	1247	39	uzun	81	u z u n	
 MEHRI_2	gdq	ear	1247	39	haydin	81	h a y d i n	
 JIBBALI	shv	ear	1247	39	idEn	81	i d E n	
@@ -535,7 +507,6 @@ HAUSA_3	hau	nose	1221	41	nanCi	56	n a n C i
 BOLEWA	bol	nose	1221	41	wintu	56	w i n t u	
 BEJA_2	bej	nose	1221	41	genut	57	g e n u t	
 OROMO	gaz	nose	1221	41	fu5an	58	f u 5 a n	
-DAHALO_2	dal	nose	1221	41	%sina	-2	% s i n a	
 KAFFA	kbr	nose	1221	41	mudo	59	m u d o	
 SYRIAC_2	syc	tooth	1380	43	Sen	11	S e n	
 ARABIC_QURANIC	arb	tooth	1380	43	sin	11	s i n	
@@ -564,7 +535,6 @@ ARABIC_LEBANESE	apc	tongue	1205	44	lsen	1	l s e n
 GEEZ	gez	tongue	1205	44	l3san	1	l 3 s a n	
 TIGRAI	tir	tongue	1205	44	malXas	2	m a l X a s	
 AMHARIC_3	amh	tongue	1205	44	m3las	2	m 3 l a s	
-HARARI_2	har	tongue	1205	44	%arat	-2	% a r a t	
 MEHRI_2	gdq	tongue	1205	44	lSin	1	l S i n	
 JIBBALI	shv	tongue	1205	44	ElSEn	1	E l S E n	
 SOQOTRI_2	sqt	tongue	1205	44	leSin	1	l e S i n	
@@ -586,13 +556,10 @@ GEEZ	gez	person	683	18	b373si	83	b 3 7 3 s i
 TIGRAI	tir	person	683	18	sab	84	s a b	
 AMHARIC_3	amh	person	683	18	s3w	84	s 3 w	
 HARARI_2	har	person	683	18	usu7	84	u s u 7	
-MEHRI_2	gdq	person	683	18	%n3far	-2	% n 3 f a r	
-JIBBALI	shv	person	683	18	%Ensi	-2	% E n s i	
 SOQOTRI_2	sqt	person	683	18	Xag	85	X a g	
 GHADAMES_2	gha	person	683	18	iman	88	i m a n	
 AHAGGAR	thv	person	683	18	y3n	89	y 3 n	
 ZENAGA_2	zen	person	683	18	min	88	m i n	
-QABYLE	kab	person	683	18	%bnadem	-2	% b n a d e m	
 HAUSA_3	hau	person	683	18	mutum	90	m u t u m	
 BOLEWA	bol	person	683	18	memu	91	m e m u	
 BEJA_2	bej	person	683	18	ha	92	h a	
@@ -604,8 +571,6 @@ ARABIC_QURANIC	arb	knee	1371	47	rukbat	52	r u k b a t
 ARABIC_LEBANESE	apc	knee	1371	47	rikbi	52	r i k b i	
 GEEZ	gez	knee	1371	47	b3rk	51	b 3 r k	
 TIGRAI	tir	knee	1371	47	b3rki	51	b 3 r k i	
-AMHARIC_3	amh	knee	1371	47	%gulb3t	-2	% g u l b 3 t	
-HARARI_2	har	knee	1371	47	%g3lib	-2	% g 3 l i b	
 MEHRI_2	gdq	knee	1371	47	barak	51	b a r a k	
 JIBBALI	shv	knee	1371	47	bErk	51	b E r k	
 SOQOTRI_2	sqt	knee	1371	47	bark	51	b a r k	
@@ -660,7 +625,6 @@ HAUSA_3	hau	breast	1402	51	mama	13	m a m a
 BOLEWA	bol	breast	1402	51	"w3d""i"	14	"w 3 d"" i"	
 BEJA_2	bej	breast	1402	51	nug	15	n u g	also: nugwe
 OROMO	gaz	breast	1402	51	qoma	16	q o m a	
-DAHALO_2	dal	breast	1402	51	%!one	-2	% ! o n e	
 KAFFA	kbr	breast	1402	51	geto	17	g e t o	
 SYRIAC_2	syc	liver	1224	53	kabd	31	k a b d	
 ARABIC_QURANIC	arb	liver	1224	53	kabid	31	k a b i d	
@@ -688,7 +652,6 @@ ARABIC_QURANIC	arb	drink	1401	54	Srb	52	S r b
 ARABIC_LEBANESE	apc	drink	1401	54	S3r3b	52	S 3 r 3 b	
 GEEZ	gez	drink	1401	54	sty	51	s t y	
 TIGRAI	tir	drink	1401	54	sataya	51	s a t a y a	
-AMHARIC_3	amh	drink	1401	54	%t3ta	-2	% t 3 t a	
 HARARI_2	har	drink	1401	54	sECa	51	s E C a	
 MEHRI_2	gdq	drink	1401	54	hutki	53	h u t k i	
 JIBBALI	shv	drink	1401	54	Susi	53	S u s i	
@@ -785,7 +748,6 @@ HAUSA_3	hau	bone	1394	31	qaSi	95	q a S i
 BOLEWA	bol	bone	1394	31	us3ki	96	u s 3 k i	
 BEJA_2	bej	bone	1394	31	mi	97	m i	
 OROMO	gaz	bone	1394	31	lafe	98	l a f e	
-DAHALO_2	dal	bone	1394	31	%miCo	-2	% m i C o	
 KAFFA	kbr	bone	1394	31	SawuSo	99	S a w u S o	
 SYRIAC_2	syc	die	1494	61	myt	21	m y t	
 ARABIC_QURANIC	arb	die	1494	61	mwt	21	m w t	
@@ -814,7 +776,6 @@ ARABIC_LEBANESE	apc	road (path)	667	85	darab	44	d a r a b	road
 GEEZ	gez	road (path)	667	85	f3not	45	f 3 n o t	road
 TIGRAI	tir	road (path)	667	85	mangadi	46	m a n g a d i	road
 AMHARIC_3	amh	road (path)	667	85	m3ng3d	46	m 3 n g 3 d	road
-HARARI_2	har	road (path)	667	85	%uga	-2	% u g a	road
 MEHRI_2	gdq	road (path)	667	85	Xirum	47	X i r u m	road
 JIBBALI	shv	road (path)	667	85	orm	47	o r m	road
 SOQOTRI_2	sqt	road (path)	667	85	orim	47	o r i m	road

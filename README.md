@@ -12,7 +12,7 @@ both the data and the source code used in the paper's experiment.
 
 The datasets are located in the ``data/datasets`` directory.
 
-| Dataset            | Language Families            | Entries  | Source                       |
+| dataset            | language families            | entries  | source                       |
 |--------------------|------------------------------|---------:|------------------------------|
 | `abvd`             | Austronesian                 |    12414 | Greenhill et al, 2008        |
 | `afrasian`         | Afro-Asiatic                 |      790 | Militarev, 2000              |
@@ -67,7 +67,7 @@ described in section 4.3 of the paper.
 ### inferred
 
 The `data/inferred` directory contains the SVM-inferred cognate classes for each
-dataset, one csv file for each dataset.
+dataset, one csv file per dataset.
 
 
 ### params

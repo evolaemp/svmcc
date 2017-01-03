@@ -446,7 +446,6 @@ SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	woman	962	16	iSoq	2	i S o q
 TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	woman	962	16	iSoq	2	i S o q	
 POQOMCHI_WESTERN	pob	woman	962	16	Soq	2	S o q	
 POCOMAM_EASTERN	poa	woman	962	16	iSoq	2	i S o q	
-USPANTEKO	usp	woman	962	16	%anim	-1	% a n i m	borrowed from Spanish
 EASTERN_KEKCHI_CAHABON	kek	woman	962	16	iSq	2	i S q	
 ZINACANTAN_TZOTZIL	tzz	woman	962	16	anc	5	a n c	
 TZELTAL_BACHAJON	tzb	woman	962	16	anc	5	a n c	
@@ -490,11 +489,7 @@ LACANDON	lac	man	1554	17	Sib	3	S i b	also: ton
 HUASTEC	hva	person	683	18	tenek	3	t e n e k	
 CHICOMUCELTEC	cob	person	683	18	inik	1	i n i k	
 TOJOLABAL	toj	person	683	18	wink~il	1	w i nk~ i l	also: %kristy~ano; Spanish loan
-CHUJ	cnm	person	683	18	anma7	-1	a n m a 7	
 MOCHO	mhc	person	683	18	winaq	1	w i n a q	
-JACALTEC	jai	person	683	18	anma	-1	a n m a	
-QANJOBAL_SANTA_EULALIA	kjb	person	683	18	%anima	-1	% a n i m a	borrowed from Spanish
-ACATECO_SAN_MIGUEL_ACATAN	knj	person	683	18	%anima	-1	% a n i m a	borrowed from Spanish
 IXIL_CHAJUL	ixj	person	683	18	xal	2	x a l	
 AGUACATEC	agu	person	683	18	wunak	1	w u n a k	
 TECO_TECTITAN	ttc	person	683	18	Sxal	2	S x a l	
@@ -504,17 +499,10 @@ SACAPULTECO_SACAPULAS_CENTRO	quv	person	683	18	wanaq	1	w a n a q
 CENTRAL_QUICHE	quc	person	683	18	winaq	1	w i n a q	
 SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	person	683	18	winaq	1	w i n a q	
 TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	person	683	18	winaq	1	w i n a q	
-POQOMCHI_WESTERN	pob	person	683	18	%kristyana	-2	% k r i s t y a n a	Spanish loan
 POCOMAM_EASTERN	poa	person	683	18	winaq	1	w i n a q	
-USPANTEKO	usp	person	683	18	%kristy~ano	-2	% k r i s ty~ a n o	borrowed from Spanish
-EASTERN_KEKCHI_CAHABON	kek	person	683	18	%kristy~an	-2	% k r i s ty~ a n	borrowed from Spanish
-ZINACANTAN_TZOTZIL	tzz	person	683	18	%kriSCnano	-2	% k r i S C n a n o	Spanish loan
-TZELTAL_BACHAJON	tzb	person	683	18	%kristiano	-2	% k r i s t i a n o	Spanish loan
-CHOL_TUMBALA	ctu	person	683	18	kiSta5u	-2	k i S t a 5 u	
 CHONTAL_TABASCO	chf	person	683	18	winik	1	w i n i k	
 CHORTI	caa	person	683	18	winikop	1	w i n i k o p	
 ITZAJ	itz	person	683	18	mak	4	m a k	
-MOPAN	mop	person	683	18	%kristy~3nox	-2	% k r i s ty~ 3 n o x	Spanish loan
 MAYA_YUCATAN	yua	person	683	18	winik	1	w i n i k	also: mak
 LACANDON	lac	person	683	18	winik	1	w i n i k	
 HUASTEC	hva	fish	227	19	to7ol	1	t o 7 o l	
@@ -687,7 +675,6 @@ CHOL_TUMBALA	ctu	seed	714	24	"b3k"""	6	"b 3 k"""	"also: pak"""
 CHONTAL_TABASCO	chf	seed	714	24	"bek"""	6	"b e k"""	"also: p3k""3bi"
 CHORTI	caa	seed	714	24	hinah	1	h i n a h	
 ITZAJ	itz	seed	714	24	"nek"""	7	"n e k"""	
-MOPAN	mop	seed	714	24	semiya	-1	s e m i y a	
 MAYA_YUCATAN	yua	seed	714	24	"nek"""	7	"n e k"""	also: i7inah
 LACANDON	lac	seed	714	24	"nek"""	7	"n e k"""	
 HUASTEC	hva	leaf	628	25	Seklek	1	S e k l e k	
@@ -897,32 +884,12 @@ MAYA_YUCATAN	yua	bone	1394	31	"b""ak"	1	"b"" a k"
 LACANDON	lac	bone	1394	31	bak	1	b a k	
 HUASTEC	hva	grease	323	32	pemey	1	p e m e y	
 TOJOLABAL	toj	grease	323	32	yecel	2	y e c e l	
-CHUJ	cnm	grease	323	32	%mantka7	-1	% m a n t k a 7	Spanish loan
-JACALTEC	jai	grease	323	32	%manteka	-1	% m a n t e k a	Spanish loan
-QANJOBAL_SANTA_EULALIA	kjb	grease	323	32	%manteka	-1	% m a n t e k a	borrowed from Spanish
-ACATECO_SAN_MIGUEL_ACATAN	knj	grease	323	32	%manteka	-1	% m a n t e k a	borrowed from Spanish
-IXIL_CHAJUL	ixj	grease	323	32	%manteka	-1	% m a n t e k a	borrowed from Spanish
-AGUACATEC	agu	grease	323	32	%manteka7	-1	% m a n t e k a 7	Spanish loan
-TECO_TECTITAN	ttc	grease	323	32	%mantek	-1	% m a n t e k	borrowed from Spanish
-MAM_NORTHERN	mam	grease	323	32	%mantek	-1	% m a n t e k	Spanish loan
-SIPAKAPENSE	qum	grease	323	32	%manteka7	-1	% m a n t e k a 7	borrowed from Spanish
-SACAPULTECO_SACAPULAS_CENTRO	quv	grease	323	32	%manteka7	-1	% m a n t e k a 7	borrowed from Spanish
-CENTRAL_QUICHE	quc	grease	323	32	%manteka7	-1	% m a n t e k a 7	Spanish loan
-SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	grease	323	32	%manteka	-1	% m a n t e k a	borrowed from Spanish
-TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	grease	323	32	%manteka7	-1	% m a n t e k a 7	borrowed from Spanish
-POQOMCHI_WESTERN	pob	grease	323	32	%manteka	-1	% m a n t e k a	Spanish loan
-POCOMAM_EASTERN	poa	grease	323	32	"q""ene7"	-1	"q"" e n e 7"	
-USPANTEKO	usp	grease	323	32	%mantega7	-1	% m a n t e g a 7	borrowed from Spanish
-EASTERN_KEKCHI_CAHABON	kek	grease	323	32	%mantek	-1	% m a n t e k	borrowed from Spanish
 ZINACANTAN_TZOTZIL	tzz	grease	323	32	"hup""el"	3	"h u p"" e l"	
-TZELTAL_BACHAJON	tzb	grease	323	32	%unto	-2	% u n t o	Spanish loan
 CHONTAL_TABASCO	chf	grease	323	32	"pok""ma"	4	"p o k"" m a"	
 CHORTI	caa	grease	323	32	"C""iCmar"	5	"C"" i C m a r"	
 ITZAJ	itz	grease	323	32	polok	6	p o l o k	
-MOPAN	mop	grease	323	32	%manteka	-1	% m a n t e k a	Spanish loan
 MAYA_YUCATAN	yua	grease	323	32	cac	7	c a c	
 LACANDON	lac	grease	323	32	CaC	8	C a C	
-HUASTEC	hva	egg	744	33	"8ak""Cok"""	-1	"8 a k"" C o k"""	
 CHICOMUCELTEC	cob	egg	744	33	ul	7	u l	also: utiCin
 TOJOLABAL	toj	egg	744	33	"nolob"""	1	"n o l o b"""	
 CHUJ	cnm	egg	744	33	Nolob	1	N o l o b	
@@ -946,7 +913,6 @@ EASTERN_KEKCHI_CAHABON	kek	egg	744	33	"molb"""	1	"m o l b"""
 ZINACANTAN_TZOTZIL	tzz	egg	744	33	tanal	10	t a n a l	also: ton
 TZELTAL_BACHAJON	tzb	egg	744	33	tomut	5	t o m u t	
 CHOL_TUMBALA	ctu	egg	744	33	tumut	5	t u m u t	also: tun
-CHONTAL_TABASCO	chf	egg	744	33	"s3ktok"""	-1	"s 3 k t o k"""	
 CHORTI	caa	egg	744	33	kum	11	k u m	
 ITZAJ	itz	egg	744	33	he7	6	h e 7	
 MOPAN	mop	egg	744	33	xe7	6	x e 7	
@@ -968,12 +934,10 @@ SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	horn	1393	34	"uk""a7"	1	"u k"" a 7"
 TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	horn	1393	34	"uk""a7"	1	"u k"" a 7"	
 POQOMCHI_WESTERN	pob	horn	1393	34	"uk""a7"	1	"u k"" a 7"	
 POCOMAM_EASTERN	poa	horn	1393	34	"uk""a7"	1	"u k"" a 7"	
-USPANTEKO	usp	horn	1393	34	%kaCo	-1	% k a C o	borrowed from Spanish
 EASTERN_KEKCHI_CAHABON	kek	horn	1393	34	"Sukub"""	4	"S u k u b"""	
 ZINACANTAN_TZOTZIL	tzz	horn	1393	34	Sulub	3	S u l u b	
 TZELTAL_BACHAJON	tzb	horn	1393	34	Sulub	3	S u l u b	
 CHONTAL_TABASCO	chf	horn	1393	34	Sukub	8	S u k u b	also: hub
-CHORTI	caa	horn	1393	34	%kaCu	-1	% k a C u	Spanish loan
 ITZAJ	itz	horn	1393	34	bak	9	b a k	
 MOPAN	mop	horn	1393	34	Sulub	3	S u l u b	
 HUASTEC	hva	tail	1220	35	wew	1	w e w	
@@ -1479,25 +1443,11 @@ HUASTEC	hva	heart	1223	52	iCiC	1	i C i C
 CHICOMUCELTEC	cob	heart	1223	52	iCit	1	i C i t	
 TOJOLABAL	toj	heart	1223	52	alcil	5	a l c i l	"also: k""uxol"
 CHUJ	cnm	heart	1223	52	piSan	2	p i S a n	
-JACALTEC	jai	heart	1223	52	anma	-1	a n m a	
 QANJOBAL_SANTA_EULALIA	kjb	heart	1223	52	piSan	2	p i S a n	
 ACATECO_SAN_MIGUEL_ACATAN	knj	heart	1223	52	piSan	2	p i S a n	
-IXIL_CHAJUL	ixj	heart	1223	52	%anima	-1	% a n i m a	borrowed from Spanish
-AGUACATEC	agu	heart	1223	52	%alma7	-1	% a l m a 7	Spanish loan
-TECO_TECTITAN	ttc	heart	1223	52	%anim	-1	% a n i m	borrowed from Spanish
-MAM_NORTHERN	mam	heart	1223	52	tanmiya	-1	t a n m i y a	
-SIPAKAPENSE	qum	heart	1223	52	%anma7	-1	% a n m a 7	borrowed from Spanish
-SACAPULTECO_SACAPULAS_CENTRO	quv	heart	1223	52	%anima7	-1	% a n i m a 7	borrowed from Spanish
-CENTRAL_QUICHE	quc	heart	1223	52	%wanima7	-1	% w a n i m a 7	loan from Spanish
-SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA	ckf	heart	1223	52	%anima	-1	% a n i m a	borrowed from Spanish
-TZUTUJIL_SAN_JUAN_LA_LAGUNA	tzj	heart	1223	52	%animo	-1	% a n i m o	borrowed from Spanish
-POCOMAM_EASTERN	poa	heart	1223	52	alm	-1	a l m	
-USPANTEKO	usp	heart	1223	52	%anim	-1	% a n i m	borrowed from Spanish
-EASTERN_KEKCHI_CAHABON	kek	heart	1223	52	%anima	-1	% a n i m a	borrowed from Spanish
 ZINACANTAN_TZOTZIL	tzz	heart	1223	52	onil	3	o n i l	
 TZELTAL_BACHAJON	tzb	heart	1223	52	otan	3	o t a n	
 CHOL_TUMBALA	ctu	heart	1223	52	"pusik""al"	4	"p u s i k"" a l"	
-CHORTI	caa	heart	1223	52	%alma	-1	% a l m a	Spanish loan
 ITZAJ	itz	heart	1223	52	"pusik""al"	4	"p u s i k"" a l"	"also: c""u7"
 MOPAN	mop	heart	1223	52	"p3s3k""al"	4	"p 3 s 3 k"" a l"	
 MAYA_YUCATAN	yua	heart	1223	52	"puksi7ik""al"	4	"p u k s i 7 i k"" a l"	
@@ -1535,7 +1485,6 @@ HUASTEC	hva	drink	1401	54	"uc""al"	1	"u c"" a l"
 TOJOLABAL	toj	drink	1401	54	u7	1	u 7	"also: ub"""
 CHUJ	cnm	drink	1401	54	ukx	1	u k x	
 MOCHO	mhc	drink	1401	54	"uk"""	1	"u k"""	
-JACALTEC	jai	drink	1401	54	uq	-1	u q	
 QANJOBAL_SANTA_EULALIA	kjb	drink	1401	54	"uk""eS"	1	"u k"" e S"	
 ACATECO_SAN_MIGUEL_ACATAN	knj	drink	1401	54	"uk""e"	1	"u k"" e"	
 IXIL_CHAJUL	ixj	drink	1401	54	"uk""a"	1	"u k"" a"	
@@ -2225,7 +2174,6 @@ CHICOMUCELTEC	cob	sand	671	78	kisiw	1	k i s i w
 TOJOLABAL	toj	sand	671	78	"xixkab"""	6	"x i x k a b"""	
 CHUJ	cnm	sand	671	78	pok	2	p o k	
 MOCHO	mhc	sand	671	78	puquq	2	p u q u q	
-JACALTEC	jai	sand	671	78	%arena	-1	% a r e n a	Spanish loan
 QANJOBAL_SANTA_EULALIA	kjb	sand	671	78	poq	2	p o q	"also: ikab"""
 ACATECO_SAN_MIGUEL_ACATAN	knj	sand	671	78	"k""a Cen"	7	"k"" a _ C e n"	
 IXIL_CHAJUL	ixj	sand	671	78	poq	2	p o q	
@@ -2273,7 +2221,6 @@ USPANTEKO	usp	earth	1228	79	ulew	4	u l e w
 EASTERN_KEKCHI_CAHABON	kek	earth	1228	79	"C""oC"""	3	"C"" o C"""	
 TZELTAL_BACHAJON	tzb	earth	1228	79	lum	2	l u m	
 CHOL_TUMBALA	ctu	earth	1228	79	lumal	2	l u m a l	
-CHONTAL_TABASCO	chf	earth	1228	79	kab	-1	k a b	
 CHORTI	caa	earth	1228	79	rum	2	r u m	
 ITZAJ	itz	earth	1228	79	lu7um	2	l u 7 u m	also: ka7
 MOPAN	mop	earth	1228	79	lu7um	2	l u 7 u m	
@@ -2625,7 +2572,6 @@ ZINACANTAN_TZOTZIL	tzz	black	163	91	"ik"""	2	"i k"""
 TZELTAL_BACHAJON	tzb	black	163	91	"ik"""	2	"i k"""	
 CHOL_TUMBALA	ctu	black	163	91	"i7ik"""	2	"i 7 i k"""	
 CHONTAL_TABASCO	chf	black	163	91	"ik"""	2	"i k"""	
-CHORTI	caa	black	163	91	%negru u7t	-1	% n e g r u _ u 7 t	mixed Spanish-Chorti: black its-surface
 ITZAJ	itz	black	163	91	"ek"""	2	"e k"""	also: boS
 MOPAN	mop	black	163	91	boS	3	b o S	
 MAYA_YUCATAN	yua	black	163	91	"b""oS"	3	"b"" o S"	
@@ -2808,7 +2754,6 @@ MOPAN	mop	good	1035	97	ki7	4	k i 7
 MAYA_YUCATAN	yua	good	1035	97	uc	3	u c	
 LACANDON	lac	good	1035	97	Coy	14	C o y	
 HUASTEC	hva	round	1395	98	kw~eCoCol	7	kw~ e C o C o l	also: mululul
-CHICOMUCELTEC	cob	round	1395	98	%akewelta	-1	% a k e w e l t a	Spanish loan
 TOJOLABAL	toj	round	1395	98	setan	1	s e t a n	"also: k""olan"
 CHUJ	cnm	round	1395	98	pilan	8	p i l a n	
 MOCHO	mhc	round	1395	98	set	1	s e t	also: woloS
