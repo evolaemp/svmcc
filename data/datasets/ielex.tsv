@@ -583,7 +583,6 @@ FRENCH	fra	stick	1295	stick	bɑtɔ̃	stick:K	b ɑ t ɔ̃
 ITALIAN	ita	stick	1295	stick	bastone	stick:K	b a s t o n e	
 OLD_IRISH	sga	stick	1295	stick	slat	stick:Z	s l a t	
 MIDDLE_CORNISH	cor	stick	1295	stick	gwɛlɛn	stick:Af	g w ɛ l ɛ n	
-IRISH	gle	stick	1295	stick	ˈbˠat̪ˠə	stick:Ag/K	ˈbˠ a t̪ˠ ə	
 ANCIENT_GREEK	grc	water	948	water	hýdɔːr	water:B	h ý d ɔː r	
 GREEK	ell	water	948	water	ne̞ˈro̞	water:G	n e̞ ˈr o̞	
 CLASSICAL_ARMENIAN	xcl	water	948	water	ǰowr	water:C	ǰ o w r	
@@ -1364,7 +1363,6 @@ LATIN	lat	fear	1419	fear	tiˈmeːre	fear:F	t i ˈm eː r e
 CATALAN	cat	fear	1419	fear	ˈtemə	fear:F	ˈt e m ə	
 PORTUGUESE	por	fear	1419	fear	tɨˈmeɾ	fear:F	t ɨ ˈm e ɾ	
 SPANISH	spa	fear	1419	fear	temeɾ	fear:F	t e m e ɾ	
-FRENCH	fra	fear	1419	fear	kʀɛ̃dʀ	fear:D/J	k ʀ ɛ̃ d ʀ	
 ITALIAN	ita	fear	1419	fear	temere	fear:F	t e m e r e	
 OLD_IRISH	sga	fear	1419	fear	aða:ɣəθər	fear:Q	a ð a: ɣ ə θ ə r	
 OLD_IRISH	sga	fear	1419	fear	egla	fear:P	e g l a	
@@ -1839,7 +1837,6 @@ MIDDLE_BRETON		leaf	628	leaf	ˈdeːljen	leaf:G	ˈd eː l j e n
 BRETON	bre	leaf	628	leaf	ˈdeljen	leaf:G	ˈd e l j e n	
 ANCIENT_GREEK	grc	red	156	red	erytʰrós	red:B	e r y tʰ r ó s	
 GREEK	ell	red	156	red	ˈko̞ciˌno̞s	red:H	ˈk o̞ c i ˌn o̞ s	
-CLASSICAL_ARMENIAN	xcl	red	156	red	kɑɾmiɾ	red:D/P	k ɑ ɾ m i ɾ	
 ARMENIAN_EASTERN	hye	red	156	red	kɑɾˈmiɾ	red:D	k ɑ ɾ ˈm i ɾ	
 OSSETIC	oss	red	156	red	sɨrχ	red:A	s ɨ r χ	
 OSSETIC_IRON	oss	red	156	red	šyrχ	red:A	š y r χ	
@@ -1891,7 +1888,6 @@ ITALIAN	ita	red	156	red	rosso	red:B	r o ss o
 OLD_IRISH	sga	red	156	red	ru:əð	red:B	r u: ə ð	
 OLD_IRISH	sga	red	156	red	dʹerg	red:I	dʹ e r g	
 MIDDLE_CORNISH	cor	red	156	red	ry:ð	red:B	r y: ð	
-MIDDLE_CORNISH	cor	red	156	red	kɔ:x	red:H/R	k ɔ: x	
 MIDDLE_BRETON		red	156	red	ˈryːð	red:B	ˈr yː ð	
 BRETON	bre	red	156	red	ˈryː	red:B	ˈr yː	
 IRISH	gle	red	156	red	ˈdʲarəɡ	red:I	ˈdʲ a r ə ɡ	
@@ -1951,11 +1947,9 @@ FRENCH	fra	animal	619	animal	animal	animal:F	a n i m a l
 ITALIAN	ita	animal	619	animal	animale	animal:F	a n i m a l e	
 OLD_IRISH	sga	animal	619	animal	anṽande	animal:F	a n ṽ a n d e	
 MIDDLE_CORNISH	cor	animal	619	animal	be:st	animal:I	b e: s t	
-MIDDLE_CORNISH	cor	animal	619	animal	ɛnɛval	animal:F/Q	ɛ n ɛ v a l	
 MIDDLE_BRETON		animal	619	animal	ãˈneːval	animal:Q	ã ˈn eː v a l	
 MIDDLE_BRETON		animal	619	animal	ˈloeðn	animal:M	ˈl o e ð n	
 BRETON	bre	animal	619	animal	ˈlwẽːn	animal:M	ˈl w ẽː n	
-BRETON	bre	animal	619	animal	ãˈneːval	animal:F/Q	ã ˈn eː v a l	
 ANCIENT_GREEK	grc	swell	1573	swell	kymái̯nɔː	swell:R	k y m á i̯ n ɔː	
 ANCIENT_GREEK	grc	swell	1573	swell	oi̯déɔː	swell:S	o i̯ d é ɔː	
 GREEK	ell	swell	1573	swell	ˈprizo̞ˌme̞	swell:L	ˈp r i z o̞ ˌm e̞	
@@ -2751,7 +2745,6 @@ IRISH	gle	worm	1219	worm	pʲeːʃtʲ	worm:S	pʲ eː ʃ tʲ
 ANCIENT_GREEK	grc	black	163	black	mélaːs	black:K	m é l aː s	
 ANCIENT_GREEK	grc	black	163	black	kelai̯nós	black:S	k e l a i̯ n ó s	
 GREEK	ell	black	163	black	ˈmavro̞s	black:J	ˈm a v r o̞ s	
-CLASSICAL_ARMENIAN	xcl	black	163	black	se̯ɑu̯	black:D/Q	s e̯ ɑ u̯	
 ARMENIAN_EASTERN	hye	black	163	black	sɛʋ	black:Q	s ɛ ʋ	
 OSSETIC_IRON	oss	black	163	black	šaw	black:D	š a w	
 OSSETIC_DIGOR	oss	black	163	black	saw	black:D	s a w	
@@ -2917,7 +2910,6 @@ OSSETIC	oss	stab	1434	stab	saʣɨn	stab:U	s a ʣ ɨ n
 OSSETIC_IRON	oss	stab	1434	stab	rɐχoj-	stab:R	r ɐ χ o j	
 OSSETIC_DIGOR	oss	stab	1434	stab	rɐtoz-	stab:R	r ɐ t o z	
 ASSAMESE	asm	stab	1434	stab	bɒdh	stab:Ab	b ɒ d h	
-ORIYA	ori	stab	1434	stab	čhuri_mariba	stab:O/P	č h u r i _ m a r i b a	
 BIHARI	mai	stab	1434	stab	səʈəb	stab:Ad	s ə ʈ ə b	
 MAGAHI	mag	stab	1434	stab	cʰuɽɑ_bʰoknɑ	stab:Af	cʰ u ɽ ɑ _ bʰ o k n ɑ	
 URDU	urd	stab	1434	stab	ɡʰopnə	stab:E	ɡʰ o p n ə	
@@ -3363,10 +3355,8 @@ FRENCH	fra	count	1420	count	kɔ̃te	count:D	k ɔ̃ t e
 ITALIAN	ita	count	1420	count	kontare	count:D	k o n t a r e	
 OLD_IRISH	sga	count	1420	count	aðˈrʹi:ṽʹi	count:J	a ð ˈrʹ i: ṽʹ i	
 MIDDLE_CORNISH	cor	count	1420	count	nivɛra	count:N	n i v ɛ r a	
-MIDDLE_BRETON		count	1420	count	niˈveːraṽ	count:M/N	n i ˈv eː r a ṽ	
 MIDDLE_BRETON		count	1420	count	ˈkôntaṽ	count:E	ˈk ô n t a ṽ	
 BRETON	bre	count	1420	count	ˈkɔ̃ntã	count:E	ˈk ɔ̃ n t ã	
-BRETON	bre	count	1420	count	niˈveːrĩ	count:M/N	n i ˈv eː r ĩ	
 ANCIENT_GREEK	grc	scratch	1436	scratch	knáɔː	scratch:Af	k n á ɔː	
 GREEK	ell	scratch	1436	scratch	ˈk͡sino̞	scratch:G	ˈk͡s i n o̞	
 CLASSICAL_ARMENIAN	xcl	scratch	1436	scratch	kʰerem	scratch:T	kʰ e r e m	
@@ -3421,7 +3411,6 @@ FRENCH	fra	scratch	1436	scratch	gʀate	scratch:H	g ʀ a t e
 ITALIAN	ita	scratch	1436	scratch	grattare	scratch:H	g r a tt a r e	
 OLD_IRISH	sga	scratch	1436	scratch	sʹkʹrʹi:bəðʹ	scratch:T	sʹ kʹ rʹ i: b ə ðʹ	
 MIDDLE_CORNISH	cor	scratch	1436	scratch	kravas	scratch:T	k r a v a s	
-MIDDLE_BRETON		scratch	1436	scratch	ˈskaːbat	scratch:D/T	ˈs k aː b a t	
 ANCIENT_GREEK	grc	thick	1244	thick	pyknós	thick:H	p y k n ó s	
 ANCIENT_GREEK	grc	thick	1244	thick	pakʰýs	thick:I	p a kʰ ý s	
 GREEK	ell	thick	1244	thick	xo̞ˈndro̞s	thick:N	x o̞ ˈn d r o̞ s	
@@ -3527,11 +3516,9 @@ DUTCH	nld	in	1460	in	bɛi	in:J	b ɛ i
 GERMAN	deu	in	1460	in	ɪn	in:E	ɪ n	
 LATIN	lat	in	1460	in	in	in:E	i n	
 CATALAN	cat	in	1460	in	a	in:M	a	
-CATALAN	cat	in	1460	in	dins	in:E/K	d i n s	
 CATALAN	cat	in	1460	in	də	in:V	d ə	
 PORTUGUESE	por	in	1460	in	ɐ̃j	in:E	ɐ̃ j	
 SPANISH	spa	in	1460	in	en	in:E	e n	
-FRENCH	fra	in	1460	in	dɑ̃	in:E/K	d ɑ̃	
 ITALIAN	ita	in	1460	in	in	in:E	i n	
 OLD_IRISH	sga	in	1460	in	i	in:E	i	
 MIDDLE_CORNISH	cor	in	1460	in	ɪn	in:E	ɪ n	
@@ -3590,10 +3577,8 @@ FRENCH	fra	big	1202	big	gʀɑ̃	big:D	g ʀ ɑ̃
 ITALIAN	ita	big	1202	big	grande	big:D	g r a n d e	
 OLD_IRISH	sga	big	1202	big	maɣʹe	big:B	m a ɣʹ e	
 OLD_IRISH	sga	big	1202	big	mo:r	big:I	m o: r	
-MIDDLE_CORNISH	cor	big	1202	big	bra:z	big:Af/Ag	b r a: z	
 MIDDLE_BRETON		big	1202	big	ˈmøːr	big:I	ˈm øː r	
 MIDDLE_BRETON		big	1202	big	ˈbraːs	big:Af	ˈb r aː s	
-BRETON	bre	big	1202	big	ˈbraːs	big:Af/Ag	ˈb r aː s	
 IRISH	gle	big	1202	big	mˠɔːr	big:I	mˠ ɔː r	
 ANCIENT_GREEK	grc	wing	1257	wing	ptéryks	wing:K	p t é r y k s	
 GREEK	ell	wing	1257	wing	fte̞ˈruɣa	wing:K	f t e̞ ˈr u ɣ a	
@@ -3645,9 +3630,6 @@ FRENCH	fra	wing	1257	wing	ɛl	wing:G	ɛ l
 ITALIAN	ita	wing	1257	wing	ala	wing:G	a l a	
 OLD_IRISH	sga	wing	1257	wing	sʹkʹi:əθ	wing:N	sʹ kʹ i: ə θ	
 OLD_IRISH	sga	wing	1257	wing	e:tʹe	wing:K	e: tʹ e	
-MIDDLE_CORNISH	cor	wing	1257	wing	askɛl	wing:G/L	a s k ɛ l	
-MIDDLE_BRETON		wing	1257	wing	ˈaskel	wing:G/L	ˈa s k e l	
-BRETON	bre	wing	1257	wing	ˈaskɛɭ	wing:G/L	ˈa s k ɛ ɭ	
 ANCIENT_GREEK	grc	if	1459	if	eː	if:Q	eː	
 GREEK	ell	if	1459	if	i	if:Q	i	
 GREEK	ell	if	1459	if	an	if:M	a n	
@@ -3805,7 +3787,6 @@ PORTUGUESE	por	fly	1441	fly	vuˈaɾ	fly:E	v u ˈa ɾ
 SPANISH	spa	fly	1441	fly	bolaɾ	fly:E	b o l a ɾ	
 FRENCH	fra	fly	1441	fly	vɔle	fly:E	v ɔ l e	
 ITALIAN	ita	fly	1441	fly	volare	fly:E	v o l a r e	
-OLD_IRISH	sga	fly	1441	fly	etʹəlʹlʹəðʹ	fly:H/I	e tʹ ə lʹlʹ ə ðʹ	
 OLD_IRISH	sga	fly	1441	fly	foˈlu:əθər	fly:M	f o ˈl u: ə θ ə r	
 MIDDLE_CORNISH	cor	fly	1441	fly	nɛɪʤa	fly:F	n ɛ ɪ ʤ a	
 MIDDLE_BRETON		fly	1441	fly	ˈniːʒal	fly:F	ˈn iː ʒ a l	
@@ -4091,7 +4072,6 @@ FRENCH	fra	rotten	1728	rotten	puʀi	rotten:O	p u ʀ i
 ITALIAN	ita	rotten	1728	rotten	martʃo	rotten:P	m a r t ʃ o	
 OLD_IRISH	sga	rotten	1728	rotten	loβθa	rotten:D	l o β θ a	
 OLD_IRISH	sga	rotten	1728	rotten	morgθe	rotten:Z	m o r g θ e	
-MIDDLE_CORNISH	cor	rotten	1728	rotten	pɔdɛr	rotten:L/O	p ɔ d ɛ r	
 MIDDLE_CORNISH	cor	rotten	1728	rotten	brɛɪn	rotten:E	b r ɛ ɪ n	
 MIDDLE_BRETON		rotten	1728	rotten	ˈbrejn	rotten:E	ˈb r e j n	
 BRETON	bre	rotten	1728	rotten	ˈbrejn	rotten:E	ˈb r e j n	
@@ -4165,10 +4145,6 @@ ARMENIAN_EASTERN	hye	hand	1277	hand	ʣɛrkʰ	hand:C	ʣ ɛ r kʰ
 OSSETIC	oss	hand	1277	hand	kʲuχ	hand:J	kʲ u χ	
 OSSETIC_IRON	oss	hand	1277	hand	kuχ	hand:J	k u χ	
 OSSETIC_DIGOR	oss	hand	1277	hand	koχ	hand:J	k o χ	
-ORIYA	ori	hand	1277	hand	hatɔ	hand:C/D	h a t ɔ	
-BIHARI	mai	hand	1277	hand	hath	hand:C/D	h a t h	
-URDU	urd	hand	1277	hand	hɑt̪ʰ	hand:C/D	h ɑ t̪ʰ	
-MARATHI	mar	hand	1277	hand	ɦat	hand:C/D	ɦ a t	
 OLD_CHURCH_SLAVONIC	chu	hand	1277	hand	rɔ̃kɑ	hand:G	r ɔ̃ k ɑ	
 SERBO-CROATIAN	srp	hand	1277	hand	ˈrǔːka	hand:G	ˈr ǔː k a	
 BULGARIAN	bul	hand	1277	hand	rəˈka	hand:G	r ə ˈk a	
@@ -4573,8 +4549,6 @@ FRENCH	fra	float	1574	float	flɔte	float:D	f l ɔ t e
 ITALIAN	ita	float	1574	float	galleddʒare	float:H	g a ll e dd ʒ a r e	
 OLD_IRISH	sga	float	1574	float	snaʔiðʹ	float:C	s n a ʔ i ðʹ	
 MIDDLE_CORNISH	cor	float	1574	float	nœvɛl:a	float:C	n œ v ɛ l: a	
-MIDDLE_BRETON		float	1574	float	ˈfloːtaṽ	float:D/X	ˈf l oː t a ṽ	
-BRETON	bre	float	1574	float	ˈfloːdĩ	float:D/X	ˈf l oː d ĩ	
 GREEK	ell	suck	1421	suck	ruˈfo̞	suck:G	r u ˈf o̞	
 ARMENIAN_EASTERN	hye	suck	1421	suck	ʦəˈʦɛl	suck:D	ʦ ə ˈʦ ɛ l	
 OSSETIC	oss	suck	1421	suck	dæjɨn	suck:J	d æ j ɨ n	
@@ -4675,9 +4649,6 @@ SPANISH	spa	fish	227	fish	peθ	fish:B	p e θ
 FRENCH	fra	fish	227	fish	pwasɔ̃	fish:B	p w a s ɔ̃	
 ITALIAN	ita	fish	227	fish	peʃʃe	fish:B	p e ʃʃ e	
 OLD_IRISH	sga	fish	227	fish	i:əsk	fish:B	i: ə s k	
-MIDDLE_CORNISH	cor	fish	227	fish	pɪ:sk	fish:B/C	p ɪ: s k	
-MIDDLE_BRETON		fish	227	fish	ˈpesk	fish:B/C	ˈp e s k	
-BRETON	bre	fish	227	fish	ˈpesk	fish:B/C	ˈp e s k	
 ANCIENT_GREEK	grc	live	1422	live	zdɔ̑ː	live:A	z d ɔ̑ː	
 GREEK	ell	live	1422	live	zo̞	live:A	z o̞	
 CLASSICAL_ARMENIAN	xcl	live	1422	live	keam	live:A	k e a m	
@@ -4820,9 +4791,7 @@ SPANISH	spa	push	1452	push	empuxaɾ	push:P	e m p u x a ɾ
 FRENCH	fra	push	1452	push	puse	push:P	p u s e	
 ITALIAN	ita	push	1452	push	spindʒere	push:S	s p i n d ʒ e r e	
 MIDDLE_BRETON		push	1452	push	ˈbutaũ	push:H	ˈb u t a ũ	
-MIDDLE_BRETON		push	1452	push	ˈpulsaũ	push:Am/P	ˈp u l s a ũ	
 BRETON	bre	push	1452	push	ˈbutã	push:H	ˈb u t ã	
-BRETON	bre	push	1452	push	ˈpulsã	push:Am/P	ˈp u l s ã	
 ANCIENT_GREEK	grc	egg	744	egg	ɔːjón	egg:A	ɔː j ó n	
 GREEK	ell	egg	744	egg	avˈɣo̞	egg:A	a v ˈɣ o̞	
 CLASSICAL_ARMENIAN	xcl	egg	744	egg	dzu	egg:A	d z u	
@@ -4925,7 +4894,6 @@ OLD_IRISH	sga	green	1425	green	glas	green:A	g l a s
 OLD_IRISH	sga	green	1425	green	u:ənʹe	green:K	u: ə nʹ e	
 MIDDLE_CORNISH	cor	green	1425	green	gla:z	green:A	g l a: z	
 MIDDLE_CORNISH	cor	green	1425	green	gwɛ:r	green:T	g w ɛ: r	
-MIDDLE_BRETON		green	1425	green	ˈgueðr	green:G/X	ˈg u e ð r	
 MIDDLE_BRETON		green	1425	green	ˈglaːs	green:A	ˈg l aː s	
 BRETON	bre	green	1425	green	ˈglaːs	green:A	ˈg l aː s	
 IRISH	gle	green	1425	green	ˈuənʲə	green:K	ˈu ə nʲ ə	
@@ -4959,32 +4927,24 @@ SORBIAN_LOWER	dsb	wife	1199	wife	ˈʐeɲska	wife:Z	ˈʐ e ɲ s k a
 SLOVENIAN	slv	wife	1199	wife	ˈʒɛ̌ːna	wife:Z	ˈʒ ɛ̌ː n a	
 OLD_NORSE	non	wife	1199	wife	ˈkona	wife:Z	ˈk o n a	
 OLD_NORSE	non	wife	1199	wife	viːf	wife:F	v iː f	
-OLD_NORSE	non	wife	1199	wife	ˈhuːsˌfruː	wife:S/T	ˈh uː s ˌf r uː	
 ICELANDIC	isl	wife	1199	wife	ˈeiːjɪn.kʰɔːna	wife:Z	ˈe iː j ɪ n kʰ ɔː n a	
 FAROESE	fao	wife	1199	wife	vʊiːv	wife:F	v ʊ iː v	
-FAROESE	fao	wife	1199	wife	ˈhʉuːsˌfɹʉuː	wife:S/T	ˈh ʉ uː s ˌf ɹ ʉ uː	
 FAROESE	fao	wife	1199	wife	ˈkʰoːna	wife:Z	ˈkʰ oː n a	
 NORWEGIAN_RIKSMAL	nor	wife	1199	wife	ˈfɾʉ̀ːə	wife:S	ˈf ɾ ʉ̀ː ə	
 NORWEGIAN_RIKSMAL	nor	wife	1199	wife	ˈkùːnə	wife:Z	ˈk ùː n ə	
-NORWEGIAN_RIKSMAL	nor	wife	1199	wife	ˈhʉ̀ːsˌtɾʉː	wife:S/T	ˈh ʉ̀ː s ˌt ɾ ʉː	
 STAVANGERSK		wife	1199	wife	ˈkòːna	wife:Z	ˈk òː n a	
-OLD_SWEDISH		wife	1199	wife	ˈhuːsˌtruː	wife:S/T	ˈh uː s ˌt r uː	
 OLD_SWEDISH		wife	1199	wife	ˈkoːna	wife:Z	ˈk oː n a	
 OLD_SWEDISH		wife	1199	wife	viːf	wife:F	v iː f	
 SWEDISH	swe	wife	1199	wife	frʉː	wife:S	f r ʉː	
 SWEDISH	swe	wife	1199	wife	ˈmɑ̀:ka	wife:Ac	ˈm ɑ̀: k a	
-SWEDISH	swe	wife	1199	wife	ˈhɵ̀sːtrɵ	wife:S/T	ˈh ɵ̀ sː t r ɵ	
 ELFDALIAN	qov	wife	1199	wife	ˈkɛ̀lɪŋg	wife:Ab	ˈk ɛ̀ l ɪ ŋ g	
-DANISH	dan	wife	1199	wife	ˈhusd̥ʰʁu	wife:S/T	ˈh u s d̥ʰ ʁ u	
 DANISH	dan	wife	1199	wife	ˈg̥ʰo:nə	wife:Z	ˈg̥ʰ o: n ə	
 DANISH_FJOLDE		wife	1199	wife	kuːn	wife:Z	k uː n	
-GUTNISH_LAU		wife	1199	wife	ˈhuːsˌtroː	wife:S/T	ˈh uː s ˌt r oː	
 GUTNISH_LAU		wife	1199	wife	ˈkuːno	wife:Z	ˈk uː n o	
 GUTNISH_LAU		wife	1199	wife	frɛu	wife:S	f r ɛ u	
 ENGLISH	eng	wife	1199	wife	waɪf	wife:F	w a ɪ f	
 FRISIAN	frs	wife	1199	wife	frɔ.u̯	wife:S	f r ɔ u̯	
 DUTCH	nld	wife	1199	wife	ˈɛχtɣənotə	wife:A	ˈɛ χ t ɣ ə n o t ə	
-DUTCH	nld	wife	1199	wife	hœysfrɑu	wife:S/T	h œ y s f r ɑ u	
 DUTCH	nld	wife	1199	wife	vrɑu	wife:S	v r ɑ u	
 GERMAN	deu	wife	1199	wife	gatɪn	wife:U	g a t ɪ n	
 GERMAN	deu	wife	1199	wife	fraŭ	wife:S	f r a ŭ	
@@ -5283,8 +5243,6 @@ SPANISH	spa	dust	2	dust	polβo	dust:F	p o l β o
 FRENCH	fra	dust	2	dust	pusjɛʀ	dust:F	p u s j ɛ ʀ	
 ITALIAN	ita	dust	2	dust	polvere	dust:F	p o l v e r e	
 MIDDLE_CORNISH	cor	dust	2	dust	du:st	dust:Q	d u: s t	
-MIDDLE_BRETON		dust	2	dust	ˈpultr	dust:Ah/F	ˈp u l t r	
-BRETON	bre	dust	2	dust	ˈpultr	dust:Ah/F	ˈp u l t r	
 ANCIENT_GREEK	grc	sun	1343	sun	hɛ́ːlios	sun:W	h ɛ́ː l i o s	
 GREEK	ell	sun	1343	sun	ˈiʎo̞s	sun:W	ˈi ʎ o̞ s	
 CLASSICAL_ARMENIAN	xcl	sun	1343	sun	ɑɾɛu̯	sun:D	ɑ ɾ ɛ u̯	
@@ -5435,13 +5393,10 @@ OLD_NORSE	non	husband	1200	husband	ˈboːndi	husband:O	ˈb oː n d i
 OLD_NORSE	non	husband	1200	husband	maðr	husband:B	m a ð r	
 OLD_NORSE	non	husband	1200	husband	verː	husband:J	v e rː	
 ICELANDIC	isl	husband	1200	husband	ˈeiːjɪn.maːðʏr	husband:B	ˈe iː j ɪ n m aː ð ʏ r	
-ICELANDIC	isl	husband	1200	husband	ˈb̥ound̥ɪ	husband:H/O	ˈb̥ o u n d̥ ɪ	
 FAROESE	fao	husband	1200	husband	ˈhʉuːsˌb̥œnd̥ɪ	husband:H	ˈh ʉ uː s ˌb̥ œ n d̥ ɪ	
 FAROESE	fao	husband	1200	husband	ˈmɛaːvʊɹ	husband:B	ˈm ɛ aː v ʊ ɹ	
 FAROESE	fao	husband	1200	husband	ˈɛktaˌmɛaːvʊɹ	husband:V	ˈɛ k t a ˌm ɛ aː v ʊ ɹ	
-NORWEGIAN_RIKSMAL	nor	husband	1200	husband	ˈɛktəmanː	husband:B/V	ˈɛ k t ə m a nː	
 NORWEGIAN_RIKSMAL	nor	husband	1200	husband	manː	husband:B	m a nː	
-STAVANGERSK		husband	1200	husband	ˈɛ̀ktəˌmanː	husband:B/V	ˈɛ̀ k t ə ˌm a nː	
 STAVANGERSK		husband	1200	husband	manː	husband:B	m a nː	
 OLD_SWEDISH		husband	1200	husband	ˈbonde	husband:O	ˈb o n d e	
 OLD_SWEDISH		husband	1200	husband	ˈmaːðer	husband:B	ˈm aː ð e r	
@@ -5454,11 +5409,9 @@ DANISH	dan	husband	1200	husband	manˀ	husband:B	m a nˀ
 DANISH_FJOLDE		husband	1200	husband	mɑnʲ	husband:B	m ɑ nʲ	
 GUTNISH_LAU		husband	1200	husband	ˈboundɛ	husband:O	ˈb o u n d ɛ	
 GUTNISH_LAU		husband	1200	husband	manː	husband:B	m a nː	
-ENGLISH	eng	husband	1200	husband	hʌzbənd	husband:H/O	h ʌ z b ə n d	
 FRISIAN	frs	husband	1200	husband	mɔn	husband:B	m ɔ n	
 DUTCH	nld	husband	1200	husband	ɛχtχənot	husband:V	ɛ χ t χ ə n o t	
 DUTCH	nld	husband	1200	husband	mɑn	husband:B	m ɑ n	
-GERMAN	deu	husband	1200	husband	e:əman	husband:B/V	e: ə m a n	
 LATIN	lat	husband	1200	husband	maˈriːtus	husband:E	m a ˈr iː t u s	
 CATALAN	cat	husband	1200	husband	məˈɾit	husband:E	m ə ˈɾ i t	
 CATALAN	cat	husband	1200	husband	əspɔs	husband:S	ə s p ɔ s	
@@ -5525,12 +5478,8 @@ PORTUGUESE	por	feather	1201	feather	ˈpenɐ	feather:A	ˈp e n ɐ
 SPANISH	spa	feather	1201	feather	pluma	feather:E	p l u m a	
 FRENCH	fra	feather	1201	feather	plym_dwazo	feather:E	p l y m _ d w a z o	
 ITALIAN	ita	feather	1201	feather	pjuma	feather:E	p j u m a	
-OLD_IRISH	sga	feather	1201	feather	klu:ṽ	feather:E/L	k l u: ṽ	
 OLD_IRISH	sga	feather	1201	feather	kʹlʹetʹe	feather:H	kʹ lʹ e tʹ e	
 OLD_IRISH	sga	feather	1201	feather	etʹe	feather:A	e tʹ e	
-MIDDLE_CORNISH	cor	feather	1201	feather	plʏvɛn	feather:E/M	p l ʏ v ɛ n	
-MIDDLE_BRETON		feather	1201	feather	ˈplyːven	feather:E/M	ˈp l yː v e n	
-BRETON	bre	feather	1201	feather	ˈplyːɛn	feather:E/M	ˈp l yː ɛ n	
 ANCIENT_GREEK	grc	who	1235	who	tís	who:B	t í s	
 GREEK	ell	who	1235	who	pço̞s	who:B	p ç o̞ s	
 CLASSICAL_ARMENIAN	xcl	who	1235	who	ov	who:B	o v	
@@ -5582,7 +5531,6 @@ IRISH	gle	who	1235	who	ceː	who:B	c eː
 ANCIENT_GREEK	grc	cut	1432	cut	témnɔː	cut:R	t é m n ɔː	
 ANCIENT_GREEK	grc	cut	1432	cut	kóptɔː	cut:I	k ó p t ɔː	
 GREEK	ell	cut	1432	cut	ˈko̞vo̞	cut:I	ˈk o̞ v o̞	
-ARMENIAN_EASTERN	hye	cut	1432	cut	kətˈɾɛl	cut:D/E	k ə t ˈɾ ɛ l	
 OSSETIC	oss	cut	1432	cut	kærdɨn	cut:E	k æ r d ɨ n	
 OSSETIC_IRON	oss	cut	1432	cut	kɐrd-	cut:E	k ɐ r d	
 OSSETIC_DIGOR	oss	cut	1432	cut	kɐrd-	cut:E	k ɐ r d	
@@ -6009,9 +5957,6 @@ MIDDLE_CORNISH	cor	drink	1401	drink	ɛva	drink:C	ɛ v a
 MIDDLE_BRETON		drink	1401	drink	ˈeːvaṽ	drink:C	ˈeː v a ṽ	
 BRETON	bre	drink	1401	drink	ˈeːvã	drink:C	ˈeː v ã	
 IRISH	gle	drink	1401	drink	oːl̪ˠ	drink:C	oː l̪ˠ	
-ANCIENT_GREEK	grc	he	1211	he	au̯tós	he:F/K	a u̯ t ó s	
-ANCIENT_GREEK	grc	he	1211	he	ekeːnos	he:B/J/L	e k eː n o s	
-GREEK	ell	he	1211	he	afˈto̞s	he:F/K	a f ˈt o̞ s	
 ARMENIAN_EASTERN	hye	he	1211	he	nɑ	he:B	n ɑ	
 OSSETIC	oss	he	1211	he	uj	he:I	u j	
 OSSETIC_IRON	oss	he	1211	he	wyj	he:I	w y j	
@@ -6333,8 +6278,6 @@ MIDDLE_CORNISH	cor	night	1233	night	nɔ:z	night:B	n ɔ: z
 MIDDLE_BRETON		night	1233	night	ˈnoːs	night:B	ˈn oː s	
 BRETON	bre	night	1233	night	ˈnoːs	night:B	ˈn oː s	
 IRISH	gle	night	1233	night	ˈiːçə	night:E	ˈiː ç ə	
-ANCIENT_GREEK	grc	that	78	that	ekeːnos	that:F/I	e k eː n o s	
-GREEK	ell	that	78	that	e̞ˈcino̞	that:F/I	e̞ ˈc i n o̞	
 ARMENIAN_EASTERN	hye	that	78	that	ɑɪ̯n	that:B	ɑ ɪ̯ n	
 OSSETIC	oss	that	78	that	wɨtsɨ	that:C	w ɨ t s ɨ	
 OSSETIC_IRON	oss	that	78	that	wusy	that:C	w u s y	
@@ -6382,11 +6325,6 @@ DUTCH	nld	that	78	that	di	that:B	d i
 GERMAN	deu	that	78	that	je:nɐ	that:G	j e: n ɐ	
 GERMAN	deu	that	78	that	das	that:B	d a s	
 LATIN	lat	that	78	that	ˈilːe	that:E	ˈi lː e	
-CATALAN	cat	that	78	that	əkɛʃ	that:D/E	ə k ɛ ʃ	
-PORTUGUESE	por	that	78	that	ɐˈkilu	that:D/E	ɐ ˈk i l u	
-SPANISH	spa	that	78	that	akel	that:D/E	a k e l	
-FRENCH	fra	that	78	that	səla	that:D/E	s ə l a	
-ITALIAN	ita	that	78	that	kwel	that:D/E	k w e l	
 OLD_IRISH	sga	that	78	that	sʹinʹ	that:B	sʹ i nʹ	
 MIDDLE_CORNISH	cor	that	78	that	hɛn:a	that:B	h ɛ n: a	
 ANCIENT_GREEK	grc	here	136	here	entʰáde	here:D	e n tʰ á d e	
@@ -6396,7 +6334,6 @@ OSSETIC	oss	here	136	here	am	here:Q	a m
 OSSETIC_IRON	oss	here	136	here	am	here:Q	a m	
 OSSETIC_DIGOR	oss	here	136	here	ami	here:Q	a m i	
 ORIYA	ori	here	136	here	eʈhi	here:L	e ʈ h i	
-URDU	urd	here	136	here	jəhɑ̃	here:J/P	j ə h ɑ̃	
 MARATHI	mar	here	136	here	itʰe	here:L	i tʰ e	
 OLD_CHURCH_SLAVONIC	chu	here	136	here	sɪ̆dɛ	here:B	s ɪ̆ d ɛ	
 SERBO-CROATIAN	srp	here	136	here	ˈɔ̌ːvdjɛ	here:E	ˈɔ̌ː v d j ɛ	
@@ -6428,11 +6365,6 @@ FRISIAN	frs	here	136	here	jɪr	here:B	j ɪ r
 DUTCH	nld	here	136	here	hir	here:B	h i r	
 GERMAN	deu	here	136	here	hi:ɐ̯	here:B	h i: ɐ̯	
 LATIN	lat	here	136	here	hiːk	here:F	h iː k	
-CATALAN	cat	here	136	here	əki	here:B/F/J	ə k i	
-PORTUGUESE	por	here	136	here	ɐˈki	here:B/F/J	ɐ ˈk i	
-SPANISH	spa	here	136	here	aki	here:B/F/J	a k i	
-FRENCH	fra	here	136	here	isi	here:B/F/J	i s i	
-ITALIAN	ita	here	136	here	kwi	here:B/F/J	k w i	
 OLD_IRISH	sga	here	136	here	sund	here:N	s u n d	
 MIDDLE_CORNISH	cor	here	136	here	ɔm:a	here:G	ɔ m: a	
 MIDDLE_BRETON		here	136	here	ˈãmãn	here:G	ˈã m ã n	
@@ -6541,8 +6473,6 @@ FRENCH	fra	fog	249	fog	bʀujaʀ	fog:E	b ʀ u j a ʀ
 ITALIAN	ita	fog	249	fog	nebbja	fog:I	n e bb j a	
 OLD_IRISH	sga	fog	249	fog	kʹe:o	fog:H	kʹ e: o	
 MIDDLE_CORNISH	cor	fog	249	fog	nɪʊl	fog:I	n ɪ ʊ l	
-MIDDLE_BRETON		fog	249	fog	ˈbrỹːm	fog:Ae/C	ˈb r ỹː m	
-BRETON	bre	fog	249	fog	ˈbrymːɛn	fog:Ae/C	ˈb r y mː ɛ n	
 IRISH	gle	fog	249	fog	co:	fog:H	c o:	
 ANCIENT_GREEK	grc	hit	1433	hit	týptɔː	hit:K	t ý p t ɔː	
 GREEK	ell	hit	1433	hit	xtiˈpo̞	hit:L	x t i ˈp o̞	
@@ -6622,54 +6552,32 @@ ORIYA	ori	because	1157	because	karɔɳɔ	because:C	k a r ɔ ɳ ɔ
 MAGAHI	mag	because	1157	because	kɑheki	because:O	k ɑ h e k i	
 URDU	urd	because	1157	because	kjũ_ke	because:O	k j ũ _ k e	
 MARATHI	mar	because	1157	because	kaɾəɳ	because:C	k a ɾ ə ɳ	
-OLD_CHURCH_SLAVONIC	chu	because	1157	because	pɔɲɛʒɛ	because:Ac/I	p ɔ ɲ ɛ ʒ ɛ	
-OLD_CHURCH_SLAVONIC	chu	because	1157	because	zɑɲɛʒɛ	because:Ab/I	z ɑ ɲ ɛ ʒ ɛ	
 SERBO-CROATIAN	srp	because	1157	because	jɛ̂r	because:I	j ɛ̂ r	
-SERBO-CROATIAN	srp	because	1157	because	ˈzǎtɔː_ʃtɔ	because:A/Ab/F	ˈz ǎ t ɔː _ ʃ t ɔ	
-BULGARIAN	bul	because	1157	because	zəˈʃtɔtu	because:A/Ab/F	z ə ˈʃ t ɔ t u	
 MACEDONIAN	mkd	because	1157	because	biˈdejci	because:Av	b i ˈd e j c i	
-MACEDONIAN	mkd	because	1157	because	zaˈto.aʃtɔ	because:A/Ab/F	z a ˈt o a ʃ t ɔ	
-RUSSIAN	rus	because	1157	because	pɔtɔˈmuʂtɔ	because:A/Ac/F	p ɔ t ɔ ˈm u ʂ t ɔ	
 POLISH	pol	because	1157	because	bɔ	because:V	b ɔ	
 BELARUSIAN	bel	because	1157	because	bɔ	because:V	b ɔ	
-UKRAINIAN	ukr	because	1157	because	tɔˈmu_ʂtʂɔ	because:A/F	t ɔ ˈm u _ ʂ t ʂ ɔ	
 SLOVAK	slk	because	1157	because	ˈlɛbɔ	because:V	ˈl ɛ b ɔ	
-SLOVAK	slk	because	1157	because	ˈprɛtɔʒɛ	because:A/H	ˈp r ɛ t ɔ ʒ ɛ	
-CZECH	ces	because	1157	because	ˈprɔtɔʒɛ	because:A/H	ˈp r ɔ t ɔ ʒ ɛ	
 SORBIAN_UPPER	hsb	because	1157	because	ˈdɔkɛlʃ	because:G	ˈd ɔ k ɛ l ʃ	
 SORBIAN_LOWER	dsb	because	1157	because	ˈdɔkulʲaʂ	because:G	ˈd ɔ k u lʲ a ʂ	
 SLOVENIAN	slv	because	1157	because	kɛr	because:As	k ɛ r	
 OLD_NORSE	non	because	1157	because	θviː_at	because:L	θ v iː _ a t	
 ICELANDIC	isl	because	1157	because	af_ˈθviː_að	because:L	a f _ ˈθ v iː _ a ð	
 FAROESE	fao	because	1157	because	tʰʊiː	because:L	tʰ ʊ iː	
-NORWEGIAN_RIKSMAL	nor	because	1157	because	fɔˈɖiː	because:A/H	f ɔ ˈɖ iː	
-STAVANGERSK		because	1157	because	fɔʁˈdeː_at	because:A/H	f ɔ ʁ ˈd eː _ a t	
 OLD_SWEDISH		because	1157	because	θyː	because:L	θ yː	
 OLD_SWEDISH		because	1157	because	foːr_at	because:H	f oː r _ a t	
 SWEDISH	swe	because	1157	because	ˈɛ̀ftəˌʂɔmː	because:Ao	ˈɛ̀ f t ə ˌʂ ɔ mː	
 SWEDISH	swe	because	1157	because	eme:dan	because:W	e m e: d a n	
-SWEDISH	swe	because	1157	because	ˈdærːfœr_atː	because:A/H	ˈd æ rː f œ r _ a tː	
 ELFDALIAN	qov	because	1157	because	ɛtːɛrsós	because:Ao	ɛ tː ɛ r s ó s	
-DANISH	dan	because	1157	because	fʌˈd̥iˀ	because:A/H	f ʌ ˈd̥ iˀ	
 DANISH_FJOLDE		because	1157	because	ˈyvəɹ	because:An	ˈy v ə ɹ	
-GUTNISH_LAU		because	1157	because	ˈdæːrfœːr_atː	because:A/H	ˈd æː r f œː r _ a tː	
 ENGLISH	eng	because	1157	because	bɪkɒz	because:K	b ɪ k ɒ z	
-DUTCH	nld	because	1157	because	ɔmdɑt	because:A/U	ɔ m d ɑ t	
 GERMAN	deu	because	1157	because	vaĭl	because:M	v a ĭ l	
 LATIN	lat	because	1157	because	kʷod	because:F	kʷ o d	
-CATALAN	cat	because	1157	because	pərkɛ	because:F/H	p ə r k ɛ	
-PORTUGUESE	por	because	1157	because	ˈpuɾkɨ	because:F/H	ˈp u ɾ k ɨ	
-SPANISH	spa	because	1157	because	poɾke	because:F/H	p o ɾ k e	
-FRENCH	fra	because	1157	because	paʀsə_kə	because:F/H	p a ʀ s ə _ k ə	
-ITALIAN	ita	because	1157	because	perke	because:F/H	p e r k e	
 OLD_IRISH	sga	because	1157	because	u:ərʹe	because:Al	u: ə rʹ e	
 MIDDLE_CORNISH	cor	because	1157	because	rag	because:Aa	r a g	
 MIDDLE_BRETON		because	1157	because	raːk	because:Aa	r aː k	
 MIDDLE_BRETON		because	1157	because	paˈlaːmur	because:Au	p a ˈl aː m u r	
 BRETON	bre	because	1157	because	ˌabaˈlɑ̃mur	because:Au	ˌa b a ˈl ɑ̃ m u r	
 BRETON	bre	because	1157	because	o_ˈveːza_ma_veǝ	because:E	o _ ˈv eː z a _ m a _ v e ǝ	
-BRETON	bre	because	1157	because	rak_ma	because:Aa/E	r a k _ m a	
-BRETON	bre	because	1157	because	dre_ma	because:E/Z	d r e _ m a	
 ANCIENT_GREEK	grc	dig	1418	dig	orýtːɔː	dig:O	o r ý tː ɔː	
 ANCIENT_GREEK	grc	dig	1418	dig	skáptɔː	dig:B	s k á p t ɔː	
 GREEK	ell	dig	1418	dig	ˈskavo̞	dig:B	ˈs k a v o̞	
@@ -6726,8 +6634,6 @@ MIDDLE_BRETON		dig	1418	dig	ˈkaːuaṽ	dig:G	ˈk aː u a ṽ
 MIDDLE_BRETON		dig	1418	dig	ˈkløːðiṽ	dig:H	ˈk l øː ð i ṽ	
 BRETON	bre	dig	1418	dig	ˈkløːzã	dig:H	ˈk l øː z ã	
 BRETON	bre	dig	1418	dig	ˈkawɑ̃	dig:G	ˈk a w ɑ̃	
-ANCIENT_GREEK	grc	there	1937	there	ekeː	there:E/M	e k eː	
-GREEK	ell	there	1937	there	e̞ˈci	there:E/M	e̞ ˈc i	
 OSSETIC	oss	there	1937	there	wɨm	there:G	w ɨ m	
 OSSETIC_IRON	oss	there	1937	there	wym	there:G	w y m	
 OSSETIC_DIGOR	oss	there	1937	there	womi	there:G	w o m i	
@@ -6931,7 +6837,6 @@ MIDDLE_CORNISH	cor	round	1395	round	krɛn:	round:B	k r ɛ n:
 MIDDLE_BRETON		round	1395	round	ˈkrenː	round:B	ˈk r e nː	
 MIDDLE_BRETON		round	1395	round	ˈront	round:A	ˈr o n t	
 BRETON	bre	round	1395	round	ˈkrɛnː	round:B	ˈk r ɛ nː	
-BRETON	bre	round	1395	round	ˈront	round:A/Q	ˈr o n t	
 ANCIENT_GREEK	grc	lie	1411	lie	kataklíːnomai̯	lie:V	k a t a k l íː n o m a i̯	
 ANCIENT_GREEK	grc	lie	1411	lie	keːmai̯	lie:K	k eː m a i̯	
 GREEK	ell	lie	1411	lie	ksaˈplo̞no̞	lie:G	k s a ˈp l o̞ n o̞	
@@ -7209,8 +7114,6 @@ MIDDLE_CORNISH	cor	long	1203	long	hi:r	long:F	h i: r
 MIDDLE_BRETON		long	1203	long	ˈhiːr	long:F	ˈh iː r	
 BRETON	bre	long	1203	long	ˈhiːr	long:F	ˈh iː r	
 IRISH	gle	long	1203	long	fˠɑd̪ˠə	long:I	fˠ ɑ d̪ˠ ə	
-ANCIENT_GREEK	grc	they	817	they	ekeːnoi̯	they:I/K/L	e k eː n o i̯	
-ANCIENT_GREEK	grc	they	817	they	huːtoi̯	they:J/M	h uː t o i̯	
 GREEK	ell	they	817	they	afˈti	they:J	a f ˈt i	
 ARMENIAN_EASTERN	hye	they	817	they	nəˈɾɑnkʰ	they:C	n ə ˈɾ ɑ n kʰ	
 OSSETIC	oss	they	817	they	wɨdon	they:Q	w ɨ d o n	
@@ -8119,7 +8022,6 @@ FRENCH	fra	wipe	1454	wipe	ɛsɥije	wipe:U	ɛ s ɥ i j e
 ITALIAN	ita	wipe	1454	wipe	aʃʃugare	wipe:Ai	a ʃʃ u g a r e	
 MIDDLE_CORNISH	cor	wipe	1454	wipe	sɛha	wipe:F	s ɛ h a	
 MIDDLE_BRETON		wipe	1454	wipe	ˈtorʃaṽ	wipe:Aj	ˈt o r ʃ a ṽ	
-BRETON	bre	wipe	1454	wipe	ˈtɔrʃǝ	wipe:Aj/F	ˈt ɔ r ʃ ǝ	
 ANCIENT_GREEK	grc	where	1237	where	puː	where:B	p uː	
 GREEK	ell	where	1237	where	pu	where:B	p u	
 CLASSICAL_ARMENIAN	xcl	where	1237	where	owr	where:C	o w r	
@@ -8266,11 +8168,9 @@ IRISH	gle	knee	1371	knee	ɡˠɫuːɲ	knee:N	ɡˠ ɫ uː ɲ
 ANCIENT_GREEK	grc	blood	946	blood	háɪ̀ma	blood:J	h á ɪ̀ m a	
 GREEK	ell	blood	946	blood	ˈe̞ma	blood:J	ˈe̞ m a	
 CLASSICAL_ARMENIAN	xcl	blood	946	blood	ɑɾiu̯n	blood:G	ɑ ɾ i u̯ n	
-ARMENIAN_EASTERN	hye	blood	946	blood	ɑˈɾɪ̯un	blood:D/G	ɑ ˈɾ ɪ̯ u n	
 OSSETIC	oss	blood	946	blood	tug	blood:L	t u g	
 OSSETIC_IRON	oss	blood	946	blood	tug	blood:L	t u g	
 OSSETIC_DIGOR	oss	blood	946	blood	tog	blood:L	t o g	
-ASSAMESE	asm	blood	946	blood	tez	blood:A/N	t e z	
 ORIYA	ori	blood	946	blood	rɔktɔ	blood:F	r ɔ k t ɔ	
 BIHARI	mai	blood	946	blood	sonit	blood:O	s o n i t	
 MAGAHI	mag	blood	946	blood	kʰun	blood:E	kʰ u n	
@@ -8379,9 +8279,6 @@ LATIN	lat	moon	1313	moon	ˈluːna	moon:C	ˈl uː n a
 SPANISH	spa	moon	1313	moon	luna	moon:C	l u n a	
 FRENCH	fra	moon	1313	moon	lyn	moon:C	l y n	
 OLD_IRISH	sga	moon	1313	moon	e:ske	moon:F	e: s k e	
-MIDDLE_CORNISH	cor	moon	1313	moon	lo:r	moon:C/T	l o: r	
-MIDDLE_BRETON		moon	1313	moon	ˈloar	moon:C/T	ˈl o a r	
-BRETON	bre	moon	1313	moon	ˈlwaːr	moon:C/T	ˈl w aː r	
 ANCIENT_GREEK	grc	man	1554	man	anɛ́ːr	man:F	a n ɛ́ː r	
 GREEK	ell	man	1554	man	ˈandras	man:F	ˈa n d r a s	
 CLASSICAL_ARMENIAN	xcl	man	1554	man	ayr	man:F	a y r	
@@ -8414,13 +8311,10 @@ SLOVENIAN	slv	man	1554	man	ˈtʃlɔ̂ːvɛk	man:G	ˈt ʃ l ɔ̂ː v ɛ k
 OLD_NORSE	non	man	1554	man	ˈmaðr	man:A	ˈm a ð r	
 OLD_NORSE	non	man	1554	man	verː	man:C	v e rː	
 OLD_NORSE	non	man	1554	man	karl	man:H	k a r l	
-OLD_NORSE	non	man	1554	man	ˈkarlˌmaðr	man:A/H	ˈk a r l ˌm a ð r	
 OLD_NORSE	non	man	1554	man	ˈɡumi	man:B	ˈɡ u m i	
-ICELANDIC	isl	man	1554	man	ˈkʰard̥lˌmaːðʏr	man:A/H	ˈkʰ a r d̥ l ˌm aː ð ʏ r	
 ICELANDIC	isl	man	1554	man	ˈmaːðʏr	man:A	ˈm aː ð ʏ r	
 ICELANDIC	isl	man	1554	man	ˈkʰard̻l	man:H	ˈkʰ a r d̻ l	
 FAROESE	fao	man	1554	man	ˈmɛaːvʊɹ	man:A	ˈm ɛ aː v ʊ ɹ	
-FAROESE	fao	man	1554	man	ˈkʰad̥lˌmɛaːvʊɹ	man:A/H	ˈkʰ a d̥ l ˌm ɛ aː v ʊ ɹ	
 NORWEGIAN_RIKSMAL	nor	man	1554	man	manː	man:A	m a nː	
 NORWEGIAN_RIKSMAL	nor	man	1554	man	kaːɾ	man:H	k aː ɾ	
 STAVANGERSK		man	1554	man	kɑːʁ	man:H	k ɑː ʁ	
@@ -8635,7 +8529,6 @@ SORBIAN_LOWER	dsb	eat	1336	eat	jɪstɕ	eat:B	j ɪ s t ɕ
 SLOVENIAN	slv	eat	1336	eat	ˈjěːsti	eat:B	ˈj ěː s t i	
 OLD_NORSE	non	eat	1336	eat	ˈeta	eat:B	ˈe t a	
 ICELANDIC	isl	eat	1336	eat	ɛːtʰa	eat:B	ɛː tʰ a	
-ICELANDIC	isl	eat	1336	eat	ˈpɔrða	eat:B/O	ˈp ɔ r ð a	
 FAROESE	fao	eat	1336	eat	ˈeːta	eat:B	ˈeː t a	
 NORWEGIAN_RIKSMAL	nor	eat	1336	eat	ˈèːtə	eat:B	ˈèː t ə	
 NORWEGIAN_RIKSMAL	nor	eat	1336	eat	ˈspìːsə	eat:G	ˈs p ìː s ə	
@@ -8655,8 +8548,6 @@ DUTCH	nld	eat	1336	eat	etən	eat:B	e t ə n
 GERMAN	deu	eat	1336	eat	ɛsn̩	eat:B	ɛ s n̩	
 LATIN	lat	eat	1336	eat	ˈedere	eat:B	ˈe d e r e	
 CATALAN	cat	eat	1336	eat	mənʒa	eat:F	m ə n ʒ a	
-PORTUGUESE	por	eat	1336	eat	kuˈmeɾ	eat:B/D	k u ˈm e ɾ	
-SPANISH	spa	eat	1336	eat	komeɾ	eat:B/D	k o m e ɾ	
 FRENCH	fra	eat	1336	eat	mɑ̃ʒe	eat:F	m ɑ̃ ʒ e	
 ITALIAN	ita	eat	1336	eat	mandʒare	eat:F	m a n d ʒ a r e	
 OLD_IRISH	sga	eat	1336	eat	iθʹəðʹ	eat:I	i θʹ ə ðʹ	
@@ -8775,9 +8666,6 @@ FRENCH	fra	dry	1398	dry	sɛk	dry:G	s ɛ k
 ITALIAN	ita	dry	1398	dry	aʃʃutto	dry:K	a ʃʃ u tt o	
 OLD_IRISH	sga	dry	1398	dry	tʹi:rʹəmʹ	dry:D	tʹ i: rʹ ə mʹ	
 OLD_IRISH	sga	dry	1398	dry	sʹesk	dry:G	sʹ e s k	
-MIDDLE_CORNISH	cor	dry	1398	dry	sɪ:x	dry:G/N	s ɪ: x	
-MIDDLE_BRETON		dry	1398	dry	ˈseːx	dry:G/N	ˈs eː x	
-BRETON	bre	dry	1398	dry	ˈseːx	dry:G/N	ˈs eː x	
 IRISH	gle	dry	1398	dry	ˈtʲɪɾʲɪmʲ	dry:D	ˈtʲ ɪ ɾʲ ɪ mʲ	
 ANCIENT_GREEK	grc	some	1241	some	tines	some:L	t i n e s	
 GREEK	ell	some	1241	some	ˌme̞riˈci	some:M	ˌm e̞ r i ˈc i	
@@ -8790,22 +8678,12 @@ BIHARI	mai	some	1241	some	kichu	some:L	k i c h u
 BIHARI	mai	some	1241	some	kayo	some:L	k a y o	
 URDU	urd	some	1241	some	kʊʧʰ	some:L	k ʊ ʧʰ	
 MARATHI	mar	some	1241	some	kaɦi:	some:L	k a ɦ i:	
-OLD_CHURCH_SLAVONIC	chu	some	1241	some	nækɔlikʊ̆	some:A/L	n æ k ɔ l i k ʊ̆	
-SERBO-CROATIAN	srp	some	1241	some	ˈnɛ̂kɔlikɔ	some:A/L	ˈn ɛ̂ k ɔ l i k ɔ	
-BULGARIAN	bul	some	1241	some	ˈnʲakuɫku	some:A/L	ˈnʲ a k u ɫ k u	
-MACEDONIAN	mkd	some	1241	some	ˈnekɔlku	some:A/L	ˈn e k ɔ l k u	
 RUSSIAN	rus	some	1241	some	ˈnʲɛskɔlʲkɔ	some:L	ˈnʲ ɛ s k ɔ lʲ k ɔ	
 POLISH	pol	some	1241	some	ˈkʲilka	some:L	ˈkʲ i l k a	
 POLISH	pol	some	1241	some	ˈtrɔxɛ	some:Q	ˈt r ɔ x ɛ	
 BELARUSIAN	bel	some	1241	some	ˈtrɔxʲi	some:Q	ˈt r ɔ xʲ i	
-BELARUSIAN	bel	some	1241	some	ˈnʲɛkalʲkʲi	some:A/L	ˈnʲ ɛ k a lʲ kʲ i	
 UKRAINIAN	ukr	some	1241	some	ˈtrɔxɪ	some:Q	ˈt r ɔ x ɪ	
 UKRAINIAN	ukr	some	1241	some	ˈkilʲka	some:L	ˈk i lʲ k a	
-SLOVAK	slk	some	1241	some	ˈɲiɛkɔlʲkɔ	some:A/L	ˈɲ i ɛ k ɔ lʲ k ɔ	
-CZECH	ces	some	1241	some	ˈɲɛkolɪk	some:A/L	ˈɲ ɛ k o l ɪ k	
-SORBIAN_UPPER	hsb	some	1241	some	ˈnʲɪkɔtʀɘ̟	some:A/L	ˈnʲ ɪ k ɔ t ʀ ɘ̟	
-SORBIAN_LOWER	dsb	some	1241	some	ˈɲɛkɔtarɘ̟	some:A/L	ˈɲ ɛ k ɔ t a r ɘ̟	
-SLOVENIAN	slv	some	1241	some	nɛˈkǒːlikɔ	some:A/L	n ɛ ˈk ǒː l i k ɔ	
 OLD_NORSE	non	some	1241	some	ˈsumir	some:S	ˈs u m i r	
 OLD_NORSE	non	some	1241	some	ˈnokːurir	some:B	ˈn o kː u r i r	
 ICELANDIC	isl	some	1241	some	ˈsʏːmʏr	some:S	ˈs ʏː m ʏ r	
@@ -8830,13 +8708,8 @@ ENGLISH	eng	some	1241	some	sʌm	some:S	s ʌ m
 DUTCH	nld	some	1241	some	enəχ	some:T	e n ə χ	
 DUTCH	nld	some	1241	some	sɔməɣə	some:S	s ɔ m ə ɣ ə	
 LATIN	lat	some	1241	some	ˈalɪkʷiː	some:L	ˈa l ɪ kʷ iː	
-CATALAN	cat	some	1241	some	əlɣun	some:L/T	ə l ɣ u n	
-PORTUGUESE	por	some	1241	some	aɫˈɣũʃ	some:L/T	a ɫ ˈɣ ũ ʃ	
-SPANISH	spa	some	1241	some	alɣunos	some:L/T	a l ɣ u n o s	
 FRENCH	fra	some	1241	some	kɛlk	some:L	k ɛ l k	
-ITALIAN	ita	some	1241	some	alkuni	some:L/T	a l k u n i	
 OLD_IRISH	sga	some	1241	some	e:gʹənʹ	some:E	e: gʹ ə nʹ	
-MIDDLE_CORNISH	cor	some	1241	some	ˈnɛbɛs	some:A/L	ˈn ɛ b ɛ s	
 MIDDLE_CORNISH	cor	some	1241	some	radn	some:D	r a d n	
 ANCIENT_GREEK	grc	heavy	1210	heavy	barýs	heavy:M	b a r ý s	
 GREEK	ell	heavy	1210	heavy	varis	heavy:M	v a r i s	
@@ -8890,9 +8763,6 @@ FRENCH	fra	heavy	1210	heavy	luʀ	heavy:O	l u ʀ
 ITALIAN	ita	heavy	1210	heavy	pesante	heavy:F	p e s a n t e	
 ITALIAN	ita	heavy	1210	heavy	grɛve	heavy:M	g r ɛ v e	
 OLD_IRISH	sga	heavy	1210	heavy	trom	heavy:J	t r o m	
-MIDDLE_CORNISH	cor	heavy	1210	heavy	po:z	heavy:F/V	p o: z	
-MIDDLE_BRETON		heavy	1210	heavy	ˈponːer	heavy:Aa/G	ˈp o nː e r	
-BRETON	bre	heavy	1210	heavy	pɔ̃nɛr	heavy:Aa/G	p ɔ̃ n ɛ r	
 ANCIENT_GREEK	grc	white	1335	white	argɛ́ːs	white:L	a r g ɛ́ː s	
 ANCIENT_GREEK	grc	white	1335	white	leu̯kós	white:M	l e u̯ k ó s	
 GREEK	ell	white	1335	white	ˈaspro̞s	white:H	ˈa s p r o̞ s	
@@ -9059,7 +8929,6 @@ OLD_IRISH	sga	bite	1403	bite	kna.ið	bite:J	k n a i ð
 MIDDLE_CORNISH	cor	bite	1403	bite	braθa	bite:Ac	b r a θ a	
 MIDDLE_BRETON		bite	1403	bite	ˈdantaṽ	bite:Ae	ˈd a n t a ṽ	
 MIDDLE_BRETON		bite	1403	bite	ˈkreːgiṽ	bite:H	ˈk r eː g i ṽ	
-BRETON	bre	bite	1403	bite	ˈkroːgĩ	bite:Ad/H	ˈk r oː g ĩ	
 ANCIENT_GREEK	grc	thin	1400	thin	leptós	thin:S	l e p t ó s	
 GREEK	ell	thin	1400	thin	le̞ˈpto̞s	thin:S	l e̞ ˈp t o̞ s	
 ARMENIAN_EASTERN	hye	thin	1400	thin	bɑˈɾɑk	thin:L	b ɑ ˈɾ ɑ k	
@@ -9232,10 +9101,7 @@ SPANISH	spa	spit	1440	spit	eskupiɾ	spit:Ac	e s k u p i ɾ
 FRENCH	fra	spit	1440	spit	kʀaʃe	spit:F	k ʀ a ʃ e	
 ITALIAN	ita	spit	1440	spit	sputare	spit:Ac	s p u t a r e	
 OLD_IRISH	sga	spit	1440	spit	salʹe	spit:K	s a lʹ e	
-ANCIENT_GREEK	grc	this	1214	this	huːtos	this:B/D	h uː t o s	
 ANCIENT_GREEK	grc	this	1214	this	hóde	this:B	h ó d e	
-GREEK	ell	this	1214	this	afˈto̞s	this:B/D	a f ˈt o̞ s	
-GREEK	ell	this	1214	this	e̞ˈtuto̞s	this:B/D	e̞ ˈt u t o̞ s	
 ARMENIAN_EASTERN	hye	this	1214	this	ɑɪ̯s	this:B	ɑ ɪ̯ s	
 ORIYA	ori	this	1214	this	eiʈa	this:H	e i ʈ a	
 BIHARI	mai	this	1214	this	i	this:H	i	
@@ -9271,11 +9137,6 @@ FRISIAN	frs	this	1214	this	di	this:B	d i
 DUTCH	nld	this	1214	this	dezə	this:B	d e z ə	
 GERMAN	deu	this	1214	this	di:s	this:B	d i: s	
 LATIN	lat	this	1214	this	hik	this:F	h i k	
-CATALAN	cat	this	1214	this	əkɛt	this:B/G/H	ə k ɛ t	
-PORTUGUESE	por	this	1214	this	ˈiʃtu	this:B/G/H	ˈi ʃ t u	
-SPANISH	spa	this	1214	this	este	this:B/G/H	e s t e	
-FRENCH	fra	this	1214	this	səsi	this:B/G/H	s ə s i	
-ITALIAN	ita	this	1214	this	kwesto	this:B/G/H	k w e s t o	
 OLD_IRISH	sga	this	1214	this	sə	this:B	s ə	
 ANCIENT_GREEK	grc	hear	1408	hear	akúɔː	hear:B	a k ú ɔː	
 GREEK	ell	hear	1408	hear	aˈkuˌo̞	hear:B	a ˈk u ˌo̞	
@@ -9431,7 +9292,6 @@ OLD_IRISH	sga	sleep	1585	sleep	konˈtulʹi	sleep:H	k o n ˈt u lʹ i
 MIDDLE_CORNISH	cor	sleep	1585	sleep	kɔska	sleep:F	k ɔ s k a	
 ANCIENT_GREEK	grc	bad	1292	bad	kakós	bad:Be	k a k ó s	
 GREEK	ell	bad	1292	bad	kaˈko̞s	bad:Be	k a ˈk o̞ s	
-CLASSICAL_ARMENIAN	xcl	bad	1292	bad	vɑt	bad:Bc/P	v ɑ t	
 ARMENIAN_EASTERN	hye	bad	1292	bad	vɑt	bad:Bc	v ɑ t	
 OSSETIC	oss	bad	1292	bad	ævzær	bad:Ab	æ v z æ r	
 OSSETIC_IRON	oss	bad	1292	bad	ɐvžɐr	bad:Ab	ɐ v ž ɐ r	
@@ -9523,7 +9383,6 @@ BIHARI	mai	good	1035	good	nik	good:An	n i k
 BIHARI	mai	good	1035	good	barhĩyã	good:Al	b a r h ĩ y ã	
 MAGAHI	mag	good	1035	good	bəɽĩjɑ	good:Al	b ə ɽ ĩ j ɑ	
 MAGAHI	mag	good	1035	good	nimən	good:Am	n i m ə n	
-URDU	urd	good	1035	good	ʔəʧʰɑ	good:E/P	ʔ ə ʧʰ ɑ	
 MARATHI	mar	good	1035	good	tsaŋglə	good:K	t s a ŋ g l ə	
 OLD_CHURCH_SLAVONIC	chu	good	1035	good	dɔbrʊ̆	good:H	d ɔ b r ʊ̆	
 SERBO-CROATIAN	srp	good	1035	good	ˈdɔ̂bar	good:H	ˈd ɔ̂ b a r	
@@ -9782,9 +9641,6 @@ SPANISH	spa	fruit	1507	fruit	fɾuta	fruit:B	f ɾ u t a
 FRENCH	fra	fruit	1507	fruit	fʀɥi	fruit:B	f ʀ ɥ i	
 ITALIAN	ita	fruit	1507	fruit	frutto	fruit:B	f r u tt o	
 OLD_IRISH	sga	fruit	1507	fruit	torəð	fruit:J	t o r ə ð	
-MIDDLE_CORNISH	cor	fruit	1507	fruit	fro:θ	fruit:B/V	f r o: θ	
-MIDDLE_BRETON		fruit	1507	fruit	ˈfroeθ	fruit:B/V	ˈf r o e θ	
-BRETON	bre	fruit	1507	fruit	ˈfrweːs	fruit:B/V	ˈf r w eː s	
 ANCIENT_GREEK	grc	rub	1449	rub	tríːbɔː	rub:H	t r íː b ɔː	
 GREEK	ell	rub	1449	rub	ˈtrivo̞	rub:H	ˈt r i v o̞	
 ARMENIAN_EASTERN	hye	rub	1449	rub	ʃəˈpʰɛl	rub:D	ʃ ə ˈpʰ ɛ l	
@@ -9839,7 +9695,6 @@ ITALIAN	ita	rub	1449	rub	fregare	rub:F	f r e g a r e
 OLD_IRISH	sga	rub	1449	rub	konˈmʹelʹ	rub:L	k o n ˈmʹ e lʹ	
 MIDDLE_BRETON		rub	1449	rub	taˈraːvat	rub:T	t a ˈr aː v a t	
 MIDDLE_BRETON		rub	1449	rub	ˈfroːtaũ	rub:F	ˈf r oː t a ũ	
-BRETON	bre	rub	1449	rub	ˈfrɔtã	rub:F/R	ˈf r ɔ t ã	
 ANCIENT_GREEK	grc	bark	1204	bark	pʰloiós	bark:L	pʰ l o i ó s	
 GREEK	ell	bark	1204	bark	ˈfluða	bark:K	ˈf l u ð a	
 GREEK	ell	bark	1204	bark	fliˈo̞s	bark:L	f l i ˈo̞ s	
@@ -10611,7 +10466,6 @@ MIDDLE_BRETON		lake	624	lake	ˈlenː	lake:Z	ˈl e nː
 BRETON	bre	lake	624	lake	ˈlɛnː	lake:Z	ˈl ɛ nː	
 IRISH	gle	lake	624	lake	l̪ˠɔx	lake:E	l̪ˠ ɔ x	
 IRISH	gle	lake	624	lake	lʲiːnʲ	lake:Z	lʲ iː nʲ	
-ANCIENT_GREEK	grc	smell	1586	smell	ospʰrái̯nomai̯	smell:R/W	o s pʰ r á i̯ n o m a i̯	
 GREEK	ell	smell	1586	smell	miˈrizo̞	smell:N	m i ˈr i z o̞	
 CLASSICAL_ARMENIAN	xcl	smell	1586	smell	hot-ot-i-m	smell:W	h o t o t i m	
 ARMENIAN_EASTERN	hye	smell	1586	smell	hot_əzˈgɑl	smell:W	h o t _ ə z ˈg ɑ l	
@@ -11012,8 +10866,6 @@ ITALIAN	ita	rope	1218	rope	kɔrda	rope:G	k ɔ r d a
 OLD_IRISH	sga	rope	1218	rope	loṽən	rope:Ac	l o ṽ ə n	
 OLD_IRISH	sga	rope	1218	rope	tʹe:d	rope:N	tʹ e: d	
 MIDDLE_CORNISH	cor	rope	1218	rope	lɔvan	rope:Ac	l ɔ v a n	
-MIDDLE_BRETON		rope	1218	rope	ˈkorden	rope:Ab/G	ˈk o r d e n	
-BRETON	bre	rope	1218	rope	ˈkɔrdɛn	rope:Ab/G	ˈk ɔ r d ɛ n	
 IRISH	gle	rope	1218	rope	tʲiad̪ˠ	rope:N	tʲ i a d̪ˠ	
 ANCIENT_GREEK	grc	dull	379	dull	amblýs	dull:P	a m b l ý s	
 GREEK	ell	dull	379	dull	ˌsto̞mo̞ˈme̞no̞s	dull:W	ˌs t o̞ m o̞ ˈm e̞ n o̞ s	
@@ -11475,10 +11327,8 @@ FRENCH	fra	hunt	1435	hunt	ʃase	hunt:E	ʃ a s e
 ITALIAN	ita	hunt	1435	hunt	kattʃare	hunt:E	k a tt ʃ a r e	
 OLD_IRISH	sga	hunt	1435	hunt	sʹelg	hunt:K	sʹ e l g	
 MIDDLE_CORNISH	cor	hunt	1435	hunt	hɛlxja	hunt:K	h ɛ l x j a	
-MIDDLE_BRETON		hunt	1435	hunt	ʃaˈseal	hunt:Ac/E	ʃ a ˈs e a l	
 MIDDLE_BRETON		hunt	1435	hunt	ˈhemolx	hunt:K	ˈh e m o l x	
 BRETON	bre	hunt	1435	hunt	heˈmolxĩ	hunt:K	h e ˈm o l x ĩ	
-BRETON	bre	hunt	1435	hunt	ʃaˈseal	hunt:Ac/E	ʃ a ˈs e a l	
 ANCIENT_GREEK	grc	foot	1301	foot	puːs	foot:B	p uː s	
 GREEK	ell	foot	1301	foot	ˈpo̞ði	foot:B	ˈp o̞ ð i	
 CLASSICAL_ARMENIAN	xcl	foot	1301	foot	ot-n	foot:B	o t n	

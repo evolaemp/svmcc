@@ -848,8 +848,6 @@ Hachijō		knee	1371	1371	hiʥakabura	107	h i dʑ a k a b u r a
 Shuri		knee	1371	1371	ʨiɴsi	109	tɕ i ɴ s i	
 Kōchi		knee	1371	1371	sune	108	s u n e	
 Sado		knee	1371	1371	hiza	107	h i z a	
-Oki		knee	1371	1371	ɸuza	-107	ɸ u z a	
-Kagoshima		knee	1371	1371	hiːza	-107	h iː z a	
 Miyako		know	1410	1410	sɨː	134	s ɨː	
 Tōkyō		know	1410	1410	sitːeru	134	s i tː e r u	
 Amami		know	1410	1410	siʨuri	134	s i tɕ u r i	
@@ -1428,25 +1426,14 @@ Kōchi		skin	763	763	kawa	75	k a w a
 Sado		skin	763	763	kawa	75	k a w a	
 Oki		skin	763	763	kawa	75	k a w a	
 Kagoshima		skin	763	763	kawa	75	k a w a	
-Miyako		sky	1732	1732	tin	-260	t i n	
 Tōkyō		sky	1732	1732	sora	261	s o r a	
-Amami		sky	1732	1732	θɨɴ	-260	θ ɨ ɴ	
-Kyōto		sky	1732	1732	teɴ	-260	t e ɴ	
 Hachijō		sky	1732	1732	sora	261	s o r a	
-Shuri		sky	1732	1732	tiɴ	-260	t i ɴ	
 Kōchi		sky	1732	1732	sora	261	s o r a	
-Sado		sky	1732	1732	teɴʥiku	-260	t e ɴ dʑ i k u	
-Oki		sky	1732	1732	teɴ	-260	t e ɴ	
-Kagoshima		sky	1732	1732	teiɴ	-260	t ei ɴ	
 Miyako		sleep	1585	1585	niv	136	n i v	
 Tōkyō		sleep	1585	1585	nemuru	136	n e m u r u	
 Amami		sleep	1585	1585	nɨbururi	136	n ɨ b u r u r i	
-Kyōto		sleep	1585	1585	neru	-136	n e r u	
 Hachijō		sleep	1585	1585	jodoru	135	j o d o r u	
 Shuri		sleep	1585	1585	niɴzuɴ	136	n i ɴ z u ɴ	
-Kōchi		sleep	1585	1585	neru	-136	n e r u	
-Sado		sleep	1585	1585	neburu	-136	n e b u r u	
-Oki		sleep	1585	1585	neru	-136	n e r u	
 Kagoshima		sleep	1585	1585	neimuʨːoi	136	n ei m u tːɕ oi	
 Miyako		small	1246	1246	imi	47	i m i	
 Tōkyō		small	1246	1246	ʨiʨːai	43	tɕ i tːɕ ai	
@@ -1735,16 +1722,6 @@ Kōchi		tie	1917	1917	musubu	415	m u s u b u
 Sado		tie	1917	1917	musubu	415	m u s u b u	
 Oki		tie	1917	1917	mosubu	415	m o s u b u	
 Kagoshima		tie	1917	1917	kiːbi	416	k iː b i	
-Miyako		tongue	1205	1205	sɨta	-102	s ɨ t a	
-Tōkyō		tongue	1205	1205	sita	-102	s i t a	
-Amami		tongue	1205	1205	sɨba	-102	s ɨ b a	
-Kyōto		tongue	1205	1205	sita	-102	s i t a	
-Hachijō		tongue	1205	1205	sita	-102	s i t a	
-Shuri		tongue	1205	1205	ʃiba	-102	ʃ i b a	
-Kōchi		tongue	1205	1205	sita	-102	s i t a	
-Sado		tongue	1205	1205	sitabera	-102	s i t a b e r a	
-Oki		tongue	1205	1205	bero	-102	b e r o	
-Kagoshima		tongue	1205	1205	sita	-102	s i t a	
 Miyako		tooth	1380	1380	paː	101	p aː	
 Tōkyō		tooth	1380	1380	ha	101	h a	
 Amami		tooth	1380	1380	hwa	101	h w a	
