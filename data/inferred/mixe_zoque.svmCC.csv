@@ -1,0 +1,962 @@
+db,concept,doculect,counterpart,fullCC,inferredCC
+mixe_zoque,good,CHIAPAS_ZOQUE,oye,mixe_zoque:good:1,mixe_zoque:good:1
+mixe_zoque,good,LOWLAND_MIXE,oy,mixe_zoque:good:1,mixe_zoque:good:1
+mixe_zoque,good,MIGUEL_CHIMALAPA,w3h3,mixe_zoque:good:2,mixe_zoque:good:2
+mixe_zoque,good,NORTH_HIGHLAND_MIXE,oy,mixe_zoque:good:1,mixe_zoque:good:1
+mixe_zoque,good,OLUTA_POPOLUCA,nioya,mixe_zoque:good:1,mixe_zoque:good:3
+mixe_zoque,good,SAYULA_POPOLUCA,oy,mixe_zoque:good:1,mixe_zoque:good:1
+mixe_zoque,good,SOTEAPAN_ZOQUE,w3,mixe_zoque:good:2,mixe_zoque:good:2
+mixe_zoque,good,SOUTH_HIGHLAND_MIXE,ey,mixe_zoque:good:1,mixe_zoque:good:1
+mixe_zoque,good,TEXISTEPEC_ZOQUE,w3,mixe_zoque:good:2,mixe_zoque:good:2
+mixe_zoque,hair,CHIAPAS_ZOQUE,way,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,hair,LOWLAND_MIXE,way,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,hair,MARIA_CHIMALAPA,way,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,hair,MIGUEL_CHIMALAPA,way7,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,hair,NORTH_HIGHLAND_MIXE,vay,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,hair,SOTEAPAN_ZOQUE,way,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,hair,SOUTH_HIGHLAND_MIXE,way,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,hair,TEXISTEPEC_ZOQUE,way,mixe_zoque:hair:1,mixe_zoque:hair:1
+mixe_zoque,many,CHIAPAS_ZOQUE,w3w3,mixe_zoque:many:3,mixe_zoque:many:6
+mixe_zoque,many,LOWLAND_MIXE,may,mixe_zoque:many:1,mixe_zoque:many:1
+mixe_zoque,many,MARIA_CHIMALAPA,s3h37,mixe_zoque:many:6,mixe_zoque:many:2
+mixe_zoque,many,MIGUEL_CHIMALAPA,S3h37,mixe_zoque:many:6,mixe_zoque:many:2
+mixe_zoque,many,NORTH_HIGHLAND_MIXE,may,mixe_zoque:many:1,mixe_zoque:many:1
+mixe_zoque,many,OLUTA_POPOLUCA,pako,mixe_zoque:many:2,mixe_zoque:many:5
+mixe_zoque,many,SAYULA_POPOLUCA,may,mixe_zoque:many:1,mixe_zoque:many:1
+mixe_zoque,many,SOTEAPAN_ZOQUE,agi,mixe_zoque:many:5,mixe_zoque:many:4
+mixe_zoque,many,SOUTH_HIGHLAND_MIXE,mEy,mixe_zoque:many:1,mixe_zoque:many:1
+mixe_zoque,many,TEXISTEPEC_ZOQUE,daC ke,mixe_zoque:many:4,mixe_zoque:many:3
+mixe_zoque,feather,CHIAPAS_ZOQUE,p3k,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,feather,LOWLAND_MIXE,ce5i7i b3k,mixe_zoque:feather:2,mixe_zoque:feather:2
+mixe_zoque,feather,MARIA_CHIMALAPA,p3k,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,feather,MIGUEL_CHIMALAPA,p3k,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,feather,NORTH_HIGHLAND_MIXE,pak,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,feather,OLUTA_POPOLUCA,p3k3,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,feather,SOTEAPAN_ZOQUE,p3k,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,feather,SOUTH_HIGHLAND_MIXE,p3k,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,feather,TEXISTEPEC_ZOQUE,p3k,mixe_zoque:feather:1,mixe_zoque:feather:1
+mixe_zoque,big,CHIAPAS_ZOQUE,m3ha,mixe_zoque:big:1,mixe_zoque:big:1
+mixe_zoque,big,LOWLAND_MIXE,m3h,mixe_zoque:big:1,mixe_zoque:big:1
+mixe_zoque,big,MARIA_CHIMALAPA,w3ti7,mixe_zoque:big:3,mixe_zoque:big:2
+mixe_zoque,big,MIGUEL_CHIMALAPA,komi7,mixe_zoque:big:5,mixe_zoque:big:1
+mixe_zoque,big,NORTH_HIGHLAND_MIXE,m3h,mixe_zoque:big:1,mixe_zoque:big:1
+mixe_zoque,big,OLUTA_POPOLUCA,tan3k,mixe_zoque:big:2,mixe_zoque:big:3
+mixe_zoque,big,SAYULA_POPOLUCA,m3h,mixe_zoque:big:1,mixe_zoque:big:1
+mixe_zoque,big,SOTEAPAN_ZOQUE,m3h,mixe_zoque:big:1,mixe_zoque:big:1
+mixe_zoque,big,SOUTH_HIGHLAND_MIXE,m3h,mixe_zoque:big:1,mixe_zoque:big:1
+mixe_zoque,big,TEXISTEPEC_ZOQUE,w3Ce7,mixe_zoque:big:3,mixe_zoque:big:2
+mixe_zoque,long,CHIAPAS_ZOQUE,p3y,mixe_zoque:long:5,mixe_zoque:long:2
+mixe_zoque,long,LOWLAND_MIXE,yony,mixe_zoque:long:2,mixe_zoque:long:1
+mixe_zoque,long,MARIA_CHIMALAPA,p3hi,mixe_zoque:long:5,mixe_zoque:long:2
+mixe_zoque,long,MIGUEL_CHIMALAPA,p3hi7,mixe_zoque:long:5,mixe_zoque:long:2
+mixe_zoque,long,NORTH_HIGHLAND_MIXE,y3n,mixe_zoque:long:1,mixe_zoque:long:1
+mixe_zoque,long,OLUTA_POPOLUCA,yonek,mixe_zoque:long:4,mixe_zoque:long:1
+mixe_zoque,long,SAYULA_POPOLUCA,yagac,mixe_zoque:long:3,mixe_zoque:long:3
+mixe_zoque,long,SOTEAPAN_ZOQUE,yagac,mixe_zoque:long:3,mixe_zoque:long:3
+mixe_zoque,long,SOUTH_HIGHLAND_MIXE,yeny,mixe_zoque:long:1,mixe_zoque:long:1
+mixe_zoque,long,TEXISTEPEC_ZOQUE,ya7akac,mixe_zoque:long:3,mixe_zoque:long:3
+mixe_zoque,bark,CHIAPAS_ZOQUE,kuyu naka,mixe_zoque:bark:2,mixe_zoque:bark:1
+mixe_zoque,bark,LOWLAND_MIXE,ak,mixe_zoque:bark:1,mixe_zoque:bark:2
+mixe_zoque,bark,MARIA_CHIMALAPA,naka,mixe_zoque:bark:2,mixe_zoque:bark:1
+mixe_zoque,bark,MIGUEL_CHIMALAPA,kuy naka,mixe_zoque:bark:2,mixe_zoque:bark:1
+mixe_zoque,bark,NORTH_HIGHLAND_MIXE,k3p ak,mixe_zoque:bark:1,mixe_zoque:bark:3
+mixe_zoque,bark,SAYULA_POPOLUCA,ak,mixe_zoque:bark:1,mixe_zoque:bark:2
+mixe_zoque,bark,SOUTH_HIGHLAND_MIXE,ak,mixe_zoque:bark:1,mixe_zoque:bark:2
+mixe_zoque,bark,TEXISTEPEC_ZOQUE,kuy dak,mixe_zoque:bark:2,mixe_zoque:bark:1
+mixe_zoque,tongue,CHIAPAS_ZOQUE,toc,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,tongue,LOWLAND_MIXE,toc,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,tongue,MARIA_CHIMALAPA,yen kuy,mixe_zoque:tongue:2,mixe_zoque:tongue:2
+mixe_zoque,tongue,MIGUEL_CHIMALAPA,toc,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,tongue,NORTH_HIGHLAND_MIXE,toc,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,tongue,OLUTA_POPOLUCA,toc3,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,tongue,SAYULA_POPOLUCA,toc,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,tongue,SOTEAPAN_ZOQUE,toc,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,tongue,SOUTH_HIGHLAND_MIXE,toc,mixe_zoque:tongue:1,mixe_zoque:tongue:1
+mixe_zoque,I,CHIAPAS_ZOQUE,3h,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,LOWLAND_MIXE,3C,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,MARIA_CHIMALAPA,3cci7,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,MIGUEL_CHIMALAPA,d3S,mixe_zoque:I:2,mixe_zoque:I:1
+mixe_zoque,I,NORTH_HIGHLAND_MIXE,3c,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,OLUTA_POPOLUCA,3s,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,SAYULA_POPOLUCA,3c,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,SOTEAPAN_ZOQUE,3C,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,SOUTH_HIGHLAND_MIXE,3c,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,I,TEXISTEPEC_ZOQUE,3c37,mixe_zoque:I:1,mixe_zoque:I:1
+mixe_zoque,we,CHIAPAS_ZOQUE,t3h,mixe_zoque:we:3,mixe_zoque:we:4
+mixe_zoque,we,LOWLAND_MIXE,3C aht,mixe_zoque:we:1,mixe_zoque:we:1
+mixe_zoque,we,MARIA_CHIMALAPA,newiny~nen,mixe_zoque:we:2,mixe_zoque:we:2
+mixe_zoque,we,MIGUEL_CHIMALAPA,neywin,mixe_zoque:we:2,mixe_zoque:we:2
+mixe_zoque,we,NORTH_HIGHLAND_MIXE,3c,mixe_zoque:we:1,mixe_zoque:we:3
+mixe_zoque,we,OLUTA_POPOLUCA,3catek,mixe_zoque:we:1,mixe_zoque:we:1
+mixe_zoque,we,SAYULA_POPOLUCA,3hcat,mixe_zoque:we:1,mixe_zoque:we:1
+mixe_zoque,we,SOUTH_HIGHLAND_MIXE,3c,mixe_zoque:we:1,mixe_zoque:we:3
+mixe_zoque,we,TEXISTEPEC_ZOQUE,3c ta7,mixe_zoque:we:1,mixe_zoque:we:1
+mixe_zoque,this,CHIAPAS_ZOQUE,y37 w3,mixe_zoque:this:1,mixe_zoque:this:1
+mixe_zoque,this,LOWLAND_MIXE,hada7,mixe_zoque:this:2,mixe_zoque:this:2
+mixe_zoque,this,MARIA_CHIMALAPA,y37 p37,mixe_zoque:this:1,mixe_zoque:this:1
+mixe_zoque,this,MIGUEL_CHIMALAPA,y37,mixe_zoque:this:1,mixe_zoque:this:1
+mixe_zoque,this,NORTH_HIGHLAND_MIXE,y37e,mixe_zoque:this:1,mixe_zoque:this:1
+mixe_zoque,this,OLUTA_POPOLUCA,he7,mixe_zoque:this:3,mixe_zoque:this:3
+mixe_zoque,this,SAYULA_POPOLUCA,ay3h,mixe_zoque:this:1,mixe_zoque:this:1
+mixe_zoque,this,SOTEAPAN_ZOQUE,he7ep3k,mixe_zoque:this:4,mixe_zoque:this:4
+mixe_zoque,this,SOUTH_HIGHLAND_MIXE,ya7at,mixe_zoque:this:1,mixe_zoque:this:1
+mixe_zoque,this,TEXISTEPEC_ZOQUE,y373h37,mixe_zoque:this:1,mixe_zoque:this:1
+mixe_zoque,thou,CHIAPAS_ZOQUE,mih,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,LOWLAND_MIXE,miC,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,MARIA_CHIMALAPA,micci7,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,MIGUEL_CHIMALAPA,miS,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,NORTH_HIGHLAND_MIXE,mic,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,OLUTA_POPOLUCA,mis,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,SAYULA_POPOLUCA,mi,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,SOTEAPAN_ZOQUE,miC,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,SOUTH_HIGHLAND_MIXE,mec,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,thou,TEXISTEPEC_ZOQUE,biC,mixe_zoque:thou:1,mixe_zoque:thou:1
+mixe_zoque,tail,CHIAPAS_ZOQUE,tuc,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,LOWLAND_MIXE,pi7iSy,mixe_zoque:tail:2,mixe_zoque:tail:2
+mixe_zoque,tail,MARIA_CHIMALAPA,tuc,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,MIGUEL_CHIMALAPA,tuc,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,NORTH_HIGHLAND_MIXE,tuSta,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,OLUTA_POPOLUCA,tusta,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,SAYULA_POPOLUCA,tuhc,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,SOTEAPAN_ZOQUE,tuc,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,SOUTH_HIGHLAND_MIXE,tuct,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,tail,TEXISTEPEC_ZOQUE,tuc,mixe_zoque:tail:1,mixe_zoque:tail:1
+mixe_zoque,nose,CHIAPAS_ZOQUE,kin3,mixe_zoque:nose:4,mixe_zoque:nose:2
+mixe_zoque,nose,LOWLAND_MIXE,h3p put,mixe_zoque:nose:1,mixe_zoque:nose:1
+mixe_zoque,nose,MARIA_CHIMALAPA,kin3,mixe_zoque:nose:1,mixe_zoque:nose:2
+mixe_zoque,nose,MIGUEL_CHIMALAPA,kin3k,mixe_zoque:nose:4,mixe_zoque:nose:2
+mixe_zoque,nose,NORTH_HIGHLAND_MIXE,h3p,mixe_zoque:nose:1,mixe_zoque:nose:1
+mixe_zoque,nose,OLUTA_POPOLUCA,h3p3,mixe_zoque:nose:2,mixe_zoque:nose:1
+mixe_zoque,nose,SAYULA_POPOLUCA,h3p,mixe_zoque:nose:1,mixe_zoque:nose:1
+mixe_zoque,nose,SOTEAPAN_ZOQUE,ki5i,mixe_zoque:nose:4,mixe_zoque:nose:2
+mixe_zoque,nose,SOUTH_HIGHLAND_MIXE,h3p,mixe_zoque:nose:1,mixe_zoque:nose:1
+mixe_zoque,nose,TEXISTEPEC_ZOQUE,ke5 kuy,mixe_zoque:nose:3,mixe_zoque:nose:2
+mixe_zoque,heart,CHIAPAS_ZOQUE,cokay,mixe_zoque:heart:3,mixe_zoque:heart:1
+mixe_zoque,heart,LOWLAND_MIXE,huky hot,mixe_zoque:heart:2,mixe_zoque:heart:6
+mixe_zoque,heart,MARIA_CHIMALAPA,cokoy,mixe_zoque:heart:3,mixe_zoque:heart:1
+mixe_zoque,heart,MIGUEL_CHIMALAPA,cokoy7,mixe_zoque:heart:3,mixe_zoque:heart:1
+mixe_zoque,heart,NORTH_HIGHLAND_MIXE,havin,mixe_zoque:heart:1,mixe_zoque:heart:5
+mixe_zoque,heart,OLUTA_POPOLUCA,hutukot3,mixe_zoque:heart:2,mixe_zoque:heart:4
+mixe_zoque,heart,SOTEAPAN_ZOQUE,anamah,mixe_zoque:heart:4,mixe_zoque:heart:3
+mixe_zoque,heart,SOUTH_HIGHLAND_MIXE,anm3 ha7an,mixe_zoque:heart:4,mixe_zoque:heart:2
+mixe_zoque,heart,TEXISTEPEC_ZOQUE,coko7,mixe_zoque:heart:3,mixe_zoque:heart:1
+mixe_zoque,liver,CHIAPAS_ZOQUE,pat,mixe_zoque:liver:2,mixe_zoque:liver:3
+mixe_zoque,liver,LOWLAND_MIXE,hot,mixe_zoque:liver:1,mixe_zoque:liver:1
+mixe_zoque,liver,MARIA_CHIMALAPA,cokoy,mixe_zoque:liver:1,mixe_zoque:liver:2
+mixe_zoque,liver,MIGUEL_CHIMALAPA,pat,mixe_zoque:liver:2,mixe_zoque:liver:3
+mixe_zoque,liver,NORTH_HIGHLAND_MIXE,n3 hot,mixe_zoque:liver:1,mixe_zoque:liver:1
+mixe_zoque,liver,OLUTA_POPOLUCA,t3shot3,mixe_zoque:liver:1,mixe_zoque:liver:4
+mixe_zoque,liver,SAYULA_POPOLUCA,hot,mixe_zoque:liver:1,mixe_zoque:liver:1
+mixe_zoque,liver,SOTEAPAN_ZOQUE,cogoy,mixe_zoque:liver:1,mixe_zoque:liver:2
+mixe_zoque,liver,SOUTH_HIGHLAND_MIXE,hot,mixe_zoque:liver:1,mixe_zoque:liver:1
+mixe_zoque,liver,TEXISTEPEC_ZOQUE,coko7,mixe_zoque:liver:1,mixe_zoque:liver:2
+mixe_zoque,earth,CHIAPAS_ZOQUE,nas,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,LOWLAND_MIXE,t3c7ak,mixe_zoque:earth:1,mixe_zoque:earth:2
+mixe_zoque,earth,MARIA_CHIMALAPA,nas,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,MIGUEL_CHIMALAPA,naS,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,NORTH_HIGHLAND_MIXE,naS,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,OLUTA_POPOLUCA,naS3,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,SAYULA_POPOLUCA,naS,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,SOTEAPAN_ZOQUE,nas,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,SOUTH_HIGHLAND_MIXE,naS wi53t,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,earth,TEXISTEPEC_ZOQUE,das,mixe_zoque:earth:1,mixe_zoque:earth:1
+mixe_zoque,new,CHIAPAS_ZOQUE,home,mixe_zoque:new:2,mixe_zoque:new:1
+mixe_zoque,new,LOWLAND_MIXE,hemy,mixe_zoque:new:2,mixe_zoque:new:3
+mixe_zoque,new,MARIA_CHIMALAPA,home7,mixe_zoque:new:2,mixe_zoque:new:1
+mixe_zoque,new,MIGUEL_CHIMALAPA,home7,mixe_zoque:new:2,mixe_zoque:new:1
+mixe_zoque,new,NORTH_HIGHLAND_MIXE,nam,mixe_zoque:new:1,mixe_zoque:new:2
+mixe_zoque,new,OLUTA_POPOLUCA,nam3,mixe_zoque:new:1,mixe_zoque:new:2
+mixe_zoque,new,SAYULA_POPOLUCA,namay,mixe_zoque:new:1,mixe_zoque:new:2
+mixe_zoque,new,SOTEAPAN_ZOQUE,homi,mixe_zoque:new:2,mixe_zoque:new:1
+mixe_zoque,new,SOUTH_HIGHLAND_MIXE,hempy,mixe_zoque:new:2,mixe_zoque:new:3
+mixe_zoque,new,TEXISTEPEC_ZOQUE,hom3 na7,mixe_zoque:new:2,mixe_zoque:new:1
+mixe_zoque,warm,CHIAPAS_ZOQUE,pih,mixe_zoque:warm:4,mixe_zoque:warm:5
+mixe_zoque,warm,LOWLAND_MIXE,an,mixe_zoque:warm:1,mixe_zoque:warm:1
+mixe_zoque,warm,MARIA_CHIMALAPA,nuc,mixe_zoque:warm:5,mixe_zoque:warm:2
+mixe_zoque,warm,MIGUEL_CHIMALAPA,yuk nuc,mixe_zoque:warm:5,mixe_zoque:warm:2
+mixe_zoque,warm,NORTH_HIGHLAND_MIXE,an,mixe_zoque:warm:1,mixe_zoque:warm:1
+mixe_zoque,warm,OLUTA_POPOLUCA,hokoS,mixe_zoque:warm:3,mixe_zoque:warm:4
+mixe_zoque,warm,SAYULA_POPOLUCA,powik,mixe_zoque:warm:2,mixe_zoque:warm:3
+mixe_zoque,warm,SOUTH_HIGHLAND_MIXE,an,mixe_zoque:warm:1,mixe_zoque:warm:1
+mixe_zoque,night,CHIAPAS_ZOQUE,cu7,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,night,LOWLAND_MIXE,acu737,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,night,MARIA_CHIMALAPA,cu7hi,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,night,MIGUEL_CHIMALAPA,cu7,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,night,NORTH_HIGHLAND_MIXE,cu,mixe_zoque:night:2,mixe_zoque:night:1
+mixe_zoque,night,OLUTA_POPOLUCA,cuh3,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,night,SAYULA_POPOLUCA,cu7,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,night,SOTEAPAN_ZOQUE,cu7u,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,night,SOUTH_HIGHLAND_MIXE,koc,mixe_zoque:night:2,mixe_zoque:night:2
+mixe_zoque,night,TEXISTEPEC_ZOQUE,cu7,mixe_zoque:night:1,mixe_zoque:night:1
+mixe_zoque,who,CHIAPAS_ZOQUE,i w3,mixe_zoque:who:2,mixe_zoque:who:2
+mixe_zoque,who,LOWLAND_MIXE,p3n,mixe_zoque:who:1,mixe_zoque:who:1
+mixe_zoque,who,MARIA_CHIMALAPA,iw3,mixe_zoque:who:2,mixe_zoque:who:2
+mixe_zoque,who,MIGUEL_CHIMALAPA,iw3,mixe_zoque:who:2,mixe_zoque:who:2
+mixe_zoque,who,NORTH_HIGHLAND_MIXE,p3n,mixe_zoque:who:1,mixe_zoque:who:1
+mixe_zoque,who,OLUTA_POPOLUCA,p3n,mixe_zoque:who:1,mixe_zoque:who:1
+mixe_zoque,who,SAYULA_POPOLUCA,p3n,mixe_zoque:who:1,mixe_zoque:who:1
+mixe_zoque,who,SOTEAPAN_ZOQUE,iapa7ap,mixe_zoque:who:4,mixe_zoque:who:3
+mixe_zoque,who,SOUTH_HIGHLAND_MIXE,p3n,mixe_zoque:who:1,mixe_zoque:who:1
+mixe_zoque,what,CHIAPAS_ZOQUE,tiy3,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,LOWLAND_MIXE,ti,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,MARIA_CHIMALAPA,ti,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,MIGUEL_CHIMALAPA,ti,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,NORTH_HIGHLAND_MIXE,ti,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,OLUTA_POPOLUCA,ti,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,SAYULA_POPOLUCA,ti,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,SOTEAPAN_ZOQUE,ty~i,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,SOUTH_HIGHLAND_MIXE,ti,mixe_zoque:what:1,mixe_zoque:what:1
+mixe_zoque,what,TEXISTEPEC_ZOQUE,Ce7,mixe_zoque:what:1,mixe_zoque:what:2
+mixe_zoque,small,CHIAPAS_ZOQUE,Ciks,mixe_zoque:small:3,mixe_zoque:small:6
+mixe_zoque,small,LOWLAND_MIXE,muc,mixe_zoque:small:2,mixe_zoque:small:2
+mixe_zoque,small,MIGUEL_CHIMALAPA,wakSiN7,mixe_zoque:small:6,mixe_zoque:small:5
+mixe_zoque,small,NORTH_HIGHLAND_MIXE,pik,mixe_zoque:small:1,mixe_zoque:small:3
+mixe_zoque,small,OLUTA_POPOLUCA,CuCu,mixe_zoque:small:3,mixe_zoque:small:1
+mixe_zoque,small,SAYULA_POPOLUCA,CiCik,mixe_zoque:small:3,mixe_zoque:small:1
+mixe_zoque,small,SOTEAPAN_ZOQUE,Suty~u,mixe_zoque:small:5,mixe_zoque:small:1
+mixe_zoque,small,SOUTH_HIGHLAND_MIXE,muck,mixe_zoque:small:2,mixe_zoque:small:2
+mixe_zoque,small,TEXISTEPEC_ZOQUE,h3s3 ba,mixe_zoque:small:4,mixe_zoque:small:4
+mixe_zoque,ear,CHIAPAS_ZOQUE,tac3k,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,MARIA_CHIMALAPA,tac3k,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,MIGUEL_CHIMALAPA,tac3k,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,NORTH_HIGHLAND_MIXE,tack,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,OLUTA_POPOLUCA,tac3k,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,SAYULA_POPOLUCA,tac3k,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,SOTEAPAN_ZOQUE,tacek,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,SOUTH_HIGHLAND_MIXE,tack,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,ear,TEXISTEPEC_ZOQUE,tac3k,mixe_zoque:ear:1,mixe_zoque:ear:1
+mixe_zoque,eye,CHIAPAS_ZOQUE,win,mixe_zoque:eye:1,mixe_zoque:eye:1
+mixe_zoque,eye,LOWLAND_MIXE,win,mixe_zoque:eye:1,mixe_zoque:eye:1
+mixe_zoque,eye,MARIA_CHIMALAPA,wit3m,mixe_zoque:eye:3,mixe_zoque:eye:3
+mixe_zoque,eye,MIGUEL_CHIMALAPA,wot3m,mixe_zoque:eye:3,mixe_zoque:eye:3
+mixe_zoque,eye,NORTH_HIGHLAND_MIXE,vin,mixe_zoque:eye:1,mixe_zoque:eye:1
+mixe_zoque,eye,OLUTA_POPOLUCA,vin3,mixe_zoque:eye:1,mixe_zoque:eye:1
+mixe_zoque,eye,SAYULA_POPOLUCA,win,mixe_zoque:eye:1,mixe_zoque:eye:1
+mixe_zoque,eye,SOTEAPAN_ZOQUE,iS kuy,mixe_zoque:eye:2,mixe_zoque:eye:2
+mixe_zoque,eye,SOUTH_HIGHLAND_MIXE,wen,mixe_zoque:eye:1,mixe_zoque:eye:1
+mixe_zoque,eye,TEXISTEPEC_ZOQUE,eS ku7,mixe_zoque:eye:2,mixe_zoque:eye:2
+mixe_zoque,belly,CHIAPAS_ZOQUE,cek,mixe_zoque:belly:4,mixe_zoque:belly:1
+mixe_zoque,belly,LOWLAND_MIXE,mo7oSak,mixe_zoque:belly:2,mixe_zoque:belly:5
+mixe_zoque,belly,MARIA_CHIMALAPA,cek,mixe_zoque:belly:4,mixe_zoque:belly:1
+mixe_zoque,belly,MIGUEL_CHIMALAPA,cek,mixe_zoque:belly:4,mixe_zoque:belly:1
+mixe_zoque,belly,NORTH_HIGHLAND_MIXE,tinc,mixe_zoque:belly:1,mixe_zoque:belly:2
+mixe_zoque,belly,OLUTA_POPOLUCA,pupu,mixe_zoque:belly:3,mixe_zoque:belly:4
+mixe_zoque,belly,SAYULA_POPOLUCA,tin Cay,mixe_zoque:belly:1,mixe_zoque:belly:2
+mixe_zoque,belly,SOUTH_HIGHLAND_MIXE,mEc,mixe_zoque:belly:5,mixe_zoque:belly:3
+mixe_zoque,belly,TEXISTEPEC_ZOQUE,cek,mixe_zoque:belly:4,mixe_zoque:belly:1
+mixe_zoque,head,CHIAPAS_ZOQUE,kopak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,LOWLAND_MIXE,kowak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,MARIA_CHIMALAPA,way,mixe_zoque:head:2,mixe_zoque:head:2
+mixe_zoque,head,MIGUEL_CHIMALAPA,kopak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,NORTH_HIGHLAND_MIXE,kuvak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,OLUTA_POPOLUCA,kopak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,SAYULA_POPOLUCA,kopak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,SOTEAPAN_ZOQUE,kobak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,SOUTH_HIGHLAND_MIXE,k3pak,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,head,TEXISTEPEC_ZOQUE,kop3k,mixe_zoque:head:1,mixe_zoque:head:1
+mixe_zoque,no,CHIAPAS_ZOQUE,hane,mixe_zoque:no:2,mixe_zoque:no:2
+mixe_zoque,no,LOWLAND_MIXE,ka7,mixe_zoque:no:1,mixe_zoque:no:1
+mixe_zoque,no,MARIA_CHIMALAPA,wat kaha,mixe_zoque:no:2,mixe_zoque:no:7
+mixe_zoque,no,MIGUEL_CHIMALAPA,ya,mixe_zoque:no:2,mixe_zoque:no:6
+mixe_zoque,no,NORTH_HIGHLAND_MIXE,ka7a,mixe_zoque:no:1,mixe_zoque:no:1
+mixe_zoque,no,OLUTA_POPOLUCA,373,mixe_zoque:no:1,mixe_zoque:no:5
+mixe_zoque,no,SAYULA_POPOLUCA,kah,mixe_zoque:no:1,mixe_zoque:no:1
+mixe_zoque,no,SOTEAPAN_ZOQUE,dy~a,mixe_zoque:no:2,mixe_zoque:no:4
+mixe_zoque,no,SOUTH_HIGHLAND_MIXE,kat,mixe_zoque:no:1,mixe_zoque:no:1
+mixe_zoque,no,TEXISTEPEC_ZOQUE,e5C,mixe_zoque:no:2,mixe_zoque:no:3
+mixe_zoque,hand,CHIAPAS_ZOQUE,k37,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,LOWLAND_MIXE,k37,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,MARIA_CHIMALAPA,k37,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,MIGUEL_CHIMALAPA,caN kuy7,mixe_zoque:hand:2,mixe_zoque:hand:2
+mixe_zoque,hand,NORTH_HIGHLAND_MIXE,k373,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,OLUTA_POPOLUCA,k37,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,SAYULA_POPOLUCA,k37,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,SOTEAPAN_ZOQUE,k3,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,SOUTH_HIGHLAND_MIXE,k373,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,hand,TEXISTEPEC_ZOQUE,k37,mixe_zoque:hand:1,mixe_zoque:hand:1
+mixe_zoque,fat,CHIAPAS_ZOQUE,kin3,mixe_zoque:fat:4,mixe_zoque:fat:7
+mixe_zoque,fat,LOWLAND_MIXE,win omb,mixe_zoque:fat:2,mixe_zoque:fat:6
+mixe_zoque,fat,MARIA_CHIMALAPA,grasa,mixe_zoque:fat:6,mixe_zoque:fat:5
+mixe_zoque,fat,MIGUEL_CHIMALAPA,yewe7,mixe_zoque:fat:7,mixe_zoque:fat:2
+mixe_zoque,fat,NORTH_HIGHLAND_MIXE,on,mixe_zoque:fat:1,mixe_zoque:fat:1
+mixe_zoque,fat,OLUTA_POPOLUCA,ona,mixe_zoque:fat:1,mixe_zoque:fat:1
+mixe_zoque,fat,SAYULA_POPOLUCA,o7c3k,mixe_zoque:fat:3,mixe_zoque:fat:4
+mixe_zoque,fat,SOTEAPAN_ZOQUE,p3hi,mixe_zoque:fat:5,mixe_zoque:fat:3
+mixe_zoque,fat,SOUTH_HIGHLAND_MIXE,on,mixe_zoque:fat:1,mixe_zoque:fat:1
+mixe_zoque,cold,CHIAPAS_ZOQUE,pakak,mixe_zoque:cold:5,mixe_zoque:cold:1
+mixe_zoque,cold,LOWLAND_MIXE,t3C,mixe_zoque:cold:2,mixe_zoque:cold:5
+mixe_zoque,cold,MARIA_CHIMALAPA,wayay,mixe_zoque:cold:6,mixe_zoque:cold:3
+mixe_zoque,cold,MIGUEL_CHIMALAPA,wayay7,mixe_zoque:cold:6,mixe_zoque:cold:3
+mixe_zoque,cold,NORTH_HIGHLAND_MIXE,SuS,mixe_zoque:cold:1,mixe_zoque:cold:2
+mixe_zoque,cold,OLUTA_POPOLUCA,tuS3k,mixe_zoque:cold:4,mixe_zoque:cold:4
+mixe_zoque,cold,SAYULA_POPOLUCA,payik,mixe_zoque:cold:3,mixe_zoque:cold:1
+mixe_zoque,cold,SOTEAPAN_ZOQUE,pagak,mixe_zoque:cold:5,mixe_zoque:cold:1
+mixe_zoque,cold,SOUTH_HIGHLAND_MIXE,SuS,mixe_zoque:cold:1,mixe_zoque:cold:2
+mixe_zoque,cold,TEXISTEPEC_ZOQUE,pak,mixe_zoque:cold:5,mixe_zoque:cold:1
+mixe_zoque,foot,CHIAPAS_ZOQUE,neN bak,mixe_zoque:foot:4,mixe_zoque:foot:3
+mixe_zoque,foot,LOWLAND_MIXE,teky,mixe_zoque:foot:1,mixe_zoque:foot:1
+mixe_zoque,foot,MARIA_CHIMALAPA,maN kuy,mixe_zoque:foot:7,mixe_zoque:foot:2
+mixe_zoque,foot,MIGUEL_CHIMALAPA,maN kuy7,mixe_zoque:foot:7,mixe_zoque:foot:2
+mixe_zoque,foot,NORTH_HIGHLAND_MIXE,tek,mixe_zoque:foot:1,mixe_zoque:foot:1
+mixe_zoque,foot,OLUTA_POPOLUCA,k3Sta,mixe_zoque:foot:3,mixe_zoque:foot:7
+mixe_zoque,foot,SAYULA_POPOLUCA,tan,mixe_zoque:foot:2,mixe_zoque:foot:6
+mixe_zoque,foot,SOTEAPAN_ZOQUE,puy,mixe_zoque:foot:6,mixe_zoque:foot:5
+mixe_zoque,foot,SOUTH_HIGHLAND_MIXE,teky,mixe_zoque:foot:1,mixe_zoque:foot:1
+mixe_zoque,foot,TEXISTEPEC_ZOQUE,pak,mixe_zoque:foot:5,mixe_zoque:foot:4
+mixe_zoque,moon,CHIAPAS_ZOQUE,poyah,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,moon,LOWLAND_MIXE,po7,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,moon,MARIA_CHIMALAPA,sepe7,mixe_zoque:moon:2,mixe_zoque:moon:2
+mixe_zoque,moon,MIGUEL_CHIMALAPA,Sepe7,mixe_zoque:moon:2,mixe_zoque:moon:2
+mixe_zoque,moon,NORTH_HIGHLAND_MIXE,po7o,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,moon,OLUTA_POPOLUCA,po7a,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,moon,SAYULA_POPOLUCA,po7,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,moon,SOTEAPAN_ZOQUE,poya,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,moon,SOUTH_HIGHLAND_MIXE,po7o,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,moon,TEXISTEPEC_ZOQUE,poy,mixe_zoque:moon:1,mixe_zoque:moon:1
+mixe_zoque,neck,CHIAPAS_ZOQUE,k3n3,mixe_zoque:neck:2,mixe_zoque:neck:2
+mixe_zoque,neck,LOWLAND_MIXE,yo7ok pak,mixe_zoque:neck:1,mixe_zoque:neck:4
+mixe_zoque,neck,MIGUEL_CHIMALAPA,wintu7,mixe_zoque:neck:3,mixe_zoque:neck:3
+mixe_zoque,neck,NORTH_HIGHLAND_MIXE,yokt,mixe_zoque:neck:1,mixe_zoque:neck:1
+mixe_zoque,neck,SAYULA_POPOLUCA,yok,mixe_zoque:neck:1,mixe_zoque:neck:1
+mixe_zoque,neck,SOUTH_HIGHLAND_MIXE,yokt,mixe_zoque:neck:1,mixe_zoque:neck:1
+mixe_zoque,neck,TEXISTEPEC_ZOQUE,k3n k37,mixe_zoque:neck:2,mixe_zoque:neck:2
+mixe_zoque,white,CHIAPAS_ZOQUE,popo,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,LOWLAND_MIXE,pob,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,MARIA_CHIMALAPA,popo7,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,MIGUEL_CHIMALAPA,popo7,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,NORTH_HIGHLAND_MIXE,pop,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,OLUTA_POPOLUCA,popo7,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,SAYULA_POPOLUCA,pop,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,SOTEAPAN_ZOQUE,po7obap,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,SOUTH_HIGHLAND_MIXE,pop,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,white,TEXISTEPEC_ZOQUE,popo7,mixe_zoque:white:1,mixe_zoque:white:1
+mixe_zoque,eat,CHIAPAS_ZOQUE,k3s,mixe_zoque:eat:3,mixe_zoque:eat:2
+mixe_zoque,eat,LOWLAND_MIXE,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
+mixe_zoque,eat,MARIA_CHIMALAPA,k3s oy,mixe_zoque:eat:3,mixe_zoque:eat:2
+mixe_zoque,eat,MIGUEL_CHIMALAPA,k3S,mixe_zoque:eat:3,mixe_zoque:eat:2
+mixe_zoque,eat,NORTH_HIGHLAND_MIXE,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
+mixe_zoque,eat,OLUTA_POPOLUCA,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
+mixe_zoque,eat,SAYULA_POPOLUCA,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
+mixe_zoque,eat,SOTEAPAN_ZOQUE,k373s,mixe_zoque:eat:3,mixe_zoque:eat:2
+mixe_zoque,eat,SOUTH_HIGHLAND_MIXE,kEy,mixe_zoque:eat:2,mixe_zoque:eat:1
+mixe_zoque,eat,TEXISTEPEC_ZOQUE,k373s,mixe_zoque:eat:3,mixe_zoque:eat:2
+mixe_zoque,sun,CHIAPAS_ZOQUE,hama,mixe_zoque:sun:2,mixe_zoque:sun:2
+mixe_zoque,sun,LOWLAND_MIXE,S3,mixe_zoque:sun:1,mixe_zoque:sun:1
+mixe_zoque,sun,MARIA_CHIMALAPA,hama,mixe_zoque:sun:2,mixe_zoque:sun:2
+mixe_zoque,sun,MIGUEL_CHIMALAPA,hama,mixe_zoque:sun:2,mixe_zoque:sun:2
+mixe_zoque,sun,NORTH_HIGHLAND_MIXE,S3,mixe_zoque:sun:1,mixe_zoque:sun:1
+mixe_zoque,sun,OLUTA_POPOLUCA,S3v3,mixe_zoque:sun:1,mixe_zoque:sun:1
+mixe_zoque,sun,SAYULA_POPOLUCA,S3w,mixe_zoque:sun:1,mixe_zoque:sun:1
+mixe_zoque,sun,SOTEAPAN_ZOQUE,hama,mixe_zoque:sun:2,mixe_zoque:sun:2
+mixe_zoque,sun,SOUTH_HIGHLAND_MIXE,S37an,mixe_zoque:sun:1,mixe_zoque:sun:1
+mixe_zoque,sun,TEXISTEPEC_ZOQUE,ham,mixe_zoque:sun:2,mixe_zoque:sun:2
+mixe_zoque,knee,CHIAPAS_ZOQUE,tuNupyok,mixe_zoque:knee:3,mixe_zoque:knee:3
+mixe_zoque,knee,LOWLAND_MIXE,koSkowak,mixe_zoque:knee:1,mixe_zoque:knee:1
+mixe_zoque,knee,MARIA_CHIMALAPA,koma,mixe_zoque:knee:2,mixe_zoque:knee:2
+mixe_zoque,knee,MIGUEL_CHIMALAPA,koma7,mixe_zoque:knee:2,mixe_zoque:knee:2
+mixe_zoque,knee,NORTH_HIGHLAND_MIXE,koS,mixe_zoque:knee:1,mixe_zoque:knee:1
+mixe_zoque,knee,OLUTA_POPOLUCA,koSo,mixe_zoque:knee:1,mixe_zoque:knee:1
+mixe_zoque,knee,SAYULA_POPOLUCA,koSk,mixe_zoque:knee:1,mixe_zoque:knee:1
+mixe_zoque,knee,SOTEAPAN_ZOQUE,koso,mixe_zoque:knee:1,mixe_zoque:knee:1
+mixe_zoque,knee,SOUTH_HIGHLAND_MIXE,koS,mixe_zoque:knee:1,mixe_zoque:knee:1
+mixe_zoque,knee,TEXISTEPEC_ZOQUE,koso,mixe_zoque:knee:1,mixe_zoque:knee:1
+mixe_zoque,tooth,CHIAPAS_ZOQUE,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,LOWLAND_MIXE,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,MARIA_CHIMALAPA,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,MIGUEL_CHIMALAPA,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,NORTH_HIGHLAND_MIXE,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,OLUTA_POPOLUCA,t3c3,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,SAYULA_POPOLUCA,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,SOTEAPAN_ZOQUE,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,SOUTH_HIGHLAND_MIXE,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,tooth,TEXISTEPEC_ZOQUE,t3c,mixe_zoque:tooth:1,mixe_zoque:tooth:1
+mixe_zoque,louse,CHIAPAS_ZOQUE,awat,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,louse,LOWLAND_MIXE,ad,mixe_zoque:louse:1,mixe_zoque:louse:1
+mixe_zoque,louse,MARIA_CHIMALAPA,awat,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,louse,MIGUEL_CHIMALAPA,awat,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,louse,NORTH_HIGHLAND_MIXE,37c,mixe_zoque:louse:1,mixe_zoque:louse:2
+mixe_zoque,louse,OLUTA_POPOLUCA,avat,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,louse,SAYULA_POPOLUCA,awat,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,louse,SOTEAPAN_ZOQUE,a7awat,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,louse,SOUTH_HIGHLAND_MIXE,a7at,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,louse,TEXISTEPEC_ZOQUE,awat,mixe_zoque:louse:2,mixe_zoque:louse:1
+mixe_zoque,horn,CHIAPAS_ZOQUE,wa7,mixe_zoque:horn:1,mixe_zoque:horn:1
+mixe_zoque,horn,LOWLAND_MIXE,mun,mixe_zoque:horn:2,mixe_zoque:horn:2
+mixe_zoque,horn,MIGUEL_CHIMALAPA,weka7,mixe_zoque:horn:3,mixe_zoque:horn:1
+mixe_zoque,horn,NORTH_HIGHLAND_MIXE,vah,mixe_zoque:horn:1,mixe_zoque:horn:1
+mixe_zoque,horn,OLUTA_POPOLUCA,vaha,mixe_zoque:horn:1,mixe_zoque:horn:1
+mixe_zoque,horn,SAYULA_POPOLUCA,wah,mixe_zoque:horn:1,mixe_zoque:horn:1
+mixe_zoque,horn,SOUTH_HIGHLAND_MIXE,wah,mixe_zoque:horn:1,mixe_zoque:horn:1
+mixe_zoque,horn,TEXISTEPEC_ZOQUE,waNa7,mixe_zoque:horn:1,mixe_zoque:horn:1
+mixe_zoque,bone,CHIAPAS_ZOQUE,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,LOWLAND_MIXE,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,MARIA_CHIMALAPA,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,MIGUEL_CHIMALAPA,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,NORTH_HIGHLAND_MIXE,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,OLUTA_POPOLUCA,pak3,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,SAYULA_POPOLUCA,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,SOTEAPAN_ZOQUE,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,SOUTH_HIGHLAND_MIXE,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,bone,TEXISTEPEC_ZOQUE,pak,mixe_zoque:bone:1,mixe_zoque:bone:1
+mixe_zoque,round,CHIAPAS_ZOQUE,huyuh,mixe_zoque:round:2,mixe_zoque:round:1
+mixe_zoque,round,LOWLAND_MIXE,pik,mixe_zoque:round:1,mixe_zoque:round:2
+mixe_zoque,round,NORTH_HIGHLAND_MIXE,piguk,mixe_zoque:round:1,mixe_zoque:round:2
+mixe_zoque,round,SAYULA_POPOLUCA,hoyoy,mixe_zoque:round:2,mixe_zoque:round:1
+mixe_zoque,round,SOTEAPAN_ZOQUE,woyo,mixe_zoque:round:3,mixe_zoque:round:1
+mixe_zoque,round,SOUTH_HIGHLAND_MIXE,pek,mixe_zoque:round:1,mixe_zoque:round:2
+mixe_zoque,round,TEXISTEPEC_ZOQUE,woy woy Ce,mixe_zoque:round:3,mixe_zoque:round:3
+mixe_zoque,dry,CHIAPAS_ZOQUE,t3c,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,LOWLAND_MIXE,t373c,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,MARIA_CHIMALAPA,yak y3c,mixe_zoque:dry:1,mixe_zoque:dry:2
+mixe_zoque,dry,MIGUEL_CHIMALAPA,t3ci7,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,NORTH_HIGHLAND_MIXE,t373c,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,OLUTA_POPOLUCA,t373s,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,SAYULA_POPOLUCA,kuyt3c,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,SOTEAPAN_ZOQUE,ku t3c,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,SOUTH_HIGHLAND_MIXE,t373c,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,dry,TEXISTEPEC_ZOQUE,t3c ka7,mixe_zoque:dry:1,mixe_zoque:dry:1
+mixe_zoque,drink,CHIAPAS_ZOQUE,uhk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,LOWLAND_MIXE,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,MARIA_CHIMALAPA,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,MIGUEL_CHIMALAPA,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,NORTH_HIGHLAND_MIXE,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,OLUTA_POPOLUCA,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,SAYULA_POPOLUCA,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,SOTEAPAN_ZOQUE,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,SOUTH_HIGHLAND_MIXE,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,drink,TEXISTEPEC_ZOQUE,uk,mixe_zoque:drink:1,mixe_zoque:drink:1
+mixe_zoque,breast,CHIAPAS_ZOQUE,cuci,mixe_zoque:breast:5,mixe_zoque:breast:1
+mixe_zoque,breast,LOWLAND_MIXE,ci7ic ani7ikS,mixe_zoque:breast:2,mixe_zoque:breast:7
+mixe_zoque,breast,MIGUEL_CHIMALAPA,cuci7,mixe_zoque:breast:5,mixe_zoque:breast:1
+mixe_zoque,breast,NORTH_HIGHLAND_MIXE,huta,mixe_zoque:breast:1,mixe_zoque:breast:6
+mixe_zoque,breast,SAYULA_POPOLUCA,moy,mixe_zoque:breast:3,mixe_zoque:breast:5
+mixe_zoque,breast,SOTEAPAN_ZOQUE,nunu,mixe_zoque:breast:4,mixe_zoque:breast:4
+mixe_zoque,breast,SOUTH_HIGHLAND_MIXE,ceck,mixe_zoque:breast:2,mixe_zoque:breast:3
+mixe_zoque,breast,TEXISTEPEC_ZOQUE,dun,mixe_zoque:breast:4,mixe_zoque:breast:2
+mixe_zoque,bite,CHIAPAS_ZOQUE,kec,mixe_zoque:bite:5,mixe_zoque:bite:2
+mixe_zoque,bite,LOWLAND_MIXE,noc,mixe_zoque:bite:2,mixe_zoque:bite:4
+mixe_zoque,bite,MIGUEL_CHIMALAPA,waS,mixe_zoque:bite:6,mixe_zoque:bite:3
+mixe_zoque,bite,NORTH_HIGHLAND_MIXE,cu7uc,mixe_zoque:bite:1,mixe_zoque:bite:1
+mixe_zoque,bite,OLUTA_POPOLUCA,cuc,mixe_zoque:bite:4,mixe_zoque:bite:1
+mixe_zoque,bite,SAYULA_POPOLUCA,kuto7,mixe_zoque:bite:3,mixe_zoque:bite:5
+mixe_zoque,bite,SOTEAPAN_ZOQUE,was,mixe_zoque:bite:6,mixe_zoque:bite:3
+mixe_zoque,bite,SOUTH_HIGHLAND_MIXE,cu7uc,mixe_zoque:bite:1,mixe_zoque:bite:1
+mixe_zoque,bite,TEXISTEPEC_ZOQUE,kec,mixe_zoque:bite:5,mixe_zoque:bite:2
+mixe_zoque,name,CHIAPAS_ZOQUE,n3y,mixe_zoque:name:2,mixe_zoque:name:1
+mixe_zoque,name,LOWLAND_MIXE,S3,mixe_zoque:name:1,mixe_zoque:name:2
+mixe_zoque,name,MARIA_CHIMALAPA,n3hi,mixe_zoque:name:2,mixe_zoque:name:1
+mixe_zoque,name,MIGUEL_CHIMALAPA,h3hi,mixe_zoque:name:2,mixe_zoque:name:1
+mixe_zoque,name,NORTH_HIGHLAND_MIXE,S3,mixe_zoque:name:1,mixe_zoque:name:2
+mixe_zoque,name,OLUTA_POPOLUCA,S3v3,mixe_zoque:name:1,mixe_zoque:name:2
+mixe_zoque,name,SAYULA_POPOLUCA,n3hy,mixe_zoque:name:2,mixe_zoque:name:1
+mixe_zoque,name,SOTEAPAN_ZOQUE,n3yi,mixe_zoque:name:2,mixe_zoque:name:1
+mixe_zoque,name,SOUTH_HIGHLAND_MIXE,S3,mixe_zoque:name:1,mixe_zoque:name:2
+mixe_zoque,name,TEXISTEPEC_ZOQUE,d3y,mixe_zoque:name:2,mixe_zoque:name:1
+mixe_zoque,hear,CHIAPAS_ZOQUE,matoN,mixe_zoque:hear:1,mixe_zoque:hear:1
+mixe_zoque,hear,LOWLAND_MIXE,m3dogug37,mixe_zoque:hear:1,mixe_zoque:hear:4
+mixe_zoque,hear,MARIA_CHIMALAPA,matoN,mixe_zoque:hear:1,mixe_zoque:hear:1
+mixe_zoque,hear,MIGUEL_CHIMALAPA,matoN,mixe_zoque:hear:1,mixe_zoque:hear:1
+mixe_zoque,hear,NORTH_HIGHLAND_MIXE,motu,mixe_zoque:hear:1,mixe_zoque:hear:1
+mixe_zoque,hear,OLUTA_POPOLUCA,motov,mixe_zoque:hear:1,mixe_zoque:hear:1
+mixe_zoque,hear,SAYULA_POPOLUCA,maraw,mixe_zoque:hear:1,mixe_zoque:hear:3
+mixe_zoque,hear,SOTEAPAN_ZOQUE,aN t3n,mixe_zoque:hear:2,mixe_zoque:hear:2
+mixe_zoque,hear,SOUTH_HIGHLAND_MIXE,m3to,mixe_zoque:hear:1,mixe_zoque:hear:1
+mixe_zoque,hear,TEXISTEPEC_ZOQUE,bat3N,mixe_zoque:hear:1,mixe_zoque:hear:1
+mixe_zoque,see,CHIAPAS_ZOQUE,is,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,LOWLAND_MIXE,iS,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,MARIA_CHIMALAPA,is,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,MIGUEL_CHIMALAPA,iS,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,NORTH_HIGHLAND_MIXE,iS,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,SAYULA_POPOLUCA,iS,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,SOTEAPAN_ZOQUE,i7iS,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,SOUTH_HIGHLAND_MIXE,eS,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,see,TEXISTEPEC_ZOQUE,eS,mixe_zoque:see:1,mixe_zoque:see:1
+mixe_zoque,know,CHIAPAS_ZOQUE,mus,mixe_zoque:know:3,mixe_zoque:know:1
+mixe_zoque,know,LOWLAND_MIXE,new3y,mixe_zoque:know:2,mixe_zoque:know:7
+mixe_zoque,know,MARIA_CHIMALAPA,mus,mixe_zoque:know:3,mixe_zoque:know:1
+mixe_zoque,know,MIGUEL_CHIMALAPA,muS,mixe_zoque:know:3,mixe_zoque:know:1
+mixe_zoque,know,NORTH_HIGHLAND_MIXE,n3hava,mixe_zoque:know:1,mixe_zoque:know:6
+mixe_zoque,know,OLUTA_POPOLUCA,viniy,mixe_zoque:know:2,mixe_zoque:know:5
+mixe_zoque,know,SAYULA_POPOLUCA,hawi,mixe_zoque:know:2,mixe_zoque:know:4
+mixe_zoque,know,SOTEAPAN_ZOQUE,hodoN,mixe_zoque:know:4,mixe_zoque:know:3
+mixe_zoque,know,SOUTH_HIGHLAND_MIXE,naw,mixe_zoque:know:1,mixe_zoque:know:2
+mixe_zoque,know,TEXISTEPEC_ZOQUE,bus,mixe_zoque:know:3,mixe_zoque:know:1
+mixe_zoque,lie,CHIAPAS_ZOQUE,3kgek,mixe_zoque:lie:8,mixe_zoque:lie:8
+mixe_zoque,lie,LOWLAND_MIXE,ko7ok,mixe_zoque:lie:2,mixe_zoque:lie:1
+mixe_zoque,lie,MARIA_CHIMALAPA,moN k3take,mixe_zoque:lie:7,mixe_zoque:lie:7
+mixe_zoque,lie,MIGUEL_CHIMALAPA,moN,mixe_zoque:lie:7,mixe_zoque:lie:6
+mixe_zoque,lie,NORTH_HIGHLAND_MIXE,mava,mixe_zoque:lie:1,mixe_zoque:lie:5
+mixe_zoque,lie,OLUTA_POPOLUCA,Sok,mixe_zoque:lie:4,mixe_zoque:lie:1
+mixe_zoque,lie,SAYULA_POPOLUCA,k3mna,mixe_zoque:lie:3,mixe_zoque:lie:4
+mixe_zoque,lie,SOTEAPAN_ZOQUE,wone7e,mixe_zoque:lie:6,mixe_zoque:lie:3
+mixe_zoque,lie,SOUTH_HIGHLAND_MIXE,ko7ok,mixe_zoque:lie:2,mixe_zoque:lie:1
+mixe_zoque,lie,TEXISTEPEC_ZOQUE,kas de7,mixe_zoque:lie:5,mixe_zoque:lie:2
+mixe_zoque,sit,CHIAPAS_ZOQUE,poks,mixe_zoque:sit:4,mixe_zoque:sit:4
+mixe_zoque,sit,LOWLAND_MIXE,iny3y,mixe_zoque:sit:2,mixe_zoque:sit:3
+mixe_zoque,sit,MARIA_CHIMALAPA,c3nay,mixe_zoque:sit:1,mixe_zoque:sit:1
+mixe_zoque,sit,MIGUEL_CHIMALAPA,c3n,mixe_zoque:sit:1,mixe_zoque:sit:1
+mixe_zoque,sit,NORTH_HIGHLAND_MIXE,cuna,mixe_zoque:sit:1,mixe_zoque:sit:1
+mixe_zoque,sit,OLUTA_POPOLUCA,huni,mixe_zoque:sit:3,mixe_zoque:sit:5
+mixe_zoque,sit,SAYULA_POPOLUCA,c3na,mixe_zoque:sit:1,mixe_zoque:sit:1
+mixe_zoque,sit,SOTEAPAN_ZOQUE,ko5,mixe_zoque:sit:5,mixe_zoque:sit:2
+mixe_zoque,sit,SOUTH_HIGHLAND_MIXE,c3n,mixe_zoque:sit:1,mixe_zoque:sit:1
+mixe_zoque,sit,TEXISTEPEC_ZOQUE,kon,mixe_zoque:sit:5,mixe_zoque:sit:2
+mixe_zoque,kill,CHIAPAS_ZOQUE,yah ka7,mixe_zoque:kill:2,mixe_zoque:kill:1
+mixe_zoque,kill,LOWLAND_MIXE,yah o7ok,mixe_zoque:kill:1,mixe_zoque:kill:1
+mixe_zoque,kill,MARIA_CHIMALAPA,yak kah,mixe_zoque:kill:2,mixe_zoque:kill:1
+mixe_zoque,kill,MIGUEL_CHIMALAPA,yak 7oy,mixe_zoque:kill:3,mixe_zoque:kill:1
+mixe_zoque,kill,NORTH_HIGHLAND_MIXE,yak 7ok,mixe_zoque:kill:1,mixe_zoque:kill:1
+mixe_zoque,kill,OLUTA_POPOLUCA,yak ok,mixe_zoque:kill:1,mixe_zoque:kill:1
+mixe_zoque,kill,SAYULA_POPOLUCA,ag o7k,mixe_zoque:kill:1,mixe_zoque:kill:1
+mixe_zoque,kill,SOTEAPAN_ZOQUE,ik ka7,mixe_zoque:kill:2,mixe_zoque:kill:1
+mixe_zoque,kill,SOUTH_HIGHLAND_MIXE,Ek ok,mixe_zoque:kill:1,mixe_zoque:kill:1
+mixe_zoque,kill,TEXISTEPEC_ZOQUE,yaka7,mixe_zoque:kill:2,mixe_zoque:kill:1
+mixe_zoque,yellow,CHIAPAS_ZOQUE,puc3,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,LOWLAND_MIXE,puc,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,MARIA_CHIMALAPA,puci7,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,MIGUEL_CHIMALAPA,puc,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,NORTH_HIGHLAND_MIXE,puc,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,OLUTA_POPOLUCA,pus,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,SAYULA_POPOLUCA,puc,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,SOTEAPAN_ZOQUE,pu7uC,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,SOUTH_HIGHLAND_MIXE,puc,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,yellow,TEXISTEPEC_ZOQUE,pu7uC e7,mixe_zoque:yellow:1,mixe_zoque:yellow:1
+mixe_zoque,green,CHIAPAS_ZOQUE,cucu,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,LOWLAND_MIXE,cuS,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,MARIA_CHIMALAPA,cuhus,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,MIGUEL_CHIMALAPA,cuS,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,NORTH_HIGHLAND_MIXE,cuSk,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,OLUTA_POPOLUCA,tuSuk,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,SAYULA_POPOLUCA,SuSuk,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,SOTEAPAN_ZOQUE,cus,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,SOUTH_HIGHLAND_MIXE,cuSk,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,green,TEXISTEPEC_ZOQUE,cus,mixe_zoque:green:1,mixe_zoque:green:1
+mixe_zoque,full,CHIAPAS_ZOQUE,ho73yup3,mixe_zoque:full:5,mixe_zoque:full:6
+mixe_zoque,full,LOWLAND_MIXE,ku7uSy,mixe_zoque:full:2,mixe_zoque:full:5
+mixe_zoque,full,MARIA_CHIMALAPA,yag aN tas,mixe_zoque:full:7,mixe_zoque:full:3
+mixe_zoque,full,MIGUEL_CHIMALAPA,taS37,mixe_zoque:full:7,mixe_zoque:full:7
+mixe_zoque,full,NORTH_HIGHLAND_MIXE,uc,mixe_zoque:full:1,mixe_zoque:full:1
+mixe_zoque,full,OLUTA_POPOLUCA,uci,mixe_zoque:full:1,mixe_zoque:full:1
+mixe_zoque,full,SAYULA_POPOLUCA,pacik,mixe_zoque:full:3,mixe_zoque:full:4
+mixe_zoque,full,SOTEAPAN_ZOQUE,kus ne,mixe_zoque:full:6,mixe_zoque:full:2
+mixe_zoque,full,SOUTH_HIGHLAND_MIXE,uhc,mixe_zoque:full:1,mixe_zoque:full:1
+mixe_zoque,full,TEXISTEPEC_ZOQUE,kus de7,mixe_zoque:full:6,mixe_zoque:full:2
+mixe_zoque,star,CHIAPAS_ZOQUE,maca,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,LOWLAND_MIXE,maca7,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,MARIA_CHIMALAPA,maca7,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,MIGUEL_CHIMALAPA,maca7,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,NORTH_HIGHLAND_MIXE,maca,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,OLUTA_POPOLUCA,maca7a7k,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,SAYULA_POPOLUCA,mac,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,SOTEAPAN_ZOQUE,maca,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,SOUTH_HIGHLAND_MIXE,maca7a,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,star,TEXISTEPEC_ZOQUE,baca7,mixe_zoque:star:1,mixe_zoque:star:1
+mixe_zoque,swim,CHIAPAS_ZOQUE,hemu,mixe_zoque:swim:4,mixe_zoque:swim:4
+mixe_zoque,swim,LOWLAND_MIXE,yab,mixe_zoque:swim:2,mixe_zoque:swim:3
+mixe_zoque,swim,MARIA_CHIMALAPA,yun,mixe_zoque:swim:3,mixe_zoque:swim:1
+mixe_zoque,swim,MIGUEL_CHIMALAPA,yuk,mixe_zoque:swim:6,mixe_zoque:swim:1
+mixe_zoque,swim,NORTH_HIGHLAND_MIXE,n3 vun,mixe_zoque:swim:1,mixe_zoque:swim:2
+mixe_zoque,swim,OLUTA_POPOLUCA,yun,mixe_zoque:swim:3,mixe_zoque:swim:1
+mixe_zoque,swim,SAYULA_POPOLUCA,yun,mixe_zoque:swim:3,mixe_zoque:swim:1
+mixe_zoque,swim,SOTEAPAN_ZOQUE,pun,mixe_zoque:swim:5,mixe_zoque:swim:1
+mixe_zoque,swim,SOUTH_HIGHLAND_MIXE,n3 yum,mixe_zoque:swim:3,mixe_zoque:swim:2
+mixe_zoque,swim,TEXISTEPEC_ZOQUE,p3n,mixe_zoque:swim:5,mixe_zoque:swim:1
+mixe_zoque,fly,CHIAPAS_ZOQUE,sitit,mixe_zoque:fly:4,mixe_zoque:fly:4
+mixe_zoque,fly,LOWLAND_MIXE,kek,mixe_zoque:fly:2,mixe_zoque:fly:1
+mixe_zoque,fly,MARIA_CHIMALAPA,kek,mixe_zoque:fly:2,mixe_zoque:fly:1
+mixe_zoque,fly,MIGUEL_CHIMALAPA,yuk kek,mixe_zoque:fly:2,mixe_zoque:fly:1
+mixe_zoque,fly,NORTH_HIGHLAND_MIXE,h3y,mixe_zoque:fly:1,mixe_zoque:fly:3
+mixe_zoque,fly,OLUTA_POPOLUCA,napap,mixe_zoque:fly:3,mixe_zoque:fly:2
+mixe_zoque,fly,SAYULA_POPOLUCA,kek,mixe_zoque:fly:2,mixe_zoque:fly:1
+mixe_zoque,fly,SOTEAPAN_ZOQUE,kek,mixe_zoque:fly:2,mixe_zoque:fly:1
+mixe_zoque,fly,SOUTH_HIGHLAND_MIXE,kEk373k,mixe_zoque:fly:2,mixe_zoque:fly:1
+mixe_zoque,fly,TEXISTEPEC_ZOQUE,kek,mixe_zoque:fly:2,mixe_zoque:fly:1
+mixe_zoque,stand,CHIAPAS_ZOQUE,tenay,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,LOWLAND_MIXE,tenay,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,MIGUEL_CHIMALAPA,ten,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,NORTH_HIGHLAND_MIXE,tena,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,OLUTA_POPOLUCA,teniy,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,SAYULA_POPOLUCA,tena,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,SOTEAPAN_ZOQUE,te5,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,SOUTH_HIGHLAND_MIXE,t3nEy,mixe_zoque:stand:1,mixe_zoque:stand:1
+mixe_zoque,stand,TEXISTEPEC_ZOQUE,hop de7,mixe_zoque:stand:2,mixe_zoque:stand:2
+mixe_zoque,walk,CHIAPAS_ZOQUE,wit,mixe_zoque:walk:2,mixe_zoque:walk:1
+mixe_zoque,walk,LOWLAND_MIXE,yo7oy,mixe_zoque:walk:1,mixe_zoque:walk:2
+mixe_zoque,walk,MIGUEL_CHIMALAPA,wit,mixe_zoque:walk:2,mixe_zoque:walk:1
+mixe_zoque,walk,NORTH_HIGHLAND_MIXE,yo7oy,mixe_zoque:walk:1,mixe_zoque:walk:2
+mixe_zoque,walk,OLUTA_POPOLUCA,vit,mixe_zoque:walk:2,mixe_zoque:walk:1
+mixe_zoque,walk,SAYULA_POPOLUCA,yoy,mixe_zoque:walk:1,mixe_zoque:walk:2
+mixe_zoque,walk,SOTEAPAN_ZOQUE,wity~,mixe_zoque:walk:2,mixe_zoque:walk:1
+mixe_zoque,walk,SOUTH_HIGHLAND_MIXE,yo7oy,mixe_zoque:walk:1,mixe_zoque:walk:2
+mixe_zoque,walk,TEXISTEPEC_ZOQUE,weC,mixe_zoque:walk:2,mixe_zoque:walk:1
+mixe_zoque,come,CHIAPAS_ZOQUE,min,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,LOWLAND_MIXE,min,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,MARIA_CHIMALAPA,min,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,MIGUEL_CHIMALAPA,min,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,NORTH_HIGHLAND_MIXE,mec,mixe_zoque:come:1,mixe_zoque:come:1
+mixe_zoque,come,OLUTA_POPOLUCA,min,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,SAYULA_POPOLUCA,min,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,SOTEAPAN_ZOQUE,mi5,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,SOUTH_HIGHLAND_MIXE,men,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,come,TEXISTEPEC_ZOQUE,be5,mixe_zoque:come:2,mixe_zoque:come:1
+mixe_zoque,give,CHIAPAS_ZOQUE,Ci7,mixe_zoque:give:2,mixe_zoque:give:1
+mixe_zoque,give,LOWLAND_MIXE,mo7,mixe_zoque:give:1,mixe_zoque:give:2
+mixe_zoque,give,MARIA_CHIMALAPA,ci7,mixe_zoque:give:2,mixe_zoque:give:1
+mixe_zoque,give,MIGUEL_CHIMALAPA,ci7,mixe_zoque:give:2,mixe_zoque:give:1
+mixe_zoque,give,NORTH_HIGHLAND_MIXE,m373,mixe_zoque:give:1,mixe_zoque:give:2
+mixe_zoque,give,OLUTA_POPOLUCA,moy,mixe_zoque:give:1,mixe_zoque:give:2
+mixe_zoque,give,SAYULA_POPOLUCA,moy,mixe_zoque:give:1,mixe_zoque:give:2
+mixe_zoque,give,SOTEAPAN_ZOQUE,Ci7,mixe_zoque:give:2,mixe_zoque:give:1
+mixe_zoque,give,SOUTH_HIGHLAND_MIXE,yak,mixe_zoque:give:3,mixe_zoque:give:3
+mixe_zoque,give,TEXISTEPEC_ZOQUE,Ce7,mixe_zoque:give:2,mixe_zoque:give:1
+mixe_zoque,say,CHIAPAS_ZOQUE,n3m,mixe_zoque:say:4,mixe_zoque:say:1
+mixe_zoque,say,LOWLAND_MIXE,m3nan,mixe_zoque:say:2,mixe_zoque:say:4
+mixe_zoque,say,MARIA_CHIMALAPA,n3m,mixe_zoque:say:4,mixe_zoque:say:1
+mixe_zoque,say,MIGUEL_CHIMALAPA,n3m,mixe_zoque:say:4,mixe_zoque:say:1
+mixe_zoque,say,NORTH_HIGHLAND_MIXE,va7a5,mixe_zoque:say:1,mixe_zoque:say:3
+mixe_zoque,say,OLUTA_POPOLUCA,n3m,mixe_zoque:say:4,mixe_zoque:say:1
+mixe_zoque,say,SAYULA_POPOLUCA,n3m,mixe_zoque:say:4,mixe_zoque:say:1
+mixe_zoque,say,SOTEAPAN_ZOQUE,n3m,mixe_zoque:say:4,mixe_zoque:say:1
+mixe_zoque,say,SOUTH_HIGHLAND_MIXE,n3 kapS,mixe_zoque:say:5,mixe_zoque:say:2
+mixe_zoque,say,TEXISTEPEC_ZOQUE,d3m,mixe_zoque:say:4,mixe_zoque:say:1
+mixe_zoque,cloud,CHIAPAS_ZOQUE,o7na,mixe_zoque:cloud:3,mixe_zoque:cloud:6
+mixe_zoque,cloud,LOWLAND_MIXE,hok,mixe_zoque:cloud:2,mixe_zoque:cloud:4
+mixe_zoque,cloud,MIGUEL_CHIMALAPA,in37,mixe_zoque:cloud:1,mixe_zoque:cloud:3
+mixe_zoque,cloud,NORTH_HIGHLAND_MIXE,vinuc,mixe_zoque:cloud:1,mixe_zoque:cloud:1
+mixe_zoque,cloud,OLUTA_POPOLUCA,vin hoyek,mixe_zoque:cloud:1,mixe_zoque:cloud:1
+mixe_zoque,cloud,SAYULA_POPOLUCA,win tuk,mixe_zoque:cloud:1,mixe_zoque:cloud:1
+mixe_zoque,cloud,SOTEAPAN_ZOQUE,uks3,mixe_zoque:cloud:4,mixe_zoque:cloud:2
+mixe_zoque,cloud,SOUTH_HIGHLAND_MIXE,n3ma7a,mixe_zoque:cloud:5,mixe_zoque:cloud:5
+mixe_zoque,cloud,TEXISTEPEC_ZOQUE,u7ksu7,mixe_zoque:cloud:4,mixe_zoque:cloud:2
+mixe_zoque,one,CHIAPAS_ZOQUE,tum3,mixe_zoque:one:2,mixe_zoque:one:1
+mixe_zoque,one,LOWLAND_MIXE,tu7uk,mixe_zoque:one:1,mixe_zoque:one:1
+mixe_zoque,one,MARIA_CHIMALAPA,tum3,mixe_zoque:one:2,mixe_zoque:one:1
+mixe_zoque,one,MIGUEL_CHIMALAPA,tum3,mixe_zoque:one:2,mixe_zoque:one:1
+mixe_zoque,one,NORTH_HIGHLAND_MIXE,tuk,mixe_zoque:one:1,mixe_zoque:one:1
+mixe_zoque,one,OLUTA_POPOLUCA,tuk,mixe_zoque:one:1,mixe_zoque:one:1
+mixe_zoque,one,SAYULA_POPOLUCA,tuk,mixe_zoque:one:1,mixe_zoque:one:1
+mixe_zoque,one,SOTEAPAN_ZOQUE,tum,mixe_zoque:one:2,mixe_zoque:one:1
+mixe_zoque,one,SOUTH_HIGHLAND_MIXE,tu7uk,mixe_zoque:one:1,mixe_zoque:one:1
+mixe_zoque,one,TEXISTEPEC_ZOQUE,tum,mixe_zoque:one:2,mixe_zoque:one:1
+mixe_zoque,die,CHIAPAS_ZOQUE,ka7,mixe_zoque:die:2,mixe_zoque:die:1
+mixe_zoque,die,LOWLAND_MIXE,o7ok,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,MARIA_CHIMALAPA,kah,mixe_zoque:die:2,mixe_zoque:die:1
+mixe_zoque,die,MIGUEL_CHIMALAPA,ka7,mixe_zoque:die:2,mixe_zoque:die:1
+mixe_zoque,die,NORTH_HIGHLAND_MIXE,o7k,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,OLUTA_POPOLUCA,ok,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,SAYULA_POPOLUCA,o7k,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,SOTEAPAN_ZOQUE,ka7,mixe_zoque:die:2,mixe_zoque:die:1
+mixe_zoque,die,SOUTH_HIGHLAND_MIXE,ok,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,TEXISTEPEC_ZOQUE,ka7,mixe_zoque:die:2,mixe_zoque:die:1
+mixe_zoque,two,CHIAPAS_ZOQUE,meca,mixe_zoque:two:1,mixe_zoque:two:2
+mixe_zoque,two,LOWLAND_MIXE,mec,mixe_zoque:two:1,mixe_zoque:two:1
+mixe_zoque,two,MARIA_CHIMALAPA,mec a7aN,mixe_zoque:two:3,mixe_zoque:two:2
+mixe_zoque,two,MIGUEL_CHIMALAPA,meca 7aN,mixe_zoque:two:3,mixe_zoque:two:2
+mixe_zoque,two,NORTH_HIGHLAND_MIXE,meck,mixe_zoque:two:1,mixe_zoque:two:1
+mixe_zoque,two,OLUTA_POPOLUCA,mes ko,mixe_zoque:two:1,mixe_zoque:two:1
+mixe_zoque,two,SAYULA_POPOLUCA,meCk,mixe_zoque:two:1,mixe_zoque:two:1
+mixe_zoque,two,SOTEAPAN_ZOQUE,w3s ten,mixe_zoque:two:2,mixe_zoque:two:3
+mixe_zoque,two,SOUTH_HIGHLAND_MIXE,meck,mixe_zoque:two:1,mixe_zoque:two:1
+mixe_zoque,two,TEXISTEPEC_ZOQUE,w3s na7,mixe_zoque:two:2,mixe_zoque:two:3
+mixe_zoque,man,CHIAPAS_ZOQUE,p3n,mixe_zoque:man:4,mixe_zoque:man:1
+mixe_zoque,man,LOWLAND_MIXE,ye7ey d3k,mixe_zoque:man:1,mixe_zoque:man:2
+mixe_zoque,man,MARIA_CHIMALAPA,p3n,mixe_zoque:man:4,mixe_zoque:man:1
+mixe_zoque,man,MIGUEL_CHIMALAPA,p3n,mixe_zoque:man:4,mixe_zoque:man:1
+mixe_zoque,man,NORTH_HIGHLAND_MIXE,yaty3k,mixe_zoque:man:1,mixe_zoque:man:2
+mixe_zoque,man,OLUTA_POPOLUCA,yo7owa,mixe_zoque:man:3,mixe_zoque:man:4
+mixe_zoque,man,SAYULA_POPOLUCA,hayaw,mixe_zoque:man:2,mixe_zoque:man:3
+mixe_zoque,man,SOTEAPAN_ZOQUE,p3Si5,mixe_zoque:man:4,mixe_zoque:man:1
+mixe_zoque,man,SOUTH_HIGHLAND_MIXE,h3ty3k,mixe_zoque:man:1,mixe_zoque:man:2
+mixe_zoque,man,TEXISTEPEC_ZOQUE,p35,mixe_zoque:man:4,mixe_zoque:man:1
+mixe_zoque,red,CHIAPAS_ZOQUE,capas,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,LOWLAND_MIXE,capc,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,MARIA_CHIMALAPA,capac,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,MIGUEL_CHIMALAPA,capac,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,NORTH_HIGHLAND_MIXE,capc,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,OLUTA_POPOLUCA,capas,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,SAYULA_POPOLUCA,cabac,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,SOTEAPAN_ZOQUE,cabac,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,SOUTH_HIGHLAND_MIXE,caps,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,red,TEXISTEPEC_ZOQUE,capac,mixe_zoque:red:1,mixe_zoque:red:1
+mixe_zoque,sleep,CHIAPAS_ZOQUE,3N,mixe_zoque:sleep:2,mixe_zoque:sleep:1
+mixe_zoque,sleep,LOWLAND_MIXE,ma7,mixe_zoque:sleep:1,mixe_zoque:sleep:1
+mixe_zoque,sleep,MARIA_CHIMALAPA,moN,mixe_zoque:sleep:3,mixe_zoque:sleep:1
+mixe_zoque,sleep,MIGUEL_CHIMALAPA,kap ney,mixe_zoque:sleep:4,mixe_zoque:sleep:2
+mixe_zoque,sleep,NORTH_HIGHLAND_MIXE,ma7a,mixe_zoque:sleep:1,mixe_zoque:sleep:1
+mixe_zoque,sleep,OLUTA_POPOLUCA,ma,mixe_zoque:sleep:1,mixe_zoque:sleep:1
+mixe_zoque,sleep,SAYULA_POPOLUCA,ma7,mixe_zoque:sleep:1,mixe_zoque:sleep:1
+mixe_zoque,sleep,SOTEAPAN_ZOQUE,moN,mixe_zoque:sleep:3,mixe_zoque:sleep:1
+mixe_zoque,sleep,SOUTH_HIGHLAND_MIXE,ma7a,mixe_zoque:sleep:1,mixe_zoque:sleep:1
+mixe_zoque,sleep,TEXISTEPEC_ZOQUE,boN,mixe_zoque:sleep:3,mixe_zoque:sleep:1
+mixe_zoque,black,CHIAPAS_ZOQUE,y3k,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,black,LOWLAND_MIXE,yik,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,black,MARIA_CHIMALAPA,y3k,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,black,MIGUEL_CHIMALAPA,y3k,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,black,NORTH_HIGHLAND_MIXE,y3k,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,black,OLUTA_POPOLUCA,y3k3k,mixe_zoque:black:2,mixe_zoque:black:1
+mixe_zoque,black,SAYULA_POPOLUCA,y3g3k,mixe_zoque:black:2,mixe_zoque:black:1
+mixe_zoque,black,SOTEAPAN_ZOQUE,y3k,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,black,SOUTH_HIGHLAND_MIXE,y3k,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,black,TEXISTEPEC_ZOQUE,y3k,mixe_zoque:black:1,mixe_zoque:black:1
+mixe_zoque,dog,CHIAPAS_ZOQUE,tuwi,mixe_zoque:dog:4,mixe_zoque:dog:4
+mixe_zoque,dog,LOWLAND_MIXE,uk,mixe_zoque:dog:1,mixe_zoque:dog:1
+mixe_zoque,dog,MARIA_CHIMALAPA,nu7u,mixe_zoque:dog:6,mixe_zoque:dog:3
+mixe_zoque,dog,MIGUEL_CHIMALAPA,nu7,mixe_zoque:dog:6,mixe_zoque:dog:3
+mixe_zoque,dog,NORTH_HIGHLAND_MIXE,uk,mixe_zoque:dog:1,mixe_zoque:dog:1
+mixe_zoque,dog,OLUTA_POPOLUCA,Suni,mixe_zoque:dog:3,mixe_zoque:dog:6
+mixe_zoque,dog,SAYULA_POPOLUCA,tak,mixe_zoque:dog:2,mixe_zoque:dog:5
+mixe_zoque,dog,SOTEAPAN_ZOQUE,Cimpa,mixe_zoque:dog:5,mixe_zoque:dog:2
+mixe_zoque,dog,SOUTH_HIGHLAND_MIXE,uk,mixe_zoque:dog:1,mixe_zoque:dog:1
+mixe_zoque,dog,TEXISTEPEC_ZOQUE,Cempa7,mixe_zoque:dog:5,mixe_zoque:dog:2
+mixe_zoque,burn,CHIAPAS_ZOQUE,poN,mixe_zoque:burn:4,mixe_zoque:burn:3
+mixe_zoque,burn,LOWLAND_MIXE,no7ok,mixe_zoque:burn:2,mixe_zoque:burn:1
+mixe_zoque,burn,MARIA_CHIMALAPA,k3N,mixe_zoque:burn:7,mixe_zoque:burn:4
+mixe_zoque,burn,MIGUEL_CHIMALAPA,poN,mixe_zoque:burn:4,mixe_zoque:burn:3
+mixe_zoque,burn,NORTH_HIGHLAND_MIXE,toy,mixe_zoque:burn:1,mixe_zoque:burn:7
+mixe_zoque,burn,OLUTA_POPOLUCA,yak toy,mixe_zoque:burn:3,mixe_zoque:burn:2
+mixe_zoque,burn,SAYULA_POPOLUCA,ak toy,mixe_zoque:burn:3,mixe_zoque:burn:2
+mixe_zoque,burn,SOTEAPAN_ZOQUE,no7,mixe_zoque:burn:6,mixe_zoque:burn:1
+mixe_zoque,burn,SOUTH_HIGHLAND_MIXE,ca7ay,mixe_zoque:burn:8,mixe_zoque:burn:6
+mixe_zoque,burn,TEXISTEPEC_ZOQUE,do7 toke5,mixe_zoque:burn:5,mixe_zoque:burn:5
+mixe_zoque,fire,CHIAPAS_ZOQUE,huk3t3k,mixe_zoque:fire:2,mixe_zoque:fire:2
+mixe_zoque,fire,MARIA_CHIMALAPA,hukut3,mixe_zoque:fire:2,mixe_zoque:fire:2
+mixe_zoque,fire,MIGUEL_CHIMALAPA,a7c37,mixe_zoque:fire:3,mixe_zoque:fire:3
+mixe_zoque,fire,NORTH_HIGHLAND_MIXE,h3n,mixe_zoque:fire:1,mixe_zoque:fire:1
+mixe_zoque,fire,OLUTA_POPOLUCA,h3n3,mixe_zoque:fire:1,mixe_zoque:fire:1
+mixe_zoque,fire,SAYULA_POPOLUCA,h3n,mixe_zoque:fire:1,mixe_zoque:fire:1
+mixe_zoque,fire,SOTEAPAN_ZOQUE,hukt3,mixe_zoque:fire:2,mixe_zoque:fire:2
+mixe_zoque,fire,SOUTH_HIGHLAND_MIXE,h3n,mixe_zoque:fire:1,mixe_zoque:fire:1
+mixe_zoque,fire,TEXISTEPEC_ZOQUE,hukut,mixe_zoque:fire:2,mixe_zoque:fire:2
+mixe_zoque,fish,CHIAPAS_ZOQUE,kokeh,mixe_zoque:fish:2,mixe_zoque:fish:2
+mixe_zoque,fish,LOWLAND_MIXE,akS,mixe_zoque:fish:1,mixe_zoque:fish:1
+mixe_zoque,fish,MARIA_CHIMALAPA,koke,mixe_zoque:fish:2,mixe_zoque:fish:2
+mixe_zoque,fish,MIGUEL_CHIMALAPA,koke,mixe_zoque:fish:2,mixe_zoque:fish:2
+mixe_zoque,fish,NORTH_HIGHLAND_MIXE,ahkS,mixe_zoque:fish:1,mixe_zoque:fish:1
+mixe_zoque,fish,OLUTA_POPOLUCA,koke,mixe_zoque:fish:2,mixe_zoque:fish:2
+mixe_zoque,fish,SAYULA_POPOLUCA,akS,mixe_zoque:fish:1,mixe_zoque:fish:1
+mixe_zoque,fish,SOTEAPAN_ZOQUE,t373p3,mixe_zoque:fish:4,mixe_zoque:fish:4
+mixe_zoque,fish,SOUTH_HIGHLAND_MIXE,akS,mixe_zoque:fish:1,mixe_zoque:fish:1
+mixe_zoque,fish,TEXISTEPEC_ZOQUE,woN,mixe_zoque:fish:3,mixe_zoque:fish:3
+mixe_zoque,leaf,CHIAPAS_ZOQUE,ay,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,LOWLAND_MIXE,ay,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,MARIA_CHIMALAPA,ay,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,MIGUEL_CHIMALAPA,ay7,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,NORTH_HIGHLAND_MIXE,ahy,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,OLUTA_POPOLUCA,ay3,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,SAYULA_POPOLUCA,ahy~,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,SOTEAPAN_ZOQUE,ay,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,SOUTH_HIGHLAND_MIXE,ay,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,leaf,TEXISTEPEC_ZOQUE,ay,mixe_zoque:leaf:1,mixe_zoque:leaf:1
+mixe_zoque,meat,CHIAPAS_ZOQUE,sis,mixe_zoque:meat:2,mixe_zoque:meat:1
+mixe_zoque,meat,LOWLAND_MIXE,cu7uC,mixe_zoque:meat:1,mixe_zoque:meat:2
+mixe_zoque,meat,MARIA_CHIMALAPA,sis,mixe_zoque:meat:2,mixe_zoque:meat:1
+mixe_zoque,meat,MIGUEL_CHIMALAPA,SiS,mixe_zoque:meat:2,mixe_zoque:meat:1
+mixe_zoque,meat,NORTH_HIGHLAND_MIXE,cu7uc,mixe_zoque:meat:1,mixe_zoque:meat:2
+mixe_zoque,meat,OLUTA_POPOLUCA,cuCi,mixe_zoque:meat:1,mixe_zoque:meat:2
+mixe_zoque,meat,SAYULA_POPOLUCA,SiS,mixe_zoque:meat:2,mixe_zoque:meat:1
+mixe_zoque,meat,SOTEAPAN_ZOQUE,mayi,mixe_zoque:meat:3,mixe_zoque:meat:3
+mixe_zoque,meat,SOUTH_HIGHLAND_MIXE,cu7uCy,mixe_zoque:meat:1,mixe_zoque:meat:2
+mixe_zoque,meat,TEXISTEPEC_ZOQUE,SeS,mixe_zoque:meat:2,mixe_zoque:meat:1
+mixe_zoque,mountain,CHIAPAS_ZOQUE,koc3k,mixe_zoque:mountain:2,mixe_zoque:mountain:1
+mixe_zoque,mountain,LOWLAND_MIXE,ko7ogop,mixe_zoque:mountain:1,mixe_zoque:mountain:1
+mixe_zoque,mountain,MIGUEL_CHIMALAPA,koc3k,mixe_zoque:mountain:2,mixe_zoque:mountain:1
+mixe_zoque,mountain,NORTH_HIGHLAND_MIXE,kopk,mixe_zoque:mountain:1,mixe_zoque:mountain:1
+mixe_zoque,mountain,OLUTA_POPOLUCA,kopak,mixe_zoque:mountain:1,mixe_zoque:mountain:1
+mixe_zoque,mountain,SAYULA_POPOLUCA,kopak,mixe_zoque:mountain:1,mixe_zoque:mountain:1
+mixe_zoque,mountain,SOTEAPAN_ZOQUE,koc3k,mixe_zoque:mountain:2,mixe_zoque:mountain:1
+mixe_zoque,mountain,SOUTH_HIGHLAND_MIXE,kokp,mixe_zoque:mountain:1,mixe_zoque:mountain:1
+mixe_zoque,mountain,TEXISTEPEC_ZOQUE,koc3k,mixe_zoque:mountain:2,mixe_zoque:mountain:1
+mixe_zoque,ashes,CHIAPAS_ZOQUE,kuy ham,mixe_zoque:ashes:1,mixe_zoque:ashes:1
+mixe_zoque,ashes,LOWLAND_MIXE,kuy ham,mixe_zoque:ashes:1,mixe_zoque:ashes:1
+mixe_zoque,ashes,MARIA_CHIMALAPA,kuy ham,mixe_zoque:ashes:1,mixe_zoque:ashes:1
+mixe_zoque,ashes,MIGUEL_CHIMALAPA,kuy ham,mixe_zoque:ashes:1,mixe_zoque:ashes:1
+mixe_zoque,ashes,NORTH_HIGHLAND_MIXE,ham,mixe_zoque:ashes:2,mixe_zoque:ashes:2
+mixe_zoque,ashes,OLUTA_POPOLUCA,ham3,mixe_zoque:ashes:2,mixe_zoque:ashes:2
+mixe_zoque,ashes,SAYULA_POPOLUCA,kuy ham,mixe_zoque:ashes:1,mixe_zoque:ashes:1
+mixe_zoque,ashes,SOTEAPAN_ZOQUE,kuy ham,mixe_zoque:ashes:1,mixe_zoque:ashes:1
+mixe_zoque,ashes,SOUTH_HIGHLAND_MIXE,ham,mixe_zoque:ashes:2,mixe_zoque:ashes:2
+mixe_zoque,ashes,TEXISTEPEC_ZOQUE,kuyam,mixe_zoque:ashes:1,mixe_zoque:ashes:1
+mixe_zoque,rain,CHIAPAS_ZOQUE,tuh,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,LOWLAND_MIXE,tu,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,MARIA_CHIMALAPA,tuh,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,MIGUEL_CHIMALAPA,tuh,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,NORTH_HIGHLAND_MIXE,tu,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,OLUTA_POPOLUCA,tuh3,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,SAYULA_POPOLUCA,tu,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,SOTEAPAN_ZOQUE,tuh,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,SOUTH_HIGHLAND_MIXE,tuh,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,rain,TEXISTEPEC_ZOQUE,tuh,mixe_zoque:rain:1,mixe_zoque:rain:1
+mixe_zoque,road (path),CHIAPAS_ZOQUE,tuN,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),LOWLAND_MIXE,tu7,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),MARIA_CHIMALAPA,tuN,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),MIGUEL_CHIMALAPA,tuN,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),NORTH_HIGHLAND_MIXE,tu7,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),OLUTA_POPOLUCA,tu7aw,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),SAYULA_POPOLUCA,tow,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),SOTEAPAN_ZOQUE,tuN,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),SOUTH_HIGHLAND_MIXE,tu7u,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,road (path),TEXISTEPEC_ZOQUE,tuN,mixe_zoque:road (path):1,mixe_zoque:road (path):1
+mixe_zoque,root,CHIAPAS_ZOQUE,waci,mixe_zoque:root:3,mixe_zoque:root:2
+mixe_zoque,root,LOWLAND_MIXE,tikc,mixe_zoque:root:2,mixe_zoque:root:1
+mixe_zoque,root,MARIA_CHIMALAPA,wac,mixe_zoque:root:3,mixe_zoque:root:2
+mixe_zoque,root,MIGUEL_CHIMALAPA,wac,mixe_zoque:root:3,mixe_zoque:root:2
+mixe_zoque,root,NORTH_HIGHLAND_MIXE,a7c,mixe_zoque:root:1,mixe_zoque:root:2
+mixe_zoque,root,OLUTA_POPOLUCA,Cisc3w,mixe_zoque:root:2,mixe_zoque:root:1
+mixe_zoque,root,SAYULA_POPOLUCA,tikCik,mixe_zoque:root:2,mixe_zoque:root:1
+mixe_zoque,root,SOTEAPAN_ZOQUE,ty~iC3k,mixe_zoque:root:2,mixe_zoque:root:1
+mixe_zoque,root,SOUTH_HIGHLAND_MIXE,ac,mixe_zoque:root:1,mixe_zoque:root:2
+mixe_zoque,root,TEXISTEPEC_ZOQUE,CeC3k,mixe_zoque:root:2,mixe_zoque:root:1
+mixe_zoque,sand,CHIAPAS_ZOQUE,wana,mixe_zoque:sand:2,mixe_zoque:sand:2
+mixe_zoque,sand,LOWLAND_MIXE,pu7,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,sand,MARIA_CHIMALAPA,hawe7,mixe_zoque:sand:3,mixe_zoque:sand:1
+mixe_zoque,sand,MIGUEL_CHIMALAPA,poe7,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,sand,NORTH_HIGHLAND_MIXE,pu7u,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,sand,OLUTA_POPOLUCA,pu73,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,sand,SAYULA_POPOLUCA,poy,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,sand,SOTEAPAN_ZOQUE,po7oy,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,sand,SOUTH_HIGHLAND_MIXE,pu7u,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,sand,TEXISTEPEC_ZOQUE,po7oy,mixe_zoque:sand:1,mixe_zoque:sand:1
+mixe_zoque,mouth,CHIAPAS_ZOQUE,aNnaka,mixe_zoque:mouth:2,mixe_zoque:mouth:3
+mixe_zoque,mouth,LOWLAND_MIXE,awak,mixe_zoque:mouth:1,mixe_zoque:mouth:2
+mixe_zoque,mouth,MARIA_CHIMALAPA,h3p,mixe_zoque:mouth:3,mixe_zoque:mouth:1
+mixe_zoque,mouth,MIGUEL_CHIMALAPA,h3p,mixe_zoque:mouth:3,mixe_zoque:mouth:1
+mixe_zoque,mouth,NORTH_HIGHLAND_MIXE,ah,mixe_zoque:mouth:1,mixe_zoque:mouth:2
+mixe_zoque,mouth,OLUTA_POPOLUCA,av3,mixe_zoque:mouth:1,mixe_zoque:mouth:2
+mixe_zoque,mouth,SAYULA_POPOLUCA,ahw~,mixe_zoque:mouth:1,mixe_zoque:mouth:2
+mixe_zoque,mouth,SOTEAPAN_ZOQUE,h3p,mixe_zoque:mouth:3,mixe_zoque:mouth:1
+mixe_zoque,mouth,TEXISTEPEC_ZOQUE,h3p,mixe_zoque:mouth:3,mixe_zoque:mouth:1
+mixe_zoque,person,CHIAPAS_ZOQUE,p3n dam,mixe_zoque:person:2,mixe_zoque:person:2
+mixe_zoque,person,LOWLAND_MIXE,h3y,mixe_zoque:person:1,mixe_zoque:person:4
+mixe_zoque,person,NORTH_HIGHLAND_MIXE,hayu,mixe_zoque:person:1,mixe_zoque:person:1
+mixe_zoque,person,OLUTA_POPOLUCA,haykak,mixe_zoque:person:1,mixe_zoque:person:1
+mixe_zoque,person,SAYULA_POPOLUCA,hayaw,mixe_zoque:person:1,mixe_zoque:person:1
+mixe_zoque,person,SOUTH_HIGHLAND_MIXE,ha7ay,mixe_zoque:person:1,mixe_zoque:person:3
+mixe_zoque,person,TEXISTEPEC_ZOQUE,p35 Ca7,mixe_zoque:person:2,mixe_zoque:person:2
+mixe_zoque,seed,CHIAPAS_ZOQUE,puh,mixe_zoque:seed:3,mixe_zoque:seed:1
+mixe_zoque,seed,LOWLAND_MIXE,pak,mixe_zoque:seed:2,mixe_zoque:seed:1
+mixe_zoque,seed,MARIA_CHIMALAPA,puh,mixe_zoque:seed:3,mixe_zoque:seed:1
+mixe_zoque,seed,MIGUEL_CHIMALAPA,puh,mixe_zoque:seed:3,mixe_zoque:seed:1
+mixe_zoque,seed,NORTH_HIGHLAND_MIXE,t3mt,mixe_zoque:seed:1,mixe_zoque:seed:2
+mixe_zoque,seed,OLUTA_POPOLUCA,pak3,mixe_zoque:seed:2,mixe_zoque:seed:1
+mixe_zoque,seed,SAYULA_POPOLUCA,puh,mixe_zoque:seed:3,mixe_zoque:seed:1
+mixe_zoque,seed,SOTEAPAN_ZOQUE,pak,mixe_zoque:seed:2,mixe_zoque:seed:1
+mixe_zoque,seed,SOUTH_HIGHLAND_MIXE,pak,mixe_zoque:seed:2,mixe_zoque:seed:1
+mixe_zoque,seed,TEXISTEPEC_ZOQUE,puh,mixe_zoque:seed:3,mixe_zoque:seed:1
+mixe_zoque,claw (nail),CHIAPAS_ZOQUE,k3Cus,mixe_zoque:claw (nail):2,mixe_zoque:claw (nail):2
+mixe_zoque,claw (nail),LOWLAND_MIXE,Soky,mixe_zoque:claw (nail):1,mixe_zoque:claw (nail):1
+mixe_zoque,claw (nail),MARIA_CHIMALAPA,k3cus,mixe_zoque:claw (nail):2,mixe_zoque:claw (nail):2
+mixe_zoque,claw (nail),MIGUEL_CHIMALAPA,k3cuS,mixe_zoque:claw (nail):2,mixe_zoque:claw (nail):2
+mixe_zoque,claw (nail),NORTH_HIGHLAND_MIXE,S3k,mixe_zoque:claw (nail):1,mixe_zoque:claw (nail):1
+mixe_zoque,claw (nail),OLUTA_POPOLUCA,Soki,mixe_zoque:claw (nail):1,mixe_zoque:claw (nail):1
+mixe_zoque,claw (nail),SAYULA_POPOLUCA,Sok,mixe_zoque:claw (nail):1,mixe_zoque:claw (nail):1
+mixe_zoque,claw (nail),SOTEAPAN_ZOQUE,k3c3s,mixe_zoque:claw (nail):2,mixe_zoque:claw (nail):2
+mixe_zoque,claw (nail),SOUTH_HIGHLAND_MIXE,Soky,mixe_zoque:claw (nail):1,mixe_zoque:claw (nail):1
+mixe_zoque,claw (nail),TEXISTEPEC_ZOQUE,k37 cuks,mixe_zoque:claw (nail):2,mixe_zoque:claw (nail):2
+mixe_zoque,egg,CHIAPAS_ZOQUE,poka,mixe_zoque:egg:3,mixe_zoque:egg:2
+mixe_zoque,egg,LOWLAND_MIXE,tu7uty,mixe_zoque:egg:1,mixe_zoque:egg:1
+mixe_zoque,egg,MARIA_CHIMALAPA,po7ok,mixe_zoque:egg:3,mixe_zoque:egg:2
+mixe_zoque,egg,MIGUEL_CHIMALAPA,pohok,mixe_zoque:egg:3,mixe_zoque:egg:2
+mixe_zoque,egg,NORTH_HIGHLAND_MIXE,tu7ut,mixe_zoque:egg:1,mixe_zoque:egg:1
+mixe_zoque,egg,OLUTA_POPOLUCA,tutik,mixe_zoque:egg:1,mixe_zoque:egg:1
+mixe_zoque,egg,SAYULA_POPOLUCA,koy,mixe_zoque:egg:2,mixe_zoque:egg:4
+mixe_zoque,egg,SOTEAPAN_ZOQUE,kanpu,mixe_zoque:egg:4,mixe_zoque:egg:3
+mixe_zoque,egg,SOUTH_HIGHLAND_MIXE,tucah,mixe_zoque:egg:1,mixe_zoque:egg:1
+mixe_zoque,egg,TEXISTEPEC_ZOQUE,kanpuk,mixe_zoque:egg:4,mixe_zoque:egg:3
+mixe_zoque,skin,CHIAPAS_ZOQUE,naka,mixe_zoque:skin:2,mixe_zoque:skin:1
+mixe_zoque,skin,LOWLAND_MIXE,ak,mixe_zoque:skin:1,mixe_zoque:skin:1
+mixe_zoque,skin,MARIA_CHIMALAPA,naka,mixe_zoque:skin:2,mixe_zoque:skin:1
+mixe_zoque,skin,MIGUEL_CHIMALAPA,naka,mixe_zoque:skin:2,mixe_zoque:skin:1
+mixe_zoque,skin,NORTH_HIGHLAND_MIXE,ak,mixe_zoque:skin:1,mixe_zoque:skin:1
+mixe_zoque,skin,OLUTA_POPOLUCA,ak3,mixe_zoque:skin:1,mixe_zoque:skin:1
+mixe_zoque,skin,SAYULA_POPOLUCA,ak,mixe_zoque:skin:1,mixe_zoque:skin:1
+mixe_zoque,skin,SOTEAPAN_ZOQUE,naka,mixe_zoque:skin:2,mixe_zoque:skin:1
+mixe_zoque,skin,SOUTH_HIGHLAND_MIXE,n37ak,mixe_zoque:skin:1,mixe_zoque:skin:1
+mixe_zoque,skin,TEXISTEPEC_ZOQUE,dak,mixe_zoque:skin:2,mixe_zoque:skin:1
+mixe_zoque,smoke,CHIAPAS_ZOQUE,hokoh,mixe_zoque:smoke:1,mixe_zoque:smoke:1
+mixe_zoque,smoke,LOWLAND_MIXE,h3n hok,mixe_zoque:smoke:1,mixe_zoque:smoke:3
+mixe_zoque,smoke,MARIA_CHIMALAPA,o7ma7,mixe_zoque:smoke:3,mixe_zoque:smoke:2
+mixe_zoque,smoke,MIGUEL_CHIMALAPA,oma7,mixe_zoque:smoke:3,mixe_zoque:smoke:2
+mixe_zoque,smoke,NORTH_HIGHLAND_MIXE,hok,mixe_zoque:smoke:1,mixe_zoque:smoke:1
+mixe_zoque,smoke,OLUTA_POPOLUCA,hoko,mixe_zoque:smoke:1,mixe_zoque:smoke:1
+mixe_zoque,smoke,SAYULA_POPOLUCA,wiSik,mixe_zoque:smoke:2,mixe_zoque:smoke:4
+mixe_zoque,smoke,SOTEAPAN_ZOQUE,hoko,mixe_zoque:smoke:1,mixe_zoque:smoke:1
+mixe_zoque,smoke,SOUTH_HIGHLAND_MIXE,hok,mixe_zoque:smoke:1,mixe_zoque:smoke:1
+mixe_zoque,smoke,TEXISTEPEC_ZOQUE,hok,mixe_zoque:smoke:1,mixe_zoque:smoke:1
+mixe_zoque,that,CHIAPAS_ZOQUE,37,mixe_zoque:that:4,mixe_zoque:that:7
+mixe_zoque,that,LOWLAND_MIXE,heh3mb3,mixe_zoque:that:2,mixe_zoque:that:6
+mixe_zoque,that,MIGUEL_CHIMALAPA,gad3,mixe_zoque:that:5,mixe_zoque:that:5
+mixe_zoque,that,NORTH_HIGHLAND_MIXE,Si7,mixe_zoque:that:1,mixe_zoque:that:2
+mixe_zoque,that,OLUTA_POPOLUCA,hamah,mixe_zoque:that:2,mixe_zoque:that:1
+mixe_zoque,that,SAYULA_POPOLUCA,yay3n,mixe_zoque:that:3,mixe_zoque:that:4
+mixe_zoque,that,SOTEAPAN_ZOQUE,heam,mixe_zoque:that:2,mixe_zoque:that:1
+mixe_zoque,that,SOUTH_HIGHLAND_MIXE,hE7E,mixe_zoque:that:6,mixe_zoque:that:3
+mixe_zoque,stone,CHIAPAS_ZOQUE,ca7,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,LOWLAND_MIXE,ca,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,MARIA_CHIMALAPA,ca7,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,MIGUEL_CHIMALAPA,ca7,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,NORTH_HIGHLAND_MIXE,ca,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,OLUTA_POPOLUCA,cah3,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,SAYULA_POPOLUCA,ca7,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,SOTEAPAN_ZOQUE,ca,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,SOUTH_HIGHLAND_MIXE,cah,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,stone,TEXISTEPEC_ZOQUE,ca7,mixe_zoque:stone:1,mixe_zoque:stone:1
+mixe_zoque,tree,CHIAPAS_ZOQUE,kuy,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,LOWLAND_MIXE,kipy,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,MARIA_CHIMALAPA,kuy,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,MIGUEL_CHIMALAPA,kuy,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,NORTH_HIGHLAND_MIXE,kup,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,OLUTA_POPOLUCA,kuy3,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,SAYULA_POPOLUCA,kuy,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,SOTEAPAN_ZOQUE,kuy,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,tree,SOUTH_HIGHLAND_MIXE,Soh,mixe_zoque:tree:2,mixe_zoque:tree:2
+mixe_zoque,tree,TEXISTEPEC_ZOQUE,kuy,mixe_zoque:tree:1,mixe_zoque:tree:1
+mixe_zoque,bird,CHIAPAS_ZOQUE,%paloma,mixe_zoque:bird:4,mixe_zoque:bird:2
+mixe_zoque,bird,LOWLAND_MIXE,hon,mixe_zoque:bird:2,mixe_zoque:bird:1
+mixe_zoque,bird,MARIA_CHIMALAPA,hon,mixe_zoque:bird:2,mixe_zoque:bird:1
+mixe_zoque,bird,MIGUEL_CHIMALAPA,hon,mixe_zoque:bird:2,mixe_zoque:bird:1
+mixe_zoque,bird,NORTH_HIGHLAND_MIXE,h3yva,mixe_zoque:bird:1,mixe_zoque:bird:4
+mixe_zoque,bird,OLUTA_POPOLUCA,muSi,mixe_zoque:bird:3,mixe_zoque:bird:3
+mixe_zoque,bird,SAYULA_POPOLUCA,hon,mixe_zoque:bird:2,mixe_zoque:bird:1
+mixe_zoque,bird,SOTEAPAN_ZOQUE,hon,mixe_zoque:bird:2,mixe_zoque:bird:1
+mixe_zoque,bird,SOUTH_HIGHLAND_MIXE,hon,mixe_zoque:bird:2,mixe_zoque:bird:1
+mixe_zoque,bird,TEXISTEPEC_ZOQUE,hon,mixe_zoque:bird:2,mixe_zoque:bird:1
+mixe_zoque,blood,CHIAPAS_ZOQUE,n3pin,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,LOWLAND_MIXE,n3py,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,MARIA_CHIMALAPA,n3pin,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,MIGUEL_CHIMALAPA,n3pin7,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,NORTH_HIGHLAND_MIXE,nupun,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,OLUTA_POPOLUCA,n3pin,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,SAYULA_POPOLUCA,nipin,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,SOTEAPAN_ZOQUE,n373pi5,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,SOUTH_HIGHLAND_MIXE,n373py,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,blood,TEXISTEPEC_ZOQUE,d373pi5,mixe_zoque:blood:1,mixe_zoque:blood:1
+mixe_zoque,water,CHIAPAS_ZOQUE,n37,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,LOWLAND_MIXE,n3,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,MARIA_CHIMALAPA,n37,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,MIGUEL_CHIMALAPA,n37,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,NORTH_HIGHLAND_MIXE,n3,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,OLUTA_POPOLUCA,n3h3,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,SAYULA_POPOLUCA,n37,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,SOTEAPAN_ZOQUE,n3,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,SOUTH_HIGHLAND_MIXE,n3h,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,water,TEXISTEPEC_ZOQUE,d37,mixe_zoque:water:1,mixe_zoque:water:1
+mixe_zoque,woman,CHIAPAS_ZOQUE,yomo,mixe_zoque:woman:4,mixe_zoque:woman:1
+mixe_zoque,woman,LOWLAND_MIXE,to7oSyh~3y,mixe_zoque:woman:2,mixe_zoque:woman:3
+mixe_zoque,woman,MARIA_CHIMALAPA,yom37,mixe_zoque:woman:4,mixe_zoque:woman:1
+mixe_zoque,woman,MIGUEL_CHIMALAPA,yoma7,mixe_zoque:woman:4,mixe_zoque:woman:1
+mixe_zoque,woman,NORTH_HIGHLAND_MIXE,t3st3k,mixe_zoque:woman:1,mixe_zoque:woman:2
+mixe_zoque,woman,OLUTA_POPOLUCA,mahaw,mixe_zoque:woman:3,mixe_zoque:woman:4
+mixe_zoque,woman,SAYULA_POPOLUCA,toSay,mixe_zoque:woman:2,mixe_zoque:woman:3
+mixe_zoque,woman,SOTEAPAN_ZOQUE,yomo,mixe_zoque:woman:4,mixe_zoque:woman:1
+mixe_zoque,woman,SOUTH_HIGHLAND_MIXE,tiSy~t3k,mixe_zoque:woman:2,mixe_zoque:woman:2
+mixe_zoque,woman,TEXISTEPEC_ZOQUE,yoma7,mixe_zoque:woman:4,mixe_zoque:woman:1
+mixe_zoque,all,CHIAPAS_ZOQUE,mumu,mixe_zoque:all:5,mixe_zoque:all:2
+mixe_zoque,all,LOWLAND_MIXE,tu7uk ok3y,mixe_zoque:all:2,mixe_zoque:all:1
+mixe_zoque,all,MARIA_CHIMALAPA,aNtene,mixe_zoque:all:7,mixe_zoque:all:9
+mixe_zoque,all,MIGUEL_CHIMALAPA,hemhi7,mixe_zoque:all:8,mixe_zoque:all:8
+mixe_zoque,all,NORTH_HIGHLAND_MIXE,n3hum,mixe_zoque:all:1,mixe_zoque:all:7
+mixe_zoque,all,OLUTA_POPOLUCA,nitik,mixe_zoque:all:4,mixe_zoque:all:6
+mixe_zoque,all,SAYULA_POPOLUCA,nu p3h3n,mixe_zoque:all:3,mixe_zoque:all:5
+mixe_zoque,all,SOTEAPAN_ZOQUE,ikum3h,mixe_zoque:all:6,mixe_zoque:all:4
+mixe_zoque,all,SOUTH_HIGHLAND_MIXE,tuk3y,mixe_zoque:all:2,mixe_zoque:all:1
+mixe_zoque,all,TEXISTEPEC_ZOQUE,bumbe,mixe_zoque:all:5,mixe_zoque:all:3
