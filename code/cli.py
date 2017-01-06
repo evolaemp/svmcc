@@ -64,6 +64,7 @@ class Cli:
 		
 		self._init_check()
 		self._init_infer()
+		self._init_patch()
 		self._init_prepare()
 		self._init_test()
 	
@@ -180,40 +181,32 @@ class Cli:
 		Inits the subparser that handles the patch command.
 		"""
 		def patch(args):
-			from code.patch import load_samples, patch_lexstat, patch_targets
-			from code.prepare.base import write_samples, write_targets
+			from code.patch import patch_lexstat
 			
 			start = time.time()
 			
-			dataset_path, dataset_name = self._find_dataset(args.dataset)
-			
-			if args.lexstat:
-				samples = load_samples(dataset_name, OUTPUT_DIR)
-				samples = patch_lexstat(dataset_path, samples)
-				write_samples(samples, dataset_name, OUTPUT_DIR)
-			elif args.targets:
-				targets = patch_targets(dataset_path)
-				write_targets(targets, dataset_name, OUTPUT_DIR)
+			dataset_path, name = self._find_dataset(args.dataset)
+			vectors_path = os.path.join(args.output_dir, '{}.csv'.format(name))
+			patch_lexstat(dataset_path, vectors_path)
 			
 			end = time.time()
 			return 'patched in {} seconds'.format(round(end-start, 3))
 		
 		
-		usage = 'manage.py patch (--lexstat | --targets) dataset'
-		description = 'patch dataset samples or targets'
+		usage = 'manage.py patch dataset'
+		description = (
+			'read a dataset, re-calculate its LexStat scores, '
+			'and re-write the respective vector file; '
+			'the other columns remain unaltered')
 		
 		subp = self.subparsers.add_parser('patch', usage=usage,
 			description=description, help=description)
 		
 		subp.add_argument('dataset', help=(
 			'name of (e.g. mayan) or path to the dataset to patch'))
-		
-		group = subp.add_mutually_exclusive_group(required=True)
-		group.add_argument('--lexstat', action='store_true', help=(
-			're-calculate the LexStat features only; '
-			'PMI features or targets are not modified'))
-		group.add_argument('--targets', action='store_true', help=(
-			'prepare the targets only; samples are not modified'))
+		subp.add_argument('--output-dir', default=VECTORS_DIR, help=(
+			'the directory in which to find the output file; '
+			'defaults to {}'.format(VECTORS_DIR)))
 		
 		subp.set_defaults(func=patch)
 	
