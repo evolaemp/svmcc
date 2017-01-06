@@ -1,6 +1,8 @@
 import csv
 import os.path
 
+import pandas as pd
+
 from code.prepare.base import load_data, load_targets
 from code.prepare.lexstat import set_schema, make_wordlist, calc_lexstat
 from code.prepare.pmi import get_pairs
@@ -24,13 +26,14 @@ def patch_lexstat(dataset_path, vectors_path):
 	"""
 	data = load_data(dataset_path)
 	
-	all_langs = set(data.keys())
+	all_langs = list(data.keys())
 	lang_pairs = [(a, b) for a in all_langs for b in all_langs if a < b]
 	
 	lexstat_samples = {}
 	
-	with set_schema('asjp' if is_asjp_data(data) else 'ipa'):
-		lingpy_wordlist = make_wordlist(data, dataset_path)
+	schema = 'asjp' if is_asjp_data(data) else 'ipa'
+	with set_schema(schema):
+		lingpy_wordlist = make_wordlist(data, dataset_path, schema)
 		
 		for lang1, lang2 in lang_pairs:
 			scores = calc_lexstat(lang1, lang2, lingpy_wordlist)
@@ -49,21 +52,18 @@ def patch_lexstat(dataset_path, vectors_path):
 		vectors = [row for row in csv.DictReader(f)]
 	
 	for vector in vectors:
+		assert vector['l1'] < vector['l2']
 		subkey = (gloss_d[vector['gloss']], vector['l1'], vector['l2'])
 		pots = [key for key in lexstat_samples.keys() if key[:3] == subkey]
 		scores = lexstat_samples.pop(pots[0])
-		vector['lexstat_simAA'] = '{:.10f}'.format(scores[0])
-		vector['lexstat_simBB'] = '{:.10f}'.format(scores[1])
-		vector['lexstat_simAB'] = '{:.10f}'.format(scores[2])
+		vector['lexstat_simAA'] = scores[0]
+		vector['lexstat_simBB'] = scores[1]
+		vector['lexstat_simAB'] = scores[2]
 	
 	assert len(lexstat_samples) == 0
 	
-	with open(vectors_path, 'w', newline='', encoding='utf-8') as f:
-		writer = csv.DictWriter(f, VECTORS_COLS,
-				lineterminator='\n')  # be consistent with pandas output
-		writer.writeheader()
-		for vector in vectors:
-			writer.writerow(vector)
+	frame = pd.DataFrame(vectors, columns=VECTORS_COLS)
+	frame.to_csv(vectors_path, index=False, float_format='%.10f')
 
 
 

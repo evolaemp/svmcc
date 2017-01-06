@@ -1,5 +1,7 @@
 import contextlib
 import csv
+import random
+random.seed(1234)
 
 from lingpy.basic.wordlist import Wordlist
 from lingpy.compare.lexstat import LexStat

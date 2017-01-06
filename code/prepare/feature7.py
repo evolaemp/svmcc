@@ -21,15 +21,12 @@ def create_pandas_frame(dataset_path, samples, targets):
 	samples_path = os.path.join(temp_dir.name, 'samples.tsv')
 	targets_path = os.path.join(temp_dir.name, 'targets.tsv')
 	
-	with open(samples_path, 'w') as f:
-		writer = csv.writer(f, delimiter='\t')
-		writer.writerow([
-			'sample_id', 'feature1', 'feature2', 'feature3', 'feature4',
-			'feature5', 'feature6',
-			'lexstat_simAA', 'lexstat_simBB', 'lexstat_simAB'
-		])
-		for key in sorted(samples.keys()):
-			writer.writerow([key] + samples[key])
+	samples_frame = pd.DataFrame([
+		[key] + samples[key] for key in sorted(samples.keys())
+		], columns=[
+		'sample_id', 'feature1', 'feature2', 'feature3', 'feature4', 'feature5',
+		'feature6', 'lexstat_simAA', 'lexstat_simBB', 'lexstat_simAB'])
+	samples_frame.to_csv(samples_path, sep='\t', index=False)
 	
 	with open(targets_path, 'w') as f:
 		writer = csv.writer(f, delimiter='\t')
