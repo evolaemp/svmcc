@@ -105,6 +105,9 @@ source path/to/my/venv/bin/activate
 # it is important to use the versions specified in the requirements file
 pip install -r requirements.txt
 
+# this ensures the reproducibility of the results
+export PYTHONHASHSEED=0
+
 # use manage.py to invoke the commands
 python manage.py --help
 ```

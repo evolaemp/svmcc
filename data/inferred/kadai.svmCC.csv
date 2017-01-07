@@ -34,7 +34,7 @@ kadai,we,SAEK,tu,kadai:we:2,kadai:we:1
 kadai,we,SIAMESE,raw,kadai:we:1,kadai:we:3
 kadai,we,SUI,nd~iu,kadai:we:1,kadai:we:1
 kadai,we,ZHUANG_NORTHERN,tou,kadai:we:2,kadai:we:1
-kadai,we,ZHUANG_SOUTHERN,huNlau,kadai:we:1,kadai:we:4
+kadai,we,ZHUANG_SOUTHERN,huNlau,kadai:we:1,kadai:we:2
 kadai,you,LAKKJA,ma,kadai:you:3,kadai:you:1
 kadai,you,LI_BAODING,me3,kadai:you:3,kadai:you:1
 kadai,you,LI_TONGSHI,me3,kadai:you:3,kadai:you:1
@@ -82,7 +82,7 @@ kadai,ear,KAM_ZHANGLU,kh~a,kadai:ear:2,kadai:ear:1
 kadai,ear,LAKKJA,kanya,kadai:ear:2,kadai:ear:3
 kadai,ear,MAONAN,kh~a,kadai:ear:2,kadai:ear:1
 kadai,ear,MULAO,khx$a,kadai:ear:2,kadai:ear:1
-kadai,ear,ONG_BE,sa,kadai:ear:2,kadai:ear:1
+kadai,ear,ONG_BE,sa,kadai:ear:2,kadai:ear:2
 kadai,ear,SAEK,gy~a,kadai:ear:1,kadai:ear:1
 kadai,ear,SIAMESE,hu,kadai:ear:1,kadai:ear:2
 kadai,ear,SUI,qh~a,kadai:ear:2,kadai:ear:1
@@ -112,26 +112,26 @@ kadai,hand,SIAMESE,mu,kadai:hand:1,kadai:hand:1
 kadai,hand,SUI,my~a,kadai:hand:1,kadai:hand:1
 kadai,hand,ZHUANG_NORTHERN,f3N,kadai:hand:1,kadai:hand:2
 kadai,hand,ZHUANG_SOUTHERN,m3,kadai:hand:1,kadai:hand:1
-kadai,sun,KAM_ZHANGLU,taman,kadai:sun:1,kadai:sun:3
-kadai,sun,LAKKJA,tauwan,kadai:sun:1,kadai:sun:2
-kadai,sun,LI_BAODING,ch~ahw~an,kadai:sun:1,kadai:sun:2
-kadai,sun,LI_TONGSHI,ch~avan,kadai:sun:1,kadai:sun:2
+kadai,sun,KAM_ZHANGLU,taman,kadai:sun:1,kadai:sun:2
+kadai,sun,LAKKJA,tauwan,kadai:sun:1,kadai:sun:1
+kadai,sun,LI_BAODING,ch~ahw~an,kadai:sun:1,kadai:sun:1
+kadai,sun,LI_TONGSHI,ch~avan,kadai:sun:1,kadai:sun:1
 kadai,sun,MAONAN,lakvan,kadai:sun:1,kadai:sun:1
-kadai,sun,MULAO,th~3ufan,kadai:sun:1,kadai:sun:2
+kadai,sun,MULAO,th~3ufan,kadai:sun:1,kadai:sun:1
 kadai,sun,ONG_BE,dav3n,kadai:sun:1,kadai:sun:1
-kadai,sun,SAEK,ta53n,kadai:sun:1,kadai:sun:3
-kadai,sun,SIAMESE,dEt,kadai:sun:1,kadai:sun:4
+kadai,sun,SAEK,ta53n,kadai:sun:1,kadai:sun:2
+kadai,sun,SIAMESE,dEt,kadai:sun:1,kadai:sun:3
 kadai,sun,SUI,nd~avan,kadai:sun:1,kadai:sun:1
-kadai,sun,ZHUANG_NORTHERN,taNNon,kadai:sun:1,kadai:sun:3
+kadai,sun,ZHUANG_NORTHERN,taNNon,kadai:sun:1,kadai:sun:2
 kadai,sun,ZHUANG_SOUTHERN,havan,kadai:sun:1,kadai:sun:1
 kadai,knee,KAM_ZHANGLU,3mkw~au,kadai:knee:1,kadai:knee:1
 kadai,knee,LI_BAODING,gw~ourou,kadai:knee:3,kadai:knee:2
 kadai,knee,LI_TONGSHI,gorou,kadai:knee:3,kadai:knee:2
-kadai,knee,MAONAN,kamku,kadai:knee:1,kadai:knee:3
+kadai,knee,MAONAN,kamku,kadai:knee:1,kadai:knee:1
 kadai,knee,MULAO,kuko,kadai:knee:1,kadai:knee:1
 kadai,knee,ONG_BE,kau,kadai:knee:1,kadai:knee:1
 kadai,knee,SIAMESE,kh~aw,kadai:knee:1,kadai:knee:1
-kadai,knee,SUI,qamqu,kadai:knee:1,kadai:knee:3
+kadai,knee,SUI,qamqu,kadai:knee:1,kadai:knee:1
 kadai,knee,ZHUANG_NORTHERN,ky~auho,kadai:knee:1,kadai:knee:1
 kadai,knee,ZHUANG_SOUTHERN,hukh~au,kadai:knee:1,kadai:knee:1
 kadai,tooth,KAM_ZHANGLU,py~an,kadai:tooth:1,kadai:tooth:1
@@ -145,16 +145,16 @@ kadai,tooth,SIAMESE,fan,kadai:tooth:1,kadai:tooth:1
 kadai,tooth,SUI,vy~an,kadai:tooth:1,kadai:tooth:1
 kadai,tooth,ZHUANG_NORTHERN,fan,kadai:tooth:1,kadai:tooth:1
 kadai,tooth,ZHUANG_SOUTHERN,kh~eu,kadai:tooth:2,kadai:tooth:2
-kadai,louse,KAM_ZHANGLU,tau,kadai:louse:1,kadai:louse:2
-kadai,louse,LAKKJA,Nw~an,kadai:louse:2,kadai:louse:4
+kadai,louse,KAM_ZHANGLU,tau,kadai:louse:1,kadai:louse:1
+kadai,louse,LAKKJA,Nw~an,kadai:louse:2,kadai:louse:2
 kadai,louse,LI_BAODING,fou,kadai:louse:1,kadai:louse:1
 kadai,louse,LI_TONGSHI,fou,kadai:louse:1,kadai:louse:1
-kadai,louse,MAONAN,tu,kadai:louse:1,kadai:louse:2
+kadai,louse,MAONAN,tu,kadai:louse:1,kadai:louse:1
 kadai,louse,MULAO,khx$o,kadai:louse:1,kadai:louse:3
-kadai,louse,ONG_BE,don,kadai:louse:2,kadai:louse:2
+kadai,louse,ONG_BE,don,kadai:louse:2,kadai:louse:4
 kadai,louse,SAEK,raw,kadai:louse:1,kadai:louse:1
 kadai,louse,SIAMESE,haw,kadai:louse:1,kadai:louse:1
-kadai,louse,SUI,tu,kadai:louse:1,kadai:louse:2
+kadai,louse,SUI,tu,kadai:louse:1,kadai:louse:1
 kadai,louse,ZHUANG_NORTHERN,xau,kadai:louse:1,kadai:louse:1
 kadai,louse,ZHUANG_SOUTHERN,hau,kadai:louse:1,kadai:louse:1
 kadai,horn,KAM_ZHANGLU,pau,kadai:horn:1,kadai:horn:1
@@ -181,10 +181,10 @@ kadai,bone,SUI,lak,kadai:bone:1,kadai:bone:1
 kadai,bone,ZHUANG_NORTHERN,dok,kadai:bone:1,kadai:bone:1
 kadai,bone,ZHUANG_SOUTHERN,duk,kadai:bone:1,kadai:bone:1
 kadai,drink,KAM_ZHANGLU,ti,kadai:drink:2,kadai:drink:4
-kadai,drink,LAKKJA,hop,kadai:drink:5,kadai:drink:2
-kadai,drink,LI_BAODING,ch~3p,kadai:drink:5,kadai:drink:3
-kadai,drink,LI_TONGSHI,ch~3p,kadai:drink:5,kadai:drink:3
-kadai,drink,MULAO,hx~op,kadai:drink:5,kadai:drink:2
+kadai,drink,LAKKJA,hop,kadai:drink:5,kadai:drink:3
+kadai,drink,LI_BAODING,ch~3p,kadai:drink:5,kadai:drink:2
+kadai,drink,LI_TONGSHI,ch~3p,kadai:drink:5,kadai:drink:2
+kadai,drink,MULAO,hx~op,kadai:drink:5,kadai:drink:3
 kadai,drink,ONG_BE,kon,kadai:drink:2,kadai:drink:1
 kadai,drink,SUI,xum,kadai:drink:4,kadai:drink:5
 kadai,drink,ZHUANG_NORTHERN,dot,kadai:drink:3,kadai:drink:4
@@ -204,7 +204,7 @@ kadai,hear,LI_TONGSHI,ple3,kadai:hear:4,kadai:hear:1
 kadai,hear,MAONAN,ni,kadai:hear:3,kadai:hear:4
 kadai,hear,SIAMESE,yin,kadai:hear:1,kadai:hear:3
 kadai,hear,SUI,di,kadai:hear:3,kadai:hear:2
-kadai,see,KAM_ZHANGLU,nu,kadai:see:5,kadai:see:4
+kadai,see,KAM_ZHANGLU,nu,kadai:see:5,kadai:see:6
 kadai,see,LAKKJA,lom,kadai:see:7,kadai:see:1
 kadai,see,LI_BAODING,zui,kadai:see:8,kadai:see:3
 kadai,see,LI_TONGSHI,Lui,kadai:see:8,kadai:see:3
@@ -297,9 +297,9 @@ kadai,fire,SIAMESE,fay,kadai:fire:1,kadai:fire:1
 kadai,fire,SUI,vi,kadai:fire:1,kadai:fire:1
 kadai,fire,ZHUANG_NORTHERN,fei,kadai:fire:1,kadai:fire:1
 kadai,fire,ZHUANG_SOUTHERN,fai,kadai:fire:1,kadai:fire:1
-kadai,fish,LAKKJA,mot,kadai:fish:1,kadai:fish:4
-kadai,fish,LI_BAODING,La,kadai:fish:1,kadai:fish:3
-kadai,fish,LI_TONGSHI,La,kadai:fish:1,kadai:fish:3
+kadai,fish,LAKKJA,mot,kadai:fish:1,kadai:fish:3
+kadai,fish,LI_BAODING,La,kadai:fish:1,kadai:fish:1
+kadai,fish,LI_TONGSHI,La,kadai:fish:1,kadai:fish:1
 kadai,fish,MULAO,m3m,kadai:fish:2,kadai:fish:2
 kadai,fish,ONG_BE,ba,kadai:fish:1,kadai:fish:1
 kadai,fish,SAEK,pla,kadai:fish:1,kadai:fish:1
@@ -319,23 +319,23 @@ kadai,leaf,SIAMESE,bay,kadai:leaf:1,kadai:leaf:1
 kadai,leaf,SUI,va,kadai:leaf:2,kadai:leaf:1
 kadai,leaf,ZHUANG_NORTHERN,ba3,kadai:leaf:1,kadai:leaf:1
 kadai,leaf,ZHUANG_SOUTHERN,ba3,kadai:leaf:1,kadai:leaf:1
-kadai,mountain,KAM_ZHANGLU,t3n,kadai:mountain:6,kadai:mountain:2
-kadai,mountain,LAKKJA,ky~a,kadai:mountain:7,kadai:mountain:3
-kadai,mountain,LI_BAODING,go,kadai:mountain:8,kadai:mountain:3
-kadai,mountain,LI_TONGSHI,hw~ou,kadai:mountain:8,kadai:mountain:5
+kadai,mountain,KAM_ZHANGLU,t3n,kadai:mountain:6,kadai:mountain:3
+kadai,mountain,LAKKJA,ky~a,kadai:mountain:7,kadai:mountain:2
+kadai,mountain,LI_BAODING,go,kadai:mountain:8,kadai:mountain:2
+kadai,mountain,LI_TONGSHI,hw~ou,kadai:mountain:8,kadai:mountain:2
 kadai,mountain,MAONAN,koNpy~a,kadai:mountain:5,kadai:mountain:1
 kadai,mountain,MULAO,px~a,kadai:mountain:5,kadai:mountain:1
 kadai,mountain,ONG_BE,tia,kadai:mountain:7,kadai:mountain:4
 kadai,mountain,SIAMESE,ph~u,kadai:mountain:1,kadai:mountain:1
-kadai,mountain,SUI,nu,kadai:mountain:4,kadai:mountain:2
-kadai,mountain,ZHUANG_SOUTHERN,doN,kadai:mountain:3,kadai:mountain:2
-kadai,road (path),KAM_ZHANGLU,khw$3n,kadai:road (path):1,kadai:road (path):1
+kadai,mountain,SUI,nu,kadai:mountain:4,kadai:mountain:3
+kadai,mountain,ZHUANG_SOUTHERN,doN,kadai:mountain:3,kadai:mountain:3
+kadai,road (path),KAM_ZHANGLU,khw$3n,kadai:road (path):1,kadai:road (path):2
 kadai,road (path),LI_BAODING,kun,kadai:road (path):1,kadai:road (path):1
 kadai,road (path),LI_TONGSHI,kun,kadai:road (path):1,kadai:road (path):1
-kadai,road (path),MAONAN,kh~un,kadai:road (path):1,kadai:road (path):1
-kadai,road (path),MULAO,khw$3n,kadai:road (path):1,kadai:road (path):1
+kadai,road (path),MAONAN,kh~un,kadai:road (path):1,kadai:road (path):2
+kadai,road (path),MULAO,khw$3n,kadai:road (path):1,kadai:road (path):2
 kadai,road (path),ONG_BE,sun,kadai:road (path):1,kadai:road (path):1
-kadai,road (path),SUI,khw$3n,kadai:road (path):1,kadai:road (path):1
+kadai,road (path),SUI,khw$3n,kadai:road (path):1,kadai:road (path):2
 kadai,road (path),ZHUANG_NORTHERN,xon,kadai:road (path):1,kadai:road (path):1
 kadai,person,LI_TONGSHI,hau,kadai:person:2,kadai:person:2
 kadai,person,ONG_BE,leNhun,kadai:person:1,kadai:person:1
@@ -352,7 +352,7 @@ kadai,skin,SIAMESE,naN,kadai:skin:1,kadai:skin:1
 kadai,skin,ZHUANG_NORTHERN,naN,kadai:skin:1,kadai:skin:1
 kadai,skin,ZHUANG_SOUTHERN,naN,kadai:skin:1,kadai:skin:1
 kadai,stone,KAM_ZHANGLU,tin,kadai:stone:1,kadai:stone:1
-kadai,stone,LAKKJA,faN,kadai:stone:3,kadai:stone:1
+kadai,stone,LAKKJA,faN,kadai:stone:3,kadai:stone:2
 kadai,stone,LI_BAODING,ch~in,kadai:stone:1,kadai:stone:1
 kadai,stone,LI_TONGSHI,ch~in,kadai:stone:1,kadai:stone:1
 kadai,stone,MAONAN,tui,kadai:stone:2,kadai:stone:1

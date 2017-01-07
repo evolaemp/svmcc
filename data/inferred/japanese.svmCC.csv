@@ -30,29 +30,29 @@ japanese,hair,Oki,ke,japanese:hair:89,japanese:hair:1
 japanese,hair,Sado,ke,japanese:hair:89,japanese:hair:1
 japanese,hair,Shuri,kiː,japanese:hair:89,japanese:hair:1
 japanese,hair,Tōkyō,ke,japanese:hair:89,japanese:hair:1
-japanese,many,Amami,ɕogoɕaɴ,japanese:many:34,japanese:many:1
-japanese,many,Hachijō,sikːari,japanese:many:30,japanese:many:3
+japanese,many,Amami,ɕogoɕaɴ,japanese:many:34,japanese:many:3
+japanese,many,Hachijō,sikːari,japanese:many:30,japanese:many:1
 japanese,many,Kagoshima,dosːai,japanese:many:28,japanese:many:4
 japanese,many,Kyōto,joːke,japanese:many:32,japanese:many:2
 japanese,many,Kōchi,joke,japanese:many:32,japanese:many:2
 japanese,many,Miyako,ukaːʃa,japanese:many:34,japanese:many:7
 japanese,many,Oki,etːo,japanese:many:27,japanese:many:6
-japanese,many,Sado,ikai,japanese:many:33,japanese:many:3
+japanese,many,Sado,ikai,japanese:many:33,japanese:many:1
 japanese,many,Shuri,ʔuhoːku,japanese:many:29,japanese:many:5
-japanese,many,Tōkyō,takusaɴ,japanese:many:31,japanese:many:1
+japanese,many,Tōkyō,takusaɴ,japanese:many:31,japanese:many:3
 japanese,wife,Amami,θuʥi,japanese:wife:336,japanese:wife:2
-japanese,wife,Hachijō,jome,japanese:wife:337,japanese:wife:6
-japanese,wife,Kagoshima,ukːaita,japanese:wife:335,japanese:wife:3
+japanese,wife,Hachijō,jome,japanese:wife:337,japanese:wife:5
+japanese,wife,Kagoshima,ukːaita,japanese:wife:335,japanese:wife:4
 japanese,wife,Kyōto,kaka,japanese:wife:338,japanese:wife:1
 japanese,wife,Kōchi,kanai,japanese:wife:338,japanese:wife:1
 japanese,wife,Miyako,tuʣɨ,japanese:wife:336,japanese:wife:2
-japanese,wife,Oki,nʲoːba,japanese:wife:334,japanese:wife:5
-japanese,wife,Sado,kaːsaɴ,japanese:wife:338,japanese:wife:4
+japanese,wife,Oki,nʲoːba,japanese:wife:334,japanese:wife:3
+japanese,wife,Sado,kaːsaɴ,japanese:wife:338,japanese:wife:1
 japanese,wife,Shuri,tuʥi,japanese:wife:336,japanese:wife:2
 japanese,wife,Tōkyō,kanai,japanese:wife:338,japanese:wife:1
 japanese,husband,Amami,uθu,japanese:husband:331,japanese:husband:1
-japanese,husband,Hachijō,ʨieɕu,japanese:husband:329,japanese:husband:4
-japanese,husband,Kagoshima,jado,japanese:husband:333,japanese:husband:3
+japanese,husband,Hachijō,ʨieɕu,japanese:husband:329,japanese:husband:3
+japanese,husband,Kagoshima,jado,japanese:husband:333,japanese:husband:4
 japanese,husband,Kyōto,ɕuʥiɴ,japanese:husband:330,japanese:husband:2
 japanese,husband,Kōchi,ɕuʥiɴ,japanese:husband:330,japanese:husband:2
 japanese,husband,Miyako,butu,japanese:husband:331,japanese:husband:1
@@ -162,10 +162,10 @@ japanese,this,Shuri,kuri,japanese:this:14,japanese:this:1
 japanese,this,Tōkyō,kore,japanese:this:14,japanese:this:1
 japanese,thou,Amami,ʔʲa,japanese:thou:10,japanese:thou:2
 japanese,thou,Hachijō,omi,japanese:thou:4,japanese:thou:3
-japanese,thou,Kagoshima,waiː,japanese:thou:9,japanese:thou:2
+japanese,thou,Kagoshima,waiː,japanese:thou:9,japanese:thou:4
 japanese,thou,Kyōto,aɴta,japanese:thou:5,japanese:thou:1
 japanese,thou,Kōchi,oɴsi,japanese:thou:7,japanese:thou:3
-japanese,thou,Miyako,ɣva,japanese:thou:10,japanese:thou:4
+japanese,thou,Miyako,ɣva,japanese:thou:10,japanese:thou:2
 japanese,thou,Oki,omae,japanese:thou:8,japanese:thou:3
 japanese,thou,Sado,ɴna,japanese:thou:6,japanese:thou:1
 japanese,thou,Shuri,ʔʲaː,japanese:thou:10,japanese:thou:2
@@ -215,10 +215,10 @@ japanese,tail,Hachijō,oba,japanese:tail:84,japanese:tail:1
 japanese,tail,Kagoshima,siːbo,japanese:tail:86,japanese:tail:2
 japanese,tail,Kyōto,oː,japanese:tail:84,japanese:tail:1
 japanese,tail,Kōchi,o,japanese:tail:84,japanese:tail:1
-japanese,tail,Miyako,ʣuː,japanese:tail:85,japanese:tail:1
+japanese,tail,Miyako,ʣuː,japanese:tail:85,japanese:tail:3
 japanese,tail,Oki,o,japanese:tail:84,japanese:tail:1
 japanese,tail,Sado,o,japanese:tail:84,japanese:tail:1
-japanese,tail,Shuri,zuː,japanese:tail:85,japanese:tail:1
+japanese,tail,Shuri,zuː,japanese:tail:85,japanese:tail:3
 japanese,tail,Tōkyō,sipːo,japanese:tail:86,japanese:tail:2
 japanese,nose,Amami,hana,japanese:nose:98,japanese:nose:1
 japanese,nose,Hachijō,hana,japanese:nose:98,japanese:nose:1
@@ -369,24 +369,24 @@ japanese,when,Sado,iʦu,japanese:when:239,japanese:when:1
 japanese,when,Shuri,ʔiɕi,japanese:when:239,japanese:when:1
 japanese,when,Tōkyō,iʦu,japanese:when:239,japanese:when:1
 japanese,how,Amami,xjasi,japanese:how:235,japanese:how:5
-japanese,how,Hachijō,zuguan,japanese:how:237,japanese:how:4
-japanese,how,Kagoshima,ikeɴ,japanese:how:235,japanese:how:2
+japanese,how,Hachijō,zuguan,japanese:how:237,japanese:how:2
+japanese,how,Kagoshima,ikeɴ,japanese:how:235,japanese:how:4
 japanese,how,Kyōto,doː,japanese:how:238,japanese:how:1
 japanese,how,Kōchi,doː,japanese:how:238,japanese:how:1
 japanese,how,Miyako,nau,japanese:how:236,japanese:how:3
 japanese,how,Oki,doŋe,japanese:how:238,japanese:how:1
-japanese,how,Sado,dogaini,japanese:how:238,japanese:how:1
+japanese,how,Sado,dogaini,japanese:how:238,japanese:how:2
 japanese,how,Shuri,ʦaː,japanese:how:235,japanese:how:1
 japanese,how,Tōkyō,doː,japanese:how:238,japanese:how:1
-japanese,not,Amami,ʔaraɴ,japanese:not:23,japanese:not:2
+japanese,not,Amami,ʔaraɴ,japanese:not:23,japanese:not:3
 japanese,not,Hachijō,nakːja,japanese:not:22,japanese:not:1
 japanese,not,Kagoshima,naka,japanese:not:22,japanese:not:1
 japanese,not,Kyōto,nai,japanese:not:22,japanese:not:1
 japanese,not,Kōchi,nai,japanese:not:22,japanese:not:1
-japanese,not,Miyako,araŋ,japanese:not:23,japanese:not:2
-japanese,not,Oki,neː,japanese:not:22,japanese:not:1
+japanese,not,Miyako,araŋ,japanese:not:23,japanese:not:3
+japanese,not,Oki,neː,japanese:not:22,japanese:not:2
 japanese,not,Sado,nai,japanese:not:22,japanese:not:1
-japanese,not,Shuri,neːɴ,japanese:not:22,japanese:not:1
+japanese,not,Shuri,neːɴ,japanese:not:22,japanese:not:2
 japanese,not,Tōkyō,nai,japanese:not:22,japanese:not:1
 japanese,few,Amami,ʔikirasari,japanese:few:258,japanese:few:3
 japanese,few,Hachijō,ʨiːto,japanese:few:255,japanese:few:2
@@ -503,7 +503,7 @@ japanese,narrow,Hachijō,sebakʲa,japanese:narrow:350,japanese:narrow:1
 japanese,narrow,Kagoshima,seme,japanese:narrow:350,japanese:narrow:1
 japanese,narrow,Kyōto,sebai,japanese:narrow:350,japanese:narrow:1
 japanese,narrow,Kōchi,sebai,japanese:narrow:350,japanese:narrow:1
-japanese,narrow,Miyako,iba,japanese:narrow:0,japanese:narrow:2
+japanese,narrow,Miyako,iba,japanese:narrow:0,japanese:narrow:1
 japanese,narrow,Oki,semeː,japanese:narrow:350,japanese:narrow:1
 japanese,narrow,Sado,semai,japanese:narrow:350,japanese:narrow:1
 japanese,narrow,Shuri,ʃibasaɴ,japanese:narrow:350,japanese:narrow:1
@@ -536,9 +536,9 @@ japanese,puke (vomit),Kōchi,haku,japanese:puke (vomit):430,japanese:puke (vomit
 japanese,puke (vomit),Miyako,pafu,japanese:puke (vomit):430,japanese:puke (vomit):1
 japanese,puke (vomit),Oki,haku,japanese:puke (vomit):430,japanese:puke (vomit):1
 japanese,puke (vomit),Sado,haku,japanese:puke (vomit):430,japanese:puke (vomit):1
-japanese,puke (vomit),Shuri,haʦuɴ,japanese:puke (vomit):430,japanese:puke (vomit):2
+japanese,puke (vomit),Shuri,haʦuɴ,japanese:puke (vomit):430,japanese:puke (vomit):1
 japanese,puke (vomit),Tōkyō,haku,japanese:puke (vomit):430,japanese:puke (vomit):1
-japanese,fall,Amami,ʔuθɨruri,japanese:fall:420,japanese:fall:2
+japanese,fall,Amami,ʔuθɨruri,japanese:fall:420,japanese:fall:3
 japanese,fall,Hachijō,oteru,japanese:fall:420,japanese:fall:1
 japanese,fall,Kagoshima,oʦu,japanese:fall:420,japanese:fall:1
 japanese,fall,Kyōto,oʨiru,japanese:fall:420,japanese:fall:1
@@ -609,13 +609,13 @@ japanese,foot,Shuri,hwiɕa,japanese:foot:106,japanese:foot:2
 japanese,foot,Tōkyō,asi,japanese:foot:104,japanese:foot:1
 japanese,moon,Amami,ʦɨki,japanese:moon:168,japanese:moon:1
 japanese,moon,Hachijō,ʦuki,japanese:moon:168,japanese:moon:1
-japanese,moon,Kagoshima,oʦusːaː,japanese:moon:168,japanese:moon:3
+japanese,moon,Kagoshima,oʦusːaː,japanese:moon:168,japanese:moon:2
 japanese,moon,Kyōto,ʦuki,japanese:moon:168,japanese:moon:1
 japanese,moon,Kōchi,tuki,japanese:moon:168,japanese:moon:1
-japanese,moon,Miyako,ʦɨʦɨ,japanese:moon:168,japanese:moon:2
+japanese,moon,Miyako,ʦɨʦɨ,japanese:moon:168,japanese:moon:1
 japanese,moon,Oki,ʦuki,japanese:moon:168,japanese:moon:1
 japanese,moon,Sado,ʦuki,japanese:moon:168,japanese:moon:1
-japanese,moon,Shuri,ɕiʨi,japanese:moon:168,japanese:moon:2
+japanese,moon,Shuri,ɕiʨi,japanese:moon:168,japanese:moon:1
 japanese,moon,Tōkyō,ʦuki,japanese:moon:168,japanese:moon:1
 japanese,down,Amami,ɕaːʨi,japanese:down:446,japanese:down:3
 japanese,down,Hachijō,sita,japanese:down:446,japanese:down:1
@@ -676,15 +676,15 @@ japanese,with,Oki,to,japanese:with:310,japanese:with:1
 japanese,with,Sado,to,japanese:with:310,japanese:with:1
 japanese,with,Shuri,tu,japanese:with:310,japanese:with:1
 japanese,with,Tōkyō,to,japanese:with:310,japanese:with:1
-japanese,sun,Amami,θeda,japanese:sun:167,japanese:sun:2
-japanese,sun,Hachijō,teɴtoːsama,japanese:sun:163,japanese:sun:3
-japanese,sun,Kagoshima,oteɴtosaː,japanese:sun:166,japanese:sun:3
+japanese,sun,Amami,θeda,japanese:sun:167,japanese:sun:3
+japanese,sun,Hachijō,teɴtoːsama,japanese:sun:163,japanese:sun:2
+japanese,sun,Kagoshima,oteɴtosaː,japanese:sun:166,japanese:sun:2
 japanese,sun,Kyōto,ohisaɴ,japanese:sun:164,japanese:sun:1
 japanese,sun,Kōchi,ohisama,japanese:sun:164,japanese:sun:1
-japanese,sun,Miyako,tida,japanese:sun:167,japanese:sun:2
+japanese,sun,Miyako,tida,japanese:sun:167,japanese:sun:3
 japanese,sun,Oki,oɸisaɴ,japanese:sun:164,japanese:sun:1
-japanese,sun,Sado,nitːeɴsama,japanese:sun:165,japanese:sun:3
-japanese,sun,Shuri,tiːda,japanese:sun:167,japanese:sun:2
+japanese,sun,Sado,nitːeɴsama,japanese:sun:165,japanese:sun:2
+japanese,sun,Shuri,tiːda,japanese:sun:167,japanese:sun:3
 japanese,sun,Tōkyō,ohisama,japanese:sun:164,japanese:sun:1
 japanese,here,Amami,xuma,japanese:here:244,japanese:here:2
 japanese,here,Hachijō,koko,japanese:here:245,japanese:here:1
@@ -770,7 +770,7 @@ japanese,dry,Kagoshima,kaeta,japanese:dry:218,japanese:dry:1
 japanese,dry,Kyōto,kawaita,japanese:dry:218,japanese:dry:1
 japanese,dry,Kōchi,kawaita,japanese:dry:218,japanese:dry:1
 japanese,dry,Miyako,kaːraʦɨ,japanese:dry:217,japanese:dry:2
-japanese,dry,Oki,ɸita,japanese:dry:220,japanese:dry:4
+japanese,dry,Oki,ɸita,japanese:dry:220,japanese:dry:1
 japanese,dry,Sado,hoseta,japanese:dry:219,japanese:dry:1
 japanese,dry,Shuri,kaːraʦoːru,japanese:dry:217,japanese:dry:2
 japanese,dry,Tōkyō,kawaita,japanese:dry:218,japanese:dry:1
@@ -878,7 +878,7 @@ japanese,squeeze,Amami,semeʦɨkɨruri,japanese:squeeze:442,japanese:squeeze:1
 japanese,squeeze,Hachijō,simeʦukeru,japanese:squeeze:442,japanese:squeeze:1
 japanese,squeeze,Kagoshima,simeʦuku,japanese:squeeze:442,japanese:squeeze:1
 japanese,squeeze,Kōchi,simeru,japanese:squeeze:442,japanese:squeeze:1
-japanese,squeeze,Miyako,ʃimiɭ,japanese:squeeze:442,japanese:squeeze:2
+japanese,squeeze,Miyako,ʃimiɭ,japanese:squeeze:442,japanese:squeeze:3
 japanese,squeeze,Oki,simeru,japanese:squeeze:442,japanese:squeeze:1
 japanese,squeeze,Sado,simeʦukeru,japanese:squeeze:442,japanese:squeeze:1
 japanese,squeeze,Shuri,simijuɴ,japanese:squeeze:442,japanese:squeeze:2
@@ -913,25 +913,25 @@ japanese,dig,Oki,horu,japanese:dig:414,japanese:dig:1
 japanese,dig,Sado,horu,japanese:dig:414,japanese:dig:1
 japanese,dig,Shuri,hujuɴ,japanese:dig:414,japanese:dig:1
 japanese,dig,Tōkyō,horu,japanese:dig:414,japanese:dig:1
-japanese,fear,Amami,ʔuθuruɕa,japanese:fear:440,japanese:fear:2
+japanese,fear,Amami,ʔuθuruɕa,japanese:fear:440,japanese:fear:3
 japanese,fear,Hachijō,okːanagaru,japanese:fear:436,japanese:fear:1
 japanese,fear,Kagoshima,otorosːesui,japanese:fear:440,japanese:fear:6
-japanese,fear,Kyōto,kowaŋaru,japanese:fear:437,japanese:fear:3
+japanese,fear,Kyōto,kowaŋaru,japanese:fear:437,japanese:fear:2
 japanese,fear,Kōchi,odiru,japanese:fear:439,japanese:fear:5
 japanese,fear,Miyako,uɣviɭ,japanese:fear:441,japanese:fear:4
 japanese,fear,Oki,osoreru,japanese:fear:440,japanese:fear:1
 japanese,fear,Sado,osogagaru,japanese:fear:438,japanese:fear:1
-japanese,fear,Shuri,ʔuturusa,japanese:fear:440,japanese:fear:2
-japanese,fear,Tōkyō,kowaŋaru,japanese:fear:437,japanese:fear:3
-japanese,suck,Amami,sibururi,japanese:suck:433,japanese:suck:3
-japanese,suck,Hachijō,nomu,japanese:suck:431,japanese:suck:2
+japanese,fear,Shuri,ʔuturusa,japanese:fear:440,japanese:fear:3
+japanese,fear,Tōkyō,kowaŋaru,japanese:fear:437,japanese:fear:2
+japanese,suck,Amami,sibururi,japanese:suck:433,japanese:suck:2
+japanese,suck,Hachijō,nomu,japanese:suck:431,japanese:suck:3
 japanese,suck,Kagoshima,suiu,japanese:suck:432,japanese:suck:1
 japanese,suck,Kyōto,suː,japanese:suck:432,japanese:suck:1
-japanese,suck,Kōchi,nomu,japanese:suck:431,japanese:suck:2
+japanese,suck,Kōchi,nomu,japanese:suck:431,japanese:suck:3
 japanese,suck,Miyako,jub͡zɨ,japanese:suck:434,japanese:suck:4
 japanese,suck,Oki,suː,japanese:suck:432,japanese:suck:1
 japanese,suck,Sado,suː,japanese:suck:432,japanese:suck:1
-japanese,suck,Shuri,ʃipujuɴ,japanese:suck:433,japanese:suck:3
+japanese,suck,Shuri,ʃipujuɴ,japanese:suck:433,japanese:suck:2
 japanese,suck,Tōkyō,suː,japanese:suck:432,japanese:suck:1
 japanese,alive (live),Amami,ʔikiʨuri,japanese:alive (live):455,japanese:alive (live):1
 japanese,alive (live),Hachijō,ikite,japanese:alive (live):455,japanese:alive (live):1
@@ -943,7 +943,7 @@ japanese,alive (live),Oki,ekeʨoru,japanese:alive (live):455,japanese:alive (liv
 japanese,alive (live),Sado,ikitoru,japanese:alive (live):455,japanese:alive (live):1
 japanese,alive (live),Shuri,ʔiʨiʦoːɴ,japanese:alive (live):455,japanese:alive (live):1
 japanese,alive (live),Tōkyō,ikiteru,japanese:alive (live):455,japanese:alive (live):1
-japanese,yellow,Amami,kiːsari,japanese:yellow:193,japanese:yellow:1
+japanese,yellow,Amami,kiːsari,japanese:yellow:193,japanese:yellow:2
 japanese,yellow,Hachijō,kiːrokʲa,japanese:yellow:193,japanese:yellow:1
 japanese,yellow,Kagoshima,kiː,japanese:yellow:193,japanese:yellow:1
 japanese,yellow,Kyōto,kiːroi,japanese:yellow:193,japanese:yellow:1
@@ -963,7 +963,7 @@ japanese,green,Oki,aweː,japanese:green:192,japanese:green:3
 japanese,green,Sado,a.oi,japanese:green:192,japanese:green:1
 japanese,green,Shuri,ʔoːsaɴ,japanese:green:191,japanese:green:2
 japanese,green,Tōkyō,a.oi,japanese:green:192,japanese:green:1
-japanese,full,Amami,zoɴbai,japanese:full:205,japanese:full:1
+japanese,full,Amami,zoɴbai,japanese:full:205,japanese:full:3
 japanese,full,Hachijō,ipːia,japanese:full:204,japanese:full:1
 japanese,full,Kagoshima,pːe,japanese:full:204,japanese:full:1
 japanese,full,Kyōto,ipːai,japanese:full:204,japanese:full:1
@@ -1075,10 +1075,10 @@ japanese,give,Hachijō,muaseru,japanese:give:157,japanese:give:1
 japanese,give,Kagoshima,kuiru,japanese:give:160,japanese:give:2
 japanese,give,Kyōto,aŋeru,japanese:give:158,japanese:give:1
 japanese,give,Kōchi,jaru,japanese:give:159,japanese:give:1
-japanese,give,Miyako,fiːɭ,japanese:give:160,japanese:give:3
+japanese,give,Miyako,fiːɭ,japanese:give:160,japanese:give:4
 japanese,give,Oki,jaru,japanese:give:159,japanese:give:1
 japanese,give,Sado,jaru,japanese:give:159,japanese:give:1
-japanese,give,Shuri,kwiːjuɴ,japanese:give:160,japanese:give:4
+japanese,give,Shuri,kwiːjuɴ,japanese:give:160,japanese:give:3
 japanese,give,Tōkyō,aŋeru,japanese:give:158,japanese:give:1
 japanese,hold,Amami,muθuri,japanese:hold:444,japanese:hold:1
 japanese,hold,Hachijō,sageru,japanese:hold:443,japanese:hold:2
@@ -1184,10 +1184,10 @@ japanese,at,Hachijō,de,japanese:at:313,japanese:at:1
 japanese,at,Kagoshima,de,japanese:at:313,japanese:at:1
 japanese,at,Kyōto,de,japanese:at:313,japanese:at:1
 japanese,at,Kōchi,de,japanese:at:313,japanese:at:1
-japanese,at,Miyako,n,japanese:at:312,japanese:at:4
+japanese,at,Miyako,n,japanese:at:312,japanese:at:3
 japanese,at,Oki,de,japanese:at:313,japanese:at:1
 japanese,at,Sado,de,japanese:at:313,japanese:at:1
-japanese,at,Shuri,uti,japanese:at:313,japanese:at:3
+japanese,at,Shuri,uti,japanese:at:313,japanese:at:1
 japanese,at,Tōkyō,de,japanese:at:313,japanese:at:1
 japanese,sea,Amami,ʔumi,japanese:sea:268,japanese:sea:1
 japanese,sea,Hachijō,umi,japanese:sea:268,japanese:sea:1
@@ -1305,10 +1305,10 @@ japanese,sleep,Kagoshima,neimuʨːoi,japanese:sleep:136,japanese:sleep:1
 japanese,sleep,Miyako,niv,japanese:sleep:136,japanese:sleep:3
 japanese,sleep,Shuri,niɴzuɴ,japanese:sleep:136,japanese:sleep:2
 japanese,sleep,Tōkyō,nemuru,japanese:sleep:136,japanese:sleep:1
-japanese,smell,Amami,xazamuri,japanese:smell:429,japanese:smell:1
+japanese,smell,Amami,xazamuri,japanese:smell:429,japanese:smell:3
 japanese,smell,Hachijō,kamaru,japanese:smell:426,japanese:smell:1
 japanese,smell,Kagoshima,kaizuɴ,japanese:smell:429,japanese:smell:2
-japanese,smell,Kyōto,nioŋu,japanese:smell:428,japanese:smell:3
+japanese,smell,Kyōto,nioŋu,japanese:smell:428,japanese:smell:4
 japanese,smell,Kōchi,kamu,japanese:smell:426,japanese:smell:1
 japanese,smell,Oki,kaŋu,japanese:smell:427,japanese:smell:1
 japanese,smell,Sado,kagu,japanese:smell:427,japanese:smell:1
@@ -1319,7 +1319,7 @@ japanese,up,Hachijō,we,japanese:up:447,japanese:up:1
 japanese,up,Kagoshima,ueː,japanese:up:447,japanese:up:1
 japanese,up,Kyōto,ueː,japanese:up:447,japanese:up:1
 japanese,up,Kōchi,ue,japanese:up:447,japanese:up:1
-japanese,up,Miyako,waːra,japanese:up:447,japanese:up:1
+japanese,up,Miyako,waːra,japanese:up:447,japanese:up:3
 japanese,up,Oki,ewe,japanese:up:447,japanese:up:1
 japanese,up,Sado,ue,japanese:up:447,japanese:up:1
 japanese,up,Shuri,ʔwiːɴkai,japanese:up:447,japanese:up:2
@@ -1334,15 +1334,15 @@ japanese,black,Oki,kureː,japanese:black:195,japanese:black:1
 japanese,black,Sado,kuroi,japanese:black:195,japanese:black:1
 japanese,black,Shuri,kurusaɴ,japanese:black:195,japanese:black:1
 japanese,black,Tōkyō,kuroi,japanese:black:195,japanese:black:1
-japanese,short,Amami,ʔikːjasari,japanese:short:360,japanese:short:4
+japanese,short,Amami,ʔikːjasari,japanese:short:360,japanese:short:2
 japanese,short,Hachijō,miʥikakʲa,japanese:short:359,japanese:short:1
 japanese,short,Kagoshima,miɕke,japanese:short:359,japanese:short:1
 japanese,short,Kyōto,miʥikai,japanese:short:359,japanese:short:1
 japanese,short,Kōchi,mizoi,japanese:short:359,japanese:short:1
-japanese,short,Miyako,maru,japanese:short:358,japanese:short:3
+japanese,short,Miyako,maru,japanese:short:358,japanese:short:4
 japanese,short,Oki,meʨikeː,japanese:short:359,japanese:short:1
 japanese,short,Sado,miʥikai,japanese:short:359,japanese:short:1
-japanese,short,Shuri,ʔiɴʦasaɴ,japanese:short:360,japanese:short:2
+japanese,short,Shuri,ʔiɴʦasaɴ,japanese:short:360,japanese:short:3
 japanese,short,Tōkyō,miʥikai,japanese:short:359,japanese:short:1
 japanese,arm,Amami,xeːnʲa,japanese:arm:291,japanese:arm:2
 japanese,arm,Hachijō,ude,japanese:arm:289,japanese:arm:1
@@ -1354,25 +1354,25 @@ japanese,arm,Oki,ode,japanese:arm:289,japanese:arm:1
 japanese,arm,Sado,ude,japanese:arm:289,japanese:arm:1
 japanese,arm,Shuri,tiː,japanese:arm:290,japanese:arm:1
 japanese,arm,Tōkyō,ude,japanese:arm:289,japanese:arm:1
-japanese,correct (right),Amami,iʨːari,japanese:correct (right):390,japanese:correct (right):8
-japanese,correct (right),Hachijō,jokːja,japanese:correct (right):393,japanese:correct (right):7
-japanese,correct (right),Kagoshima,naiːʨo,japanese:correct (right):389,japanese:correct (right):6
+japanese,correct (right),Amami,iʨːari,japanese:correct (right):390,japanese:correct (right):7
+japanese,correct (right),Hachijō,jokːja,japanese:correct (right):393,japanese:correct (right):6
+japanese,correct (right),Kagoshima,naiːʨo,japanese:correct (right):389,japanese:correct (right):2
 japanese,correct (right),Kyōto,eː,japanese:correct (right):387,japanese:correct (right):1
 japanese,correct (right),Kōchi,eː,japanese:correct (right):387,japanese:correct (right):1
 japanese,correct (right),Miyako,atariːduːɭ,japanese:correct (right):392,japanese:correct (right):5
 japanese,correct (right),Oki,eː,japanese:correct (right):387,japanese:correct (right):1
 japanese,correct (right),Sado,tadasiː,japanese:correct (right):388,japanese:correct (right):4
 japanese,correct (right),Shuri,jutaɕaɴ,japanese:correct (right):391,japanese:correct (right):3
-japanese,correct (right),Tōkyō,iː,japanese:correct (right):387,japanese:correct (right):2
-japanese,wet,Amami,neːθa,japanese:wet:274,japanese:wet:1
-japanese,wet,Hachijō,pietua,japanese:wet:273,japanese:wet:4
+japanese,correct (right),Tōkyō,iː,japanese:correct (right):387,japanese:correct (right):1
+japanese,wet,Amami,neːθa,japanese:wet:274,japanese:wet:5
+japanese,wet,Hachijō,pietua,japanese:wet:273,japanese:wet:2
 japanese,wet,Kagoshima,nureita,japanese:wet:274,japanese:wet:1
 japanese,wet,Kyōto,nureta,japanese:wet:274,japanese:wet:1
 japanese,wet,Kōchi,nureta,japanese:wet:274,japanese:wet:1
-japanese,wet,Miyako,mːiɭ,japanese:wet:275,japanese:wet:3
+japanese,wet,Miyako,mːiɭ,japanese:wet:275,japanese:wet:4
 japanese,wet,Oki,noreta,japanese:wet:274,japanese:wet:1
 japanese,wet,Sado,nureta,japanese:wet:274,japanese:wet:1
-japanese,wet,Shuri,ɴditoːru,japanese:wet:274,japanese:wet:2
+japanese,wet,Shuri,ɴditoːru,japanese:wet:274,japanese:wet:3
 japanese,wet,Tōkyō,nureta,japanese:wet:274,japanese:wet:1
 japanese,rotten,Amami,warusari,japanese:rotten:376,japanese:rotten:1
 japanese,rotten,Hachijō,warukʲa,japanese:rotten:376,japanese:rotten:1
@@ -1717,7 +1717,7 @@ japanese,ash,Hachijō,hia,japanese:ash:185,japanese:ash:1
 japanese,ash,Kagoshima,hei,japanese:ash:185,japanese:ash:1
 japanese,ash,Kyōto,hai,japanese:ash:185,japanese:ash:1
 japanese,ash,Kōchi,hai,japanese:ash:185,japanese:ash:1
-japanese,ash,Miyako,pazɨ,japanese:ash:185,japanese:ash:2
+japanese,ash,Miyako,pazɨ,japanese:ash:185,japanese:ash:1
 japanese,ash,Oki,ɸeː,japanese:ash:185,japanese:ash:1
 japanese,ash,Sado,hai,japanese:ash:185,japanese:ash:1
 japanese,ash,Shuri,hweː,japanese:ash:185,japanese:ash:1
@@ -1843,7 +1843,7 @@ japanese,skin,Sado,kawa,japanese:skin:75,japanese:skin:1
 japanese,skin,Shuri,kaː,japanese:skin:75,japanese:skin:1
 japanese,skin,Tōkyō,kawa,japanese:skin:75,japanese:skin:1
 japanese,smoke,Amami,xɨbusi,japanese:smoke:182,japanese:smoke:2
-japanese,smoke,Hachijō,iburi,japanese:smoke:181,japanese:smoke:1
+japanese,smoke,Hachijō,iburi,japanese:smoke:181,japanese:smoke:2
 japanese,smoke,Kagoshima,keimui,japanese:smoke:182,japanese:smoke:1
 japanese,smoke,Kyōto,kemuri,japanese:smoke:182,japanese:smoke:1
 japanese,smoke,Kōchi,kemuri,japanese:smoke:182,japanese:smoke:1
@@ -1854,7 +1854,7 @@ japanese,smoke,Shuri,kibusi,japanese:smoke:182,japanese:smoke:2
 japanese,smoke,Tōkyō,kemu,japanese:smoke:182,japanese:smoke:1
 japanese,that,Amami,ʔarɨ,japanese:that:15,japanese:that:1
 japanese,that,Hachijō,ore,japanese:that:17,japanese:that:1
-japanese,that,Kagoshima,aiː,japanese:that:15,japanese:that:1
+japanese,that,Kagoshima,aiː,japanese:that:15,japanese:that:2
 japanese,that,Kyōto,are,japanese:that:15,japanese:that:1
 japanese,that,Kōchi,are,japanese:that:15,japanese:that:1
 japanese,that,Miyako,kari,japanese:that:16,japanese:that:1

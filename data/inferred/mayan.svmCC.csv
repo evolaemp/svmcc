@@ -5,26 +5,26 @@ mayan,good,CENTRAL_QUICHE,uc,mayan:good:3,mayan:good:1
 mayan,good,CHICOMUCELTEC,tahelatnik,mayan:good:7,mayan:good:6
 mayan,good,CHOL_TUMBALA,uc,mayan:good:3,mayan:good:1
 mayan,good,CHONTAL_TABASCO,uc,mayan:good:3,mayan:good:1
-mayan,good,CHORTI,imbucop,mayan:good:13,mayan:good:7
+mayan,good,CHORTI,imbucop,mayan:good:13,mayan:good:12
 mayan,good,CHUJ,"waC""",mayan:good:1,mayan:good:3
 mayan,good,EASTERN_KEKCHI_CAHABON,us,mayan:good:3,mayan:good:1
-mayan,good,HUASTEC,alwa7,mayan:good:6,mayan:good:2
-mayan,good,ITZAJ,ki,mayan:good:4,mayan:good:4
+mayan,good,HUASTEC,alwa7,mayan:good:6,mayan:good:11
+mayan,good,ITZAJ,ki,mayan:good:4,mayan:good:5
 mayan,good,IXIL_CHAJUL,"b""an",mayan:good:2,mayan:good:2
-mayan,good,JACALTEC,"k""ul",mayan:good:8,mayan:good:8
+mayan,good,JACALTEC,"k""ul",mayan:good:8,mayan:good:10
 mayan,good,LACANDON,Coy,mayan:good:14,mayan:good:9
 mayan,good,MAM_NORTHERN,ban ke,mayan:good:2,mayan:good:2
 mayan,good,MAYA_YUCATAN,uc,mayan:good:3,mayan:good:1
-mayan,good,MOPAN,ki7,mayan:good:4,mayan:good:4
-mayan,good,POCOMAM_EASTERN,no waxal,mayan:good:11,mayan:good:10
-mayan,good,POQOMCHI_WESTERN,"atob""",mayan:good:10,mayan:good:11
+mayan,good,MOPAN,ki7,mayan:good:4,mayan:good:5
+mayan,good,POCOMAM_EASTERN,no waxal,mayan:good:11,mayan:good:8
+mayan,good,POQOMCHI_WESTERN,"atob""",mayan:good:10,mayan:good:7
 mayan,good,QANJOBAL_SANTA_EULALIA,"waT""",mayan:good:1,mayan:good:3
 mayan,good,SACAPULTECO_SACAPULAS_CENTRO,oc,mayan:good:3,mayan:good:1
 mayan,good,SIPAKAPENSE,uc,mayan:good:3,mayan:good:1
 mayan,good,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,uc,mayan:good:3,mayan:good:1
 mayan,good,TECO_TECTITAN,"b""an",mayan:good:2,mayan:good:2
-mayan,good,TOJOLABAL,lek,mayan:good:5,mayan:good:5
-mayan,good,TZELTAL_BACHAJON,lek,mayan:good:5,mayan:good:5
+mayan,good,TOJOLABAL,lek,mayan:good:5,mayan:good:4
+mayan,good,TZELTAL_BACHAJON,lek,mayan:good:5,mayan:good:4
 mayan,good,TZUTUJIL_SAN_JUAN_LA_LAGUNA,uc,mayan:good:3,mayan:good:1
 mayan,good,USPANTEKO,ci,mayan:good:12,mayan:good:1
 mayan,good,ZINACANTAN_TZOTZIL,uc,mayan:good:3,mayan:good:1
@@ -35,7 +35,7 @@ mayan,hair,CHICOMUCELTEC,hulok,mayan:hair:7,mayan:hair:7
 mayan,hair,CHOL_TUMBALA,cuc,mayan:hair:6,mayan:hair:1
 mayan,hair,CHONTAL_TABASCO,u cuce,mayan:hair:6,mayan:hair:1
 mayan,hair,CHORTI,cuc,mayan:hair:6,mayan:hair:1
-mayan,hair,CHUJ,Sil xolom,mayan:hair:2,mayan:hair:6
+mayan,hair,CHUJ,Sil xolom,mayan:hair:2,mayan:hair:5
 mayan,hair,EASTERN_KEKCHI_CAHABON,rismal,mayan:hair:5,mayan:hair:3
 mayan,hair,HUASTEC,Si7,mayan:hair:1,mayan:hair:2
 mayan,hair,IXIL_CHAJUL,Sil wi7,mayan:hair:2,mayan:hair:2
@@ -45,7 +45,7 @@ mayan,hair,MAM_NORTHERN,smal,mayan:hair:3,mayan:hair:3
 mayan,hair,MAYA_YUCATAN,co7ocel,mayan:hair:6,mayan:hair:1
 mayan,hair,MOCHO,Si7,mayan:hair:1,mayan:hair:2
 mayan,hair,MOPAN,co7oc,mayan:hair:6,mayan:hair:1
-mayan,hair,POCOMAM_EASTERN,nah,mayan:hair:8,mayan:hair:5
+mayan,hair,POCOMAM_EASTERN,nah,mayan:hair:8,mayan:hair:6
 mayan,hair,POQOMCHI_WESTERN,rismal na,mayan:hair:5,mayan:hair:3
 mayan,hair,QANJOBAL_SANTA_EULALIA,Sil,mayan:hair:2,mayan:hair:2
 mayan,hair,SACAPULTECO_SACAPULAS_CENTRO,we7,mayan:hair:4,mayan:hair:4
@@ -89,7 +89,7 @@ mayan,many,USPANTEKO,"k""i",mayan:many:3,mayan:many:1
 mayan,many,ZINACANTAN_TZOTZIL,ep,mayan:many:13,mayan:many:9
 mayan,feather,ACATECO_SAN_MIGUEL_ACATAN,Sil,mayan:feather:1,mayan:feather:1
 mayan,feather,AGUACATEC,Si7il,mayan:feather:1,mayan:feather:1
-mayan,feather,CENTRAL_QUICHE,kiS,mayan:feather:10,mayan:feather:6
+mayan,feather,CENTRAL_QUICHE,kiS,mayan:feather:10,mayan:feather:10
 mayan,feather,CHICOMUCELTEC,huhul,mayan:feather:1,mayan:feather:5
 mayan,feather,CHOL_TUMBALA,cuc,mayan:feather:7,mayan:feather:4
 mayan,feather,CHONTAL_TABASCO,"muk""u",mayan:feather:12,mayan:feather:2
@@ -100,14 +100,14 @@ mayan,feather,HUASTEC,huhlek,mayan:feather:1,mayan:feather:5
 mayan,feather,ITZAJ,"k""uk""um",mayan:feather:6,mayan:feather:2
 mayan,feather,IXIL_CHAJUL,Sil,mayan:feather:1,mayan:feather:1
 mayan,feather,JACALTEC,Sil,mayan:feather:1,mayan:feather:1
-mayan,feather,LACANDON,CoCer,mayan:feather:7,mayan:feather:10
+mayan,feather,LACANDON,CoCer,mayan:feather:7,mayan:feather:9
 mayan,feather,MAM_NORTHERN,tsmal,mayan:feather:2,mayan:feather:3
 mayan,feather,MAYA_YUCATAN,"k""uk""um",mayan:feather:6,mayan:feather:2
 mayan,feather,MOCHO,Sik,mayan:feather:5,mayan:feather:1
 mayan,feather,MOPAN,co7oc,mayan:feather:7,mayan:feather:4
-mayan,feather,POCOMAM_EASTERN,rix Cikop,mayan:feather:8,mayan:feather:9
-mayan,feather,POQOMCHI_WESTERN,rix,mayan:feather:8,mayan:feather:8
-mayan,feather,QANJOBAL_SANTA_EULALIA,"c""up",mayan:feather:9,mayan:feather:7
+mayan,feather,POCOMAM_EASTERN,rix Cikop,mayan:feather:8,mayan:feather:8
+mayan,feather,POQOMCHI_WESTERN,rix,mayan:feather:8,mayan:feather:7
+mayan,feather,QANJOBAL_SANTA_EULALIA,"c""up",mayan:feather:9,mayan:feather:6
 mayan,feather,SACAPULTECO_SACAPULAS_CENTRO,rismal,mayan:feather:3,mayan:feather:3
 mayan,feather,SIPAKAPENSE,"Sik""",mayan:feather:5,mayan:feather:1
 mayan,feather,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,rusmal,mayan:feather:3,mayan:feather:3
@@ -181,18 +181,18 @@ mayan,bark,ACATECO_SAN_MIGUEL_ACATAN,yin,mayan:bark:7,mayan:bark:6
 mayan,bark,AGUACATEC,"xalk""ok""il",mayan:bark:9,mayan:bark:7
 mayan,bark,CENTRAL_QUICHE,ix,mayan:bark:3,mayan:bark:1
 mayan,bark,CHICOMUCELTEC,otoSte7,mayan:bark:1,mayan:bark:8
-mayan,bark,CHONTAL_TABASCO,u pat te7,mayan:bark:4,mayan:bark:2
+mayan,bark,CHONTAL_TABASCO,u pat te7,mayan:bark:4,mayan:bark:4
 mayan,bark,CHORTI,pat,mayan:bark:4,mayan:bark:3
 mayan,bark,CHUJ,xokbal te7,mayan:bark:6,mayan:bark:2
 mayan,bark,EASTERN_KEKCHI_CAHABON,rix,mayan:bark:3,mayan:bark:1
 mayan,bark,HUASTEC,"ot""lab",mayan:bark:1,mayan:bark:9
-mayan,bark,ITZAJ,paC Ce7,mayan:bark:4,mayan:bark:2
+mayan,bark,ITZAJ,paC Ce7,mayan:bark:4,mayan:bark:4
 mayan,bark,IXIL_CHAJUL,ti7,mayan:bark:8,mayan:bark:10
-mayan,bark,JACALTEC,"c""umal",mayan:bark:2,mayan:bark:5
+mayan,bark,JACALTEC,"c""umal",mayan:bark:2,mayan:bark:2
 mayan,bark,LACANDON,sor,mayan:bark:12,mayan:bark:11
-mayan,bark,MAM_NORTHERN,komal,mayan:bark:11,mayan:bark:5
-mayan,bark,MOPAN,paC Ce7,mayan:bark:4,mayan:bark:2
-mayan,bark,POCOMAM_EASTERN,rix Cie7,mayan:bark:5,mayan:bark:4
+mayan,bark,MAM_NORTHERN,komal,mayan:bark:11,mayan:bark:2
+mayan,bark,MOPAN,paC Ce7,mayan:bark:4,mayan:bark:4
+mayan,bark,POCOMAM_EASTERN,rix Cie7,mayan:bark:5,mayan:bark:5
 mayan,bark,POQOMCHI_WESTERN,ix,mayan:bark:3,mayan:bark:1
 mayan,bark,QANJOBAL_SANTA_EULALIA,"T""umal te7",mayan:bark:2,mayan:bark:2
 mayan,bark,SACAPULTECO_SACAPULAS_CENTRO,ix,mayan:bark:3,mayan:bark:1
@@ -202,7 +202,7 @@ mayan,bark,TECO_TECTITAN,Sx~olmisal ce7,mayan:bark:10,mayan:bark:2
 mayan,bark,TOJOLABAL,pat,mayan:bark:4,mayan:bark:3
 mayan,bark,TZELTAL_BACHAJON,pat,mayan:bark:4,mayan:bark:3
 mayan,bark,TZUTUJIL_SAN_JUAN_LA_LAGUNA,rix,mayan:bark:4,mayan:bark:1
-mayan,bark,USPANTEKO,rex Ce7,mayan:bark:5,mayan:bark:4
+mayan,bark,USPANTEKO,rex Ce7,mayan:bark:5,mayan:bark:5
 mayan,bark,ZINACANTAN_TZOTZIL,patil,mayan:bark:4,mayan:bark:3
 mayan,tongue,ACATECO_SAN_MIGUEL_ACATAN,a7,mayan:tongue:2,mayan:tongue:1
 mayan,tongue,AGUACATEC,"aq""",mayan:tongue:2,mayan:tongue:1
@@ -313,31 +313,31 @@ mayan,you,TZUTUJIL_SAN_JUAN_LA_LAGUNA,atet,mayan:you:1,mayan:you:1
 mayan,you,USPANTEKO,at,mayan:you:1,mayan:you:1
 mayan,you,ZINACANTAN_TZOTZIL,vot,mayan:you:1,mayan:you:1
 mayan,this,ACATECO_SAN_MIGUEL_ACATAN,hunti7,mayan:this:2,mayan:this:2
-mayan,this,AGUACATEC,e7x,mayan:this:11,mayan:this:10
-mayan,this,CENTRAL_QUICHE,we ri7,mayan:this:5,mayan:this:1
+mayan,this,AGUACATEC,e7x,mayan:this:11,mayan:this:6
+mayan,this,CENTRAL_QUICHE,we ri7,mayan:this:5,mayan:this:5
 mayan,this,CHOL_TUMBALA,hini,mayan:this:7,mayan:this:2
 mayan,this,CHONTAL_TABASCO,hindi,mayan:this:7,mayan:this:2
-mayan,this,CHORTI,ira,mayan:this:8,mayan:this:6
+mayan,this,CHORTI,ira,mayan:this:8,mayan:this:7
 mayan,this,CHUJ,xun tik,mayan:this:10,mayan:this:2
-mayan,this,EASTERN_KEKCHI_CAHABON,ha7in,mayan:this:6,mayan:this:5
-mayan,this,HUASTEC,aSe7,mayan:this:9,mayan:this:7
+mayan,this,EASTERN_KEKCHI_CAHABON,ha7in,mayan:this:6,mayan:this:2
+mayan,this,HUASTEC,aSe7,mayan:this:9,mayan:this:8
 mayan,this,ITZAJ,ahelah,mayan:this:8,mayan:this:3
 mayan,this,IXIL_CHAJUL,uwa7,mayan:this:3,mayan:this:4
 mayan,this,JACALTEC,ti7,mayan:this:1,mayan:this:1
 mayan,this,LACANDON,te7ra7,mayan:this:8,mayan:this:3
 mayan,this,MAM_NORTHERN,lu7,mayan:this:13,mayan:this:1
 mayan,this,MAYA_YUCATAN,lela7,mayan:this:8,mayan:this:3
-mayan,this,MOPAN,"le7ek ad""a7a",mayan:this:8,mayan:this:8
+mayan,this,MOPAN,"le7ek ad""a7a",mayan:this:8,mayan:this:9
 mayan,this,POCOMAM_EASTERN,riyu7,mayan:this:14,mayan:this:1
 mayan,this,POQOMCHI_WESTERN,re7wili,mayan:this:5,mayan:this:1
 mayan,this,QANJOBAL_SANTA_EULALIA,xunti,mayan:this:2,mayan:this:2
 mayan,this,SACAPULTECO_SACAPULAS_CENTRO,ri7,mayan:this:4,mayan:this:1
 mayan,this,SIPAKAPENSE,wa7,mayan:this:3,mayan:this:4
 mayan,this,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,re7,mayan:this:4,mayan:this:1
-mayan,this,TECO_TECTITAN,axa ncani,mayan:this:12,mayan:this:9
-mayan,this,TOJOLABAL,iti,mayan:this:1,mayan:this:2
-mayan,this,TZELTAL_BACHAJON,ha7 ini,mayan:this:6,mayan:this:5
-mayan,this,TZUTUJIL_SAN_JUAN_LA_LAGUNA,xawari7,mayan:this:5,mayan:this:1
+mayan,this,TECO_TECTITAN,axa ncani,mayan:this:12,mayan:this:10
+mayan,this,TOJOLABAL,iti,mayan:this:1,mayan:this:11
+mayan,this,TZELTAL_BACHAJON,ha7 ini,mayan:this:6,mayan:this:2
+mayan,this,TZUTUJIL_SAN_JUAN_LA_LAGUNA,xawari7,mayan:this:5,mayan:this:5
 mayan,this,USPANTEKO,ri,mayan:this:4,mayan:this:1
 mayan,this,ZINACANTAN_TZOTZIL,li7,mayan:this:4,mayan:this:1
 mayan,tail,ACATECO_SAN_MIGUEL_ACATAN,ne,mayan:tail:1,mayan:tail:1
@@ -400,48 +400,48 @@ mayan,nose,TZELTAL_BACHAJON,ni7,mayan:nose:2,mayan:nose:1
 mayan,nose,TZUTUJIL_SAN_JUAN_LA_LAGUNA,cam,mayan:nose:5,mayan:nose:2
 mayan,nose,USPANTEKO,cam,mayan:nose:5,mayan:nose:2
 mayan,nose,ZINACANTAN_TZOTZIL,ni7,mayan:nose:2,mayan:nose:1
-mayan,heart,ACATECO_SAN_MIGUEL_ACATAN,piSan,mayan:heart:2,mayan:heart:1
+mayan,heart,ACATECO_SAN_MIGUEL_ACATAN,piSan,mayan:heart:2,mayan:heart:2
 mayan,heart,CHICOMUCELTEC,iCit,mayan:heart:1,mayan:heart:3
-mayan,heart,CHOL_TUMBALA,"pusik""al",mayan:heart:4,mayan:heart:2
-mayan,heart,CHUJ,piSan,mayan:heart:2,mayan:heart:1
+mayan,heart,CHOL_TUMBALA,"pusik""al",mayan:heart:4,mayan:heart:1
+mayan,heart,CHUJ,piSan,mayan:heart:2,mayan:heart:2
 mayan,heart,HUASTEC,iCiC,mayan:heart:1,mayan:heart:3
-mayan,heart,ITZAJ,"pusik""al",mayan:heart:4,mayan:heart:2
-mayan,heart,LACANDON,piSam,mayan:heart:2,mayan:heart:1
-mayan,heart,MAYA_YUCATAN,"puksi7ik""al",mayan:heart:4,mayan:heart:2
-mayan,heart,MOPAN,"p3s3k""al",mayan:heart:4,mayan:heart:2
-mayan,heart,QANJOBAL_SANTA_EULALIA,piSan,mayan:heart:2,mayan:heart:1
+mayan,heart,ITZAJ,"pusik""al",mayan:heart:4,mayan:heart:1
+mayan,heart,LACANDON,piSam,mayan:heart:2,mayan:heart:2
+mayan,heart,MAYA_YUCATAN,"puksi7ik""al",mayan:heart:4,mayan:heart:1
+mayan,heart,MOPAN,"p3s3k""al",mayan:heart:4,mayan:heart:1
+mayan,heart,QANJOBAL_SANTA_EULALIA,piSan,mayan:heart:2,mayan:heart:2
 mayan,heart,TOJOLABAL,alcil,mayan:heart:5,mayan:heart:6
 mayan,heart,TZELTAL_BACHAJON,otan,mayan:heart:3,mayan:heart:5
 mayan,heart,ZINACANTAN_TZOTZIL,onil,mayan:heart:3,mayan:heart:4
-mayan,liver,ACATECO_SAN_MIGUEL_ACATAN,"q""ex",mayan:liver:10,mayan:liver:11
-mayan,liver,AGUACATEC,"C""oC""",mayan:liver:3,mayan:liver:5
+mayan,liver,ACATECO_SAN_MIGUEL_ACATAN,"q""ex",mayan:liver:10,mayan:liver:5
+mayan,liver,AGUACATEC,"C""oC""",mayan:liver:3,mayan:liver:4
 mayan,liver,CENTRAL_QUICHE,"seseb""",mayan:liver:4,mayan:liver:1
 mayan,liver,CHICOMUCELTEC,mamal,mayan:liver:1,mayan:liver:3
 mayan,liver,CHOL_TUMBALA,olmal,mayan:liver:6,mayan:liver:3
 mayan,liver,CHONTAL_TABASCO,yolma,mayan:liver:6,mayan:liver:3
-mayan,liver,CHORTI,Semem,mayan:liver:14,mayan:liver:10
-mayan,liver,CHUJ,seyub,mayan:liver:2,mayan:liver:4
+mayan,liver,CHORTI,Semem,mayan:liver:14,mayan:liver:6
+mayan,liver,CHUJ,seyub,mayan:liver:2,mayan:liver:1
 mayan,liver,EASTERN_KEKCHI_CAHABON,"saseb""",mayan:liver:4,mayan:liver:1
 mayan,liver,HUASTEC,mamal,mayan:liver:1,mayan:liver:3
 mayan,liver,ITZAJ,tamen,mayan:liver:7,mayan:liver:2
-mayan,liver,IXIL_CHAJUL,con,mayan:liver:11,mayan:liver:9
+mayan,liver,IXIL_CHAJUL,con,mayan:liver:11,mayan:liver:7
 mayan,liver,JACALTEC,sasip,mayan:liver:4,mayan:liver:1
 mayan,liver,LACANDON,tamen,mayan:liver:7,mayan:liver:2
-mayan,liver,MAM_NORTHERN,"tC""oC""",mayan:liver:3,mayan:liver:5
+mayan,liver,MAM_NORTHERN,"tC""oC""",mayan:liver:3,mayan:liver:4
 mayan,liver,MAYA_YUCATAN,taman,mayan:liver:7,mayan:liver:2
-mayan,liver,MOCHO,"seyub""",mayan:liver:2,mayan:liver:4
+mayan,liver,MOCHO,"seyub""",mayan:liver:2,mayan:liver:1
 mayan,liver,MOPAN,tamen,mayan:liver:7,mayan:liver:2
 mayan,liver,POCOMAM_EASTERN,igad,mayan:liver:12,mayan:liver:8
 mayan,liver,POQOMCHI_WESTERN,tamat,mayan:liver:7,mayan:liver:2
-mayan,liver,QANJOBAL_SANTA_EULALIA,"t""iS",mayan:liver:9,mayan:liver:7
+mayan,liver,QANJOBAL_SANTA_EULALIA,"t""iS",mayan:liver:9,mayan:liver:9
 mayan,liver,SACAPULTECO_SACAPULAS_CENTRO,"saseb""",mayan:liver:4,mayan:liver:1
 mayan,liver,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,sase7,mayan:liver:4,mayan:liver:1
 mayan,liver,TECO_TECTITAN,"STanseb""",mayan:liver:4,mayan:liver:1
-mayan,liver,TOJOLABAL,"Cok""ol",mayan:liver:8,mayan:liver:5
-mayan,liver,TZELTAL_BACHAJON,sekub,mayan:liver:5,mayan:liver:4
+mayan,liver,TOJOLABAL,"Cok""ol",mayan:liver:8,mayan:liver:10
+mayan,liver,TZELTAL_BACHAJON,sekub,mayan:liver:5,mayan:liver:1
 mayan,liver,TZUTUJIL_SAN_JUAN_LA_LAGUNA,sase7,mayan:liver:4,mayan:liver:1
-mayan,liver,USPANTEKO,ulew,mayan:liver:13,mayan:liver:6
-mayan,liver,ZINACANTAN_TZOTZIL,sekub,mayan:liver:5,mayan:liver:4
+mayan,liver,USPANTEKO,ulew,mayan:liver:13,mayan:liver:11
+mayan,liver,ZINACANTAN_TZOTZIL,sekub,mayan:liver:5,mayan:liver:1
 mayan,earth,ACATECO_SAN_MIGUEL_ACATAN,"T""oT""",mayan:earth:3,mayan:earth:2
 mayan,earth,AGUACATEC,"C""oC""",mayan:earth:3,mayan:earth:2
 mayan,earth,CENTRAL_QUICHE,ulew,mayan:earth:4,mayan:earth:3
@@ -530,33 +530,33 @@ mayan,night,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"aq""a7",mayan:night:2,mayan:night:1
 mayan,night,USPANTEKO,"laq""ab""",mayan:night:4,mayan:night:1
 mayan,night,ZINACANTAN_TZOTZIL,"ak""ubal",mayan:night:6,mayan:night:1
 mayan,who,ACATECO_SAN_MIGUEL_ACATAN,maSTekel,mayan:who:5,mayan:who:1
-mayan,who,AGUACATEC,na7x,mayan:who:3,mayan:who:3
-mayan,who,CENTRAL_QUICHE,xaCin,mayan:who:6,mayan:who:2
+mayan,who,AGUACATEC,na7x,mayan:who:3,mayan:who:2
+mayan,who,CENTRAL_QUICHE,xaCin,mayan:who:6,mayan:who:6
 mayan,who,CHOL_TUMBALA,maki,mayan:who:2,mayan:who:1
 mayan,who,CHONTAL_TABASCO,maCka,mayan:who:1,mayan:who:1
 mayan,who,CHORTI,Ci,mayan:who:16,mayan:who:4
 mayan,who,CHUJ,maC,mayan:who:1,mayan:who:1
-mayan,who,EASTERN_KEKCHI_CAHABON,anih,mayan:who:14,mayan:who:10
-mayan,who,HUASTEC,hita7,mayan:who:7,mayan:who:9
+mayan,who,EASTERN_KEKCHI_CAHABON,anih,mayan:who:14,mayan:who:11
+mayan,who,HUASTEC,hita7,mayan:who:7,mayan:who:10
 mayan,who,ITZAJ,maS,mayan:who:5,mayan:who:1
-mayan,who,IXIL_CHAJUL,xal,mayan:who:8,mayan:who:2
+mayan,who,IXIL_CHAJUL,xal,mayan:who:8,mayan:who:3
 mayan,who,JACALTEC,mak,mayan:who:2,mayan:who:1
 mayan,who,LACANDON,mak,mayan:who:1,mayan:who:1
-mayan,who,MAM_NORTHERN,alky~e,mayan:who:10,mayan:who:8
+mayan,who,MAM_NORTHERN,alky~e,mayan:who:10,mayan:who:9
 mayan,who,MAYA_YUCATAN,maS,mayan:who:5,mayan:who:1
 mayan,who,MOPAN,maki,mayan:who:2,mayan:who:1
 mayan,who,POCOMAM_EASTERN,ha7 waC,mayan:who:4,mayan:who:5
 mayan,who,POQOMCHI_WESTERN,hanwaC,mayan:who:4,mayan:who:5
 mayan,who,QANJOBAL_SANTA_EULALIA,makTel,mayan:who:2,mayan:who:1
-mayan,who,SACAPULTECO_SACAPULAS_CENTRO,na,mayan:who:3,mayan:who:3
+mayan,who,SACAPULTECO_SACAPULAS_CENTRO,na,mayan:who:3,mayan:who:2
 mayan,who,SIPAKAPENSE,Cinaq,mayan:who:6,mayan:who:4
-mayan,who,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,aCike,mayan:who:11,mayan:who:2
-mayan,who,TECO_TECTITAN,"ab""l",mayan:who:9,mayan:who:2
+mayan,who,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,aCike,mayan:who:11,mayan:who:6
+mayan,who,TECO_TECTITAN,"ab""l",mayan:who:9,mayan:who:3
 mayan,who,TOJOLABAL,maC7,mayan:who:1,mayan:who:1
 mayan,who,TZELTAL_BACHAJON,"maC""a",mayan:who:1,mayan:who:1
-mayan,who,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"naq k""ari7",mayan:who:12,mayan:who:7
-mayan,who,USPANTEKO,nen,mayan:who:13,mayan:who:3
-mayan,who,ZINACANTAN_TZOTZIL,"buC""u",mayan:who:15,mayan:who:6
+mayan,who,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"naq k""ari7",mayan:who:12,mayan:who:8
+mayan,who,USPANTEKO,nen,mayan:who:13,mayan:who:2
+mayan,who,ZINACANTAN_TZOTZIL,"buC""u",mayan:who:15,mayan:who:7
 mayan,what,ACATECO_SAN_MIGUEL_ACATAN,Tetal,mayan:what:9,mayan:what:1
 mayan,what,AGUACATEC,"mb""i",mayan:what:11,mayan:what:5
 mayan,what,CENTRAL_QUICHE,xas,mayan:what:4,mayan:what:2
@@ -614,36 +614,36 @@ mayan,not,TZELTAL_BACHAJON,ma7uk,mayan:not:4,mayan:not:1
 mayan,not,TZUTUJIL_SAN_JUAN_LA_LAGUNA,mata,mayan:not:3,mayan:not:1
 mayan,not,USPANTEKO,ma,mayan:not:5,mayan:not:1
 mayan,not,ZINACANTAN_TZOTZIL,mu,mayan:not:5,mayan:not:1
-mayan,small,ACATECO_SAN_MIGUEL_ACATAN,yaliS,mayan:small:1,mayan:small:7
-mayan,small,AGUACATEC,talkoCk,mayan:small:14,mayan:small:15
+mayan,small,ACATECO_SAN_MIGUEL_ACATAN,yaliS,mayan:small:1,mayan:small:4
+mayan,small,AGUACATEC,talkoCk,mayan:small:14,mayan:small:13
 mayan,small,CENTRAL_QUICHE,"C""utin",mayan:small:2,mayan:small:1
-mayan,small,CHICOMUCELTEC,ekw~etnik,mayan:small:9,mayan:small:14
-mayan,small,CHOL_TUMBALA,al3 to,mayan:small:19,mayan:small:13
-mayan,small,CHONTAL_TABASCO,"p""i7",mayan:small:6,mayan:small:6
-mayan,small,CHORTI,CuCu7 ko7e,mayan:small:3,mayan:small:12
-mayan,small,CHUJ,yune,mayan:small:10,mayan:small:11
+mayan,small,CHICOMUCELTEC,ekw~etnik,mayan:small:9,mayan:small:8
+mayan,small,CHOL_TUMBALA,al3 to,mayan:small:19,mayan:small:16
+mayan,small,CHONTAL_TABASCO,"p""i7",mayan:small:6,mayan:small:7
+mayan,small,CHORTI,CuCu7 ko7e,mayan:small:3,mayan:small:15
+mayan,small,CHUJ,yune,mayan:small:10,mayan:small:12
 mayan,small,EASTERN_KEKCHI_CAHABON,"kaC""in",mayan:small:4,mayan:small:1
-mayan,small,HUASTEC,cipil,mayan:small:8,mayan:small:5
+mayan,small,HUASTEC,cipil,mayan:small:8,mayan:small:6
 mayan,small,ITZAJ,CinCan,mayan:small:7,mayan:small:1
-mayan,small,IXIL_CHAJUL,uSkin,mayan:small:13,mayan:small:1
-mayan,small,JACALTEC,niStex,mayan:small:12,mayan:small:10
+mayan,small,IXIL_CHAJUL,uSkin,mayan:small:13,mayan:small:11
+mayan,small,JACALTEC,niStex,mayan:small:12,mayan:small:14
 mayan,small,LACANDON,CiCan,mayan:small:7,mayan:small:1
-mayan,small,MAM_NORTHERN,ko7,mayan:small:3,mayan:small:2
+mayan,small,MAM_NORTHERN,ko7,mayan:small:3,mayan:small:3
 mayan,small,MAYA_YUCATAN,Can,mayan:small:7,mayan:small:1
-mayan,small,MOCHO,capa,mayan:small:11,mayan:small:5
-mayan,small,MOPAN,nene7,mayan:small:20,mayan:small:9
-mayan,small,POCOMAM_EASTERN,piy7,mayan:small:6,mayan:small:6
-mayan,small,POQOMCHI_WESTERN,"t""uC",mayan:small:17,mayan:small:4
-mayan,small,QANJOBAL_SANTA_EULALIA,yaliS,mayan:small:1,mayan:small:7
+mayan,small,MOCHO,capa,mayan:small:11,mayan:small:6
+mayan,small,MOPAN,nene7,mayan:small:20,mayan:small:10
+mayan,small,POCOMAM_EASTERN,piy7,mayan:small:6,mayan:small:7
+mayan,small,POQOMCHI_WESTERN,"t""uC",mayan:small:17,mayan:small:5
+mayan,small,QANJOBAL_SANTA_EULALIA,yaliS,mayan:small:1,mayan:small:4
 mayan,small,SACAPULTECO_SACAPULAS_CENTRO,"C""aten",mayan:small:2,mayan:small:1
-mayan,small,SIPAKAPENSE,"nuC""",mayan:small:16,mayan:small:4
-mayan,small,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,ko7ol,mayan:small:3,mayan:small:2
-mayan,small,TECO_TECTITAN,nekit,mayan:small:15,mayan:small:3
+mayan,small,SIPAKAPENSE,"nuC""",mayan:small:16,mayan:small:5
+mayan,small,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,ko7ol,mayan:small:3,mayan:small:3
+mayan,small,TECO_TECTITAN,nekit,mayan:small:15,mayan:small:2
 mayan,small,TOJOLABAL,"C""in",mayan:small:4,mayan:small:1
-mayan,small,TZELTAL_BACHAJON,"bik""it",mayan:small:5,mayan:small:3
-mayan,small,TZUTUJIL_SAN_JUAN_LA_LAGUNA,koli,mayan:small:3,mayan:small:2
-mayan,small,USPANTEKO,"q""un",mayan:small:18,mayan:small:8
-mayan,small,ZINACANTAN_TZOTZIL,"bik""it",mayan:small:5,mayan:small:3
+mayan,small,TZELTAL_BACHAJON,"bik""it",mayan:small:5,mayan:small:2
+mayan,small,TZUTUJIL_SAN_JUAN_LA_LAGUNA,koli,mayan:small:3,mayan:small:3
+mayan,small,USPANTEKO,"q""un",mayan:small:18,mayan:small:9
+mayan,small,ZINACANTAN_TZOTZIL,"bik""it",mayan:small:5,mayan:small:2
 mayan,ear,ACATECO_SAN_MIGUEL_ACATAN,Tikin,mayan:ear:3,mayan:ear:1
 mayan,ear,AGUACATEC,SCin,mayan:ear:4,mayan:ear:1
 mayan,ear,CENTRAL_QUICHE,Sikin,mayan:ear:4,mayan:ear:1
@@ -678,7 +678,7 @@ mayan,eye,ACATECO_SAN_MIGUEL_ACATAN,sat,mayan:eye:2,mayan:eye:2
 mayan,eye,AGUACATEC,Ciwucu7,mayan:eye:9,mayan:eye:6
 mayan,eye,CENTRAL_QUICHE,"b""aq""oC",mayan:eye:3,mayan:eye:1
 mayan,eye,CHICOMUCELTEC,wal,mayan:eye:1,mayan:eye:5
-mayan,eye,CHOL_TUMBALA,wut,mayan:eye:6,mayan:eye:2
+mayan,eye,CHOL_TUMBALA,wut,mayan:eye:6,mayan:eye:5
 mayan,eye,CHONTAL_TABASCO,hut,mayan:eye:12,mayan:eye:2
 mayan,eye,CHORTI,"nak""iut",mayan:eye:7,mayan:eye:3
 mayan,eye,CHUJ,yol sat,mayan:eye:2,mayan:eye:1
@@ -1005,7 +1005,7 @@ mayan,sun,CHOL_TUMBALA,Cuhutat,mayan:sun:5,mayan:sun:4
 mayan,sun,CHONTAL_TABASCO,"k""in",mayan:sun:1,mayan:sun:1
 mayan,sun,CHORTI,"k""in",mayan:sun:1,mayan:sun:1
 mayan,sun,CHUJ,"k""u",mayan:sun:3,mayan:sun:1
-mayan,sun,EASTERN_KEKCHI_CAHABON,"saq""en",mayan:sun:1,mayan:sun:5
+mayan,sun,EASTERN_KEKCHI_CAHABON,"saq""en",mayan:sun:1,mayan:sun:1
 mayan,sun,HUASTEC,"k""iCa",mayan:sun:1,mayan:sun:1
 mayan,sun,ITZAJ,"K""in",mayan:sun:1,mayan:sun:1
 mayan,sun,IXIL_CHAJUL,"q""ih",mayan:sun:1,mayan:sun:1
@@ -1029,15 +1029,15 @@ mayan,sun,USPANTEKO,"q""ix",mayan:sun:1,mayan:sun:1
 mayan,sun,ZINACANTAN_TZOTZIL,"k""ak""al",mayan:sun:2,mayan:sun:2
 mayan,knee,ACATECO_SAN_MIGUEL_ACATAN,penek,mayan:knee:2,mayan:knee:4
 mayan,knee,AGUACATEC,"C""ek",mayan:knee:3,mayan:knee:1
-mayan,knee,CENTRAL_QUICHE,"uxolom C""ekax",mayan:knee:13,mayan:knee:5
-mayan,knee,CHICOMUCELTEC,toloC,mayan:knee:8,mayan:knee:6
+mayan,knee,CENTRAL_QUICHE,"uxolom C""ekax",mayan:knee:13,mayan:knee:1
+mayan,knee,CHICOMUCELTEC,toloC,mayan:knee:8,mayan:knee:5
 mayan,knee,CHOL_TUMBALA,piS,mayan:knee:6,mayan:knee:2
 mayan,knee,CHONTAL_TABASCO,piS,mayan:knee:6,mayan:knee:2
 mayan,knee,CHORTI,piS,mayan:knee:6,mayan:knee:2
 mayan,knee,CHUJ,xolm penek,mayan:knee:10,mayan:knee:4
 mayan,knee,EASTERN_KEKCHI_CAHABON,"b""en aq",mayan:knee:14,mayan:knee:4
-mayan,knee,HUASTEC,kw~alal,mayan:knee:7,mayan:knee:7
-mayan,knee,ITZAJ,Sontal,mayan:knee:15,mayan:knee:8
+mayan,knee,HUASTEC,kw~alal,mayan:knee:7,mayan:knee:6
+mayan,knee,ITZAJ,Sontal,mayan:knee:15,mayan:knee:7
 mayan,knee,IXIL_CHAJUL,wi7 aqan,mayan:knee:11,mayan:knee:3
 mayan,knee,JACALTEC,"wic""i7",mayan:knee:1,mayan:knee:3
 mayan,knee,LACANDON,piS,mayan:knee:6,mayan:knee:2
@@ -1052,7 +1052,7 @@ mayan,knee,SACAPULTECO_SACAPULAS_CENTRO,"wi7 C""ek",mayan:knee:12,mayan:knee:3
 mayan,knee,SIPAKAPENSE,"C""ek",mayan:knee:3,mayan:knee:1
 mayan,knee,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,"C""ek",mayan:knee:3,mayan:knee:1
 mayan,knee,TECO_TECTITAN,"c""eky~",mayan:knee:3,mayan:knee:1
-mayan,knee,TOJOLABAL,"Sixk""an",mayan:knee:9,mayan:knee:9
+mayan,knee,TOJOLABAL,"Sixk""an",mayan:knee:9,mayan:knee:8
 mayan,knee,TZELTAL_BACHAJON,hol kakan,mayan:knee:5,mayan:knee:3
 mayan,knee,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"C""ekax",mayan:knee:3,mayan:knee:1
 mayan,knee,USPANTEKO,"C""ek",mayan:knee:3,mayan:knee:1
@@ -1168,22 +1168,22 @@ mayan,bone,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"b""aq",mayan:bone:1,mayan:bone:1
 mayan,bone,USPANTEKO,"b""aq",mayan:bone:1,mayan:bone:1
 mayan,bone,ZINACANTAN_TZOTZIL,bak,mayan:bone:1,mayan:bone:1
 mayan,round,ACATECO_SAN_MIGUEL_ACATAN,"k""olan",mayan:round:6,mayan:round:3
-mayan,round,AGUACATEC,toloS,mayan:round:4,mayan:round:1
+mayan,round,AGUACATEC,toloS,mayan:round:4,mayan:round:15
 mayan,round,CENTRAL_QUICHE,"k""olok""ik",mayan:round:3,mayan:round:1
 mayan,round,CHOL_TUMBALA,pecel,mayan:round:14,mayan:round:13
 mayan,round,CHONTAL_TABASCO,wolo,mayan:round:5,mayan:round:2
-mayan,round,CHORTI,gororoh,mayan:round:5,mayan:round:5
-mayan,round,CHUJ,pilan,mayan:round:8,mayan:round:6
-mayan,round,EASTERN_KEKCHI_CAHABON,"t""ort""oh",mayan:round:12,mayan:round:7
+mayan,round,CHORTI,gororoh,mayan:round:5,mayan:round:12
+mayan,round,CHUJ,pilan,mayan:round:8,mayan:round:11
+mayan,round,EASTERN_KEKCHI_CAHABON,"t""ort""oh",mayan:round:12,mayan:round:10
 mayan,round,HUASTEC,kw~eCoCol,mayan:round:7,mayan:round:14
 mayan,round,ITZAJ,wol,mayan:round:5,mayan:round:2
-mayan,round,IXIL_CHAJUL,uTkin,mayan:round:10,mayan:round:8
-mayan,round,JACALTEC,pet,mayan:round:9,mayan:round:9
-mayan,round,LACANDON,rekan,mayan:round:16,mayan:round:10
+mayan,round,IXIL_CHAJUL,uTkin,mayan:round:10,mayan:round:9
+mayan,round,JACALTEC,pet,mayan:round:9,mayan:round:8
+mayan,round,LACANDON,rekan,mayan:round:16,mayan:round:7
 mayan,round,MAM_NORTHERN,tulin tix,mayan:round:11,mayan:round:1
 mayan,round,MAYA_YUCATAN,wolis,mayan:round:5,mayan:round:2
 mayan,round,MOCHO,set,mayan:round:1,mayan:round:4
-mayan,round,MOPAN,kulul,mayan:round:15,mayan:round:11
+mayan,round,MOPAN,kulul,mayan:round:15,mayan:round:6
 mayan,round,POCOMAM_EASTERN,"k""olok""i",mayan:round:3,mayan:round:1
 mayan,round,POQOMCHI_WESTERN,tolotik,mayan:round:4,mayan:round:1
 mayan,round,QANJOBAL_SANTA_EULALIA,"k""olan",mayan:round:6,mayan:round:3
@@ -1192,7 +1192,7 @@ mayan,round,SIPAKAPENSE,"b""olb""ik",mayan:round:2,mayan:round:1
 mayan,round,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,"k""olk""ik",mayan:round:3,mayan:round:1
 mayan,round,TECO_TECTITAN,Stolo7,mayan:round:4,mayan:round:1
 mayan,round,TOJOLABAL,setan,mayan:round:1,mayan:round:4
-mayan,round,TZELTAL_BACHAJON,nolol,mayan:round:13,mayan:round:12
+mayan,round,TZELTAL_BACHAJON,nolol,mayan:round:13,mayan:round:5
 mayan,round,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"k""olk""ik",mayan:round:3,mayan:round:1
 mayan,round,USPANTEKO,"k""olk""ik",mayan:round:3,mayan:round:1
 mayan,dry,ACATECO_SAN_MIGUEL_ACATAN,taxin,mayan:dry:2,mayan:dry:1
@@ -1266,7 +1266,7 @@ mayan,breasts,ITZAJ,im,mayan:breasts:1,mayan:breasts:2
 mayan,breasts,IXIL_CHAJUL,"C""u7",mayan:breasts:6,mayan:breasts:1
 mayan,breasts,JACALTEC,im,mayan:breasts:1,mayan:breasts:2
 mayan,breasts,LACANDON,im,mayan:breasts:1,mayan:breasts:2
-mayan,breasts,MAM_NORTHERN,ke7imx,mayan:breasts:7,mayan:breasts:1
+mayan,breasts,MAM_NORTHERN,ke7imx,mayan:breasts:7,mayan:breasts:3
 mayan,breasts,MOCHO,im,mayan:breasts:1,mayan:breasts:2
 mayan,breasts,MOPAN,Cu7,mayan:breasts:2,mayan:breasts:1
 mayan,breasts,POCOMAM_EASTERN,"C""uC""",mayan:breasts:4,mayan:breasts:1
@@ -1312,21 +1312,21 @@ mayan,bite,ZINACANTAN_TZOTZIL,ti7,mayan:bite:1,mayan:bite:1
 mayan,name,ACATECO_SAN_MIGUEL_ACATAN,"b""i",mayan:name:1,mayan:name:1
 mayan,name,AGUACATEC,bi7,mayan:name:1,mayan:name:1
 mayan,name,CENTRAL_QUICHE,"b""i7",mayan:name:1,mayan:name:1
-mayan,name,CHICOMUCELTEC,tonakawih,mayan:name:1,mayan:name:3
-mayan,name,CHOL_TUMBALA,"k""aba7",mayan:name:2,mayan:name:2
-mayan,name,CHONTAL_TABASCO,"k""aba7",mayan:name:2,mayan:name:2
-mayan,name,CHORTI,"uk""aba",mayan:name:2,mayan:name:2
+mayan,name,CHICOMUCELTEC,tonakawih,mayan:name:1,mayan:name:2
+mayan,name,CHOL_TUMBALA,"k""aba7",mayan:name:2,mayan:name:1
+mayan,name,CHONTAL_TABASCO,"k""aba7",mayan:name:2,mayan:name:1
+mayan,name,CHORTI,"uk""aba",mayan:name:2,mayan:name:1
 mayan,name,CHUJ,bi,mayan:name:1,mayan:name:1
-mayan,name,EASTERN_KEKCHI_CAHABON,"k""ab""a7",mayan:name:2,mayan:name:2
+mayan,name,EASTERN_KEKCHI_CAHABON,"k""ab""a7",mayan:name:2,mayan:name:1
 mayan,name,HUASTEC,bih,mayan:name:1,mayan:name:1
-mayan,name,ITZAJ,"k""aba7",mayan:name:2,mayan:name:2
+mayan,name,ITZAJ,"k""aba7",mayan:name:2,mayan:name:1
 mayan,name,IXIL_CHAJUL,"b""ih",mayan:name:1,mayan:name:1
 mayan,name,JACALTEC,bi,mayan:name:1,mayan:name:1
-mayan,name,LACANDON,"k""aba7",mayan:name:2,mayan:name:2
+mayan,name,LACANDON,"k""aba7",mayan:name:2,mayan:name:1
 mayan,name,MAM_NORTHERN,tbi,mayan:name:1,mayan:name:1
-mayan,name,MAYA_YUCATAN,"k""ab""a7",mayan:name:2,mayan:name:2
+mayan,name,MAYA_YUCATAN,"k""ab""a7",mayan:name:2,mayan:name:1
 mayan,name,MOCHO,bih,mayan:name:1,mayan:name:1
-mayan,name,MOPAN,"k""ab""a7",mayan:name:2,mayan:name:2
+mayan,name,MOPAN,"k""ab""a7",mayan:name:2,mayan:name:1
 mayan,name,POCOMAM_EASTERN,"w""ih",mayan:name:1,mayan:name:1
 mayan,name,POQOMCHI_WESTERN,"b""inal",mayan:name:1,mayan:name:1
 mayan,name,QANJOBAL_SANTA_EULALIA,"b""i",mayan:name:1,mayan:name:1
@@ -1397,23 +1397,23 @@ mayan,see,TZELTAL_BACHAJON,il,mayan:see:1,mayan:see:1
 mayan,see,TZUTUJIL_SAN_JUAN_LA_LAGUNA,cu7,mayan:see:3,mayan:see:2
 mayan,see,ZINACANTAN_TZOTZIL,il,mayan:see:1,mayan:see:1
 mayan,know,ACATECO_SAN_MIGUEL_ACATAN,otax,mayan:know:2,mayan:know:2
-mayan,know,AGUACATEC,Cum,mayan:know:10,mayan:know:11
+mayan,know,AGUACATEC,Cum,mayan:know:10,mayan:know:10
 mayan,know,CENTRAL_QUICHE,etam,mayan:know:3,mayan:know:3
-mayan,know,CHOL_TUMBALA,ubint,mayan:know:14,mayan:know:6
-mayan,know,CHONTAL_TABASCO,winatan,mayan:know:6,mayan:know:10
+mayan,know,CHOL_TUMBALA,ubint,mayan:know:14,mayan:know:5
+mayan,know,CHONTAL_TABASCO,winatan,mayan:know:6,mayan:know:5
 mayan,know,CHORTI,nat,mayan:know:6,mayan:know:1
-mayan,know,CHUJ,oxk,mayan:know:8,mayan:know:5
+mayan,know,CHUJ,oxk,mayan:know:8,mayan:know:9
 mayan,know,EASTERN_KEKCHI_CAHABON,naw,mayan:know:4,mayan:know:1
 mayan,know,HUASTEC,co7ob,mayan:know:7,mayan:know:4
 mayan,know,ITZAJ,"k""a7ol",mayan:know:5,mayan:know:4
 mayan,know,IXIL_CHAJUL,ocaq,mayan:know:2,mayan:know:2
 mayan,know,JACALTEC,wohtaxox,mayan:know:2,mayan:know:2
 mayan,know,LACANDON,"k""3h7ot",mayan:know:5,mayan:know:4
-mayan,know,MAM_NORTHERN,tbiya,mayan:know:12,mayan:know:9
+mayan,know,MAM_NORTHERN,tbiya,mayan:know:12,mayan:know:8
 mayan,know,MAYA_YUCATAN,"k""ahol",mayan:know:5,mayan:know:4
 mayan,know,MOCHO,"ic""a",mayan:know:9,mayan:know:2
-mayan,know,MOPAN,el,mayan:know:15,mayan:know:8
-mayan,know,POCOMAM_EASTERN,"w""arem",mayan:know:13,mayan:know:7
+mayan,know,MOPAN,el,mayan:know:15,mayan:know:7
+mayan,know,POCOMAM_EASTERN,"w""arem",mayan:know:13,mayan:know:6
 mayan,know,POQOMCHI_WESTERN,"nab""ex",mayan:know:4,mayan:know:1
 mayan,know,QANJOBAL_SANTA_EULALIA,oStaq,mayan:know:2,mayan:know:2
 mayan,know,SACAPULTECO_SACAPULAS_CENTRO,eta7am,mayan:know:3,mayan:know:3
@@ -1425,63 +1425,63 @@ mayan,know,TZELTAL_BACHAJON,nab,mayan:know:4,mayan:know:1
 mayan,know,TZUTUJIL_SAN_JUAN_LA_LAGUNA,otaqin,mayan:know:2,mayan:know:2
 mayan,know,USPANTEKO,etam,mayan:know:3,mayan:know:3
 mayan,know,ZINACANTAN_TZOTZIL,na7,mayan:know:1,mayan:know:1
-mayan,lie,ACATECO_SAN_MIGUEL_ACATAN,telan,mayan:lie:1,mayan:lie:4
-mayan,lie,AGUACATEC,koy,mayan:lie:10,mayan:lie:5
-mayan,lie,CENTRAL_QUICHE,"q""oy",mayan:lie:13,mayan:lie:5
-mayan,lie,CHOL_TUMBALA,"C""a7",mayan:lie:4,mayan:lie:2
-mayan,lie,CHONTAL_TABASCO,"C""a7a",mayan:lie:4,mayan:lie:2
-mayan,lie,CHORTI,"C""a",mayan:lie:4,mayan:lie:2
-mayan,lie,CHUJ,"ek"" kotan",mayan:lie:7,mayan:lie:6
-mayan,lie,EASTERN_KEKCHI_CAHABON,sotsoh,mayan:lie:15,mayan:lie:7
+mayan,lie,ACATECO_SAN_MIGUEL_ACATAN,telan,mayan:lie:1,mayan:lie:5
+mayan,lie,AGUACATEC,koy,mayan:lie:10,mayan:lie:4
+mayan,lie,CENTRAL_QUICHE,"q""oy",mayan:lie:13,mayan:lie:4
+mayan,lie,CHOL_TUMBALA,"C""a7",mayan:lie:4,mayan:lie:3
+mayan,lie,CHONTAL_TABASCO,"C""a7a",mayan:lie:4,mayan:lie:3
+mayan,lie,CHORTI,"C""a",mayan:lie:4,mayan:lie:3
+mayan,lie,CHUJ,"ek"" kotan",mayan:lie:7,mayan:lie:13
+mayan,lie,EASTERN_KEKCHI_CAHABON,sotsoh,mayan:lie:15,mayan:lie:12
 mayan,lie,HUASTEC,kw~acat,mayan:lie:5,mayan:lie:1
-mayan,lie,ITZAJ,"tuc""",mayan:lie:18,mayan:lie:8
-mayan,lie,IXIL_CHAJUL,Xoklel,mayan:lie:9,mayan:lie:3
-mayan,lie,JACALTEC,hil,mayan:lie:8,mayan:lie:3
-mayan,lie,LACANDON,ak,mayan:lie:20,mayan:lie:9
-mayan,lie,MAM_NORTHERN,koSl,mayan:lie:12,mayan:lie:5
-mayan,lie,MAYA_YUCATAN,Ciltal,mayan:lie:19,mayan:lie:4
-mayan,lie,MOPAN,koya7an,mayan:lie:19,mayan:lie:2
-mayan,lie,POCOMAM_EASTERN,yokil,mayan:lie:3,mayan:lie:3
-mayan,lie,POQOMCHI_WESTERN,yoklik,mayan:lie:3,mayan:lie:3
-mayan,lie,QANJOBAL_SANTA_EULALIA,telan,mayan:lie:1,mayan:lie:4
+mayan,lie,ITZAJ,"tuc""",mayan:lie:18,mayan:lie:11
+mayan,lie,IXIL_CHAJUL,Xoklel,mayan:lie:9,mayan:lie:2
+mayan,lie,JACALTEC,hil,mayan:lie:8,mayan:lie:2
+mayan,lie,LACANDON,ak,mayan:lie:20,mayan:lie:10
+mayan,lie,MAM_NORTHERN,koSl,mayan:lie:12,mayan:lie:4
+mayan,lie,MAYA_YUCATAN,Ciltal,mayan:lie:19,mayan:lie:5
+mayan,lie,MOPAN,koya7an,mayan:lie:19,mayan:lie:6
+mayan,lie,POCOMAM_EASTERN,yokil,mayan:lie:3,mayan:lie:2
+mayan,lie,POQOMCHI_WESTERN,yoklik,mayan:lie:3,mayan:lie:2
+mayan,lie,QANJOBAL_SANTA_EULALIA,telan,mayan:lie:1,mayan:lie:5
 mayan,lie,SACAPULTECO_SACAPULAS_CENTRO,"kac""alek",mayan:lie:2,mayan:lie:1
 mayan,lie,SIPAKAPENSE,"koc""lik",mayan:lie:2,mayan:lie:1
 mayan,lie,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,"koc""ol",mayan:lie:2,mayan:lie:1
-mayan,lie,TECO_TECTITAN,Silk,mayan:lie:11,mayan:lie:10
-mayan,lie,TOJOLABAL,"b""a7an",mayan:lie:6,mayan:lie:2
-mayan,lie,TZELTAL_BACHAJON,way,mayan:lie:17,mayan:lie:11
+mayan,lie,TECO_TECTITAN,Silk,mayan:lie:11,mayan:lie:9
+mayan,lie,TOJOLABAL,"b""a7an",mayan:lie:6,mayan:lie:6
+mayan,lie,TZELTAL_BACHAJON,way,mayan:lie:17,mayan:lie:8
 mayan,lie,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"k""ocoli",mayan:lie:2,mayan:lie:1
 mayan,lie,USPANTEKO,celik,mayan:lie:14,mayan:lie:1
-mayan,lie,ZINACANTAN_TZOTZIL,"puC""etah",mayan:lie:16,mayan:lie:12
-mayan,sit,ACATECO_SAN_MIGUEL_ACATAN,Cotan,mayan:sit:1,mayan:sit:5
-mayan,sit,AGUACATEC,"k""ol",mayan:sit:9,mayan:sit:1
-mayan,sit,CENTRAL_QUICHE,"t""uy",mayan:sit:11,mayan:sit:7
+mayan,lie,ZINACANTAN_TZOTZIL,"puC""etah",mayan:lie:16,mayan:lie:7
+mayan,sit,ACATECO_SAN_MIGUEL_ACATAN,Cotan,mayan:sit:1,mayan:sit:6
+mayan,sit,AGUACATEC,"k""ol",mayan:sit:9,mayan:sit:2
+mayan,sit,CENTRAL_QUICHE,"t""uy",mayan:sit:11,mayan:sit:3
 mayan,sit,CHOL_TUMBALA,buC,mayan:sit:19,mayan:sit:14
-mayan,sit,CHONTAL_TABASCO,Cumu,mayan:sit:20,mayan:sit:13
-mayan,sit,CHORTI,turu,mayan:sit:21,mayan:sit:3
-mayan,sit,CHUJ,em wokan,mayan:sit:5,mayan:sit:15
-mayan,sit,EASTERN_KEKCHI_CAHABON,"woq""w~oh",mayan:sit:16,mayan:sit:6
-mayan,sit,HUASTEC,ketel,mayan:sit:3,mayan:sit:1
-mayan,sit,ITZAJ,kul,mayan:sit:22,mayan:sit:1
+mayan,sit,CHONTAL_TABASCO,Cumu,mayan:sit:20,mayan:sit:5
+mayan,sit,CHORTI,turu,mayan:sit:21,mayan:sit:13
+mayan,sit,CHUJ,em wokan,mayan:sit:5,mayan:sit:8
+mayan,sit,EASTERN_KEKCHI_CAHABON,"woq""w~oh",mayan:sit:16,mayan:sit:7
+mayan,sit,HUASTEC,ketel,mayan:sit:3,mayan:sit:2
+mayan,sit,ITZAJ,kul,mayan:sit:22,mayan:sit:2
 mayan,sit,IXIL_CHAJUL,Sonlel,mayan:sit:8,mayan:sit:12
 mayan,sit,JACALTEC,pis,mayan:sit:7,mayan:sit:11
 mayan,sit,LACANDON,uk,mayan:sit:24,mayan:sit:4
 mayan,sit,MAM_NORTHERN,"q""uql",mayan:sit:2,mayan:sit:1
-mayan,sit,MAYA_YUCATAN,kutal,mayan:sit:3,mayan:sit:1
+mayan,sit,MAYA_YUCATAN,kutal,mayan:sit:3,mayan:sit:2
 mayan,sit,MOCHO,"moc""",mayan:sit:6,mayan:sit:10
 mayan,sit,MOPAN,tina7an,mayan:sit:23,mayan:sit:9
-mayan,sit,POCOMAM_EASTERN,"C""ikli",mayan:sit:14,mayan:sit:2
-mayan,sit,POQOMCHI_WESTERN,"c""uqlik",mayan:sit:2,mayan:sit:2
-mayan,sit,QANJOBAL_SANTA_EULALIA,Cotan,mayan:sit:1,mayan:sit:5
-mayan,sit,SACAPULTECO_SACAPULAS_CENTRO,"k""uqulek",mayan:sit:2,mayan:sit:2
-mayan,sit,SIPAKAPENSE,"k""uqlik",mayan:sit:2,mayan:sit:2
+mayan,sit,POCOMAM_EASTERN,"C""ikli",mayan:sit:14,mayan:sit:1
+mayan,sit,POQOMCHI_WESTERN,"c""uqlik",mayan:sit:2,mayan:sit:1
+mayan,sit,QANJOBAL_SANTA_EULALIA,Cotan,mayan:sit:1,mayan:sit:6
+mayan,sit,SACAPULTECO_SACAPULAS_CENTRO,"k""uqulek",mayan:sit:2,mayan:sit:1
+mayan,sit,SIPAKAPENSE,"k""uqlik",mayan:sit:2,mayan:sit:1
 mayan,sit,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,"c""uyul",mayan:sit:12,mayan:sit:3
-mayan,sit,TECO_TECTITAN,"wit""lik",mayan:sit:10,mayan:sit:2
-mayan,sit,TOJOLABAL,kulan,mayan:sit:4,mayan:sit:1
+mayan,sit,TECO_TECTITAN,"wit""lik",mayan:sit:10,mayan:sit:1
+mayan,sit,TOJOLABAL,kulan,mayan:sit:4,mayan:sit:2
 mayan,sit,TZELTAL_BACHAJON,huk,mayan:sit:18,mayan:sit:4
 mayan,sit,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"t""ubuli",mayan:sit:13,mayan:sit:3
-mayan,sit,USPANTEKO,"kub""ulik",mayan:sit:15,mayan:sit:2
-mayan,sit,ZINACANTAN_TZOTZIL,cuni,mayan:sit:17,mayan:sit:8
+mayan,sit,USPANTEKO,"kub""ulik",mayan:sit:15,mayan:sit:1
+mayan,sit,ZINACANTAN_TZOTZIL,cuni,mayan:sit:17,mayan:sit:5
 mayan,kill,ACATECO_SAN_MIGUEL_ACATAN,ma7 kamox,mayan:kill:2,mayan:kill:3
 mayan,kill,AGUACATEC,kimse7,mayan:kill:3,mayan:kill:1
 mayan,kill,CENTRAL_QUICHE,kamisa,mayan:kill:3,mayan:kill:1
@@ -1585,7 +1585,7 @@ mayan,full,ITZAJ,"C""e7eh",mayan:full:9,mayan:full:6
 mayan,full,IXIL_CHAJUL,nonaq,mayan:full:4,mayan:full:1
 mayan,full,JACALTEC,nohnax,mayan:full:4,mayan:full:1
 mayan,full,LACANDON,nah,mayan:full:3,mayan:full:3
-mayan,full,MAM_NORTHERN,noxn,mayan:full:4,mayan:full:3
+mayan,full,MAM_NORTHERN,noxn,mayan:full:4,mayan:full:1
 mayan,full,MAYA_YUCATAN,Cup,mayan:full:10,mayan:full:5
 mayan,full,MOCHO,noh,mayan:full:3,mayan:full:3
 mayan,full,MOPAN,"tud""a7an",mayan:full:6,mayan:full:4
@@ -1614,17 +1614,17 @@ mayan,star,HUASTEC,ot,mayan:star:1,mayan:star:6
 mayan,star,ITZAJ,"ek""",mayan:star:7,mayan:star:2
 mayan,star,IXIL_CHAJUL,"T""umil",mayan:star:4,mayan:star:1
 mayan,star,JACALTEC,"C""umel",mayan:star:4,mayan:star:1
-mayan,star,LACANDON,sab,mayan:star:10,mayan:star:4
-mayan,star,MAM_NORTHERN,Cew,mayan:star:5,mayan:star:5
+mayan,star,LACANDON,sab,mayan:star:10,mayan:star:5
+mayan,star,MAM_NORTHERN,Cew,mayan:star:5,mayan:star:4
 mayan,star,MAYA_YUCATAN,"ek""",mayan:star:7,mayan:star:2
-mayan,star,MOPAN,Silab,mayan:star:9,mayan:star:4
+mayan,star,MOPAN,Silab,mayan:star:9,mayan:star:5
 mayan,star,POCOMAM_EASTERN,"C""imin",mayan:star:4,mayan:star:1
 mayan,star,POQOMCHI_WESTERN,"C""umil",mayan:star:4,mayan:star:1
 mayan,star,QANJOBAL_SANTA_EULALIA,waykan,mayan:star:3,mayan:star:7
 mayan,star,SACAPULTECO_SACAPULAS_CENTRO,"C""imil",mayan:star:4,mayan:star:1
 mayan,star,SIPAKAPENSE,"C""mil",mayan:star:4,mayan:star:1
 mayan,star,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,"C""umil",mayan:star:4,mayan:star:1
-mayan,star,TECO_TECTITAN,"c""ew",mayan:star:5,mayan:star:5
+mayan,star,TECO_TECTITAN,"c""ew",mayan:star:5,mayan:star:4
 mayan,star,TOJOLABAL,"k""anal",mayan:star:2,mayan:star:3
 mayan,star,TZELTAL_BACHAJON,"ek""",mayan:star:7,mayan:star:2
 mayan,star,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"C""umil",mayan:star:4,mayan:star:1
@@ -1657,60 +1657,60 @@ mayan,swim,TZELTAL_BACHAJON,nuS,mayan:swim:2,mayan:swim:1
 mayan,swim,TZUTUJIL_SAN_JUAN_LA_LAGUNA,mux,mayan:swim:10,mayan:swim:2
 mayan,swim,USPANTEKO,atin,mayan:swim:5,mayan:swim:3
 mayan,swim,ZINACANTAN_TZOTZIL,nuSih,mayan:swim:2,mayan:swim:1
-mayan,fly,ACATECO_SAN_MIGUEL_ACATAN,"ek"" hururox",mayan:fly:10,mayan:fly:8
+mayan,fly,ACATECO_SAN_MIGUEL_ACATAN,"ek"" hururox",mayan:fly:10,mayan:fly:11
 mayan,fly,AGUACATEC,Siky~7in,mayan:fly:2,mayan:fly:1
 mayan,fly,CENTRAL_QUICHE,rapap,mayan:fly:6,mayan:fly:7
 mayan,fly,CHOL_TUMBALA,wel,mayan:fly:5,mayan:fly:2
 mayan,fly,CHONTAL_TABASCO,wile,mayan:fly:5,mayan:fly:2
-mayan,fly,CHORTI,top,mayan:fly:11,mayan:fly:6
-mayan,fly,CHUJ,xeNw,mayan:fly:8,mayan:fly:11
+mayan,fly,CHORTI,top,mayan:fly:11,mayan:fly:5
+mayan,fly,CHUJ,xeNw,mayan:fly:8,mayan:fly:9
 mayan,fly,EASTERN_KEKCHI_CAHABON,"Sik""ab""",mayan:fly:2,mayan:fly:1
-mayan,fly,HUASTEC,humnal,mayan:fly:7,mayan:fly:10
-mayan,fly,ITZAJ,"popokSik""",mayan:fly:2,mayan:fly:12
+mayan,fly,HUASTEC,humnal,mayan:fly:7,mayan:fly:8
+mayan,fly,ITZAJ,"popokSik""",mayan:fly:2,mayan:fly:10
 mayan,fly,IXIL_CHAJUL,"SiC""an",mayan:fly:2,mayan:fly:1
-mayan,fly,JACALTEC,pur,mayan:fly:4,mayan:fly:5
-mayan,fly,MAM_NORTHERN,lipan,mayan:fly:3,mayan:fly:4
+mayan,fly,JACALTEC,pur,mayan:fly:4,mayan:fly:6
+mayan,fly,MAM_NORTHERN,lipan,mayan:fly:3,mayan:fly:3
 mayan,fly,MAYA_YUCATAN,"Sik""nalil",mayan:fly:2,mayan:fly:1
-mayan,fly,MOCHO,lop,mayan:fly:1,mayan:fly:6
+mayan,fly,MOCHO,lop,mayan:fly:1,mayan:fly:5
 mayan,fly,MOPAN,"Sik""",mayan:fly:2,mayan:fly:1
-mayan,fly,POCOMAM_EASTERN,pur,mayan:fly:4,mayan:fly:5
+mayan,fly,POCOMAM_EASTERN,pur,mayan:fly:4,mayan:fly:6
 mayan,fly,POQOMCHI_WESTERN,"Sik""in",mayan:fly:2,mayan:fly:1
-mayan,fly,QANJOBAL_SANTA_EULALIA,Supup,mayan:fly:9,mayan:fly:3
+mayan,fly,QANJOBAL_SANTA_EULALIA,Supup,mayan:fly:9,mayan:fly:4
 mayan,fly,SACAPULTECO_SACAPULAS_CENTRO,rapap,mayan:fly:6,mayan:fly:7
 mayan,fly,SIPAKAPENSE,"Sik""in",mayan:fly:2,mayan:fly:1
-mayan,fly,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,ropin,mayan:fly:6,mayan:fly:9
-mayan,fly,TECO_TECTITAN,lipan,mayan:fly:3,mayan:fly:4
-mayan,fly,TOJOLABAL,lupupi,mayan:fly:1,mayan:fly:3
+mayan,fly,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,ropin,mayan:fly:6,mayan:fly:3
+mayan,fly,TECO_TECTITAN,lipan,mayan:fly:3,mayan:fly:3
+mayan,fly,TOJOLABAL,lupupi,mayan:fly:1,mayan:fly:4
 mayan,fly,TZELTAL_BACHAJON,wil,mayan:fly:5,mayan:fly:2
 mayan,fly,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"Sk""an",mayan:fly:2,mayan:fly:1
 mayan,fly,USPANTEKO,"Sik""an",mayan:fly:2,mayan:fly:1
 mayan,fly,ZINACANTAN_TZOTZIL,vil,mayan:fly:5,mayan:fly:2
-mayan,stand,ACATECO_SAN_MIGUEL_ACATAN,linan,mayan:stand:2,mayan:stand:2
-mayan,stand,AGUACATEC,Cik,mayan:stand:9,mayan:stand:4
-mayan,stand,CENTRAL_QUICHE,"tak""",mayan:stand:5,mayan:stand:3
+mayan,stand,ACATECO_SAN_MIGUEL_ACATAN,linan,mayan:stand:2,mayan:stand:3
+mayan,stand,AGUACATEC,Cik,mayan:stand:9,mayan:stand:2
+mayan,stand,CENTRAL_QUICHE,"tak""",mayan:stand:5,mayan:stand:2
 mayan,stand,CHOL_TUMBALA,wa7,mayan:stand:1,mayan:stand:1
 mayan,stand,CHONTAL_TABASCO,wa7t3,mayan:stand:1,mayan:stand:1
 mayan,stand,CHORTI,war,mayan:stand:1,mayan:stand:1
-mayan,stand,CHUJ,"k""e liNan",mayan:stand:2,mayan:stand:2
-mayan,stand,EASTERN_KEKCHI_CAHABON,SakSoh,mayan:stand:10,mayan:stand:8
-mayan,stand,HUASTEC,kubat,mayan:stand:6,mayan:stand:7
+mayan,stand,CHUJ,"k""e liNan",mayan:stand:2,mayan:stand:3
+mayan,stand,EASTERN_KEKCHI_CAHABON,SakSoh,mayan:stand:10,mayan:stand:4
+mayan,stand,HUASTEC,kubat,mayan:stand:6,mayan:stand:5
 mayan,stand,ITZAJ,wa7,mayan:stand:1,mayan:stand:1
 mayan,stand,IXIL_CHAJUL,Taklel,mayan:stand:8,mayan:stand:6
-mayan,stand,JACALTEC,liN,mayan:stand:2,mayan:stand:2
-mayan,stand,LACANDON,C3n3k,mayan:stand:11,mayan:stand:5
+mayan,stand,JACALTEC,liN,mayan:stand:2,mayan:stand:3
+mayan,stand,LACANDON,C3n3k,mayan:stand:11,mayan:stand:7
 mayan,stand,MAM_NORTHERN,wal,mayan:stand:3,mayan:stand:1
 mayan,stand,MAYA_YUCATAN,wa7al,mayan:stand:1,mayan:stand:1
 mayan,stand,MOCHO,wa7,mayan:stand:1,mayan:stand:1
 mayan,stand,MOPAN,wa7an,mayan:stand:1,mayan:stand:1
 mayan,stand,POCOMAM_EASTERN,pali,mayan:stand:4,mayan:stand:1
 mayan,stand,POQOMCHI_WESTERN,palik,mayan:stand:4,mayan:stand:1
-mayan,stand,QANJOBAL_SANTA_EULALIA,lekan,mayan:stand:7,mayan:stand:2
+mayan,stand,QANJOBAL_SANTA_EULALIA,lekan,mayan:stand:7,mayan:stand:3
 mayan,stand,SACAPULTECO_SACAPULAS_CENTRO,walek,mayan:stand:3,mayan:stand:1
 mayan,stand,SIPAKAPENSE,walik,mayan:stand:3,mayan:stand:1
 mayan,stand,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,pa7al,mayan:stand:4,mayan:stand:1
 mayan,stand,TECO_TECTITAN,walk,mayan:stand:3,mayan:stand:1
-mayan,stand,TOJOLABAL,"tek""an",mayan:stand:5,mayan:stand:3
-mayan,stand,TZELTAL_BACHAJON,"tek""",mayan:stand:5,mayan:stand:3
+mayan,stand,TOJOLABAL,"tek""an",mayan:stand:5,mayan:stand:2
+mayan,stand,TZELTAL_BACHAJON,"tek""",mayan:stand:5,mayan:stand:2
 mayan,stand,TZUTUJIL_SAN_JUAN_LA_LAGUNA,pali,mayan:stand:4,mayan:stand:1
 mayan,stand,USPANTEKO,walik,mayan:stand:3,mayan:stand:1
 mayan,walk,ACATECO_SAN_MIGUEL_ACATAN,"b""ey",mayan:walk:1,mayan:walk:1
@@ -1744,11 +1744,11 @@ mayan,walk,USPANTEKO,"b""en",mayan:walk:4,mayan:walk:1
 mayan,walk,ZINACANTAN_TZOTZIL,Sanav,mayan:walk:5,mayan:walk:2
 mayan,come,ACATECO_SAN_MIGUEL_ACATAN,hul,mayan:come:1,mayan:come:1
 mayan,come,AGUACATEC,kul,mayan:come:6,mayan:come:1
-mayan,come,CENTRAL_QUICHE,opan,mayan:come:7,mayan:come:4
+mayan,come,CENTRAL_QUICHE,opan,mayan:come:7,mayan:come:3
 mayan,come,CHOL_TUMBALA,til,mayan:come:4,mayan:come:1
-mayan,come,CHONTAL_TABASCO,u te,mayan:come:9,mayan:come:1
-mayan,come,CHORTI,yop,mayan:come:10,mayan:come:5
-mayan,come,CHUJ,xaw,mayan:come:5,mayan:come:3
+mayan,come,CHONTAL_TABASCO,u te,mayan:come:9,mayan:come:5
+mayan,come,CHORTI,yop,mayan:come:10,mayan:come:3
+mayan,come,CHUJ,xaw,mayan:come:5,mayan:come:4
 mayan,come,EASTERN_KEKCHI_CAHABON,Cal,mayan:come:4,mayan:come:1
 mayan,come,HUASTEC,tal,mayan:come:4,mayan:come:1
 mayan,come,ITZAJ,tal,mayan:come:4,mayan:come:1
@@ -1759,7 +1759,7 @@ mayan,come,MAM_NORTHERN,ul,mayan:come:1,mayan:come:1
 mayan,come,MAYA_YUCATAN,tal,mayan:come:4,mayan:come:1
 mayan,come,MOCHO,ul,mayan:come:1,mayan:come:1
 mayan,come,MOPAN,"ud""",mayan:come:1,mayan:come:1
-mayan,come,POCOMAM_EASTERN,"k""uw",mayan:come:8,mayan:come:3
+mayan,come,POCOMAM_EASTERN,"k""uw",mayan:come:8,mayan:come:4
 mayan,come,POQOMCHI_WESTERN,Cal,mayan:come:4,mayan:come:1
 mayan,come,QANJOBAL_SANTA_EULALIA,ul,mayan:come:1,mayan:come:1
 mayan,come,SACAPULTECO_SACAPULAS_CENTRO,pet,mayan:come:2,mayan:come:2
@@ -1772,15 +1772,15 @@ mayan,come,TZUTUJIL_SAN_JUAN_LA_LAGUNA,pet,mayan:come:2,mayan:come:2
 mayan,come,USPANTEKO,pet,mayan:come:2,mayan:come:2
 mayan,come,ZINACANTAN_TZOTZIL,tal,mayan:come:4,mayan:come:1
 mayan,give,ACATECO_SAN_MIGUEL_ACATAN,a7,mayan:give:1,mayan:give:1
-mayan,give,AGUACATEC,"sawaq""e7 cac",mayan:give:4,mayan:give:5
+mayan,give,AGUACATEC,"sawaq""e7 cac",mayan:give:4,mayan:give:6
 mayan,give,CENTRAL_QUICHE,ya,mayan:give:2,mayan:give:1
 mayan,give,CHOL_TUMBALA,"ak""",mayan:give:1,mayan:give:1
 mayan,give,CHONTAL_TABASCO,"3k""e7",mayan:give:8,mayan:give:1
 mayan,give,CHORTI,"ahk""",mayan:give:1,mayan:give:1
 mayan,give,CHUJ,"ak""",mayan:give:1,mayan:give:1
 mayan,give,EASTERN_KEKCHI_CAHABON,"k""eh",mayan:give:7,mayan:give:1
-mayan,give,HUASTEC,pi8al,mayan:give:5,mayan:give:3
-mayan,give,ITZAJ,siy,mayan:give:9,mayan:give:1
+mayan,give,HUASTEC,pi8al,mayan:give:5,mayan:give:5
+mayan,give,ITZAJ,siy,mayan:give:9,mayan:give:4
 mayan,give,IXIL_CHAJUL,"aq""",mayan:give:1,mayan:give:1
 mayan,give,JACALTEC,aq,mayan:give:1,mayan:give:1
 mayan,give,MAM_NORTHERN,"q""one",mayan:give:6,mayan:give:1
@@ -1793,7 +1793,7 @@ mayan,give,QANJOBAL_SANTA_EULALIA,"aq""",mayan:give:1,mayan:give:1
 mayan,give,SACAPULTECO_SACAPULAS_CENTRO,ya7,mayan:give:2,mayan:give:1
 mayan,give,SIPAKAPENSE,ya7,mayan:give:2,mayan:give:1
 mayan,give,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,ya7,mayan:give:2,mayan:give:1
-mayan,give,TECO_TECTITAN,sewa,mayan:give:4,mayan:give:4
+mayan,give,TECO_TECTITAN,sewa,mayan:give:4,mayan:give:3
 mayan,give,TOJOLABAL,"ak""uni",mayan:give:1,mayan:give:1
 mayan,give,TZELTAL_BACHAJON,"ak""",mayan:give:1,mayan:give:1
 mayan,give,TZUTUJIL_SAN_JUAN_LA_LAGUNA,ya7,mayan:give:2,mayan:give:1
@@ -1828,11 +1828,11 @@ mayan,say,TZELTAL_BACHAJON,hal,mayan:say:1,mayan:say:1
 mayan,say,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"b""ix",mayan:say:2,mayan:say:2
 mayan,say,ZINACANTAN_TZOTZIL,al,mayan:say:1,mayan:say:1
 mayan,cloud,ACATECO_SAN_MIGUEL_ACATAN,asun,mayan:cloud:1,mayan:cloud:4
-mayan,cloud,AGUACATEC,"sbaq""",mayan:cloud:7,mayan:cloud:5
+mayan,cloud,AGUACATEC,"sbaq""",mayan:cloud:7,mayan:cloud:6
 mayan,cloud,CENTRAL_QUICHE,"suc""",mayan:cloud:3,mayan:cloud:1
 mayan,cloud,CHICOMUCELTEC,siyal,mayan:cloud:6,mayan:cloud:2
 mayan,cloud,CHOL_TUMBALA,tokal,mayan:cloud:4,mayan:cloud:3
-mayan,cloud,CHONTAL_TABASCO,bukla,mayan:cloud:9,mayan:cloud:6
+mayan,cloud,CHONTAL_TABASCO,bukla,mayan:cloud:9,mayan:cloud:5
 mayan,cloud,CHORTI,tokar,mayan:cloud:4,mayan:cloud:3
 mayan,cloud,CHUJ,asun,mayan:cloud:1,mayan:cloud:4
 mayan,cloud,EASTERN_KEKCHI_CAHABON,Coql,mayan:cloud:4,mayan:cloud:3
@@ -1890,7 +1890,7 @@ mayan,die,ACATECO_SAN_MIGUEL_ACATAN,kam,mayan:die:1,mayan:die:1
 mayan,die,AGUACATEC,kim,mayan:die:1,mayan:die:1
 mayan,die,CENTRAL_QUICHE,k3m,mayan:die:1,mayan:die:1
 mayan,die,CHOL_TUMBALA,C3m,mayan:die:1,mayan:die:1
-mayan,die,CHONTAL_TABASCO,u C3amo,mayan:die:1,mayan:die:2
+mayan,die,CHONTAL_TABASCO,u C3amo,mayan:die:1,mayan:die:1
 mayan,die,CHORTI,Cam,mayan:die:1,mayan:die:1
 mayan,die,CHUJ,Cami,mayan:die:1,mayan:die:1
 mayan,die,EASTERN_KEKCHI_CAHABON,kam,mayan:die:1,mayan:die:1
@@ -1946,7 +1946,7 @@ mayan,two,TZUTUJIL_SAN_JUAN_LA_LAGUNA,ka7i7,mayan:two:1,mayan:two:1
 mayan,two,USPANTEKO,"kib""",mayan:two:1,mayan:two:1
 mayan,two,ZINACANTAN_TZOTZIL,Ca7,mayan:two:1,mayan:two:1
 mayan,man,ACATECO_SAN_MIGUEL_ACATAN,winax,mayan:man:1,mayan:man:1
-mayan,man,AGUACATEC,yax,mayan:man:4,mayan:man:4
+mayan,man,AGUACATEC,yax,mayan:man:4,mayan:man:1
 mayan,man,CENTRAL_QUICHE,aCi,mayan:man:2,mayan:man:2
 mayan,man,CHICOMUCELTEC,inikkimalom,mayan:man:1,mayan:man:5
 mayan,man,CHOL_TUMBALA,winik,mayan:man:1,mayan:man:1
@@ -1957,13 +1957,13 @@ mayan,man,EASTERN_KEKCHI_CAHABON,winq,mayan:man:1,mayan:man:1
 mayan,man,HUASTEC,inik,mayan:man:1,mayan:man:1
 mayan,man,ITZAJ,winik,mayan:man:1,mayan:man:1
 mayan,man,IXIL_CHAJUL,winaq,mayan:man:1,mayan:man:1
-mayan,man,JACALTEC,nax,mayan:man:1,mayan:man:4
+mayan,man,JACALTEC,nax,mayan:man:1,mayan:man:1
 mayan,man,LACANDON,Sib,mayan:man:3,mayan:man:3
 mayan,man,MAM_NORTHERN,Sinaq,mayan:man:6,mayan:man:1
 mayan,man,MAYA_YUCATAN,"Sib""",mayan:man:3,mayan:man:3
 mayan,man,MOCHO,winaq,mayan:man:1,mayan:man:1
 mayan,man,MOPAN,winik,mayan:man:1,mayan:man:1
-mayan,man,POCOMAM_EASTERN,imas,mayan:man:7,mayan:man:6
+mayan,man,POCOMAM_EASTERN,imas,mayan:man:7,mayan:man:4
 mayan,man,POQOMCHI_WESTERN,winaq,mayan:man:1,mayan:man:1
 mayan,man,QANJOBAL_SANTA_EULALIA,winaq,mayan:man:1,mayan:man:1
 mayan,man,SACAPULTECO_SACAPULAS_CENTRO,aCiN,mayan:man:2,mayan:man:2
@@ -2068,7 +2068,7 @@ mayan,dog,AGUACATEC,"C""i7",mayan:dog:2,mayan:dog:1
 mayan,dog,CENTRAL_QUICHE,"c""i7",mayan:dog:2,mayan:dog:1
 mayan,dog,CHICOMUCELTEC,sul,mayan:dog:4,mayan:dog:4
 mayan,dog,CHOL_TUMBALA,"c""i7",mayan:dog:2,mayan:dog:1
-mayan,dog,CHONTAL_TABASCO,wiCu7,mayan:dog:5,mayan:dog:2
+mayan,dog,CHONTAL_TABASCO,wiCu7,mayan:dog:5,mayan:dog:1
 mayan,dog,CHORTI,"c""i7",mayan:dog:2,mayan:dog:1
 mayan,dog,CHUJ,"c""i7",mayan:dog:2,mayan:dog:1
 mayan,dog,EASTERN_KEKCHI_CAHABON,"C""i7",mayan:dog:2,mayan:dog:1
@@ -2107,7 +2107,7 @@ mayan,burn,IXIL_CHAJUL,"oyb""",mayan:burn:8,mayan:burn:7
 mayan,burn,JACALTEC,"c""ay",mayan:burn:1,mayan:burn:1
 mayan,burn,LACANDON,Cuh,mayan:burn:5,mayan:burn:3
 mayan,burn,MAM_NORTHERN,"k""ant",mayan:burn:2,mayan:burn:2
-mayan,burn,MAYA_YUCATAN,tokah,mayan:burn:14,mayan:burn:1
+mayan,burn,MAYA_YUCATAN,tokah,mayan:burn:14,mayan:burn:3
 mayan,burn,MOCHO,"c""a7",mayan:burn:1,mayan:burn:1
 mayan,burn,MOPAN,tab,mayan:burn:13,mayan:burn:1
 mayan,burn,POCOMAM_EASTERN,qop,mayan:burn:11,mayan:burn:8
@@ -2166,7 +2166,7 @@ mayan,path,ITZAJ,beh,mayan:path:2,mayan:path:1
 mayan,path,IXIL_CHAJUL,"b""ey",mayan:path:2,mayan:path:1
 mayan,path,JACALTEC,be,mayan:path:2,mayan:path:1
 mayan,path,LACANDON,beh,mayan:path:2,mayan:path:1
-mayan,path,MAM_NORTHERN,"tq""abbe",mayan:path:2,mayan:path:1
+mayan,path,MAM_NORTHERN,"tq""abbe",mayan:path:2,mayan:path:2
 mayan,path,MAYA_YUCATAN,"b""e",mayan:path:2,mayan:path:1
 mayan,path,MOCHO,beh,mayan:path:2,mayan:path:1
 mayan,path,MOPAN,bex,mayan:path:2,mayan:path:1
@@ -2186,7 +2186,7 @@ mayan,fish,AGUACATEC,k3y,mayan:fish:2,mayan:fish:1
 mayan,fish,CENTRAL_QUICHE,k3r,mayan:fish:2,mayan:fish:1
 mayan,fish,CHICOMUCELTEC,to7ol,mayan:fish:1,mayan:fish:2
 mayan,fish,CHOL_TUMBALA,C3y,mayan:fish:2,mayan:fish:1
-mayan,fish,CHONTAL_TABASCO,"buC""",mayan:fish:5,mayan:fish:3
+mayan,fish,CHONTAL_TABASCO,"buC""",mayan:fish:5,mayan:fish:4
 mayan,fish,CHORTI,Cay,mayan:fish:2,mayan:fish:1
 mayan,fish,CHUJ,Cay,mayan:fish:2,mayan:fish:1
 mayan,fish,EASTERN_KEKCHI_CAHABON,kar,mayan:fish:2,mayan:fish:1
@@ -2195,10 +2195,10 @@ mayan,fish,ITZAJ,k3y,mayan:fish:2,mayan:fish:1
 mayan,fish,IXIL_CHAJUL,Tay,mayan:fish:2,mayan:fish:1
 mayan,fish,JACALTEC,kay,mayan:fish:2,mayan:fish:1
 mayan,fish,LACANDON,k3y,mayan:fish:2,mayan:fish:1
-mayan,fish,MAM_NORTHERN,ky~iS,mayan:fish:2,mayan:fish:4
+mayan,fish,MAM_NORTHERN,ky~iS,mayan:fish:2,mayan:fish:1
 mayan,fish,MAYA_YUCATAN,kay,mayan:fish:2,mayan:fish:1
 mayan,fish,MOCHO,kaC,mayan:fish:2,mayan:fish:1
-mayan,fish,MOPAN,"C""ilam",mayan:fish:6,mayan:fish:5
+mayan,fish,MOPAN,"C""ilam",mayan:fish:6,mayan:fish:3
 mayan,fish,POCOMAM_EASTERN,kar,mayan:fish:2,mayan:fish:1
 mayan,fish,POQOMCHI_WESTERN,kar,mayan:fish:2,mayan:fish:1
 mayan,fish,QANJOBAL_SANTA_EULALIA,Tay,mayan:fish:2,mayan:fish:1
@@ -2208,7 +2208,7 @@ mayan,fish,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,kar,mayan:fish:2,mayan:fish:1
 mayan,fish,TECO_TECTITAN,moy,mayan:fish:3,mayan:fish:1
 mayan,fish,TOJOLABAL,Cay,mayan:fish:2,mayan:fish:1
 mayan,fish,TZELTAL_BACHAJON,Cay,mayan:fish:2,mayan:fish:1
-mayan,fish,TZUTUJIL_SAN_JUAN_LA_LAGUNA,Cu7,mayan:fish:4,mayan:fish:1
+mayan,fish,TZUTUJIL_SAN_JUAN_LA_LAGUNA,Cu7,mayan:fish:4,mayan:fish:2
 mayan,fish,USPANTEKO,kar,mayan:fish:2,mayan:fish:1
 mayan,fish,ZINACANTAN_TZOTZIL,Coy,mayan:fish:2,mayan:fish:1
 mayan,grease,CHONTAL_TABASCO,"pok""ma",mayan:grease:4,mayan:grease:7
@@ -2243,7 +2243,7 @@ mayan,leaf,QANJOBAL_SANTA_EULALIA,Saq,mayan:leaf:1,mayan:leaf:1
 mayan,leaf,SACAPULTECO_SACAPULAS_CENTRO,raSaq,mayan:leaf:2,mayan:leaf:1
 mayan,leaf,SIPAKAPENSE,Saq,mayan:leaf:1,mayan:leaf:1
 mayan,leaf,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,ruSaq,mayan:leaf:2,mayan:leaf:1
-mayan,leaf,TECO_TECTITAN,"Taq k""ul",mayan:leaf:1,mayan:leaf:7
+mayan,leaf,TECO_TECTITAN,"Taq k""ul",mayan:leaf:1,mayan:leaf:1
 mayan,leaf,TOJOLABAL,spowil,mayan:leaf:5,mayan:leaf:6
 mayan,leaf,TZELTAL_BACHAJON,yabinal,mayan:leaf:8,mayan:leaf:4
 mayan,leaf,TZUTUJIL_SAN_JUAN_LA_LAGUNA,ruSaq,mayan:leaf:2,mayan:leaf:1
@@ -2363,35 +2363,35 @@ mayan,rain,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"xab""",mayan:rain:1,mayan:rain:1
 mayan,rain,USPANTEKO,"xab""",mayan:rain:1,mayan:rain:1
 mayan,rain,ZINACANTAN_TZOTZIL,vo7,mayan:rain:2,mayan:rain:1
 mayan,root,ACATECO_SAN_MIGUEL_ACATAN,Se7 te7,mayan:root:1,mayan:root:1
-mayan,root,AGUACATEC,takl,mayan:root:2,mayan:root:7
+mayan,root,AGUACATEC,takl,mayan:root:2,mayan:root:2
 mayan,root,CENTRAL_QUICHE,sera7,mayan:root:12,mayan:root:1
-mayan,root,CHOL_TUMBALA,wi7,mayan:root:5,mayan:root:2
-mayan,root,CHONTAL_TABASCO,wi7,mayan:root:5,mayan:root:2
-mayan,root,CHORTI,wir,mayan:root:16,mayan:root:2
-mayan,root,CHUJ,"C""aNl yip",mayan:root:9,mayan:root:12
+mayan,root,CHOL_TUMBALA,wi7,mayan:root:5,mayan:root:3
+mayan,root,CHONTAL_TABASCO,wi7,mayan:root:5,mayan:root:3
+mayan,root,CHORTI,wir,mayan:root:16,mayan:root:3
+mayan,root,CHUJ,"C""aNl yip",mayan:root:9,mayan:root:7
 mayan,root,EASTERN_KEKCHI_CAHABON,Se7,mayan:root:1,mayan:root:1
-mayan,root,HUASTEC,iblab,mayan:root:7,mayan:root:3
-mayan,root,ITZAJ,moc,mayan:root:17,mayan:root:5
-mayan,root,IXIL_CHAJUL,"taq""il",mayan:root:2,mayan:root:7
+mayan,root,HUASTEC,iblab,mayan:root:7,mayan:root:6
+mayan,root,ITZAJ,moc,mayan:root:17,mayan:root:4
+mayan,root,IXIL_CHAJUL,"taq""il",mayan:root:2,mayan:root:2
 mayan,root,JACALTEC,Se7,mayan:root:1,mayan:root:1
-mayan,root,MAM_NORTHERN,"tlok""",mayan:root:2,mayan:root:6
-mayan,root,MAYA_YUCATAN,moc,mayan:root:6,mayan:root:5
-mayan,root,MOCHO,iNtil,mayan:root:10,mayan:root:11
-mayan,root,MOPAN,kan Ce7,mayan:root:18,mayan:root:4
-mayan,root,POCOMAM_EASTERN,"k""ahamil Cie7",mayan:root:13,mayan:root:4
+mayan,root,MAM_NORTHERN,"tlok""",mayan:root:2,mayan:root:2
+mayan,root,MAYA_YUCATAN,moc,mayan:root:6,mayan:root:4
+mayan,root,MOCHO,iNtil,mayan:root:10,mayan:root:8
+mayan,root,MOPAN,kan Ce7,mayan:root:18,mayan:root:5
+mayan,root,POCOMAM_EASTERN,"k""ahamil Cie7",mayan:root:13,mayan:root:5
 mayan,root,POQOMCHI_WESTERN,ra7,mayan:root:4,mayan:root:1
 mayan,root,QANJOBAL_SANTA_EULALIA,Se7,mayan:root:1,mayan:root:1
-mayan,root,SACAPULTECO_SACAPULAS_CENTRO,"rak""amal",mayan:root:11,mayan:root:10
+mayan,root,SACAPULTECO_SACAPULAS_CENTRO,"rak""amal",mayan:root:11,mayan:root:9
 mayan,root,SIPAKAPENSE,Se7,mayan:root:1,mayan:root:1
 mayan,root,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,ruSe7,mayan:root:3,mayan:root:1
-mayan,root,TECO_TECTITAN,"tlok""",mayan:root:2,mayan:root:6
-mayan,root,TOJOLABAL,yeC,mayan:root:8,mayan:root:9
-mayan,root,TZELTAL_BACHAJON,"lop""",mayan:root:15,mayan:root:8
+mayan,root,TECO_TECTITAN,"tlok""",mayan:root:2,mayan:root:2
+mayan,root,TOJOLABAL,yeC,mayan:root:8,mayan:root:10
+mayan,root,TZELTAL_BACHAJON,"lop""",mayan:root:15,mayan:root:11
 mayan,root,TZUTUJIL_SAN_JUAN_LA_LAGUNA,ruSe7,mayan:root:3,mayan:root:1
 mayan,root,USPANTEKO,ra7,mayan:root:4,mayan:root:1
-mayan,root,ZINACANTAN_TZOTZIL,ibel,mayan:root:14,mayan:root:3
-mayan,sand,ACATECO_SAN_MIGUEL_ACATAN,"k""a Cen",mayan:sand:7,mayan:sand:7
-mayan,sand,AGUACATEC,"camlik""",mayan:sand:8,mayan:sand:6
+mayan,root,ZINACANTAN_TZOTZIL,ibel,mayan:root:14,mayan:root:6
+mayan,sand,ACATECO_SAN_MIGUEL_ACATAN,"k""a Cen",mayan:sand:7,mayan:sand:9
+mayan,sand,AGUACATEC,"camlik""",mayan:sand:8,mayan:sand:8
 mayan,sand,CENTRAL_QUICHE,"suni3b""",mayan:sand:3,mayan:sand:1
 mayan,sand,CHICOMUCELTEC,kisiw,mayan:sand:1,mayan:sand:4
 mayan,sand,CHOL_TUMBALA,hi7,mayan:sand:4,mayan:sand:3
@@ -2406,7 +2406,7 @@ mayan,sand,LACANDON,sam,mayan:sand:5,mayan:sand:5
 mayan,sand,MAM_NORTHERN,poqlax,mayan:sand:2,mayan:sand:2
 mayan,sand,MAYA_YUCATAN,sa7an,mayan:sand:5,mayan:sand:5
 mayan,sand,MOCHO,puquq,mayan:sand:2,mayan:sand:2
-mayan,sand,MOPAN,"C""iC""",mayan:sand:10,mayan:sand:9
+mayan,sand,MOPAN,"C""iC""",mayan:sand:10,mayan:sand:7
 mayan,sand,POCOMAM_EASTERN,"sanim""",mayan:sand:3,mayan:sand:1
 mayan,sand,POQOMCHI_WESTERN,"sanib""",mayan:sand:3,mayan:sand:1
 mayan,sand,QANJOBAL_SANTA_EULALIA,poq,mayan:sand:2,mayan:sand:2
@@ -2414,7 +2414,7 @@ mayan,sand,SACAPULTECO_SACAPULAS_CENTRO,"saneb""",mayan:sand:3,mayan:sand:1
 mayan,sand,SIPAKAPENSE,"sanyab""",mayan:sand:3,mayan:sand:1
 mayan,sand,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,sanayil,mayan:sand:3,mayan:sand:1
 mayan,sand,TECO_TECTITAN,kuq,mayan:sand:9,mayan:sand:2
-mayan,sand,TOJOLABAL,"xixkab""",mayan:sand:6,mayan:sand:8
+mayan,sand,TOJOLABAL,"xixkab""",mayan:sand:6,mayan:sand:6
 mayan,sand,TZELTAL_BACHAJON,hi7,mayan:sand:4,mayan:sand:3
 mayan,sand,TZUTUJIL_SAN_JUAN_LA_LAGUNA,sanayi7,mayan:sand:3,mayan:sand:1
 mayan,sand,USPANTEKO,"saneb""",mayan:sand:3,mayan:sand:1
@@ -2523,9 +2523,9 @@ mayan,claw,ZINACANTAN_TZOTZIL,"iC""akil",mayan:claw:4,mayan:claw:1
 mayan,egg,ACATECO_SAN_MIGUEL_ACATAN,hos,mayan:egg:2,mayan:egg:2
 mayan,egg,AGUACATEC,xox,mayan:egg:2,mayan:egg:2
 mayan,egg,CENTRAL_QUICHE,saqmol,mayan:egg:3,mayan:egg:1
-mayan,egg,CHICOMUCELTEC,ul,mayan:egg:7,mayan:egg:5
+mayan,egg,CHICOMUCELTEC,ul,mayan:egg:7,mayan:egg:7
 mayan,egg,CHOL_TUMBALA,tumut,mayan:egg:5,mayan:egg:4
-mayan,egg,CHORTI,kum,mayan:egg:11,mayan:egg:6
+mayan,egg,CHORTI,kum,mayan:egg:11,mayan:egg:5
 mayan,egg,CHUJ,Nolob,mayan:egg:1,mayan:egg:1
 mayan,egg,EASTERN_KEKCHI_CAHABON,"molb""",mayan:egg:1,mayan:egg:1
 mayan,egg,ITZAJ,he7,mayan:egg:6,mayan:egg:3
@@ -2546,7 +2546,7 @@ mayan,egg,TOJOLABAL,"nolob""",mayan:egg:1,mayan:egg:1
 mayan,egg,TZELTAL_BACHAJON,tomut,mayan:egg:5,mayan:egg:4
 mayan,egg,TZUTUJIL_SAN_JUAN_LA_LAGUNA,saqmol,mayan:egg:3,mayan:egg:1
 mayan,egg,USPANTEKO,"saqmolob""",mayan:egg:3,mayan:egg:1
-mayan,egg,ZINACANTAN_TZOTZIL,tanal,mayan:egg:10,mayan:egg:7
+mayan,egg,ZINACANTAN_TZOTZIL,tanal,mayan:egg:10,mayan:egg:6
 mayan,skin,ACATECO_SAN_MIGUEL_ACATAN,"T""um",mayan:skin:2,mayan:skin:1
 mayan,skin,AGUACATEC,"c""uml",mayan:skin:2,mayan:skin:1
 mayan,skin,CENTRAL_QUICHE,"c""um",mayan:skin:2,mayan:skin:1
@@ -2577,7 +2577,7 @@ mayan,skin,TZELTAL_BACHAJON,nukul,mayan:skin:3,mayan:skin:5
 mayan,skin,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"c""umal",mayan:skin:2,mayan:skin:1
 mayan,skin,USPANTEKO,"c""umal",mayan:skin:2,mayan:skin:1
 mayan,skin,ZINACANTAN_TZOTZIL,nukulal,mayan:skin:3,mayan:skin:5
-mayan,smoke,ACATECO_SAN_MIGUEL_ACATAN,"muk""",mayan:smoke:7,mayan:smoke:3
+mayan,smoke,ACATECO_SAN_MIGUEL_ACATAN,"muk""",mayan:smoke:7,mayan:smoke:2
 mayan,smoke,AGUACATEC,sib,mayan:smoke:4,mayan:smoke:1
 mayan,smoke,CENTRAL_QUICHE,"sib""",mayan:smoke:4,mayan:smoke:1
 mayan,smoke,CHICOMUCELTEC,pa,mayan:smoke:1,mayan:smoke:3
@@ -2608,19 +2608,19 @@ mayan,smoke,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"sib""",mayan:smoke:4,mayan:smoke:1
 mayan,smoke,USPANTEKO,"sib""",mayan:smoke:4,mayan:smoke:1
 mayan,smoke,ZINACANTAN_TZOTZIL,"C""ail",mayan:smoke:5,mayan:smoke:4
 mayan,that,ACATECO_SAN_MIGUEL_ACATAN,hu7untu7,mayan:that:1,mayan:that:2
-mayan,that,AGUACATEC,ac,mayan:that:2,mayan:that:7
+mayan,that,AGUACATEC,ac,mayan:that:2,mayan:that:6
 mayan,that,CENTRAL_QUICHE,le7,mayan:that:2,mayan:that:1
-mayan,that,CHOL_TUMBALA,iSiyi,mayan:that:15,mayan:that:6
+mayan,that,CHOL_TUMBALA,iSiyi,mayan:that:15,mayan:that:7
 mayan,that,CHONTAL_TABASCO,hini,mayan:that:4,mayan:that:4
 mayan,that,CHORTI,yaxa7,mayan:that:5,mayan:that:1
 mayan,that,CHUJ,xun Ca,mayan:that:8,mayan:that:2
 mayan,that,EASTERN_KEKCHI_CAHABON,ha7an,mayan:that:13,mayan:that:5
-mayan,that,HUASTEC,niSe7,mayan:that:6,mayan:that:1
+mayan,that,HUASTEC,niSe7,mayan:that:6,mayan:that:8
 mayan,that,ITZAJ,aheloh,mayan:that:16,mayan:that:1
-mayan,that,IXIL_CHAJUL,uwa7e,mayan:that:10,mayan:that:8
+mayan,that,IXIL_CHAJUL,uwa7e,mayan:that:10,mayan:that:9
 mayan,that,JACALTEC,tu7,mayan:that:9,mayan:that:2
 mayan,that,LACANDON,rah,mayan:that:19,mayan:that:1
-mayan,that,MAM_NORTHERN,CiS,mayan:that:12,mayan:that:9
+mayan,that,MAM_NORTHERN,CiS,mayan:that:12,mayan:that:2
 mayan,that,MAYA_YUCATAN,lelo7,mayan:that:18,mayan:that:1
 mayan,that,MOPAN,le7ek,mayan:that:17,mayan:that:1
 mayan,that,POCOMAM_EASTERN,rere7,mayan:that:3,mayan:that:3
@@ -2634,22 +2634,22 @@ mayan,that,TOJOLABAL,tan,mayan:that:7,mayan:that:10
 mayan,that,TZELTAL_BACHAJON,ha7 me ine,mayan:that:4,mayan:that:5
 mayan,that,TZUTUJIL_SAN_JUAN_LA_LAGUNA,xa7,mayan:that:5,mayan:that:1
 mayan,that,USPANTEKO,re,mayan:that:3,mayan:that:3
-mayan,that,ZINACANTAN_TZOTZIL,ti,mayan:that:14,mayan:that:11
+mayan,that,ZINACANTAN_TZOTZIL,ti,mayan:that:14,mayan:that:2
 mayan,stone,ACATECO_SAN_MIGUEL_ACATAN,"C""en",mayan:stone:3,mayan:stone:3
-mayan,stone,AGUACATEC,"k""ub",mayan:stone:7,mayan:stone:4
+mayan,stone,AGUACATEC,"k""ub",mayan:stone:7,mayan:stone:5
 mayan,stone,CENTRAL_QUICHE,"ab""3x",mayan:stone:4,mayan:stone:2
 mayan,stone,CHICOMUCELTEC,tuhu,mayan:stone:1,mayan:stone:4
 mayan,stone,CHOL_TUMBALA,tun,mayan:stone:2,mayan:stone:1
 mayan,stone,CHONTAL_TABASCO,hitun,mayan:stone:2,mayan:stone:1
 mayan,stone,CHORTI,tun,mayan:stone:2,mayan:stone:1
 mayan,stone,CHUJ,"k""e7en",mayan:stone:3,mayan:stone:3
-mayan,stone,EASTERN_KEKCHI_CAHABON,pek,mayan:stone:9,mayan:stone:7
+mayan,stone,EASTERN_KEKCHI_CAHABON,pek,mayan:stone:9,mayan:stone:8
 mayan,stone,HUASTEC,"t""uhub",mayan:stone:1,mayan:stone:4
 mayan,stone,ITZAJ,"C""intuniC",mayan:stone:5,mayan:stone:1
-mayan,stone,IXIL_CHAJUL,siwan,mayan:stone:6,mayan:stone:6
+mayan,stone,IXIL_CHAJUL,siwan,mayan:stone:6,mayan:stone:7
 mayan,stone,JACALTEC,"C""en",mayan:stone:3,mayan:stone:3
 mayan,stone,LACANDON,tuniC,mayan:stone:5,mayan:stone:1
-mayan,stone,MAM_NORTHERN,Saq,mayan:stone:8,mayan:stone:5
+mayan,stone,MAM_NORTHERN,Saq,mayan:stone:8,mayan:stone:6
 mayan,stone,MAYA_YUCATAN,tuniC,mayan:stone:5,mayan:stone:1
 mayan,stone,MOCHO,toN,mayan:stone:2,mayan:stone:1
 mayan,stone,MOPAN,tuniC,mayan:stone:5,mayan:stone:1
@@ -2696,7 +2696,7 @@ mayan,tree,TZUTUJIL_SAN_JUAN_LA_LAGUNA,Ce7,mayan:tree:1,mayan:tree:1
 mayan,tree,USPANTEKO,Ce7,mayan:tree:1,mayan:tree:1
 mayan,tree,ZINACANTAN_TZOTZIL,te7,mayan:tree:1,mayan:tree:1
 mayan,bird,ACATECO_SAN_MIGUEL_ACATAN,"c""ikin",mayan:bird:2,mayan:bird:1
-mayan,bird,AGUACATEC,"C""ul",mayan:bird:7,mayan:bird:6
+mayan,bird,AGUACATEC,"C""ul",mayan:bird:7,mayan:bird:5
 mayan,bird,CENTRAL_QUICHE,"c""ikin",mayan:bird:2,mayan:bird:1
 mayan,bird,CHOL_TUMBALA,mut,mayan:bird:3,mayan:bird:2
 mayan,bird,CHONTAL_TABASCO,mut,mayan:bird:3,mayan:bird:2
@@ -2715,10 +2715,10 @@ mayan,bird,POCOMAM_EASTERN,Cikop,mayan:bird:11,mayan:bird:1
 mayan,bird,POQOMCHI_WESTERN,"c""ikin",mayan:bird:2,mayan:bird:1
 mayan,bird,QANJOBAL_SANTA_EULALIA,"c""ikin",mayan:bird:2,mayan:bird:1
 mayan,bird,SACAPULTECO_SACAPULAS_CENTRO,"c""ikin",mayan:bird:2,mayan:bird:1
-mayan,bird,SIPAKAPENSE,"k""y~eq Ckop",mayan:bird:10,mayan:bird:5
+mayan,bird,SIPAKAPENSE,"k""y~eq Ckop",mayan:bird:10,mayan:bird:1
 mayan,bird,SOUTHERN_CAKCHIQUEL_SAN_ANDRES_ITZAPA,"c""kin",mayan:bird:2,mayan:bird:1
-mayan,bird,TECO_TECTITAN,"pic""",mayan:bird:8,mayan:bird:4
-mayan,bird,TOJOLABAL,yalCan,mayan:bird:5,mayan:bird:3
+mayan,bird,TECO_TECTITAN,"pic""",mayan:bird:8,mayan:bird:3
+mayan,bird,TOJOLABAL,yalCan,mayan:bird:5,mayan:bird:4
 mayan,bird,TZELTAL_BACHAJON,mut,mayan:bird:3,mayan:bird:2
 mayan,bird,TZUTUJIL_SAN_JUAN_LA_LAGUNA,"c""ikin",mayan:bird:2,mayan:bird:1
 mayan,bird,USPANTEKO,"c""ikin",mayan:bird:2,mayan:bird:1
@@ -2813,17 +2813,17 @@ mayan,woman,TZELTAL_BACHAJON,anc,mayan:woman:5,mayan:woman:2
 mayan,woman,TZUTUJIL_SAN_JUAN_LA_LAGUNA,iSoq,mayan:woman:2,mayan:woman:1
 mayan,woman,ZINACANTAN_TZOTZIL,anc,mayan:woman:5,mayan:woman:2
 mayan,all,ACATECO_SAN_MIGUEL_ACATAN,smasanil,mayan:all:1,mayan:all:1
-mayan,all,AGUACATEC,tirkun,mayan:all:9,mayan:all:9
+mayan,all,AGUACATEC,tirkun,mayan:all:9,mayan:all:8
 mayan,all,CENTRAL_QUICHE,konoxel,mayan:all:3,mayan:all:2
-mayan,all,CHONTAL_TABASCO,upete,mayan:all:15,mayan:all:8
-mayan,all,CHORTI,tunor,mayan:all:16,mayan:all:7
+mayan,all,CHONTAL_TABASCO,upete,mayan:all:15,mayan:all:7
+mayan,all,CHORTI,tunor,mayan:all:16,mayan:all:6
 mayan,all,CHUJ,smasnil,mayan:all:1,mayan:all:1
 mayan,all,EASTERN_KEKCHI_CAHABON,Cixunil,mayan:all:12,mayan:all:5
 mayan,all,HUASTEC,tala7,mayan:all:5,mayan:all:3
 mayan,all,ITZAJ,lah,mayan:all:17,mayan:all:3
 mayan,all,IXIL_CHAJUL,kaqayil,mayan:all:2,mayan:all:4
 mayan,all,JACALTEC,sunil,mayan:all:8,mayan:all:1
-mayan,all,LACANDON,puri7,mayan:all:18,mayan:all:6
+mayan,all,LACANDON,puri7,mayan:all:18,mayan:all:10
 mayan,all,MAM_NORTHERN,ky~ky~aqil,mayan:all:2,mayan:all:4
 mayan,all,MAYA_YUCATAN,lah,mayan:all:4,mayan:all:3
 mayan,all,MOCHO,hunaN,mayan:all:7,mayan:all:1
@@ -2839,4 +2839,4 @@ mayan,all,TOJOLABAL,specanil,mayan:all:6,mayan:all:1
 mayan,all,TZELTAL_BACHAJON,spisil,mayan:all:14,mayan:all:1
 mayan,all,TZUTUJIL_SAN_JUAN_LA_LAGUNA,ronoxel,mayan:all:3,mayan:all:2
 mayan,all,USPANTEKO,ronoxel,mayan:all:3,mayan:all:2
-mayan,all,ZINACANTAN_TZOTZIL,kotol,mayan:all:13,mayan:all:2
+mayan,all,ZINACANTAN_TZOTZIL,kotol,mayan:all:13,mayan:all:9
