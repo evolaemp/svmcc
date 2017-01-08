@@ -114,29 +114,49 @@ class Cli:
 		Inits the subparser that handles the infer command.
 		"""
 		def infer(args):
-			from code.infer import infer as main
+			from code.infer.base import infer as infer_svmcc
+			from code.infer.lexstat import infer_lexstat
 			
 			start = time.time()
 			
-			main(args.vectors_dir, args.output_dir)
+			if not args.only_lexstat:
+				infer_svmcc(args.vectors_dir, args.output_dir)
+			if not args.only_svmcc:
+				infer_lexstat(args.datasets_dir, args.output_dir)
 			
 			end = time.time()
 			return 'done in {} seconds'.format(round(end-start, 3))
 		
+		
 		usage = 'manage.py infer'
 		description = (
 			'read a directory of vector files, '
-			'run svm-based automatic cognate detection, '
+			'run svm-based and lexstat automatic cognate detection, '
 			'and write the inferred classes into an output directory')
 		
 		subp = self.subparsers.add_parser('infer', usage=usage,
 			description=description, help=description)
+		
 		subp.add_argument('--vectors-dir', default=VECTORS_DIR, help=(
-			'the directory from which to read the vector files; '
+			'the directory from which to read the vector files '
+			'(only relevant for the svm-based algorithm); '
 			'defaults to {}'.format(VECTORS_DIR)))
+		subp.add_argument('--datasets-dir', default=DATASETS_DIR, help=(
+			'the directory from which to read the datasets '
+			'(only relevant for the lexstat algorithm); '
+			'defaults to {}'.format(DATASETS_DIR)))
 		subp.add_argument('--output-dir', default=INFERRED_DIR, help=(
 			'the directory in which to create the output files; '
 			'defaults to {}'.format(INFERRED_DIR)))
+		
+		group = subp.add_mutually_exclusive_group()
+		group.add_argument('--only-svmcc', action='store_true', help=(
+			'run only the svm-based cognate detection; '
+			'by default both algorithms are run'))
+		group.add_argument('--only-lexstat', action='store_true', help=(
+			'run only the lexstat cognate detection; '
+			'by default both algorithms are run'))
+		
 		subp.set_defaults(func=infer)
 	
 	
