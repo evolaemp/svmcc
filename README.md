@@ -121,10 +121,10 @@ python manage.py --help
 targets, and writes a vector file ready for svm consumption; `data/vectors` is
 the default output directory.
 
-`python manage.py infer` reads a directory of vector files, runs svm-based
-automatic cognate detection, and writes the inferred classes into an output
-directory; the default input and output directories are `data/vectors` and
-`data/inferred`, respectively.
+`python manage.py infer --svmcc` reads a directory of vector files, runs
+svm-based automatic cognate detection, and writes the inferred classes into an
+output directory; the default input and output directories are `data/vectors`
+and `data/inferred`, respectively.
 
 `python manage.py test` runs some unit tests.
 
