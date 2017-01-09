@@ -59,15 +59,17 @@ also be found in Zenodo (URL pending).
 The `data/vectors` directory contains the samples and targets (in the machine
 learning sense) derived from the datasets, in csv format. With the exception of
 `central_asian`, which is split into two because its size exceeds 100 MB, there
-is a single vector file per dataset. In these files each row comprises a pair of
-words from different languages but with the same meaning. The features are
-described in section 4.3 of the paper.
+is a single vector file per dataset (note that the code will not split this file
+for you). In these files each row comprises a pair of words from different
+languages but with the same meaning. The features are described in section 4.3
+of the paper.
 
 
 ### inferred
 
 The `data/inferred` directory contains the SVM-inferred cognate classes for each
-dataset, one csv file per dataset.
+dataset, one `.svmCC.csv` file per dataset. It also contains the cognacies
+inferred using the LexStat algorithm, one `.lsCC.csv` file per dataset.
 
 
 ### params
