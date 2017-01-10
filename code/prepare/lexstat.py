@@ -90,7 +90,7 @@ def load_tokens(dataset_path, schema):
 				tokens[line[0]] = {}
 			if line[3] not in tokens[line[0]]:
 				tokens[line[0]][line[3]]  = []
-			tokens[line[0]][line[3]].append(line[7])
+			tokens[line[0]][line[3]].append(line[7].split())
 	
 	return tokens
 
