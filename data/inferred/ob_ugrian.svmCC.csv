@@ -258,7 +258,7 @@ ob_ugrian,tail,Malyj Jugan Khanty,ɬeɣ,ob_ugrian:tail:181,ob_ugrian:tail:1
 ob_ugrian,tail,Middle Lozva Mansi,lɨː,ob_ugrian:tail:181,ob_ugrian:tail:1
 ob_ugrian,tail,Nizjam Khanty,tiɣ,ob_ugrian:tail:181,ob_ugrian:tail:1
 ob_ugrian,tail,North Mansi,leːɨɣ,ob_ugrian:tail:181,ob_ugrian:tail:1
-ob_ugrian,tail,Obdorsk Khanty,poːsiː,ob_ugrian:tail:183,ob_ugrian:tail:3
+ob_ugrian,tail,Obdorsk Khanty,poːsiː,ob_ugrian:tail:183,ob_ugrian:tail:2
 ob_ugrian,tail,Pelymka Mansi,lɨː,ob_ugrian:tail:181,ob_ugrian:tail:1
 ob_ugrian,tail,Sherkaly Khanty,tiɣ,ob_ugrian:tail:181,ob_ugrian:tail:1
 ob_ugrian,tail,Synja Khanty,lij,ob_ugrian:tail:181,ob_ugrian:tail:1
@@ -372,16 +372,16 @@ ob_ugrian,new,Kazym Khanty,jiɬəp,ob_ugrian:new:114,ob_ugrian:new:1
 ob_ugrian,new,Konda Khanty,jetəp,ob_ugrian:new:114,ob_ugrian:new:1
 ob_ugrian,new,Konda Mansi,jelpəl,ob_ugrian:new:114,ob_ugrian:new:1
 ob_ugrian,new,Likrisovskoje Khanty,jeθəp,ob_ugrian:new:114,ob_ugrian:new:1
-ob_ugrian,new,Lower Lozva Mansi,ʎæʎpəl,ob_ugrian:new:114,ob_ugrian:new:1
+ob_ugrian,new,Lower Lozva Mansi,ʎæʎpəl,ob_ugrian:new:114,ob_ugrian:new:2
 ob_ugrian,new,Malyj Jugan Khanty,jeɬəp,ob_ugrian:new:114,ob_ugrian:new:1
-ob_ugrian,new,Middle Lozva Mansi,ʎæʎpəl,ob_ugrian:new:114,ob_ugrian:new:1
+ob_ugrian,new,Middle Lozva Mansi,ʎæʎpəl,ob_ugrian:new:114,ob_ugrian:new:2
 ob_ugrian,new,Nizjam Khanty,jitəp,ob_ugrian:new:114,ob_ugrian:new:1
-ob_ugrian,new,North Mansi,iʎp,ob_ugrian:new:114,ob_ugrian:new:1
+ob_ugrian,new,North Mansi,iʎp,ob_ugrian:new:114,ob_ugrian:new:2
 ob_ugrian,new,Obdorsk Khanty,jiːləp,ob_ugrian:new:114,ob_ugrian:new:1
-ob_ugrian,new,Pelymka Mansi,ʎæʎpəl,ob_ugrian:new:114,ob_ugrian:new:1
+ob_ugrian,new,Pelymka Mansi,ʎæʎpəl,ob_ugrian:new:114,ob_ugrian:new:2
 ob_ugrian,new,Sherkaly Khanty,jatəp,ob_ugrian:new:114,ob_ugrian:new:1
 ob_ugrian,new,Synja Khanty,jaləp,ob_ugrian:new:114,ob_ugrian:new:1
-ob_ugrian,new,Tavda Mansi,elpəʎ,ob_ugrian:new:114,ob_ugrian:new:1
+ob_ugrian,new,Tavda Mansi,elpəʎ,ob_ugrian:new:114,ob_ugrian:new:2
 ob_ugrian,new,Tremjugan Khanty,jeɬəp,ob_ugrian:new:114,ob_ugrian:new:1
 ob_ugrian,new,Upper Demjanka Khanty,jetəp,ob_ugrian:new:114,ob_ugrian:new:1
 ob_ugrian,new,Vakh Khanty,jeləw,ob_ugrian:new:114,ob_ugrian:new:1
@@ -484,7 +484,7 @@ ob_ugrian,small,Lower Lozva Mansi,isʲ,ob_ugrian:small:163,ob_ugrian:small:2
 ob_ugrian,small,Malyj Jugan Khanty,æːj,ob_ugrian:small:164,ob_ugrian:small:1
 ob_ugrian,small,Middle Lozva Mansi,wysʲ,ob_ugrian:small:163,ob_ugrian:small:2
 ob_ugrian,small,Nizjam Khanty,aːj,ob_ugrian:small:164,ob_ugrian:small:1
-ob_ugrian,small,North Mansi,maːɲ,ob_ugrian:small:162,ob_ugrian:small:4
+ob_ugrian,small,North Mansi,maːɲ,ob_ugrian:small:162,ob_ugrian:small:3
 ob_ugrian,small,Obdorsk Khanty,æːj,ob_ugrian:small:164,ob_ugrian:small:1
 ob_ugrian,small,Pelymka Mansi,isʲ,ob_ugrian:small:163,ob_ugrian:small:2
 ob_ugrian,small,Sherkaly Khanty,aːj,ob_ugrian:small:164,ob_ugrian:small:1
@@ -493,7 +493,7 @@ ob_ugrian,small,Tavda Mansi,usʲ,ob_ugrian:small:163,ob_ugrian:small:2
 ob_ugrian,small,Tremjugan Khanty,æːj,ob_ugrian:small:164,ob_ugrian:small:1
 ob_ugrian,small,Upper Demjanka Khanty,æːj,ob_ugrian:small:164,ob_ugrian:small:1
 ob_ugrian,small,Vakh Khanty,æːj,ob_ugrian:small:164,ob_ugrian:small:1
-ob_ugrian,small,Vartovskoje Khanty,œkəm,ob_ugrian:small:165,ob_ugrian:small:3
+ob_ugrian,small,Vartovskoje Khanty,œkəm,ob_ugrian:small:165,ob_ugrian:small:1
 ob_ugrian,small,Vasjugan Khanty,æːj,ob_ugrian:small:164,ob_ugrian:small:1
 ob_ugrian,small,Verkhne-Kalymsk Khanty,æːj,ob_ugrian:small:164,ob_ugrian:small:1
 ob_ugrian,ear,Jugan Khanty,peɬ,ob_ugrian:ear:50,ob_ugrian:ear:1
@@ -548,7 +548,7 @@ ob_ugrian,belly,Pelymka Mansi,sori,ob_ugrian:belly:12,ob_ugrian:belly:2
 ob_ugrian,belly,Sherkaly Khanty,χon,ob_ugrian:belly:13,ob_ugrian:belly:1
 ob_ugrian,belly,Synja Khanty,χoɳ,ob_ugrian:belly:13,ob_ugrian:belly:1
 ob_ugrian,belly,Tremjugan Khanty,koɳ,ob_ugrian:belly:13,ob_ugrian:belly:1
-ob_ugrian,belly,Upper Demjanka Khanty,poːrəχ,ob_ugrian:belly:14,ob_ugrian:belly:1
+ob_ugrian,belly,Upper Demjanka Khanty,poːrəχ,ob_ugrian:belly:14,ob_ugrian:belly:2
 ob_ugrian,belly,Vakh Khanty,koɳ,ob_ugrian:belly:13,ob_ugrian:belly:1
 ob_ugrian,belly,Vartovskoje Khanty,koɳ,ob_ugrian:belly:13,ob_ugrian:belly:1
 ob_ugrian,belly,Vasjugan Khanty,koɳ,ob_ugrian:belly:13,ob_ugrian:belly:1
@@ -668,7 +668,7 @@ ob_ugrian,white,Konda Mansi,sɔjrəŋ,ob_ugrian:white:202,ob_ugrian:white:2
 ob_ugrian,white,Likrisovskoje Khanty,næːɣiː,ob_ugrian:white:200,ob_ugrian:white:1
 ob_ugrian,white,Malyj Jugan Khanty,neːɣʷiː,ob_ugrian:white:200,ob_ugrian:white:1
 ob_ugrian,white,Nizjam Khanty,nowə,ob_ugrian:white:200,ob_ugrian:white:1
-ob_ugrian,white,North Mansi,jaːŋk,ob_ugrian:white:201,ob_ugrian:white:3
+ob_ugrian,white,North Mansi,jaːŋk,ob_ugrian:white:201,ob_ugrian:white:2
 ob_ugrian,white,Obdorsk Khanty,næːwiː,ob_ugrian:white:200,ob_ugrian:white:1
 ob_ugrian,white,Pelymka Mansi,sairiŋ,ob_ugrian:white:202,ob_ugrian:white:2
 ob_ugrian,white,Sherkaly Khanty,nowə,ob_ugrian:white:200,ob_ugrian:white:1
@@ -826,22 +826,22 @@ ob_ugrian,bone,Vartovskoje Khanty,ɬoɣ,ob_ugrian:bone:26,ob_ugrian:bone:1
 ob_ugrian,bone,Vasjugan Khanty,loɣ,ob_ugrian:bone:26,ob_ugrian:bone:1
 ob_ugrian,bone,Verkhne-Kalymsk Khanty,loɣ,ob_ugrian:bone:26,ob_ugrian:bone:1
 ob_ugrian,round,Jugan Khanty,peŋrək,ob_ugrian:round:141,ob_ugrian:round:3
-ob_ugrian,round,Kazym Khanty,ɲɵːmər,ob_ugrian:round:143,ob_ugrian:round:5
+ob_ugrian,round,Kazym Khanty,ɲɵːmər,ob_ugrian:round:143,ob_ugrian:round:4
 ob_ugrian,round,Kazym Khanty,jɛːŋtaː,ob_ugrian:round:140,ob_ugrian:round:2
 ob_ugrian,round,Konda Khanty,jæŋtæː,ob_ugrian:round:140,ob_ugrian:round:2
 ob_ugrian,round,Konda Mansi,pæwər,ob_ugrian:round:141,ob_ugrian:round:1
-ob_ugrian,round,Konda Mansi,mærwə,ob_ugrian:round:139,ob_ugrian:round:4
+ob_ugrian,round,Konda Mansi,mærwə,ob_ugrian:round:139,ob_ugrian:round:1
 ob_ugrian,round,Lower Lozva Mansi,pæːr,ob_ugrian:round:141,ob_ugrian:round:1
 ob_ugrian,round,Middle Lozva Mansi,pæːr,ob_ugrian:round:141,ob_ugrian:round:1
-ob_ugrian,round,Middle Lozva Mansi,mæræu,ob_ugrian:round:139,ob_ugrian:round:4
-ob_ugrian,round,Nizjam Khanty,ɲuːmrə,ob_ugrian:round:143,ob_ugrian:round:5
+ob_ugrian,round,Middle Lozva Mansi,mæræu,ob_ugrian:round:139,ob_ugrian:round:1
+ob_ugrian,round,Nizjam Khanty,ɲuːmrə,ob_ugrian:round:143,ob_ugrian:round:4
 ob_ugrian,round,Nizjam Khanty,jeːŋtaː,ob_ugrian:round:140,ob_ugrian:round:2
 ob_ugrian,round,North Mansi,puːɣər,ob_ugrian:round:141,ob_ugrian:round:1
-ob_ugrian,round,North Mansi,marawi,ob_ugrian:round:139,ob_ugrian:round:4
+ob_ugrian,round,North Mansi,marawi,ob_ugrian:round:139,ob_ugrian:round:1
 ob_ugrian,round,Obdorsk Khanty,jeːŋtæː,ob_ugrian:round:140,ob_ugrian:round:2
 ob_ugrian,round,Pelymka Mansi,pæwər,ob_ugrian:round:141,ob_ugrian:round:1
-ob_ugrian,round,Pelymka Mansi,mæru,ob_ugrian:round:139,ob_ugrian:round:4
-ob_ugrian,round,Synja Khanty,ɲuːmər,ob_ugrian:round:143,ob_ugrian:round:5
+ob_ugrian,round,Pelymka Mansi,mæru,ob_ugrian:round:139,ob_ugrian:round:1
+ob_ugrian,round,Synja Khanty,ɲuːmər,ob_ugrian:round:143,ob_ugrian:round:4
 ob_ugrian,round,Synja Khanty,jeːŋtaː,ob_ugrian:round:140,ob_ugrian:round:2
 ob_ugrian,round,Tavda Mansi,pəur,ob_ugrian:round:141,ob_ugrian:round:1
 ob_ugrian,round,Tremjugan Khanty,peŋrək,ob_ugrian:round:141,ob_ugrian:round:3
@@ -913,7 +913,7 @@ ob_ugrian,drink,Obdorsk Khanty,jeːɲsj,ob_ugrian:drink:46,ob_ugrian:drink:2
 ob_ugrian,drink,Pelymka Mansi,æji,ob_ugrian:drink:44,ob_ugrian:drink:1
 ob_ugrian,drink,Sherkaly Khanty,jaːɲsj,ob_ugrian:drink:46,ob_ugrian:drink:2
 ob_ugrian,drink,Synja Khanty,jiɲsj,ob_ugrian:drink:46,ob_ugrian:drink:2
-ob_ugrian,drink,Tavda Mansi,æjænt,ob_ugrian:drink:44,ob_ugrian:drink:1
+ob_ugrian,drink,Tavda Mansi,æjænt,ob_ugrian:drink:44,ob_ugrian:drink:2
 ob_ugrian,drink,Tremjugan Khanty,jeːɲtj,ob_ugrian:drink:46,ob_ugrian:drink:2
 ob_ugrian,drink,Upper Demjanka Khanty,jæːɲtj,ob_ugrian:drink:46,ob_ugrian:drink:2
 ob_ugrian,drink,Vakh Khanty,liː,ob_ugrian:drink:45,ob_ugrian:drink:1
@@ -990,10 +990,10 @@ ob_ugrian,far,North Mansi,χɔsæt,ob_ugrian:far:207,ob_ugrian:far:2
 ob_ugrian,far,Obdorsk Khanty,χowiː,ob_ugrian:far:208,ob_ugrian:far:1
 ob_ugrian,far,Pelymka Mansi,qʷɔʃæt,ob_ugrian:far:207,ob_ugrian:far:2
 ob_ugrian,far,Tavda Mansi,qoʃot,ob_ugrian:far:207,ob_ugrian:far:2
-ob_ugrian,far,Tremjugan Khanty,kokkə,ob_ugrian:far:208,ob_ugrian:far:3
+ob_ugrian,far,Tremjugan Khanty,kokkə,ob_ugrian:far:208,ob_ugrian:far:1
 ob_ugrian,far,Upper Demjanka Khanty,χowaː,ob_ugrian:far:208,ob_ugrian:far:1
-ob_ugrian,far,Vakh Khanty,koːkkə,ob_ugrian:far:208,ob_ugrian:far:3
-ob_ugrian,far,Vasjugan Khanty,koːkkə,ob_ugrian:far:208,ob_ugrian:far:3
+ob_ugrian,far,Vakh Khanty,koːkkə,ob_ugrian:far:208,ob_ugrian:far:1
+ob_ugrian,far,Vasjugan Khanty,koːkkə,ob_ugrian:far:208,ob_ugrian:far:1
 ob_ugrian,hear,Jugan Khanty,koːɬ,ob_ugrian:hear:79,ob_ugrian:hear:1
 ob_ugrian,hear,Kazym Khanty,χɵːɬ,ob_ugrian:hear:79,ob_ugrian:hear:1
 ob_ugrian,hear,Konda Khanty,χuːt,ob_ugrian:hear:79,ob_ugrian:hear:1
@@ -1185,19 +1185,19 @@ ob_ugrian,star,Vasjugan Khanty,kɔːs,ob_ugrian:star:174,ob_ugrian:star:1
 ob_ugrian,star,Verkhne-Kalymsk Khanty,koːs,ob_ugrian:star:174,ob_ugrian:star:1
 ob_ugrian,swim,Kazym Khanty,wɵːsj,ob_ugrian:swim:179,ob_ugrian:swim:1
 ob_ugrian,swim,Konda Khanty,uːtj,ob_ugrian:swim:179,ob_ugrian:swim:1
-ob_ugrian,swim,Konda Mansi,wuji,ob_ugrian:swim:179,ob_ugrian:swim:2
-ob_ugrian,swim,Middle Lozva Mansi,uji,ob_ugrian:swim:179,ob_ugrian:swim:2
+ob_ugrian,swim,Konda Mansi,wuji,ob_ugrian:swim:179,ob_ugrian:swim:1
+ob_ugrian,swim,Middle Lozva Mansi,uji,ob_ugrian:swim:179,ob_ugrian:swim:1
 ob_ugrian,swim,Nizjam Khanty,uːsj,ob_ugrian:swim:179,ob_ugrian:swim:1
-ob_ugrian,swim,North Mansi,uji,ob_ugrian:swim:179,ob_ugrian:swim:2
+ob_ugrian,swim,North Mansi,uji,ob_ugrian:swim:179,ob_ugrian:swim:1
 ob_ugrian,swim,Obdorsk Khanty,oːsj,ob_ugrian:swim:179,ob_ugrian:swim:1
-ob_ugrian,swim,Pelymka Mansi,wuji,ob_ugrian:swim:179,ob_ugrian:swim:2
+ob_ugrian,swim,Pelymka Mansi,wuji,ob_ugrian:swim:179,ob_ugrian:swim:1
 ob_ugrian,swim,Sherkaly Khanty,uːsj,ob_ugrian:swim:179,ob_ugrian:swim:1
 ob_ugrian,swim,Synja Khanty,uːsj,ob_ugrian:swim:179,ob_ugrian:swim:1
-ob_ugrian,swim,Tavda Mansi,ujænt,ob_ugrian:swim:179,ob_ugrian:swim:2
-ob_ugrian,swim,Tremjugan Khanty,ɲarəɣ,ob_ugrian:swim:180,ob_ugrian:swim:3
+ob_ugrian,swim,Tavda Mansi,ujænt,ob_ugrian:swim:179,ob_ugrian:swim:1
+ob_ugrian,swim,Tremjugan Khanty,ɲarəɣ,ob_ugrian:swim:180,ob_ugrian:swim:2
 ob_ugrian,swim,Upper Demjanka Khanty,uːtj,ob_ugrian:swim:179,ob_ugrian:swim:1
 ob_ugrian,swim,Vakh Khanty,ɔːtj,ob_ugrian:swim:179,ob_ugrian:swim:1
-ob_ugrian,swim,Vasjugan Khanty,ɲoːrəɣ,ob_ugrian:swim:180,ob_ugrian:swim:3
+ob_ugrian,swim,Vasjugan Khanty,ɲoːrəɣ,ob_ugrian:swim:180,ob_ugrian:swim:2
 ob_ugrian,fly,Jugan Khanty,ɬeɣəɬ,ob_ugrian:fly:65,ob_ugrian:fly:2
 ob_ugrian,fly,Kazym Khanty,jaŋ,ob_ugrian:fly:66,ob_ugrian:fly:3
 ob_ugrian,fly,Konda Khanty,teɣət,ob_ugrian:fly:65,ob_ugrian:fly:2
@@ -1404,7 +1404,7 @@ ob_ugrian,red,North Mansi,wɨɣɨr,ob_ugrian:red:132,ob_ugrian:red:1
 ob_ugrian,red,Pelymka Mansi,wyɨr,ob_ugrian:red:132,ob_ugrian:red:1
 ob_ugrian,red,Sherkaly Khanty,wurtə,ob_ugrian:red:132,ob_ugrian:red:1
 ob_ugrian,red,Synja Khanty,wurtiː,ob_ugrian:red:132,ob_ugrian:red:1
-ob_ugrian,red,Tavda Mansi,uːrqɔr,ob_ugrian:red:132,ob_ugrian:red:2
+ob_ugrian,red,Tavda Mansi,uːrqɔr,ob_ugrian:red:132,ob_ugrian:red:1
 ob_ugrian,red,Tremjugan Khanty,wertə,ob_ugrian:red:132,ob_ugrian:red:1
 ob_ugrian,red,Upper Demjanka Khanty,wertə,ob_ugrian:red:132,ob_ugrian:red:1
 ob_ugrian,red,Vakh Khanty,wertə,ob_ugrian:red:132,ob_ugrian:red:1
@@ -1628,12 +1628,12 @@ ob_ugrian,mountain,Konda Khanty,reːp,ob_ugrian:mountain:105,ob_ugrian:mountain:
 ob_ugrian,mountain,Konda Mansi,əχ,ob_ugrian:mountain:103,ob_ugrian:mountain:2
 ob_ugrian,mountain,Likrisovskoje Khanty,ræp,ob_ugrian:mountain:105,ob_ugrian:mountain:1
 ob_ugrian,mountain,Lower Lozva Mansi,əχ,ob_ugrian:mountain:103,ob_ugrian:mountain:2
-ob_ugrian,mountain,Middle Lozva Mansi,ur,ob_ugrian:mountain:107,ob_ugrian:mountain:1
+ob_ugrian,mountain,Middle Lozva Mansi,ur,ob_ugrian:mountain:107,ob_ugrian:mountain:2
 ob_ugrian,mountain,Nizjam Khanty,reːp,ob_ugrian:mountain:105,ob_ugrian:mountain:1
-ob_ugrian,mountain,North Mansi,ur,ob_ugrian:mountain:107,ob_ugrian:mountain:1
+ob_ugrian,mountain,North Mansi,ur,ob_ugrian:mountain:107,ob_ugrian:mountain:2
 ob_ugrian,mountain,Obdorsk Khanty,reːp,ob_ugrian:mountain:105,ob_ugrian:mountain:1
 ob_ugrian,mountain,Pelymka Mansi,əχ,ob_ugrian:mountain:103,ob_ugrian:mountain:2
-ob_ugrian,mountain,Sherkaly Khanty,keːw,ob_ugrian:mountain:106,ob_ugrian:mountain:1
+ob_ugrian,mountain,Sherkaly Khanty,keːw,ob_ugrian:mountain:106,ob_ugrian:mountain:3
 ob_ugrian,mountain,Synja Khanty,reːp,ob_ugrian:mountain:105,ob_ugrian:mountain:1
 ob_ugrian,mountain,Tavda Mansi,æχ,ob_ugrian:mountain:103,ob_ugrian:mountain:2
 ob_ugrian,mountain,Tremjugan Khanty,ræp,ob_ugrian:mountain:105,ob_ugrian:mountain:1
@@ -1738,7 +1738,7 @@ ob_ugrian,mouth,Lower Lozva Mansi,tus,ob_ugrian:mouth:109,ob_ugrian:mouth:1
 ob_ugrian,mouth,Malyj Jugan Khanty,ɬuːɬ,ob_ugrian:mouth:110,ob_ugrian:mouth:1
 ob_ugrian,mouth,Middle Lozva Mansi,tus,ob_ugrian:mouth:109,ob_ugrian:mouth:1
 ob_ugrian,mouth,Nizjam Khanty,tuːt,ob_ugrian:mouth:110,ob_ugrian:mouth:1
-ob_ugrian,mouth,North Mansi,suːp,ob_ugrian:mouth:108,ob_ugrian:mouth:1
+ob_ugrian,mouth,North Mansi,suːp,ob_ugrian:mouth:108,ob_ugrian:mouth:2
 ob_ugrian,mouth,Obdorsk Khanty,uːŋəl,ob_ugrian:mouth:111,ob_ugrian:mouth:1
 ob_ugrian,mouth,Pelymka Mansi,tus,ob_ugrian:mouth:109,ob_ugrian:mouth:1
 ob_ugrian,mouth,Sherkaly Khanty,tuːt,ob_ugrian:mouth:110,ob_ugrian:mouth:1
@@ -1757,7 +1757,7 @@ ob_ugrian,person,Lower Lozva Mansi,qɔls,ob_ugrian:person:124,ob_ugrian:person:2
 ob_ugrian,person,Middle Lozva Mansi,qɔls,ob_ugrian:person:124,ob_ugrian:person:2
 ob_ugrian,person,Nizjam Khanty,χojaːt,ob_ugrian:person:127,ob_ugrian:person:1
 ob_ugrian,person,North Mansi,eːləmχɔːləs,ob_ugrian:person:124,ob_ugrian:person:2
-ob_ugrian,person,Obdorsk Khanty,neːŋχuːj,ob_ugrian:person:123,ob_ugrian:person:4
+ob_ugrian,person,Obdorsk Khanty,neːŋχuːj,ob_ugrian:person:123,ob_ugrian:person:1
 ob_ugrian,person,Pelymka Mansi,qɔləs,ob_ugrian:person:124,ob_ugrian:person:2
 ob_ugrian,person,Sherkaly Khanty,χojaːt,ob_ugrian:person:127,ob_ugrian:person:1
 ob_ugrian,person,Synja Khanty,χojaːt,ob_ugrian:person:127,ob_ugrian:person:1
@@ -1986,22 +1986,22 @@ ob_ugrian,woman,Vakh Khanty,niː,ob_ugrian:woman:204,ob_ugrian:woman:1
 ob_ugrian,woman,Vartovskoje Khanty,niː,ob_ugrian:woman:204,ob_ugrian:woman:1
 ob_ugrian,woman,Vasjugan Khanty,niː,ob_ugrian:woman:204,ob_ugrian:woman:1
 ob_ugrian,woman,Verkhne-Kalymsk Khanty,niː,ob_ugrian:woman:204,ob_ugrian:woman:1
-ob_ugrian,all,Jugan Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:1
-ob_ugrian,all,Kazym Khanty,isaː,ob_ugrian:all:6,ob_ugrian:all:2
-ob_ugrian,all,Konda Khanty,pertæː,ob_ugrian:all:5,ob_ugrian:all:5
-ob_ugrian,all,Konda Mansi,soq,ob_ugrian:all:2,ob_ugrian:all:3
-ob_ugrian,all,Likrisovskoje Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:1
-ob_ugrian,all,Lower Lozva Mansi,ʃaq,ob_ugrian:all:2,ob_ugrian:all:3
-ob_ugrian,all,Malyj Jugan Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:1
-ob_ugrian,all,Middle Lozva Mansi,puʃn,ob_ugrian:all:1,ob_ugrian:all:4
-ob_ugrian,all,Nizjam Khanty,isaχaːt,ob_ugrian:all:6,ob_ugrian:all:2
-ob_ugrian,all,North Mansi,pusən,ob_ugrian:all:1,ob_ugrian:all:4
-ob_ugrian,all,Pelymka Mansi,ʃoq,ob_ugrian:all:2,ob_ugrian:all:3
-ob_ugrian,all,Sherkaly Khanty,isaːt,ob_ugrian:all:6,ob_ugrian:all:2
-ob_ugrian,all,Synja Khanty,isaː,ob_ugrian:all:6,ob_ugrian:all:2
-ob_ugrian,all,Tavda Mansi,ʃɔχ,ob_ugrian:all:2,ob_ugrian:all:3
-ob_ugrian,all,Tremjugan Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:1
-ob_ugrian,all,Upper Demjanka Khanty,χarnaː,ob_ugrian:all:4,ob_ugrian:all:2
-ob_ugrian,all,Vakh Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:1
-ob_ugrian,all,Vartovskoje Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:1
-ob_ugrian,all,Verkhne-Kalymsk Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:1
+ob_ugrian,all,Jugan Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:2
+ob_ugrian,all,Kazym Khanty,isaː,ob_ugrian:all:6,ob_ugrian:all:1
+ob_ugrian,all,Konda Khanty,pertæː,ob_ugrian:all:5,ob_ugrian:all:4
+ob_ugrian,all,Konda Mansi,soq,ob_ugrian:all:2,ob_ugrian:all:1
+ob_ugrian,all,Likrisovskoje Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:2
+ob_ugrian,all,Lower Lozva Mansi,ʃaq,ob_ugrian:all:2,ob_ugrian:all:1
+ob_ugrian,all,Malyj Jugan Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:2
+ob_ugrian,all,Middle Lozva Mansi,puʃn,ob_ugrian:all:1,ob_ugrian:all:3
+ob_ugrian,all,Nizjam Khanty,isaχaːt,ob_ugrian:all:6,ob_ugrian:all:1
+ob_ugrian,all,North Mansi,pusən,ob_ugrian:all:1,ob_ugrian:all:3
+ob_ugrian,all,Pelymka Mansi,ʃoq,ob_ugrian:all:2,ob_ugrian:all:1
+ob_ugrian,all,Sherkaly Khanty,isaːt,ob_ugrian:all:6,ob_ugrian:all:1
+ob_ugrian,all,Synja Khanty,isaː,ob_ugrian:all:6,ob_ugrian:all:1
+ob_ugrian,all,Tavda Mansi,ʃɔχ,ob_ugrian:all:2,ob_ugrian:all:1
+ob_ugrian,all,Tremjugan Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:2
+ob_ugrian,all,Upper Demjanka Khanty,χarnaː,ob_ugrian:all:4,ob_ugrian:all:1
+ob_ugrian,all,Vakh Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:2
+ob_ugrian,all,Vartovskoje Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:2
+ob_ugrian,all,Verkhne-Kalymsk Khanty,ejnæːm,ob_ugrian:all:3,ob_ugrian:all:2

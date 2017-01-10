@@ -382,7 +382,7 @@ husband,Ki-Kulanak 5,gyjøː,A,central_asian:husband:2,central_asian
 husband,Ki-Orday 1,er,D,central_asian:husband:1,central_asian
 husband,Ki-Orday 2,er,D,central_asian:husband:1,central_asian
 husband,Ki-Orday 3,ɪrkɛk,B,central_asian:husband:1,central_asian
-husband,Ki-Orday 4,eʃ,D,central_asian:husband:3,central_asian
+husband,Ki-Orday 4,eʃ,D,central_asian:husband:1,central_asian
 husband,Ki-Tamga,kyjøː,A,central_asian:husband:2,central_asian
 husband,T-Agalyk,ʃuː,I,central_asian:husband:3,central_asian
 husband,T-Kamangaron 1,ʃawhar,J,central_asian:husband:5,central_asian
@@ -450,12 +450,12 @@ feather,KK-Shege 4,par,D,central_asian:feather:1,central_asian
 feather,Ka-Gazli 1,qanat,A,central_asian:feather:1,central_asian
 feather,Ka-Gazli 2,qanat,A,central_asian:feather:1,central_asian
 feather,Ka-Gazli 3,pɪrʊ,B,central_asian:feather:1,central_asian
-feather,Ka-Gazli 5,mamɔq,C,central_asian:feather:1,central_asian
+feather,Ka-Gazli 5,mamɔq,C,central_asian:feather:2,central_asian
 feather,Ka-Gazli 6,qanat,A,central_asian:feather:1,central_asian
 feather,Ka-Raushan 1,pɛr,D,central_asian:feather:1,central_asian
 feather,Ka-Raushan 2,pɛr,D,central_asian:feather:1,central_asian
 feather,Ka-Raushan 3,qawɔrsɨn,E,central_asian:feather:1,central_asian
-feather,Ka-Raushan 4,ʒɪm,F,central_asian:feather:2,central_asian
+feather,Ka-Raushan 4,ʒɪm,F,central_asian:feather:3,central_asian
 feather,Ki-Akmuz 1,qanat,A,central_asian:feather:1,central_asian
 feather,Ki-Akmuz 2,qanat,A,central_asian:feather:1,central_asian
 feather,Ki-Akmuz 3,qanat,A,central_asian:feather:1,central_asian
@@ -621,14 +621,14 @@ long,Ka-Gazli 3,kwøwaxə,B,central_asian:long:10,central_asian
 long,Ka-Gazli 4,ʉzaq,A,central_asian:long:1,central_asian
 long,Ka-Gazli 5,ɔzaq,A,central_asian:long:1,central_asian
 long,Ka-Gazli 6,ɔzaq,A,central_asian:long:1,central_asian
-long,Ka-Gazli 7,købrik,C,central_asian:long:6,central_asian
+long,Ka-Gazli 7,købrik,C,central_asian:long:5,central_asian
 long,Ka-Raushan 1,uzaq,A,central_asian:long:1,central_asian
 long,Ka-Raushan 2,uzaq,A,central_asian:long:1,central_asian
-long,Ka-Raushan 3,alɨs,D,central_asian:long:5,central_asian
+long,Ka-Raushan 3,alɨs,D,central_asian:long:4,central_asian
 long,Ka-Raushan 4,uzaq,A,central_asian:long:1,central_asian
 long,Ki-Akmuz 1,uzɒq,A,central_asian:long:1,central_asian
 long,Ki-Akmuz 2,uzɒq,A,central_asian:long:1,central_asian
-long,Ki-Akmuz 3,køpkø,E,central_asian:long:6,central_asian
+long,Ki-Akmuz 3,køpkø,E,central_asian:long:5,central_asian
 long,Ki-Barskoon,uzɒq,A,central_asian:long:1,central_asian
 long,Ki-Kulanak 1,uzɒq,A,central_asian:long:1,central_asian
 long,Ki-Kulanak 2,uzɒq,A,central_asian:long:1,central_asian
@@ -637,8 +637,8 @@ long,Ki-Kulanak 4,uzɒq,A,central_asian:long:1,central_asian
 long,Ki-Kulanak 5,uzɔʁ,A,central_asian:long:1,central_asian
 long,Ki-Orday 1,uzɒq,A,central_asian:long:1,central_asian
 long,Ki-Orday 2,uzɒq,A,central_asian:long:1,central_asian
-long,Ki-Orday 3,alɨs,D,central_asian:long:5,central_asian
-long,Ki-Orday 4,alɨs,D,central_asian:long:5,central_asian
+long,Ki-Orday 3,alɨs,D,central_asian:long:4,central_asian
+long,Ki-Orday 4,alɨs,D,central_asian:long:4,central_asian
 long,Ki-Tamga,uzɒq,A,central_asian:long:1,central_asian
 long,T-Agalyk,mudat,H,central_asian:long:7,central_asian
 long,T-Kamangaron 1,dur,I,central_asian:long:2,central_asian
@@ -684,9 +684,9 @@ long,U-Urtoqqishloq 4,uzaq,A,central_asian:long:1,central_asian
 long,U-Zarmanak 3,uzɔq,A,central_asian:long:1,central_asian
 long,U-Zarmanak 4,uzɔq,A,central_asian:long:1,central_asian
 long,Y-Dugova 1,darɔz,J,central_asian:long:2,central_asian
-long,Y-Dugova 2,ɣer,M,central_asian:long:4,central_asian
-long,Y-Safedorak 1,ɣer,M,central_asian:long:4,central_asian
-long,Y-Safedorak 2,ɣɪːr,M,central_asian:long:4,central_asian
+long,Y-Dugova 2,ɣer,M,central_asian:long:6,central_asian
+long,Y-Safedorak 1,ɣer,M,central_asian:long:6,central_asian
+long,Y-Safedorak 2,ɣɪːr,M,central_asian:long:6,central_asian
 long,Y-Safedorak 3,dirʊ van,N,central_asian:long:8,central_asian
 bark,KK-Halqabad 1,qaβɨq,A,central_asian:bark:2,central_asian
 bark,KK-Halqabad 2,qaβɨq,A,central_asian:bark:2,central_asian
@@ -1115,10 +1115,10 @@ he,U-Urtoqqishloq 4,ʊ,A,central_asian:he:3,central_asian
 he,U-Zarmanak 3,u,A,central_asian:he:3,central_asian
 he,U-Zarmanak 4,u,A,central_asian:he:3,central_asian
 he,Y-Dugova 1,vaj,C,central_asian:he:2,central_asian
-he,Y-Dugova 2,ax,E,central_asian:he:1,central_asian
-he,Y-Safedorak 1,ax,E,central_asian:he:1,central_asian
-he,Y-Safedorak 2,ax,E,central_asian:he:1,central_asian
-he,Y-Safedorak 3,ax,E,central_asian:he:1,central_asian
+he,Y-Dugova 2,ax,E,central_asian:he:5,central_asian
+he,Y-Safedorak 1,ax,E,central_asian:he:5,central_asian
+he,Y-Safedorak 2,ax,E,central_asian:he:5,central_asian
+he,Y-Safedorak 3,ax,E,central_asian:he:5,central_asian
 we,KK-Halqabad 1,bɪzlʲɛr,B,central_asian:we:1,central_asian
 we,KK-Halqabad 2,bɪzlʲɛr,B,central_asian:we:1,central_asian
 we,KK-Halqabad 3,bɪz̥,A,central_asian:we:1,central_asian
@@ -1435,7 +1435,7 @@ mother,T-Shink 3,mɔdar,D,central_asian:mother:2,central_asian
 mother,T-Urmetan 1,ɔʧa,G,central_asian:mother:2,central_asian
 mother,T-Urmetan 2,mɔdar,D,central_asian:mother:2,central_asian
 mother,T-Urmetan 3,mɔdar,D,central_asian:mother:2,central_asian
-mother,T-Urmetan 4,apa,C,central_asian:mother:1,central_asian
+mother,T-Urmetan 4,apa,C,central_asian:mother:3,central_asian
 mother,T-Zarmanak 1,ɔna,A,central_asian:mother:1,central_asian
 mother,T-Zarmanak 2,ɔna,A,central_asian:mother:1,central_asian
 mother,U-Hitoy 1,ana,A,central_asian:mother:1,central_asian
@@ -1631,89 +1631,89 @@ rope,Y-Dugova 2,vita,K,central_asian:rope:5,central_asian
 rope,Y-Safedorak 1,vita,K,central_asian:rope:5,central_asian
 rope,Y-Safedorak 2,vita,K,central_asian:rope:5,central_asian
 rope,Y-Safedorak 3,vita,K,central_asian:rope:5,central_asian
-worm,KK-Halqabad 1,qʊrt,A,central_asian:worm:2,central_asian
-worm,KK-Halqabad 2,ʒɔːŋɣʊrt,G,central_asian:worm:2,central_asian
-worm,KK-Halqabad 3,qʊrt,A,central_asian:worm:2,central_asian
-worm,KK-Kokdarya 1,qʊrt,A,central_asian:worm:2,central_asian
-worm,KK-Kokdarya 2,qʊrt,A,central_asian:worm:2,central_asian
+worm,KK-Halqabad 1,qʊrt,A,central_asian:worm:1,central_asian
+worm,KK-Halqabad 2,ʒɔːŋɣʊrt,G,central_asian:worm:1,central_asian
+worm,KK-Halqabad 3,qʊrt,A,central_asian:worm:1,central_asian
+worm,KK-Kokdarya 1,qʊrt,A,central_asian:worm:1,central_asian
+worm,KK-Kokdarya 2,qʊrt,A,central_asian:worm:1,central_asian
 worm,KK-Kokdarya 3,ʧʊβalʧaŋ,E,central_asian:worm:3,central_asian
-worm,KK-Kokdarya 4,qʊrt,A,central_asian:worm:2,central_asian
-worm,KK-Shege 1,qʊrt,A,central_asian:worm:2,central_asian
-worm,KK-Shege 2,qʊrt,A,central_asian:worm:2,central_asian
-worm,KK-Shege 3,qʊrt,A,central_asian:worm:2,central_asian
-worm,KK-Shege 4,qʊrt,A,central_asian:worm:2,central_asian
-worm,Ka-Gazli 1,qurt,A,central_asian:worm:2,central_asian
-worm,Ka-Gazli 2,qurt,A,central_asian:worm:2,central_asian
-worm,Ka-Gazli 3,qurt,A,central_asian:worm:2,central_asian
-worm,Ka-Gazli 4,qurt,A,central_asian:worm:2,central_asian
-worm,Ka-Gazli 5,qurt,A,central_asian:worm:2,central_asian
-worm,Ka-Gazli 6,qurt,A,central_asian:worm:2,central_asian
-worm,Ka-Raushan 1,qʊrt,A,central_asian:worm:2,central_asian
-worm,Ka-Raushan 2,qʊrt,A,central_asian:worm:2,central_asian
-worm,Ka-Raushan 3,qʊrt,A,central_asian:worm:2,central_asian
-worm,Ka-Raushan 4,qʊrt,A,central_asian:worm:2,central_asian
+worm,KK-Kokdarya 4,qʊrt,A,central_asian:worm:1,central_asian
+worm,KK-Shege 1,qʊrt,A,central_asian:worm:1,central_asian
+worm,KK-Shege 2,qʊrt,A,central_asian:worm:1,central_asian
+worm,KK-Shege 3,qʊrt,A,central_asian:worm:1,central_asian
+worm,KK-Shege 4,qʊrt,A,central_asian:worm:1,central_asian
+worm,Ka-Gazli 1,qurt,A,central_asian:worm:1,central_asian
+worm,Ka-Gazli 2,qurt,A,central_asian:worm:1,central_asian
+worm,Ka-Gazli 3,qurt,A,central_asian:worm:1,central_asian
+worm,Ka-Gazli 4,qurt,A,central_asian:worm:1,central_asian
+worm,Ka-Gazli 5,qurt,A,central_asian:worm:1,central_asian
+worm,Ka-Gazli 6,qurt,A,central_asian:worm:1,central_asian
+worm,Ka-Raushan 1,qʊrt,A,central_asian:worm:1,central_asian
+worm,Ka-Raushan 2,qʊrt,A,central_asian:worm:1,central_asian
+worm,Ka-Raushan 3,qʊrt,A,central_asian:worm:1,central_asian
+worm,Ka-Raushan 4,qʊrt,A,central_asian:worm:1,central_asian
 worm,Ki-Akmuz 1,sølʤan,C,central_asian:worm:3,central_asian
 worm,Ki-Akmuz 2,sølʤan,C,central_asian:worm:3,central_asian
 worm,Ki-Akmuz 3,sølʤɨlan,C,central_asian:worm:3,central_asian
-worm,Ki-Barskoon,qurt,A,central_asian:worm:2,central_asian
-worm,Ki-Kulanak 1,kurt,A,central_asian:worm:2,central_asian
-worm,Ki-Kulanak 2,kurt,A,central_asian:worm:2,central_asian
+worm,Ki-Barskoon,qurt,A,central_asian:worm:1,central_asian
+worm,Ki-Kulanak 1,kurt,A,central_asian:worm:1,central_asian
+worm,Ki-Kulanak 2,kurt,A,central_asian:worm:1,central_asian
 worm,Ki-Kulanak 3,arbaq,D,central_asian:worm:4,central_asian
-worm,Ki-Kulanak 4,qurt,A,central_asian:worm:2,central_asian
-worm,Ki-Kulanak 5,kurt,A,central_asian:worm:2,central_asian
-worm,Ki-Orday 1,qurt,A,central_asian:worm:2,central_asian
+worm,Ki-Kulanak 4,qurt,A,central_asian:worm:1,central_asian
+worm,Ki-Kulanak 5,kurt,A,central_asian:worm:1,central_asian
+worm,Ki-Orday 1,qurt,A,central_asian:worm:1,central_asian
 worm,Ki-Orday 2,ilanʧuβak,B,central_asian:worm:3,central_asian
-worm,Ki-Orday 3,qurt,A,central_asian:worm:2,central_asian
+worm,Ki-Orday 3,qurt,A,central_asian:worm:1,central_asian
 worm,Ki-Orday 4,ʧuβalʧaŋ,E,central_asian:worm:3,central_asian
-worm,Ki-Tamga,kurt,A,central_asian:worm:2,central_asian
-worm,T-Agalyk,kirm,I,central_asian:worm:1,central_asian
-worm,T-Kamangaron 1,kirm,I,central_asian:worm:1,central_asian
-worm,T-Kamangaron 2,kirm,I,central_asian:worm:1,central_asian
-worm,T-Kamangaron 3,kirm,I,central_asian:worm:1,central_asian
-worm,T-Kamangaron 4,kirm,I,central_asian:worm:1,central_asian
-worm,T-Kaptarhona 1,kirəm,I,central_asian:worm:1,central_asian
-worm,T-Kaptarhona 2,kirəm,I,central_asian:worm:1,central_asian
+worm,Ki-Tamga,kurt,A,central_asian:worm:1,central_asian
+worm,T-Agalyk,kirm,I,central_asian:worm:2,central_asian
+worm,T-Kamangaron 1,kirm,I,central_asian:worm:2,central_asian
+worm,T-Kamangaron 2,kirm,I,central_asian:worm:2,central_asian
+worm,T-Kamangaron 3,kirm,I,central_asian:worm:2,central_asian
+worm,T-Kamangaron 4,kirm,I,central_asian:worm:2,central_asian
+worm,T-Kaptarhona 1,kirəm,I,central_asian:worm:2,central_asian
+worm,T-Kaptarhona 2,kirəm,I,central_asian:worm:2,central_asian
 worm,T-Kaptarhona 3,ʧuwalʧaŋ,E,central_asian:worm:3,central_asian
-worm,T-Kaptarhona 4,kirəm,I,central_asian:worm:1,central_asian
-worm,T-Kaptarhona 5,kirm̩,I,central_asian:worm:1,central_asian
-worm,T-Navdî 1,kirm,I,central_asian:worm:1,central_asian
-worm,T-Navdî 2,kirm̩,I,central_asian:worm:1,central_asian
-worm,T-Navdî 3,kirəm,I,central_asian:worm:1,central_asian
-worm,T-Nimich 1,kərəm,I,central_asian:worm:1,central_asian
-worm,T-Nimich 2,kirəm,I,central_asian:worm:1,central_asian
-worm,T-Nimich 3,kirm,I,central_asian:worm:1,central_asian
-worm,T-Nimich 4,kərəm,I,central_asian:worm:1,central_asian
-worm,T-Novmetan 1,kirim,I,central_asian:worm:1,central_asian
-worm,T-Novmetan 2,kirm,I,central_asian:worm:1,central_asian
-worm,T-Nûshor 1,kirm̩,I,central_asian:worm:1,central_asian
-worm,T-Nûshor 2,kirm̩,I,central_asian:worm:1,central_asian
-worm,T-Nûshor 3,kirm̩,I,central_asian:worm:1,central_asian
-worm,T-Rishtan 1,kərəm,I,central_asian:worm:1,central_asian
-worm,T-Rishtan 2,kr̩m,I,central_asian:worm:1,central_asian
-worm,T-Rishtan 3,kərəm,I,central_asian:worm:1,central_asian
-worm,T-Shink 2,kirm,I,central_asian:worm:1,central_asian
-worm,T-Shink 3,kirm,I,central_asian:worm:1,central_asian
-worm,T-Urmetan 1,kirm,I,central_asian:worm:1,central_asian
-worm,T-Urmetan 2,kirm,I,central_asian:worm:1,central_asian
-worm,T-Urmetan 3,kɪrm,I,central_asian:worm:1,central_asian
-worm,T-Zarmanak 1,kirm,I,central_asian:worm:1,central_asian
-worm,T-Zarmanak 2,krɪm,I,central_asian:worm:1,central_asian
-worm,U-Hitoy 1,qʊrt,A,central_asian:worm:2,central_asian
-worm,U-Hitoy 2,qʊrt,A,central_asian:worm:2,central_asian
-worm,U-Hitoy 3,qʊrt,A,central_asian:worm:2,central_asian
-worm,U-Novmetan 3,qurt,A,central_asian:worm:2,central_asian
+worm,T-Kaptarhona 4,kirəm,I,central_asian:worm:2,central_asian
+worm,T-Kaptarhona 5,kirm̩,I,central_asian:worm:2,central_asian
+worm,T-Navdî 1,kirm,I,central_asian:worm:2,central_asian
+worm,T-Navdî 2,kirm̩,I,central_asian:worm:2,central_asian
+worm,T-Navdî 3,kirəm,I,central_asian:worm:2,central_asian
+worm,T-Nimich 1,kərəm,I,central_asian:worm:2,central_asian
+worm,T-Nimich 2,kirəm,I,central_asian:worm:2,central_asian
+worm,T-Nimich 3,kirm,I,central_asian:worm:2,central_asian
+worm,T-Nimich 4,kərəm,I,central_asian:worm:2,central_asian
+worm,T-Novmetan 1,kirim,I,central_asian:worm:2,central_asian
+worm,T-Novmetan 2,kirm,I,central_asian:worm:2,central_asian
+worm,T-Nûshor 1,kirm̩,I,central_asian:worm:2,central_asian
+worm,T-Nûshor 2,kirm̩,I,central_asian:worm:2,central_asian
+worm,T-Nûshor 3,kirm̩,I,central_asian:worm:2,central_asian
+worm,T-Rishtan 1,kərəm,I,central_asian:worm:2,central_asian
+worm,T-Rishtan 2,kr̩m,I,central_asian:worm:2,central_asian
+worm,T-Rishtan 3,kərəm,I,central_asian:worm:2,central_asian
+worm,T-Shink 2,kirm,I,central_asian:worm:2,central_asian
+worm,T-Shink 3,kirm,I,central_asian:worm:2,central_asian
+worm,T-Urmetan 1,kirm,I,central_asian:worm:2,central_asian
+worm,T-Urmetan 2,kirm,I,central_asian:worm:2,central_asian
+worm,T-Urmetan 3,kɪrm,I,central_asian:worm:2,central_asian
+worm,T-Zarmanak 1,kirm,I,central_asian:worm:2,central_asian
+worm,T-Zarmanak 2,krɪm,I,central_asian:worm:2,central_asian
+worm,U-Hitoy 1,qʊrt,A,central_asian:worm:1,central_asian
+worm,U-Hitoy 2,qʊrt,A,central_asian:worm:1,central_asian
+worm,U-Hitoy 3,qʊrt,A,central_asian:worm:1,central_asian
+worm,U-Novmetan 3,qurt,A,central_asian:worm:1,central_asian
 worm,U-Soy Mahalla 1,ʧuβalʧaŋ,E,central_asian:worm:3,central_asian
 worm,U-Soy Mahalla 2,ilanʧuβan,B,central_asian:worm:3,central_asian
 worm,U-Soy Mahalla 3,ilɔnʧuβan,B,central_asian:worm:3,central_asian
-worm,U-Urtoqqishloq 1,kʊrt,A,central_asian:worm:2,central_asian
+worm,U-Urtoqqishloq 1,kʊrt,A,central_asian:worm:1,central_asian
 worm,U-Urtoqqishloq 2,ʧʊwalʧaŋ,E,central_asian:worm:3,central_asian
 worm,U-Urtoqqishloq 3,ʧʊwalʧaŋ,E,central_asian:worm:3,central_asian
-worm,U-Zarmanak 3,qurt,A,central_asian:worm:2,central_asian
-worm,U-Zarmanak 4,qurt,A,central_asian:worm:2,central_asian
-worm,Y-Dugova 2,kirm,I,central_asian:worm:1,central_asian
-worm,Y-Safedorak 1,kirm,I,central_asian:worm:1,central_asian
-worm,Y-Safedorak 2,kirm,I,central_asian:worm:1,central_asian
-worm,Y-Safedorak 3,kirm,I,central_asian:worm:1,central_asian
+worm,U-Zarmanak 3,qurt,A,central_asian:worm:1,central_asian
+worm,U-Zarmanak 4,qurt,A,central_asian:worm:1,central_asian
+worm,Y-Dugova 2,kirm,I,central_asian:worm:2,central_asian
+worm,Y-Safedorak 1,kirm,I,central_asian:worm:2,central_asian
+worm,Y-Safedorak 2,kirm,I,central_asian:worm:2,central_asian
+worm,Y-Safedorak 3,kirm,I,central_asian:worm:2,central_asian
 tail,KK-Halqabad 1,qʉjrɔq,A,central_asian:tail:2,central_asian
 tail,KK-Halqabad 2,qʉjrɔq,A,central_asian:tail:2,central_asian
 tail,KK-Halqabad 3,qʉjrɔq,A,central_asian:tail:2,central_asian
@@ -2437,7 +2437,7 @@ dirty,Ka-Raushan 3,kər,B,central_asian:dirty:3,central_asian
 dirty,Ka-Raushan 4,kər,B,central_asian:dirty:3,central_asian
 dirty,Ki-Akmuz 1,gɪr,B,central_asian:dirty:3,central_asian
 dirty,Ki-Akmuz 2,gɪr,B,central_asian:dirty:3,central_asian
-dirty,Ki-Akmuz 3,bulɣanɨʧkɐ,D,central_asian:dirty:7,central_asian
+dirty,Ki-Akmuz 3,bulɣanɨʧkɐ,D,central_asian:dirty:5,central_asian
 dirty,Ki-Barskoon,kir̯,B,central_asian:dirty:3,central_asian
 dirty,Ki-Kulanak 1,kir,B,central_asian:dirty:3,central_asian
 dirty,Ki-Kulanak 2,gir,B,central_asian:dirty:3,central_asian
@@ -2466,13 +2466,13 @@ dirty,T-Nimich 1,ɣaʒd,H,central_asian:dirty:4,central_asian
 dirty,T-Nimich 2,ɣaʒd,H,central_asian:dirty:4,central_asian
 dirty,T-Nimich 3,ɣajʤ,H,central_asian:dirty:4,central_asian
 dirty,T-Nimich 4,ɣajʤ,H,central_asian:dirty:4,central_asian
-dirty,T-Novmetan 1,raswɔ,M,central_asian:dirty:2,central_asian
+dirty,T-Novmetan 1,raswɔ,M,central_asian:dirty:7,central_asian
 dirty,T-Novmetan 2,ʧirkin,I,central_asian:dirty:1,central_asian
 dirty,T-Nûshor 1,ɣaʒd,H,central_asian:dirty:4,central_asian
-dirty,T-Nûshor 2,ʤazir,O,central_asian:dirty:4,central_asian
+dirty,T-Nûshor 2,ʤazir,O,central_asian:dirty:1,central_asian
 dirty,T-Nûshor 3,ɣaʒd,H,central_asian:dirty:4,central_asian
 dirty,T-Rishtan 1,ʧirkin,I,central_asian:dirty:1,central_asian
-dirty,T-Rishtan 2,harɔm,N,central_asian:dirty:5,central_asian
+dirty,T-Rishtan 2,harɔm,N,central_asian:dirty:8,central_asian
 dirty,T-Rishtan 3,ʧirkin,I,central_asian:dirty:1,central_asian
 dirty,T-Shink 1,ʧirkin,I,central_asian:dirty:1,central_asian
 dirty,T-Shink 2,ʧirkin,I,central_asian:dirty:1,central_asian
@@ -2768,17 +2768,17 @@ smooth,KK-Kokdarya 1,tʲeks,A,central_asian:smooth:1,central_asian
 smooth,KK-Kokdarya 2,tʲegɪz̥,A,central_asian:smooth:1,central_asian
 smooth,KK-Kokdarya 3,tʲegiz̥,A,central_asian:smooth:1,central_asian
 smooth,KK-Kokdarya 4,tʲegiz̥,A,central_asian:smooth:1,central_asian
-smooth,KK-Shege 1,ʒʊmsaq,B,central_asian:smooth:4,central_asian
-smooth,KK-Shege 2,ʒʊmsaq,B,central_asian:smooth:4,central_asian
+smooth,KK-Shege 1,ʒʊmsaq,B,central_asian:smooth:6,central_asian
+smooth,KK-Shege 2,ʒʊmsaq,B,central_asian:smooth:6,central_asian
 smooth,KK-Shege 3,tʲegiz̥,A,central_asian:smooth:1,central_asian
 smooth,KK-Shege 4,tʲegɪz̥,A,central_asian:smooth:1,central_asian
 smooth,Ka-Gazli 1,tʲegɪs,A,central_asian:smooth:1,central_asian
 smooth,Ka-Gazli 2,tʲegis,A,central_asian:smooth:1,central_asian
 smooth,Ka-Gazli 3,tʲɪgɪs,A,central_asian:smooth:1,central_asian
 smooth,Ka-Gazli 4,tʲegɪs,A,central_asian:smooth:1,central_asian
-smooth,Ka-Gazli 5,ʒʉmsaq,B,central_asian:smooth:4,central_asian
+smooth,Ka-Gazli 5,ʒʉmsaq,B,central_asian:smooth:6,central_asian
 smooth,Ka-Gazli 6,tʲegɪs,A,central_asian:smooth:1,central_asian
-smooth,Ka-Gazli 7,tajraq,C,central_asian:smooth:4,central_asian
+smooth,Ka-Gazli 7,tajraq,C,central_asian:smooth:5,central_asian
 smooth,Ka-Raushan 1,tʲegiz̥,A,central_asian:smooth:1,central_asian
 smooth,Ka-Raushan 2,tʲegiz̥,A,central_asian:smooth:1,central_asian
 smooth,Ka-Raushan 3,tʲegiz̥,A,central_asian:smooth:1,central_asian
@@ -2786,17 +2786,17 @@ smooth,Ka-Raushan 4,tʲegiz̥,A,central_asian:smooth:1,central_asian
 smooth,Ki-Akmuz 1,tegiz̥,A,central_asian:smooth:1,central_asian
 smooth,Ki-Akmuz 2,tegiz̥,A,central_asian:smooth:1,central_asian
 smooth,Ki-Akmuz 3,tegiz̥,A,central_asian:smooth:1,central_asian
-smooth,Ki-Barskoon,ʤilma,D,central_asian:smooth:4,central_asian
-smooth,Ki-Kulanak 1,ʤalpaq,E,central_asian:smooth:4,central_asian
-smooth,Ki-Kulanak 2,ʤilma,D,central_asian:smooth:4,central_asian
+smooth,Ki-Barskoon,ʤilma,D,central_asian:smooth:5,central_asian
+smooth,Ki-Kulanak 1,ʤalpaq,E,central_asian:smooth:5,central_asian
+smooth,Ki-Kulanak 2,ʤilma,D,central_asian:smooth:5,central_asian
 smooth,Ki-Kulanak 3,tegiz̥,A,central_asian:smooth:1,central_asian
 smooth,Ki-Kulanak 4,tegiz̥,A,central_asian:smooth:1,central_asian
-smooth,Ki-Kulanak 5,ʤilma,D,central_asian:smooth:4,central_asian
+smooth,Ki-Kulanak 5,ʤilma,D,central_asian:smooth:5,central_asian
 smooth,Ki-Orday 1,tegɪs,A,central_asian:smooth:1,central_asian
-smooth,Ki-Orday 2,ʒumʃak,B,central_asian:smooth:4,central_asian
+smooth,Ki-Orday 2,ʒumʃak,B,central_asian:smooth:6,central_asian
 smooth,Ki-Orday 3,tʲekɪs,A,central_asian:smooth:1,central_asian
-smooth,Ki-Tamga,ʤilma,D,central_asian:smooth:4,central_asian
-smooth,T-Agalyk,sʉfta,R,central_asian:smooth:6,central_asian
+smooth,Ki-Tamga,ʤilma,D,central_asian:smooth:5,central_asian
+smooth,T-Agalyk,sʉfta,R,central_asian:smooth:7,central_asian
 smooth,T-Kamangaron 1,siłłɪq,F,central_asian:smooth:2,central_asian
 smooth,T-Kamangaron 2,silliq,F,central_asian:smooth:2,central_asian
 smooth,T-Kaptarhona 1,tɛkkəz,A,central_asian:smooth:1,central_asian
@@ -2804,16 +2804,16 @@ smooth,T-Kaptarhona 2,silləq,F,central_asian:smooth:2,central_asian
 smooth,T-Kaptarhona 3,tikkəz̥,A,central_asian:smooth:1,central_asian
 smooth,T-Kaptarhona 4,tɛks,A,central_asian:smooth:1,central_asian
 smooth,T-Kaptarhona 5,tɛkkəz̥,A,central_asian:smooth:1,central_asian
-smooth,T-Navdî 1,rʒ ̩d,S,central_asian:smooth:5,central_asian
-smooth,T-Navdî 2,rʒ ̩d,S,central_asian:smooth:5,central_asian
-smooth,T-Navdî 3,rʒ ̩d,S,central_asian:smooth:5,central_asian
-smooth,T-Nimich 1,rʒ ̩d,S,central_asian:smooth:5,central_asian
-smooth,T-Nimich 2,rʊʒd,S,central_asian:smooth:5,central_asian
-smooth,T-Nimich 3,rʒ ̩d,S,central_asian:smooth:5,central_asian
-smooth,T-Nimich 4,rʒ ̩d,S,central_asian:smooth:5,central_asian
+smooth,T-Navdî 1,rʒ ̩d,S,central_asian:smooth:4,central_asian
+smooth,T-Navdî 2,rʒ ̩d,S,central_asian:smooth:4,central_asian
+smooth,T-Navdî 3,rʒ ̩d,S,central_asian:smooth:4,central_asian
+smooth,T-Nimich 1,rʒ ̩d,S,central_asian:smooth:4,central_asian
+smooth,T-Nimich 2,rʊʒd,S,central_asian:smooth:4,central_asian
+smooth,T-Nimich 3,rʒ ̩d,S,central_asian:smooth:4,central_asian
+smooth,T-Nimich 4,rʒ ̩d,S,central_asian:smooth:4,central_asian
 smooth,T-Novmetan 2,tiks,A,central_asian:smooth:1,central_asian
-smooth,T-Nûshor 2,rɪʒd,S,central_asian:smooth:5,central_asian
-smooth,T-Nûshor 3,rʒ ̩d,S,central_asian:smooth:5,central_asian
+smooth,T-Nûshor 2,rɪʒd,S,central_asian:smooth:4,central_asian
+smooth,T-Nûshor 3,rʒ ̩d,S,central_asian:smooth:4,central_asian
 smooth,T-Rishtan 1,tikkiz̥,A,central_asian:smooth:1,central_asian
 smooth,T-Rishtan 2,tekkiz̥,A,central_asian:smooth:1,central_asian
 smooth,T-Rishtan 3,sɪłłəq,F,central_asian:smooth:2,central_asian
@@ -3379,18 +3379,18 @@ wide,Ka-Raushan 2,kʲeŋ,A,central_asian:wide:1,central_asian
 wide,Ka-Raushan 3,kʲeŋ,A,central_asian:wide:1,central_asian
 wide,Ka-Raushan 4,kʲeŋ,A,central_asian:wide:1,central_asian
 wide,Ki-Akmuz 1,deneŋ,C,central_asian:wide:1,central_asian
-wide,Ki-Akmuz 2,ʤazɨ,D,central_asian:wide:5,central_asian
+wide,Ki-Akmuz 2,ʤazɨ,D,central_asian:wide:4,central_asian
 wide,Ki-Barskoon,kʲɛn,A,central_asian:wide:1,central_asian
 wide,Ki-Kulanak 1,denen,C,central_asian:wide:1,central_asian
-wide,Ki-Kulanak 2,ʤazɨ,D,central_asian:wide:5,central_asian
+wide,Ki-Kulanak 2,ʤazɨ,D,central_asian:wide:4,central_asian
 wide,Ki-Kulanak 3,denen,C,central_asian:wide:1,central_asian
-wide,Ki-Kulanak 4,ʤazɨ,D,central_asian:wide:5,central_asian
+wide,Ki-Kulanak 4,ʤazɨ,D,central_asian:wide:4,central_asian
 wide,Ki-Kulanak 5,deneŋ,C,central_asian:wide:1,central_asian
 wide,Ki-Orday 1,kʲeŋ,A,central_asian:wide:1,central_asian
 wide,Ki-Orday 2,kʲɪŋ,A,central_asian:wide:1,central_asian
 wide,Ki-Orday 3,kʲeŋ,A,central_asian:wide:1,central_asian
 wide,Ki-Tamga,kʲɛn,A,central_asian:wide:1,central_asian
-wide,T-Agalyk,pahan,M,central_asian:wide:4,central_asian
+wide,T-Agalyk,pahan,M,central_asian:wide:2,central_asian
 wide,T-Kamangaron 1,vasʲe,N,central_asian:wide:2,central_asian
 wide,T-Kamangaron 2,vasʲe,N,central_asian:wide:2,central_asian
 wide,T-Kamangaron 3,vasʲe,N,central_asian:wide:2,central_asian
@@ -3400,17 +3400,17 @@ wide,T-Kaptarhona 2,kuʃɔt,O,central_asian:wide:3,central_asian
 wide,T-Kaptarhona 3,kʃɔt,O,central_asian:wide:3,central_asian
 wide,T-Kaptarhona 4,kʃɔt,O,central_asian:wide:3,central_asian
 wide,T-Kaptarhona 5,kʃɔt,O,central_asian:wide:3,central_asian
-wide,T-Navdî 1,ɣafs,P,central_asian:wide:7,central_asian
-wide,T-Navdî 2,pahn,M,central_asian:wide:4,central_asian
-wide,T-Navdî 3,pahan,M,central_asian:wide:4,central_asian
+wide,T-Navdî 1,ɣafs,P,central_asian:wide:8,central_asian
+wide,T-Navdî 2,pahn,M,central_asian:wide:5,central_asian
+wide,T-Navdî 3,pahan,M,central_asian:wide:5,central_asian
 wide,T-Nimich 1,kalɔn,Q,central_asian:wide:6,central_asian
 wide,T-Nimich 2,kuʃoda,R,central_asian:wide:3,central_asian
 wide,T-Nimich 3,kalɔn,Q,central_asian:wide:6,central_asian
-wide,T-Nimich 4,pahn,M,central_asian:wide:4,central_asian
+wide,T-Nimich 4,pahn,M,central_asian:wide:5,central_asian
 wide,T-Novmetan 1,darɔz,ʃ,central_asian:wide:2,central_asian
 wide,T-Novmetan 2,vasi,N,central_asian:wide:2,central_asian
 wide,T-Nûshor 1,kuʃɔd,O,central_asian:wide:3,central_asian
-wide,T-Nûshor 2,pahn,M,central_asian:wide:4,central_asian
+wide,T-Nûshor 2,pahn,M,central_asian:wide:5,central_asian
 wide,T-Nûshor 3,kʃɔt,O,central_asian:wide:3,central_asian
 wide,T-Rishtan 1,farɔq,T,central_asian:wide:2,central_asian
 wide,T-Rishtan 2,farɔq,T,central_asian:wide:2,central_asian
@@ -3422,7 +3422,7 @@ wide,T-Urmetan 1,vase,E,central_asian:wide:2,central_asian
 wide,T-Urmetan 2,vase,E,central_asian:wide:2,central_asian
 wide,T-Urmetan 3,vase,E,central_asian:wide:2,central_asian
 wide,T-Zarmanak 1,vasʲe,E,central_asian:wide:2,central_asian
-wide,T-Zarmanak 2,sʲerbar,L,central_asian:wide:8,central_asian
+wide,T-Zarmanak 2,sʲerbar,L,central_asian:wide:7,central_asian
 wide,U-Hitoy 1,kʲeŋ,A,central_asian:wide:1,central_asian
 wide,U-Hitoy 2,kʲeŋ,A,central_asian:wide:1,central_asian
 wide,U-Hitoy 3,kʲeŋ,A,central_asian:wide:1,central_asian
@@ -4009,18 +4009,18 @@ wing,T-Kaptarhona 2,kanɔt,A,central_asian:wing:1,central_asian
 wing,T-Kaptarhona 3,qanɔt,A,central_asian:wing:1,central_asian
 wing,T-Kaptarhona 4,qanɔt,A,central_asian:wing:1,central_asian
 wing,T-Kaptarhona 5,qanɔt,A,central_asian:wing:1,central_asian
-wing,T-Navdî 1,taf,C,central_asian:wing:2,central_asian
-wing,T-Navdî 2,taf,C,central_asian:wing:2,central_asian
-wing,T-Navdî 3,taf,C,central_asian:wing:2,central_asian
-wing,T-Nimich 1,taf,C,central_asian:wing:2,central_asian
-wing,T-Nimich 2,par,E,central_asian:wing:3,central_asian
-wing,T-Nimich 3,par,E,central_asian:wing:3,central_asian
-wing,T-Nimich 4,par,E,central_asian:wing:3,central_asian
-wing,T-Novmetan 1,dast,F,central_asian:wing:2,central_asian
+wing,T-Navdî 1,taf,C,central_asian:wing:3,central_asian
+wing,T-Navdî 2,taf,C,central_asian:wing:3,central_asian
+wing,T-Navdî 3,taf,C,central_asian:wing:3,central_asian
+wing,T-Nimich 1,taf,C,central_asian:wing:3,central_asian
+wing,T-Nimich 2,par,E,central_asian:wing:2,central_asian
+wing,T-Nimich 3,par,E,central_asian:wing:2,central_asian
+wing,T-Nimich 4,par,E,central_asian:wing:2,central_asian
+wing,T-Novmetan 1,dast,F,central_asian:wing:4,central_asian
 wing,T-Novmetan 2,qanat,A,central_asian:wing:1,central_asian
-wing,T-Nûshor 1,bɔł,D,central_asian:wing:3,central_asian
-wing,T-Nûshor 2,taf,C,central_asian:wing:2,central_asian
-wing,T-Nûshor 3,taf,C,central_asian:wing:2,central_asian
+wing,T-Nûshor 1,bɔł,D,central_asian:wing:2,central_asian
+wing,T-Nûshor 2,taf,C,central_asian:wing:3,central_asian
+wing,T-Nûshor 3,taf,C,central_asian:wing:3,central_asian
 wing,T-Rishtan 1,qanɔt,A,central_asian:wing:1,central_asian
 wing,T-Rishtan 2,qanɔt,A,central_asian:wing:1,central_asian
 wing,T-Rishtan 3,qanɔt,A,central_asian:wing:1,central_asian
@@ -4047,9 +4047,9 @@ wing,U-Zarmanak 3,qanɔt,A,central_asian:wing:1,central_asian
 wing,U-Zarmanak 4,qanɔt,A,central_asian:wing:1,central_asian
 wing,Y-Dugova 1,qanat,A,central_asian:wing:1,central_asian
 wing,Y-Dugova 2,qanat,A,central_asian:wing:1,central_asian
-wing,Y-Safedorak 1,bɔl,D,central_asian:wing:3,central_asian
-wing,Y-Safedorak 2,bɔl,D,central_asian:wing:3,central_asian
-wing,Y-Safedorak 3,bal,D,central_asian:wing:3,central_asian
+wing,Y-Safedorak 1,bɔl,D,central_asian:wing:2,central_asian
+wing,Y-Safedorak 2,bɔl,D,central_asian:wing:2,central_asian
+wing,Y-Safedorak 3,bal,D,central_asian:wing:2,central_asian
 nail,KK-Halqabad 1,tɨrnɒq,A,central_asian:nail:1,central_asian
 nail,KK-Halqabad 2,tɨrnɒq,A,central_asian:nail:1,central_asian
 nail,KK-Halqabad 3,tɨrnɒq,A,central_asian:nail:1,central_asian
@@ -4150,12 +4150,12 @@ to sing,KK-Shege 2,qɔsə,D,central_asian:to sing:2,central_asian
 to sing,KK-Shege 3,qɔsəʁ,D,central_asian:to sing:2,central_asian
 to sing,KK-Shege 4,qɔsəʁ,D,central_asian:to sing:2,central_asian
 to sing,Ka-Gazli 1,ɣulʲe,A,central_asian:to sing:1,central_asian
-to sing,Ka-Gazli 2,ajtu,B,central_asian:to sing:8,central_asian
-to sing,Ka-Gazli 3,wøle,A,central_asian:to sing:9,central_asian
+to sing,Ka-Gazli 2,ajtu,B,central_asian:to sing:9,central_asian
+to sing,Ka-Gazli 3,wøle,A,central_asian:to sing:10,central_asian
 to sing,Ka-Gazli 4,ɛn,C,central_asian:to sing:6,central_asian
 to sing,Ka-Gazli 5,æŋ,C,central_asian:to sing:6,central_asian
-to sing,Ka-Gazli 6,wølim,A,central_asian:to sing:9,central_asian
-to sing,Ka-Gazli 7,wølim,A,central_asian:to sing:9,central_asian
+to sing,Ka-Gazli 6,wølim,A,central_asian:to sing:10,central_asian
+to sing,Ka-Gazli 7,wølim,A,central_asian:to sing:10,central_asian
 to sing,Ka-Raushan 1,ɛn,C,central_asian:to sing:6,central_asian
 to sing,Ka-Raushan 2,ɛn,C,central_asian:to sing:6,central_asian
 to sing,Ka-Raushan 3,ɛn,C,central_asian:to sing:6,central_asian
@@ -4189,20 +4189,20 @@ to sing,T-Navdî 2,hɔfizi,N,central_asian:to sing:5,central_asian
 to sing,T-Navdî 3,xɔndan,M,central_asian:to sing:4,central_asian
 to sing,T-Nimich 1,hɔfizi,N,central_asian:to sing:5,central_asian
 to sing,T-Nimich 2,hɔfizi,N,central_asian:to sing:5,central_asian
-to sing,T-Nimich 3,bajt,O,central_asian:to sing:8,central_asian
+to sing,T-Nimich 3,bajt,O,central_asian:to sing:9,central_asian
 to sing,T-Nimich 4,hɔfizi,N,central_asian:to sing:5,central_asian
 to sing,T-Nûshor 1,hɔfizi,N,central_asian:to sing:5,central_asian
 to sing,T-Nûshor 2,xɔndan,M,central_asian:to sing:4,central_asian
 to sing,T-Nûshor 3,hɔfizi,N,central_asian:to sing:5,central_asian
 to sing,T-Rishtan 2,aʃula,G,central_asian:to sing:1,central_asian
 to sing,T-Rishtan 3,aʃulə,G,central_asian:to sing:1,central_asian
-to sing,T-Shink 1,ʃer,P,central_asian:to sing:4,central_asian
-to sing,T-Shink 2,ʃer,P,central_asian:to sing:4,central_asian
-to sing,T-Shink 3,sʉrʉd̥,P,central_asian:to sing:4,central_asian
+to sing,T-Shink 1,ʃer,P,central_asian:to sing:8,central_asian
+to sing,T-Shink 2,ʃer,P,central_asian:to sing:8,central_asian
+to sing,T-Shink 3,sʉrʉd̥,P,central_asian:to sing:8,central_asian
 to sing,T-Urmetan 1,aʃula,G,central_asian:to sing:1,central_asian
 to sing,T-Urmetan 2,xɔndan,M,central_asian:to sing:4,central_asian
 to sing,T-Urmetan 3,ʃərʉdan,P,central_asian:to sing:4,central_asian
-to sing,T-Urmetan 4,ʃer,P,central_asian:to sing:4,central_asian
+to sing,T-Urmetan 4,ʃer,P,central_asian:to sing:8,central_asian
 to sing,T-Zarmanak 1,xɔndan,M,central_asian:to sing:4,central_asian
 to sing,T-Zarmanak 2,xɔndan,M,central_asian:to sing:4,central_asian
 to sing,U-Hitoy 1,qɔsəʁ,D,central_asian:to sing:2,central_asian
@@ -4222,31 +4222,31 @@ to sing,Y-Dugova 1,aʒɔjim,Q,central_asian:to sing:7,central_asian
 to sing,Y-Dugova 2,ʒɔjak,Q,central_asian:to sing:7,central_asian
 to sing,Y-Safedorak 1,ʒɔj,Q,central_asian:to sing:7,central_asian
 to sing,Y-Safedorak 2,ʒɔjak,Q,central_asian:to sing:7,central_asian
-narrow,KK-Halqabad 1,ʒiŋiʃkʲe,B,central_asian:narrow:2,central_asian
+narrow,KK-Halqabad 1,ʒiŋiʃkʲe,B,central_asian:narrow:3,central_asian
 narrow,KK-Halqabad 2,ʊzʊn,C,central_asian:narrow:4,central_asian
-narrow,KK-Halqabad 3,ʒiŋiʃkʲe,B,central_asian:narrow:2,central_asian
+narrow,KK-Halqabad 3,ʒiŋiʃkʲe,B,central_asian:narrow:3,central_asian
 narrow,KK-Kokdarya 1,tar,A,central_asian:narrow:1,central_asian
 narrow,KK-Kokdarya 2,tar,A,central_asian:narrow:1,central_asian
 narrow,KK-Kokdarya 3,tar,A,central_asian:narrow:1,central_asian
 narrow,KK-Kokdarya 4,tar,A,central_asian:narrow:1,central_asian
-narrow,KK-Shege 1,ʒiŋʃke,B,central_asian:narrow:2,central_asian
-narrow,KK-Shege 2,ʒiŋʃke,B,central_asian:narrow:2,central_asian
+narrow,KK-Shege 1,ʒiŋʃke,B,central_asian:narrow:3,central_asian
+narrow,KK-Shege 2,ʒiŋʃke,B,central_asian:narrow:3,central_asian
 narrow,KK-Shege 3,tar,A,central_asian:narrow:1,central_asian
 narrow,KK-Shege 4,uzun,C,central_asian:narrow:4,central_asian
 narrow,Ka-Gazli 1,tar,A,central_asian:narrow:1,central_asian
-narrow,Ka-Gazli 2,ʒiŋʃkʲe,B,central_asian:narrow:2,central_asian
+narrow,Ka-Gazli 2,ʒiŋʃkʲe,B,central_asian:narrow:3,central_asian
 narrow,Ka-Gazli 3,tar,A,central_asian:narrow:1,central_asian
 narrow,Ka-Gazli 4,tar,A,central_asian:narrow:1,central_asian
 narrow,Ka-Gazli 5,tar,A,central_asian:narrow:1,central_asian
 narrow,Ka-Gazli 6,tar,A,central_asian:narrow:1,central_asian
-narrow,Ka-Gazli 7,ʒiŋʃkʲe,B,central_asian:narrow:2,central_asian
+narrow,Ka-Gazli 7,ʒiŋʃkʲe,B,central_asian:narrow:3,central_asian
 narrow,Ka-Raushan 1,tar,A,central_asian:narrow:1,central_asian
 narrow,Ka-Raushan 2,tar,A,central_asian:narrow:1,central_asian
 narrow,Ka-Raushan 3,tar,A,central_asian:narrow:1,central_asian
 narrow,Ka-Raushan 4,tar,A,central_asian:narrow:1,central_asian
-narrow,Ki-Akmuz 1,iʧkɛ,B,central_asian:narrow:2,central_asian
-narrow,Ki-Akmuz 2,iʧkɛ,B,central_asian:narrow:2,central_asian
-narrow,Ki-Akmuz 3,iʧkɛ,B,central_asian:narrow:2,central_asian
+narrow,Ki-Akmuz 1,iʧkɛ,B,central_asian:narrow:3,central_asian
+narrow,Ki-Akmuz 2,iʧkɛ,B,central_asian:narrow:3,central_asian
+narrow,Ki-Akmuz 3,iʧkɛ,B,central_asian:narrow:3,central_asian
 narrow,Ki-Barskoon,tar,A,central_asian:narrow:1,central_asian
 narrow,Ki-Kulanak 1,kʊːʃ,D,central_asian:narrow:5,central_asian
 narrow,Ki-Kulanak 2,kuːʃ,D,central_asian:narrow:5,central_asian
@@ -4257,51 +4257,51 @@ narrow,Ki-Orday 1,tɔr,A,central_asian:narrow:1,central_asian
 narrow,Ki-Orday 2,tɒr,A,central_asian:narrow:1,central_asian
 narrow,Ki-Orday 3,tar̯,A,central_asian:narrow:1,central_asian
 narrow,Ki-Orday 4,taʃ,A,central_asian:narrow:1,central_asian
-narrow,Ki-Tamga,iʧkɛ,B,central_asian:narrow:2,central_asian
+narrow,Ki-Tamga,iʧkɛ,B,central_asian:narrow:3,central_asian
 narrow,T-Agalyk,taŋ,N,central_asian:narrow:1,central_asian
-narrow,T-Kamangaron 1,bɔrik,M,central_asian:narrow:3,central_asian
+narrow,T-Kamangaron 1,bɔrik,M,central_asian:narrow:2,central_asian
 narrow,T-Kamangaron 2,taŋk,N,central_asian:narrow:1,central_asian
-narrow,T-Kamangaron 3,bɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Kamangaron 4,bɔrik,G,central_asian:narrow:3,central_asian
+narrow,T-Kamangaron 3,bɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Kamangaron 4,bɔrik,G,central_asian:narrow:2,central_asian
 narrow,T-Kaptarhona 1,tank,N,central_asian:narrow:1,central_asian
 narrow,T-Kaptarhona 2,tɔr,A,central_asian:narrow:1,central_asian
-narrow,T-Kaptarhona 3,borʲik,G,central_asian:narrow:3,central_asian
+narrow,T-Kaptarhona 3,borʲik,G,central_asian:narrow:2,central_asian
 narrow,T-Kaptarhona 4,kam,I,central_asian:narrow:1,central_asian
 narrow,T-Kaptarhona 5,kam,I,central_asian:narrow:1,central_asian
 narrow,T-Navdî 1,taŋ˳,N,central_asian:narrow:1,central_asian
-narrow,T-Navdî 2,bɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Navdî 3,bɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Nimich 1,bɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Nimich 2,bɔrik,G,central_asian:narrow:3,central_asian
+narrow,T-Navdî 2,bɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Navdî 3,bɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Nimich 1,bɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Nimich 2,bɔrik,G,central_asian:narrow:2,central_asian
 narrow,T-Nimich 3,taŋ,N,central_asian:narrow:1,central_asian
-narrow,T-Nimich 4,bɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Novmetan 2,pɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Nûshor 1,bɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Nûshor 2,pɔrik,G,central_asian:narrow:3,central_asian
-narrow,T-Nûshor 3,bɔrik,G,central_asian:narrow:3,central_asian
+narrow,T-Nimich 4,bɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Novmetan 2,pɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Nûshor 1,bɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Nûshor 2,pɔrik,G,central_asian:narrow:2,central_asian
+narrow,T-Nûshor 3,bɔrik,G,central_asian:narrow:2,central_asian
 narrow,T-Rishtan 1,taŋ,N,central_asian:narrow:1,central_asian
 narrow,T-Rishtan 2,tɔr,A,central_asian:narrow:1,central_asian
 narrow,T-Rishtan 3,kutɔh,O,central_asian:narrow:5,central_asian
 narrow,T-Shink 1,taŋ,N,central_asian:narrow:1,central_asian
 narrow,T-Shink 2,taŋ,N,central_asian:narrow:1,central_asian
 narrow,T-Shink 3,taŋ,N,central_asian:narrow:1,central_asian
-narrow,T-Urmetan 1,boˑrik,G,central_asian:narrow:3,central_asian
-narrow,T-Urmetan 2,boˑrik,G,central_asian:narrow:3,central_asian
+narrow,T-Urmetan 1,boˑrik,G,central_asian:narrow:2,central_asian
+narrow,T-Urmetan 2,boˑrik,G,central_asian:narrow:2,central_asian
 narrow,T-Urmetan 3,taŋ˳,N,central_asian:narrow:1,central_asian
 narrow,T-Urmetan 4,kalta,P,central_asian:narrow:1,central_asian
-narrow,T-Zarmanak 1,borik,G,central_asian:narrow:3,central_asian
+narrow,T-Zarmanak 1,borik,G,central_asian:narrow:2,central_asian
 narrow,T-Zarmanak 2,kambar,Q,central_asian:narrow:1,central_asian
 narrow,U-Hitoy 1,tar,A,central_asian:narrow:1,central_asian
 narrow,U-Hitoy 2,tar,A,central_asian:narrow:1,central_asian
 narrow,U-Hitoy 3,tar,A,central_asian:narrow:1,central_asian
-narrow,U-Novmetan 3,ingiʧka,B,central_asian:narrow:2,central_asian
+narrow,U-Novmetan 3,ingiʧka,B,central_asian:narrow:3,central_asian
 narrow,U-Soy Mahalla 1,tɔr,A,central_asian:narrow:1,central_asian
 narrow,U-Soy Mahalla 2,tɔr,A,central_asian:narrow:1,central_asian
-narrow,U-Soy Mahalla 3,iŋiʧkɐ,B,central_asian:narrow:2,central_asian
-narrow,U-Urtoqqishloq 1,qs̩ka,E,central_asian:narrow:2,central_asian
-narrow,U-Urtoqqishloq 2,qs̩ka,E,central_asian:narrow:2,central_asian
-narrow,U-Urtoqqishloq 3,ingiʧka,B,central_asian:narrow:2,central_asian
-narrow,U-Urtoqqishloq 4,ingiʧka,B,central_asian:narrow:2,central_asian
+narrow,U-Soy Mahalla 3,iŋiʧkɐ,B,central_asian:narrow:3,central_asian
+narrow,U-Urtoqqishloq 1,qs̩ka,E,central_asian:narrow:3,central_asian
+narrow,U-Urtoqqishloq 2,qs̩ka,E,central_asian:narrow:3,central_asian
+narrow,U-Urtoqqishloq 3,ingiʧka,B,central_asian:narrow:3,central_asian
+narrow,U-Urtoqqishloq 4,ingiʧka,B,central_asian:narrow:3,central_asian
 narrow,U-Zarmanak 3,tɔr,A,central_asian:narrow:1,central_asian
 narrow,U-Zarmanak 4,tɔr,A,central_asian:narrow:1,central_asian
 narrow,Y-Dugova 1,hɔrd,R,central_asian:narrow:1,central_asian
@@ -4588,7 +4588,7 @@ to fall,Ki-Kulanak 3,ʤɨgɨl,B,central_asian:to fall:2,central_asian
 to fall,Ki-Kulanak 4,ʤɨgɨlʊː,B,central_asian:to fall:2,central_asian
 to fall,Ki-Kulanak 5,ʤɨgɨlʊː,B,central_asian:to fall:2,central_asian
 to fall,Ki-Orday 1,ʤigɨlɪʃ,B,central_asian:to fall:2,central_asian
-to fall,Ki-Orday 2,ʤigɨlam,B,central_asian:to fall:2,central_asian
+to fall,Ki-Orday 2,ʤigɨlam,B,central_asian:to fall:4,central_asian
 to fall,Ki-Orday 3,ʧøt,C,central_asian:to fall:8,central_asian
 to fall,Ki-Orday 4,kulajt,A,central_asian:to fall:3,central_asian
 to fall,Ki-Tamga,ʤɨgɨluː,B,central_asian:to fall:2,central_asian
@@ -4986,10 +4986,10 @@ bad,Y-Dugova 1,ganda,F,central_asian:bad:2,central_asian
 bad,Y-Dugova 2,bekora,H,central_asian:bad:4,central_asian
 bad,Y-Safedorak 1,ganda,F,central_asian:bad:2,central_asian
 bad,Y-Safedorak 2,ganda,F,central_asian:bad:2,central_asian
-stick,KK-Halqabad 1,aɣaʃ,B,central_asian:stick:4,central_asian
-stick,KK-Halqabad 2,aɣaʃ,B,central_asian:stick:4,central_asian
+stick,KK-Halqabad 1,aɣaʃ,B,central_asian:stick:3,central_asian
+stick,KK-Halqabad 2,aɣaʃ,B,central_asian:stick:3,central_asian
 stick,KK-Halqabad 3,tajaq,A,central_asian:stick:1,central_asian
-stick,KK-Kokdarya 2,aɣaʃ,B,central_asian:stick:4,central_asian
+stick,KK-Kokdarya 2,aɣaʃ,B,central_asian:stick:3,central_asian
 stick,KK-Kokdarya 3,tajaq,A,central_asian:stick:1,central_asian
 stick,KK-Kokdarya 4,tajaq,A,central_asian:stick:1,central_asian
 stick,KK-Shege 1,tajaq,A,central_asian:stick:1,central_asian
@@ -4999,9 +4999,9 @@ stick,Ka-Gazli 1,tajaq,A,central_asian:stick:1,central_asian
 stick,Ka-Gazli 2,tajaq,A,central_asian:stick:1,central_asian
 stick,Ka-Gazli 3,tajaq,A,central_asian:stick:1,central_asian
 stick,Ka-Gazli 4,tajaq,A,central_asian:stick:1,central_asian
-stick,Ka-Gazli 5,aɣaʃ,B,central_asian:stick:4,central_asian
+stick,Ka-Gazli 5,aɣaʃ,B,central_asian:stick:3,central_asian
 stick,Ka-Gazli 6,tajaq,A,central_asian:stick:1,central_asian
-stick,Ka-Gazli 7,aɣaʃ,B,central_asian:stick:4,central_asian
+stick,Ka-Gazli 7,aɣaʃ,B,central_asian:stick:3,central_asian
 stick,Ka-Raushan 1,tajaq,A,central_asian:stick:1,central_asian
 stick,Ka-Raushan 2,tajaq,A,central_asian:stick:1,central_asian
 stick,Ka-Raushan 3,tajaq,A,central_asian:stick:1,central_asian
@@ -5013,64 +5013,64 @@ stick,Ki-Barskoon,tajaq,A,central_asian:stick:1,central_asian
 stick,Ki-Kulanak 1,sɔjl,C,central_asian:stick:8,central_asian
 stick,Ki-Kulanak 2,tajaq,A,central_asian:stick:1,central_asian
 stick,Ki-Kulanak 3,tajaq,A,central_asian:stick:1,central_asian
-stick,Ki-Kulanak 4,ʤɨgaʧ,D,central_asian:stick:4,central_asian
+stick,Ki-Kulanak 4,ʤɨgaʧ,D,central_asian:stick:3,central_asian
 stick,Ki-Kulanak 5,tajaq,A,central_asian:stick:1,central_asian
 stick,Ki-Orday 1,tajak,A,central_asian:stick:1,central_asian
-stick,Ki-Orday 2,ʤiɣaʧ,D,central_asian:stick:4,central_asian
-stick,Ki-Orday 3,ʤiɣaʧ,D,central_asian:stick:4,central_asian
-stick,Ki-Orday 4,ʤiɣaʧ,D,central_asian:stick:4,central_asian
-stick,Ki-Tamga,ʤɪgaʧ,D,central_asian:stick:4,central_asian
-stick,T-Agalyk,ʧup,F,central_asian:stick:3,central_asian
+stick,Ki-Orday 2,ʤiɣaʧ,D,central_asian:stick:3,central_asian
+stick,Ki-Orday 3,ʤiɣaʧ,D,central_asian:stick:3,central_asian
+stick,Ki-Orday 4,ʤiɣaʧ,D,central_asian:stick:3,central_asian
+stick,Ki-Tamga,ʤɪgaʧ,D,central_asian:stick:3,central_asian
+stick,T-Agalyk,ʧup,F,central_asian:stick:2,central_asian
 stick,T-Kamangaron 1,tajɔq,A,central_asian:stick:1,central_asian
 stick,T-Kamangaron 2,tajɔq,A,central_asian:stick:1,central_asian
 stick,T-Kamangaron 3,xɔda,N,central_asian:stick:7,central_asian
-stick,T-Kamangaron 4,kaltak,G,central_asian:stick:2,central_asian
+stick,T-Kamangaron 4,kaltak,G,central_asian:stick:4,central_asian
 stick,T-Kaptarhona 1,nauda,T,central_asian:stick:7,central_asian
 stick,T-Kaptarhona 2,tajɔq,A,central_asian:stick:1,central_asian
 stick,T-Kaptarhona 3,tajɒq,A,central_asian:stick:1,central_asian
 stick,T-Kaptarhona 4,ʃɔx,J,central_asian:stick:5,central_asian
-stick,T-Kaptarhona 5,kaltak,O,central_asian:stick:2,central_asian
-stick,T-Navdî 1,ʧup,F,central_asian:stick:3,central_asian
-stick,T-Navdî 2,ʧup,F,central_asian:stick:3,central_asian
-stick,T-Navdî 3,ʧup,F,central_asian:stick:3,central_asian
-stick,T-Nimich 1,dasta,P,central_asian:stick:2,central_asian
-stick,T-Nimich 2,ʧub,F,central_asian:stick:3,central_asian
-stick,T-Nimich 3,dangal,Q,central_asian:stick:2,central_asian
+stick,T-Kaptarhona 5,kaltak,O,central_asian:stick:4,central_asian
+stick,T-Navdî 1,ʧup,F,central_asian:stick:2,central_asian
+stick,T-Navdî 2,ʧup,F,central_asian:stick:2,central_asian
+stick,T-Navdî 3,ʧup,F,central_asian:stick:2,central_asian
+stick,T-Nimich 1,dasta,P,central_asian:stick:5,central_asian
+stick,T-Nimich 2,ʧub,F,central_asian:stick:2,central_asian
+stick,T-Nimich 3,dangal,Q,central_asian:stick:5,central_asian
 stick,T-Nimich 4,tɪjɔq,A,central_asian:stick:1,central_asian
-stick,T-Novmetan 1,ʧʉp,F,central_asian:stick:3,central_asian
-stick,T-Novmetan 2,ʧʉp,F,central_asian:stick:3,central_asian
-stick,T-Nûshor 1,ʧupdast,F,central_asian:stick:3,central_asian
-stick,T-Nûshor 2,kaltak,O,central_asian:stick:2,central_asian
-stick,T-Nûshor 3,dangal,Q,central_asian:stick:2,central_asian
-stick,T-Rishtan 1,kaltak,O,central_asian:stick:2,central_asian
-stick,T-Rishtan 2,kaltak,O,central_asian:stick:2,central_asian
-stick,T-Rishtan 3,kaltak,O,central_asian:stick:2,central_asian
-stick,T-Shink 1,ʧɔp,F,central_asian:stick:3,central_asian
+stick,T-Novmetan 1,ʧʉp,F,central_asian:stick:2,central_asian
+stick,T-Novmetan 2,ʧʉp,F,central_asian:stick:2,central_asian
+stick,T-Nûshor 1,ʧupdast,F,central_asian:stick:2,central_asian
+stick,T-Nûshor 2,kaltak,O,central_asian:stick:4,central_asian
+stick,T-Nûshor 3,dangal,Q,central_asian:stick:5,central_asian
+stick,T-Rishtan 1,kaltak,O,central_asian:stick:4,central_asian
+stick,T-Rishtan 2,kaltak,O,central_asian:stick:4,central_asian
+stick,T-Rishtan 3,kaltak,O,central_asian:stick:4,central_asian
+stick,T-Shink 1,ʧɔp,F,central_asian:stick:2,central_asian
 stick,T-Shink 2,assɔ,R,central_asian:stick:5,central_asian
-stick,T-Shink 3,kaltak,O,central_asian:stick:2,central_asian
+stick,T-Shink 3,kaltak,O,central_asian:stick:4,central_asian
 stick,T-Urmetan 1,assɔ,R,central_asian:stick:5,central_asian
 stick,T-Urmetan 2,assɔ,R,central_asian:stick:5,central_asian
-stick,T-Urmetan 3,kaltak,O,central_asian:stick:2,central_asian
+stick,T-Urmetan 3,kaltak,O,central_asian:stick:4,central_asian
 stick,T-Urmetan 4,assɔ,R,central_asian:stick:5,central_asian
 stick,T-Zarmanak 1,tajɔq,A,central_asian:stick:1,central_asian
-stick,T-Zarmanak 2,ʧʉp,F,central_asian:stick:3,central_asian
+stick,T-Zarmanak 2,ʧʉp,F,central_asian:stick:2,central_asian
 stick,U-Hitoy 1,tajaq,A,central_asian:stick:1,central_asian
 stick,U-Hitoy 2,tajaq,A,central_asian:stick:1,central_asian
 stick,U-Hitoy 3,tajaq,A,central_asian:stick:1,central_asian
 stick,U-Novmetan 3,tajɔq,A,central_asian:stick:1,central_asian
 stick,U-Soy Mahalla 1,tajɔq,A,central_asian:stick:1,central_asian
 stick,U-Soy Mahalla 2,tajɔq,A,central_asian:stick:1,central_asian
-stick,U-Soy Mahalla 3,ʧʉpak,E,central_asian:stick:3,central_asian
+stick,U-Soy Mahalla 3,ʧʉpak,E,central_asian:stick:2,central_asian
 stick,U-Urtoqqishloq 1,tajɔq,A,central_asian:stick:1,central_asian
 stick,U-Urtoqqishloq 2,tajɒq,A,central_asian:stick:1,central_asian
 stick,U-Urtoqqishloq 3,tajɔq,A,central_asian:stick:1,central_asian
-stick,U-Urtoqqishloq 4,ʧʊp,F,central_asian:stick:3,central_asian
+stick,U-Urtoqqishloq 4,ʧʊp,F,central_asian:stick:2,central_asian
 stick,U-Zarmanak 3,tajɔq,A,central_asian:stick:1,central_asian
 stick,U-Zarmanak 4,tajɔq,A,central_asian:stick:1,central_asian
 stick,Y-Dugova 1,dɔrk,ʃ,central_asian:stick:6,central_asian
-stick,Y-Dugova 2,kaltak,O,central_asian:stick:2,central_asian
+stick,Y-Dugova 2,kaltak,O,central_asian:stick:4,central_asian
 stick,Y-Safedorak 1,dɔrk,ʃ,central_asian:stick:6,central_asian
-stick,Y-Safedorak 2,kaltak,O,central_asian:stick:2,central_asian
+stick,Y-Safedorak 2,kaltak,O,central_asian:stick:4,central_asian
 stick,Y-Safedorak 3,dɔrk,ʃ,central_asian:stick:6,central_asian
 leg,KK-Halqabad 1,ajaq,A,central_asian:leg:2,central_asian
 leg,KK-Halqabad 2,ajaq,A,central_asian:leg:2,central_asian
@@ -5094,20 +5094,20 @@ leg,Ka-Raushan 1,ajaq,A,central_asian:leg:2,central_asian
 leg,Ka-Raushan 2,ajaq,A,central_asian:leg:2,central_asian
 leg,Ka-Raushan 3,ajaq,A,central_asian:leg:2,central_asian
 leg,Ka-Raushan 4,ajaq,A,central_asian:leg:2,central_asian
-leg,Ki-Akmuz 1,but,B,central_asian:leg:1,central_asian
-leg,Ki-Akmuz 2,but,B,central_asian:leg:1,central_asian
-leg,Ki-Akmuz 3,but,B,central_asian:leg:1,central_asian
-leg,Ki-Barskoon,but,B,central_asian:leg:1,central_asian
-leg,Ki-Kulanak 1,bʊt,B,central_asian:leg:1,central_asian
-leg,Ki-Kulanak 2,but,B,central_asian:leg:1,central_asian
-leg,Ki-Kulanak 3,but,B,central_asian:leg:1,central_asian
-leg,Ki-Kulanak 4,but,B,central_asian:leg:1,central_asian
-leg,Ki-Kulanak 5,but,B,central_asian:leg:1,central_asian
-leg,Ki-Orday 1,pʊt,B,central_asian:leg:1,central_asian
-leg,Ki-Orday 2,pʊt,B,central_asian:leg:1,central_asian
-leg,Ki-Orday 3,pʊt,B,central_asian:leg:1,central_asian
-leg,Ki-Orday 4,but,B,central_asian:leg:1,central_asian
-leg,Ki-Tamga,but,B,central_asian:leg:1,central_asian
+leg,Ki-Akmuz 1,but,B,central_asian:leg:3,central_asian
+leg,Ki-Akmuz 2,but,B,central_asian:leg:3,central_asian
+leg,Ki-Akmuz 3,but,B,central_asian:leg:3,central_asian
+leg,Ki-Barskoon,but,B,central_asian:leg:3,central_asian
+leg,Ki-Kulanak 1,bʊt,B,central_asian:leg:3,central_asian
+leg,Ki-Kulanak 2,but,B,central_asian:leg:3,central_asian
+leg,Ki-Kulanak 3,but,B,central_asian:leg:3,central_asian
+leg,Ki-Kulanak 4,but,B,central_asian:leg:3,central_asian
+leg,Ki-Kulanak 5,but,B,central_asian:leg:3,central_asian
+leg,Ki-Orday 1,pʊt,B,central_asian:leg:3,central_asian
+leg,Ki-Orday 2,pʊt,B,central_asian:leg:3,central_asian
+leg,Ki-Orday 3,pʊt,B,central_asian:leg:3,central_asian
+leg,Ki-Orday 4,but,B,central_asian:leg:3,central_asian
+leg,Ki-Tamga,but,B,central_asian:leg:3,central_asian
 leg,T-Agalyk,pɔj,C,central_asian:leg:1,central_asian
 leg,T-Kamangaron 1,pɔʧa,D,central_asian:leg:1,central_asian
 leg,T-Kamangaron 2,pɔj,C,central_asian:leg:1,central_asian
@@ -5493,16 +5493,16 @@ to eat,T-Zarmanak 2,xʉrdan,E,central_asian:to eat:2,central_asian
 to eat,U-Hitoy 1,ʤɪʊ,A,central_asian:to eat:1,central_asian
 to eat,U-Hitoy 2,ʤɪʊ,A,central_asian:to eat:1,central_asian
 to eat,U-Hitoy 3,ʒɪʊ,A,central_asian:to eat:1,central_asian
-to eat,U-Novmetan 3,jejiʃ,A,central_asian:to eat:6,central_asian
-to eat,U-Soy Mahalla 1,jejiʃ,A,central_asian:to eat:6,central_asian
-to eat,U-Soy Mahalla 2,jemɔq,A,central_asian:to eat:5,central_asian
-to eat,U-Soy Mahalla 3,jejiʃ,A,central_asian:to eat:6,central_asian
-to eat,U-Urtoqqishloq 1,jemɔq,A,central_asian:to eat:5,central_asian
-to eat,U-Urtoqqishloq 2,jɪmɔq,A,central_asian:to eat:5,central_asian
-to eat,U-Urtoqqishloq 3,jɪiʃ,A,central_asian:to eat:6,central_asian
-to eat,U-Urtoqqishloq 4,jɪmɔq,A,central_asian:to eat:5,central_asian
-to eat,U-Zarmanak 3,jejiʃ,A,central_asian:to eat:6,central_asian
-to eat,U-Zarmanak 4,jemɔq,A,central_asian:to eat:5,central_asian
+to eat,U-Novmetan 3,jejiʃ,A,central_asian:to eat:5,central_asian
+to eat,U-Soy Mahalla 1,jejiʃ,A,central_asian:to eat:5,central_asian
+to eat,U-Soy Mahalla 2,jemɔq,A,central_asian:to eat:6,central_asian
+to eat,U-Soy Mahalla 3,jejiʃ,A,central_asian:to eat:5,central_asian
+to eat,U-Urtoqqishloq 1,jemɔq,A,central_asian:to eat:6,central_asian
+to eat,U-Urtoqqishloq 2,jɪmɔq,A,central_asian:to eat:6,central_asian
+to eat,U-Urtoqqishloq 3,jɪiʃ,A,central_asian:to eat:5,central_asian
+to eat,U-Urtoqqishloq 4,jɪmɔq,A,central_asian:to eat:6,central_asian
+to eat,U-Zarmanak 3,jejiʃ,A,central_asian:to eat:5,central_asian
+to eat,U-Zarmanak 4,jemɔq,A,central_asian:to eat:6,central_asian
 to eat,Y-Dugova 1,xwarak,E,central_asian:to eat:4,central_asian
 to eat,Y-Dugova 2,xwar,E,central_asian:to eat:4,central_asian
 to eat,Y-Safedorak 1,xwarak,E,central_asian:to eat:4,central_asian
@@ -6141,17 +6141,17 @@ round,Ki-Kulanak 4,tegerɛk,B,central_asian:round:1,central_asian
 round,Ki-Kulanak 5,tegerɛk,B,central_asian:round:1,central_asian
 round,Ki-Orday 1,tɔgɔlɔk,B,central_asian:round:1,central_asian
 round,Ki-Orday 2,tʊmalaq,A,central_asian:round:1,central_asian
-round,Ki-Orday 3,ajlana,C,central_asian:round:3,central_asian
+round,Ki-Orday 3,ajlana,C,central_asian:round:4,central_asian
 round,Ki-Tamga,tɔgɔlɔk,B,central_asian:round:1,central_asian
-round,T-Agalyk,lʉnda,F,central_asian:round:5,central_asian
-round,T-Kamangaron 1,lynda,F,central_asian:round:5,central_asian
-round,T-Kamangaron 2,lønda,F,central_asian:round:5,central_asian
-round,T-Kamangaron 4,lønda,F,central_asian:round:5,central_asian
-round,T-Kaptarhona 1,kulula,G,central_asian:round:4,central_asian
-round,T-Kaptarhona 2,dojra,H,central_asian:round:6,central_asian
-round,T-Kaptarhona 3,kəlula,G,central_asian:round:4,central_asian
-round,T-Kaptarhona 4,kulula,G,central_asian:round:4,central_asian
-round,T-Kaptarhona 5,kulula,G,central_asian:round:4,central_asian
+round,T-Agalyk,lʉnda,F,central_asian:round:3,central_asian
+round,T-Kamangaron 1,lynda,F,central_asian:round:3,central_asian
+round,T-Kamangaron 2,lønda,F,central_asian:round:3,central_asian
+round,T-Kamangaron 4,lønda,F,central_asian:round:3,central_asian
+round,T-Kaptarhona 1,kulula,G,central_asian:round:3,central_asian
+round,T-Kaptarhona 2,dojra,H,central_asian:round:5,central_asian
+round,T-Kaptarhona 3,kəlula,G,central_asian:round:3,central_asian
+round,T-Kaptarhona 4,kulula,G,central_asian:round:3,central_asian
+round,T-Kaptarhona 5,kulula,G,central_asian:round:3,central_asian
 round,T-Navdî 1,gird̥,I,central_asian:round:2,central_asian
 round,T-Navdî 2,gird,I,central_asian:round:2,central_asian
 round,T-Navdî 3,gird,I,central_asian:round:2,central_asian
@@ -6164,58 +6164,58 @@ round,T-Novmetan 2,girda,I,central_asian:round:2,central_asian
 round,T-Nûshor 1,gird,I,central_asian:round:2,central_asian
 round,T-Nûshor 2,gird,I,central_asian:round:2,central_asian
 round,T-Nûshor 3,gr̩d,I,central_asian:round:2,central_asian
-round,T-Rishtan 1,kulula,G,central_asian:round:4,central_asian
-round,T-Rishtan 2,klula,G,central_asian:round:4,central_asian
-round,T-Rishtan 3,kylylə,G,central_asian:round:4,central_asian
-round,T-Shink 1,lʉnda,F,central_asian:round:5,central_asian
-round,T-Shink 2,kulula,G,central_asian:round:4,central_asian
-round,T-Shink 3,lʉnda,F,central_asian:round:5,central_asian
-round,T-Urmetan 1,davra,J,central_asian:round:6,central_asian
+round,T-Rishtan 1,kulula,G,central_asian:round:3,central_asian
+round,T-Rishtan 2,klula,G,central_asian:round:3,central_asian
+round,T-Rishtan 3,kylylə,G,central_asian:round:3,central_asian
+round,T-Shink 1,lʉnda,F,central_asian:round:3,central_asian
+round,T-Shink 2,kulula,G,central_asian:round:3,central_asian
+round,T-Shink 3,lʉnda,F,central_asian:round:3,central_asian
+round,T-Urmetan 1,davra,J,central_asian:round:5,central_asian
 round,T-Urmetan 2,gird,I,central_asian:round:2,central_asian
-round,T-Urmetan 3,daβra,J,central_asian:round:6,central_asian
-round,T-Urmetan 4,lʉnda,F,central_asian:round:5,central_asian
+round,T-Urmetan 3,daβra,J,central_asian:round:5,central_asian
+round,T-Urmetan 4,lʉnda,F,central_asian:round:3,central_asian
 round,T-Zarmanak 1,girda,I,central_asian:round:2,central_asian
 round,T-Zarmanak 2,girda,I,central_asian:round:2,central_asian
 round,U-Hitoy 1,dɔmalaq,A,central_asian:round:1,central_asian
-round,U-Hitoy 2,ajlanʊ,C,central_asian:round:3,central_asian
+round,U-Hitoy 2,ajlanʊ,C,central_asian:round:4,central_asian
 round,U-Hitoy 3,døŋelɛk,B,central_asian:round:1,central_asian
-round,U-Novmetan 3,ajlana,C,central_asian:round:3,central_asian
+round,U-Novmetan 3,ajlana,C,central_asian:round:4,central_asian
 round,U-Soy Mahalla 1,tʊmalak,A,central_asian:round:1,central_asian
 round,U-Soy Mahalla 2,tʊmalɔq,A,central_asian:round:1,central_asian
 round,U-Soy Mahalla 3,tʊmalaq,A,central_asian:round:1,central_asian
-round,U-Urtoqqishloq 1,ajlana,C,central_asian:round:3,central_asian
-round,U-Urtoqqishloq 2,ajlana,C,central_asian:round:3,central_asian
-round,U-Urtoqqishloq 3,ajlana,C,central_asian:round:3,central_asian
-round,U-Urtoqqishloq 4,ajlana,C,central_asian:round:3,central_asian
+round,U-Urtoqqishloq 1,ajlana,C,central_asian:round:4,central_asian
+round,U-Urtoqqishloq 2,ajlana,C,central_asian:round:4,central_asian
+round,U-Urtoqqishloq 3,ajlana,C,central_asian:round:4,central_asian
+round,U-Urtoqqishloq 4,ajlana,C,central_asian:round:4,central_asian
 round,U-Zarmanak 3,dumaloχ,A,central_asian:round:1,central_asian
-round,U-Zarmanak 4,ajlana,C,central_asian:round:3,central_asian
+round,U-Zarmanak 4,ajlana,C,central_asian:round:4,central_asian
 round,Y-Dugova 1,gird,I,central_asian:round:2,central_asian
 round,Y-Dugova 2,girdak,I,central_asian:round:2,central_asian
-round,Y-Safedorak 1,lunda,F,central_asian:round:5,central_asian
+round,Y-Safedorak 1,lunda,F,central_asian:round:3,central_asian
 round,Y-Safedorak 2,gird,I,central_asian:round:2,central_asian
-sharp,KK-Halqabad 1,wʉtkɨr,B,central_asian:sharp:2,central_asian
-sharp,KK-Halqabad 2,wʉtkɨr,B,central_asian:sharp:2,central_asian
-sharp,KK-Halqabad 3,wʉtkɨr,B,central_asian:sharp:2,central_asian
-sharp,KK-Kokdarya 1,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,KK-Kokdarya 2,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,KK-Kokdarya 3,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,KK-Kokdarya 4,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,KK-Shege 1,wʊtkər,B,central_asian:sharp:2,central_asian
-sharp,KK-Shege 2,wʉtkər,B,central_asian:sharp:2,central_asian
-sharp,KK-Shege 3,wʉtkər,B,central_asian:sharp:2,central_asian
-sharp,KK-Shege 4,wʉtkər,B,central_asian:sharp:2,central_asian
+sharp,KK-Halqabad 1,wʉtkɨr,B,central_asian:sharp:1,central_asian
+sharp,KK-Halqabad 2,wʉtkɨr,B,central_asian:sharp:1,central_asian
+sharp,KK-Halqabad 3,wʉtkɨr,B,central_asian:sharp:1,central_asian
+sharp,KK-Kokdarya 1,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,KK-Kokdarya 2,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,KK-Kokdarya 3,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,KK-Kokdarya 4,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,KK-Shege 1,wʊtkər,B,central_asian:sharp:1,central_asian
+sharp,KK-Shege 2,wʉtkər,B,central_asian:sharp:1,central_asian
+sharp,KK-Shege 3,wʉtkər,B,central_asian:sharp:1,central_asian
+sharp,KK-Shege 4,wʉtkər,B,central_asian:sharp:1,central_asian
 sharp,Ka-Gazli 1,ahʃə,A,central_asian:sharp:4,central_asian
-sharp,Ka-Gazli 2,ʉtkər,B,central_asian:sharp:2,central_asian
-sharp,Ka-Gazli 3,wøtkər,B,central_asian:sharp:2,central_asian
-sharp,Ka-Gazli 4,wøtkər,B,central_asian:sharp:2,central_asian
-sharp,Ka-Gazli 5,wøtkər,B,central_asian:sharp:2,central_asian
-sharp,Ka-Gazli 6,wøtkər,B,central_asian:sharp:2,central_asian
-sharp,Ka-Gazli 7,wøtkər,B,central_asian:sharp:2,central_asian
-sharp,Ka-Raushan 1,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,Ka-Raushan 2,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,Ka-Raushan 3,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,Ka-Raushan 4,wøtkɨr,B,central_asian:sharp:2,central_asian
-sharp,Ki-Akmuz 1,ʉtkɨr,B,central_asian:sharp:2,central_asian
+sharp,Ka-Gazli 2,ʉtkər,B,central_asian:sharp:1,central_asian
+sharp,Ka-Gazli 3,wøtkər,B,central_asian:sharp:1,central_asian
+sharp,Ka-Gazli 4,wøtkər,B,central_asian:sharp:1,central_asian
+sharp,Ka-Gazli 5,wøtkər,B,central_asian:sharp:1,central_asian
+sharp,Ka-Gazli 6,wøtkər,B,central_asian:sharp:1,central_asian
+sharp,Ka-Gazli 7,wøtkər,B,central_asian:sharp:1,central_asian
+sharp,Ka-Raushan 1,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,Ka-Raushan 2,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,Ka-Raushan 3,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,Ka-Raushan 4,wøtkɨr,B,central_asian:sharp:1,central_asian
+sharp,Ki-Akmuz 1,ʉtkɨr,B,central_asian:sharp:1,central_asian
 sharp,Ki-Akmuz 2,qurʧ,C,central_asian:sharp:3,central_asian
 sharp,Ki-Akmuz 3,qurʧ,C,central_asian:sharp:3,central_asian
 sharp,Ki-Barskoon,qurʧ,C,central_asian:sharp:3,central_asian
@@ -6224,60 +6224,60 @@ sharp,Ki-Kulanak 2,qurʧ,C,central_asian:sharp:3,central_asian
 sharp,Ki-Kulanak 3,qurʧ,C,central_asian:sharp:3,central_asian
 sharp,Ki-Kulanak 4,qurʧ,C,central_asian:sharp:3,central_asian
 sharp,Ki-Kulanak 5,qurʧ,C,central_asian:sharp:3,central_asian
-sharp,Ki-Orday 1,øtkɨr,B,central_asian:sharp:2,central_asian
-sharp,Ki-Orday 2,øtkɨr,B,central_asian:sharp:2,central_asian
-sharp,Ki-Orday 3,øtkʉr,B,central_asian:sharp:2,central_asian
-sharp,Ki-Orday 4,øtkɨr,B,central_asian:sharp:2,central_asian
+sharp,Ki-Orday 1,øtkɨr,B,central_asian:sharp:1,central_asian
+sharp,Ki-Orday 2,øtkɨr,B,central_asian:sharp:1,central_asian
+sharp,Ki-Orday 3,øtkʉr,B,central_asian:sharp:1,central_asian
+sharp,Ki-Orday 4,øtkɨr,B,central_asian:sharp:1,central_asian
 sharp,Ki-Tamga,qurʧ,C,central_asian:sharp:3,central_asian
-sharp,T-Agalyk,tʲez,I,central_asian:sharp:1,central_asian
-sharp,T-Kamangaron 1,tʲes,I,central_asian:sharp:1,central_asian
-sharp,T-Kamangaron 2,tez̥,I,central_asian:sharp:1,central_asian
-sharp,T-Kamangaron 3,tes,I,central_asian:sharp:1,central_asian
-sharp,T-Kaptarhona 1,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Kaptarhona 2,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Kaptarhona 3,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Kaptarhona 4,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Kaptarhona 5,tez̥,I,central_asian:sharp:1,central_asian
-sharp,T-Navdî 1,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Navdî 2,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Navdî 3,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Nimich 1,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Nimich 2,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Nimich 3,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Nimich 4,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Novmetan 1,tʲɪz̥,I,central_asian:sharp:1,central_asian
-sharp,T-Novmetan 2,tʲez̥,I,central_asian:sharp:1,central_asian
-sharp,T-Nûshor 1,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Nûshor 2,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Nûshor 3,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Rishtan 1,tʲez̥,I,central_asian:sharp:1,central_asian
-sharp,T-Rishtan 2,tez̥,I,central_asian:sharp:1,central_asian
-sharp,T-Rishtan 3,tʲez̥,I,central_asian:sharp:1,central_asian
-sharp,T-Shink 1,tɪz̥,I,central_asian:sharp:1,central_asian
-sharp,T-Shink 2,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Shink 3,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Urmetan 1,tɪz,I,central_asian:sharp:1,central_asian
-sharp,T-Urmetan 2,tʲɪz,I,central_asian:sharp:1,central_asian
-sharp,T-Urmetan 3,tɪz,I,central_asian:sharp:1,central_asian
-sharp,T-Urmetan 4,tɪz̥,I,central_asian:sharp:1,central_asian
-sharp,T-Zarmanak 1,tez,I,central_asian:sharp:1,central_asian
-sharp,T-Zarmanak 2,tez̥,I,central_asian:sharp:1,central_asian
-sharp,U-Hitoy 1,wʉtkər,B,central_asian:sharp:2,central_asian
-sharp,U-Hitoy 2,wʉtkər,B,central_asian:sharp:2,central_asian
-sharp,U-Hitoy 3,wʉtkər,B,central_asian:sharp:2,central_asian
-sharp,U-Soy Mahalla 1,ʉtkɪr,B,central_asian:sharp:2,central_asian
-sharp,U-Soy Mahalla 2,ʉtkɨr,B,central_asian:sharp:2,central_asian
-sharp,U-Soy Mahalla 3,ʉtkɪr,B,central_asian:sharp:2,central_asian
-sharp,U-Urtoqqishloq 1,ʉtkɪr,B,central_asian:sharp:2,central_asian
-sharp,U-Urtoqqishloq 2,wʉtkʊr,B,central_asian:sharp:2,central_asian
-sharp,U-Urtoqqishloq 3,ʉtkər,B,central_asian:sharp:2,central_asian
-sharp,U-Urtoqqishloq 4,ʉtkər,B,central_asian:sharp:2,central_asian
-sharp,U-Zarmanak 3,tʲɪz,D,central_asian:sharp:1,central_asian
-sharp,U-Zarmanak 4,ʉtkir,B,central_asian:sharp:2,central_asian
-sharp,Y-Dugova 1,tez,I,central_asian:sharp:1,central_asian
-sharp,Y-Dugova 2,tez,I,central_asian:sharp:1,central_asian
-sharp,Y-Safedorak 1,tʲez̥,I,central_asian:sharp:1,central_asian
-sharp,Y-Safedorak 2,tez,I,central_asian:sharp:1,central_asian
+sharp,T-Agalyk,tʲez,I,central_asian:sharp:2,central_asian
+sharp,T-Kamangaron 1,tʲes,I,central_asian:sharp:2,central_asian
+sharp,T-Kamangaron 2,tez̥,I,central_asian:sharp:2,central_asian
+sharp,T-Kamangaron 3,tes,I,central_asian:sharp:2,central_asian
+sharp,T-Kaptarhona 1,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Kaptarhona 2,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Kaptarhona 3,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Kaptarhona 4,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Kaptarhona 5,tez̥,I,central_asian:sharp:2,central_asian
+sharp,T-Navdî 1,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Navdî 2,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Navdî 3,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Nimich 1,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Nimich 2,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Nimich 3,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Nimich 4,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Novmetan 1,tʲɪz̥,I,central_asian:sharp:2,central_asian
+sharp,T-Novmetan 2,tʲez̥,I,central_asian:sharp:2,central_asian
+sharp,T-Nûshor 1,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Nûshor 2,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Nûshor 3,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Rishtan 1,tʲez̥,I,central_asian:sharp:2,central_asian
+sharp,T-Rishtan 2,tez̥,I,central_asian:sharp:2,central_asian
+sharp,T-Rishtan 3,tʲez̥,I,central_asian:sharp:2,central_asian
+sharp,T-Shink 1,tɪz̥,I,central_asian:sharp:2,central_asian
+sharp,T-Shink 2,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Shink 3,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Urmetan 1,tɪz,I,central_asian:sharp:2,central_asian
+sharp,T-Urmetan 2,tʲɪz,I,central_asian:sharp:2,central_asian
+sharp,T-Urmetan 3,tɪz,I,central_asian:sharp:2,central_asian
+sharp,T-Urmetan 4,tɪz̥,I,central_asian:sharp:2,central_asian
+sharp,T-Zarmanak 1,tez,I,central_asian:sharp:2,central_asian
+sharp,T-Zarmanak 2,tez̥,I,central_asian:sharp:2,central_asian
+sharp,U-Hitoy 1,wʉtkər,B,central_asian:sharp:1,central_asian
+sharp,U-Hitoy 2,wʉtkər,B,central_asian:sharp:1,central_asian
+sharp,U-Hitoy 3,wʉtkər,B,central_asian:sharp:1,central_asian
+sharp,U-Soy Mahalla 1,ʉtkɪr,B,central_asian:sharp:1,central_asian
+sharp,U-Soy Mahalla 2,ʉtkɨr,B,central_asian:sharp:1,central_asian
+sharp,U-Soy Mahalla 3,ʉtkɪr,B,central_asian:sharp:1,central_asian
+sharp,U-Urtoqqishloq 1,ʉtkɪr,B,central_asian:sharp:1,central_asian
+sharp,U-Urtoqqishloq 2,wʉtkʊr,B,central_asian:sharp:1,central_asian
+sharp,U-Urtoqqishloq 3,ʉtkər,B,central_asian:sharp:1,central_asian
+sharp,U-Urtoqqishloq 4,ʉtkər,B,central_asian:sharp:1,central_asian
+sharp,U-Zarmanak 3,tʲɪz,D,central_asian:sharp:2,central_asian
+sharp,U-Zarmanak 4,ʉtkir,B,central_asian:sharp:1,central_asian
+sharp,Y-Dugova 1,tez,I,central_asian:sharp:2,central_asian
+sharp,Y-Dugova 2,tez,I,central_asian:sharp:2,central_asian
+sharp,Y-Safedorak 1,tʲez̥,I,central_asian:sharp:2,central_asian
+sharp,Y-Safedorak 2,tez,I,central_asian:sharp:2,central_asian
 dry,KK-Halqabad 1,qurɣaq,A,central_asian:dry:1,central_asian
 dry,KK-Halqabad 2,qurɣaq,A,central_asian:dry:1,central_asian
 dry,KK-Halqabad 3,qurɣaq,A,central_asian:dry:1,central_asian
@@ -6548,7 +6548,7 @@ breast,Ka-Gazli 3,jimʃi,A,central_asian:breast:3,central_asian
 breast,Ka-Gazli 4,kukrɨk,B,central_asian:breast:2,central_asian
 breast,Ka-Gazli 5,kʊkrɪk,B,central_asian:breast:2,central_asian
 breast,Ka-Gazli 6,køkrʲek,B,central_asian:breast:2,central_asian
-breast,Ka-Gazli 7,dʲenʲe,C,central_asian:breast:4,central_asian
+breast,Ka-Gazli 7,dʲenʲe,C,central_asian:breast:1,central_asian
 breast,Ka-Raushan 1,jɪmʃɪk,A,central_asian:breast:3,central_asian
 breast,Ka-Raushan 2,kukrøk,B,central_asian:breast:2,central_asian
 breast,Ka-Raushan 3,kʊkɨrʲek,B,central_asian:breast:2,central_asian
@@ -7056,7 +7056,7 @@ to breathe,Y-Safedorak 3,nafas,B,central_asian:to breathe:1,central_asian
 to hear,KK-Halqabad 1,jɪstʊ,A,central_asian:to hear:1,central_asian
 to hear,KK-Halqabad 2,jɪstʊ,A,central_asian:to hear:1,central_asian
 to hear,KK-Halqabad 3,tɨŋlaʊ,B,central_asian:to hear:5,central_asian
-to hear,KK-Kokdarya 1,kulʊː,D,central_asian:to hear:4,central_asian
+to hear,KK-Kokdarya 1,kulʊː,D,central_asian:to hear:3,central_asian
 to hear,KK-Kokdarya 2,jɪstʊ,A,central_asian:to hear:1,central_asian
 to hear,KK-Kokdarya 3,jɪstʊː,A,central_asian:to hear:1,central_asian
 to hear,KK-Kokdarya 4,jɪstʊː,A,central_asian:to hear:1,central_asian
@@ -7075,20 +7075,20 @@ to hear,Ka-Raushan 1,jestʊː,A,central_asian:to hear:1,central_asian
 to hear,Ka-Raushan 2,jɪstʊː,A,central_asian:to hear:1,central_asian
 to hear,Ka-Raushan 3,jestʊː,A,central_asian:to hear:1,central_asian
 to hear,Ka-Raushan 4,jeʃtʊː,A,central_asian:to hear:1,central_asian
-to hear,Ki-Akmuz 1,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Akmuz 2,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Akmuz 3,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Barskoon,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Kulanak 1,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Kulanak 2,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Kulanak 3,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Kulanak 4,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Kulanak 5,uɣuː,C,central_asian:to hear:4,central_asian
+to hear,Ki-Akmuz 1,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Akmuz 2,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Akmuz 3,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Barskoon,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Kulanak 1,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Kulanak 2,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Kulanak 3,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Kulanak 4,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Kulanak 5,uɣuː,C,central_asian:to hear:3,central_asian
 to hear,Ki-Orday 1,jestiʃ,A,central_asian:to hear:1,central_asian
-to hear,Ki-Orday 2,uɣam,C,central_asian:to hear:4,central_asian
+to hear,Ki-Orday 2,uɣam,C,central_asian:to hear:3,central_asian
 to hear,Ki-Orday 3,ɪʃtɛt,A,central_asian:to hear:1,central_asian
-to hear,Ki-Orday 4,uɣuː,C,central_asian:to hear:4,central_asian
-to hear,Ki-Tamga,uɣuː,C,central_asian:to hear:4,central_asian
+to hear,Ki-Orday 4,uɣuː,C,central_asian:to hear:3,central_asian
+to hear,Ki-Tamga,uɣuː,C,central_asian:to hear:3,central_asian
 to hear,T-Agalyk,ʃønidan,H,central_asian:to hear:2,central_asian
 to hear,T-Kamangaron 1,ʃynidan,H,central_asian:to hear:2,central_asian
 to hear,T-Kamangaron 2,fahmidan,G,central_asian:to hear:2,central_asian
@@ -7099,29 +7099,29 @@ to hear,T-Kaptarhona 2,ʃnavidan,H,central_asian:to hear:2,central_asian
 to hear,T-Kaptarhona 3,mʲeʃnarvam,H,central_asian:to hear:2,central_asian
 to hear,T-Kaptarhona 4,ʃnavidan,H,central_asian:to hear:2,central_asian
 to hear,T-Kaptarhona 5,ʃnavidan,H,central_asian:to hear:2,central_asian
-to hear,T-Navdî 1,guʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Navdî 1,guʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Navdî 2,ʃənidan,H,central_asian:to hear:2,central_asian
 to hear,T-Navdî 3,ʃənidan,H,central_asian:to hear:2,central_asian
-to hear,T-Nimich 1,guʃ,J,central_asian:to hear:3,central_asian
-to hear,T-Nimich 2,guʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Nimich 1,guʃ,J,central_asian:to hear:4,central_asian
+to hear,T-Nimich 2,guʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Nimich 3,ʃənidan,H,central_asian:to hear:2,central_asian
 to hear,T-Nimich 4,ʃnavidan,H,central_asian:to hear:2,central_asian
 to hear,T-Novmetan 1,faˑmidan,G,central_asian:to hear:2,central_asian
 to hear,T-Novmetan 2,famidan,G,central_asian:to hear:2,central_asian
 to hear,T-Nûshor 1,ʃnavidan,H,central_asian:to hear:2,central_asian
-to hear,T-Nûshor 2,guʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Nûshor 2,guʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Nûshor 3,ʃənidan,H,central_asian:to hear:2,central_asian
 to hear,T-Rishtan 1,ʃynidan,H,central_asian:to hear:2,central_asian
-to hear,T-Rishtan 2,guʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Rishtan 2,guʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Rishtan 3,ʃnawidan,H,central_asian:to hear:2,central_asian
-to hear,T-Shink 1,guʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Shink 1,guʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Shink 2,ʃənidan,H,central_asian:to hear:2,central_asian
-to hear,T-Shink 3,guʃ,J,central_asian:to hear:3,central_asian
-to hear,T-Urmetan 1,guʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Shink 3,guʃ,J,central_asian:to hear:4,central_asian
+to hear,T-Urmetan 1,guʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Urmetan 2,ʃənidan,H,central_asian:to hear:2,central_asian
-to hear,T-Urmetan 3,guʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Urmetan 3,guʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Urmetan 4,ʃənidan,H,central_asian:to hear:2,central_asian
-to hear,T-Zarmanak 1,gʉʃ,J,central_asian:to hear:3,central_asian
+to hear,T-Zarmanak 1,gʉʃ,J,central_asian:to hear:4,central_asian
 to hear,T-Zarmanak 2,famdan,G,central_asian:to hear:2,central_asian
 to hear,U-Hitoy 1,jɪʃtʊ,A,central_asian:to hear:1,central_asian
 to hear,U-Hitoy 2,jɪʃtʊ,A,central_asian:to hear:1,central_asian
@@ -7136,8 +7136,8 @@ to hear,U-Urtoqqishloq 4,jeʃitɪʃ,A,central_asian:to hear:1,central_asian
 to hear,U-Zarmanak 3,eʃɪtiʃ,A,central_asian:to hear:1,central_asian
 to hear,U-Zarmanak 4,ɪʃtmɔq,A,central_asian:to hear:1,central_asian
 to hear,Y-Dugova 1,ɣʊʃa,J,central_asian:to hear:3,central_asian
-to hear,Y-Dugova 2,duruʃak,K,central_asian:to hear:3,central_asian
-to hear,Y-Safedorak 1,dʊrʊʃak,K,central_asian:to hear:3,central_asian
+to hear,Y-Dugova 2,duruʃak,K,central_asian:to hear:6,central_asian
+to hear,Y-Safedorak 1,dʊrʊʃak,K,central_asian:to hear:6,central_asian
 to hear,Y-Safedorak 2,ɣʊʃi,J,central_asian:to hear:3,central_asian
 to hear,Y-Safedorak 3,ɣʊʃi,J,central_asian:to hear:3,central_asian
 to see,KK-Halqabad 1,kørʊː,A,central_asian:to see:1,central_asian
@@ -7538,7 +7538,7 @@ to squeeze,T-Nimich 1,ʤəqidan,J,central_asian:to squeeze:2,central_asian
 to squeeze,T-Nimich 2,ʤoqidan,J,central_asian:to squeeze:2,central_asian
 to squeeze,T-Nimich 3,ʧqidan,J,central_asian:to squeeze:2,central_asian
 to squeeze,T-Nimich 4,ʤəqidan,J,central_asian:to squeeze:2,central_asian
-to squeeze,T-Novmetan 1,paʃ,E,central_asian:to squeeze:7,central_asian
+to squeeze,T-Novmetan 1,paʃ,E,central_asian:to squeeze:4,central_asian
 to squeeze,T-Novmetan 2,qɪs,A,central_asian:to squeeze:1,central_asian
 to squeeze,T-Nûshor 1,ʤəqidan,J,central_asian:to squeeze:2,central_asian
 to squeeze,T-Nûshor 2,ʤapidan,J,central_asian:to squeeze:2,central_asian
@@ -7567,10 +7567,10 @@ to squeeze,U-Urtoqqishloq 3,sq ̩mɔq,C,central_asian:to squeeze:1,central_asian
 to squeeze,U-Urtoqqishloq 4,qs̩mɔq,A,central_asian:to squeeze:1,central_asian
 to squeeze,U-Zarmanak 3,qismɔq,A,central_asian:to squeeze:1,central_asian
 to squeeze,U-Zarmanak 4,qsmɔq,A,central_asian:to squeeze:1,central_asian
-to squeeze,Y-Dugova 1,likat,P,central_asian:to squeeze:6,central_asian
-to squeeze,Y-Dugova 2,muʃti,Q,central_asian:to squeeze:5,central_asian
+to squeeze,Y-Dugova 1,likat,P,central_asian:to squeeze:5,central_asian
+to squeeze,Y-Dugova 2,muʃti,Q,central_asian:to squeeze:1,central_asian
 to squeeze,Y-Safedorak 1,ɣiʒimak,R,central_asian:to squeeze:1,central_asian
-to squeeze,Y-Safedorak 2,ʧʊvak,S,central_asian:to squeeze:4,central_asian
+to squeeze,Y-Safedorak 2,ʧʊvak,S,central_asian:to squeeze:2,central_asian
 to sit,KK-Halqabad 1,wɔtrʊː,A,central_asian:to sit:1,central_asian
 to sit,KK-Halqabad 2,wɔtrʊː,A,central_asian:to sit:1,central_asian
 to sit,KK-Halqabad 3,wɔtrʊː,A,central_asian:to sit:1,central_asian
@@ -7614,7 +7614,7 @@ to sit,T-Kamangaron 3,ʃitan,B,central_asian:to sit:2,central_asian
 to sit,T-Kamangaron 4,ʃiʃtan,B,central_asian:to sit:2,central_asian
 to sit,T-Kaptarhona 1,ʃiʃtan,B,central_asian:to sit:2,central_asian
 to sit,T-Kaptarhona 2,ʃiʃtan,B,central_asian:to sit:2,central_asian
-to sit,T-Kaptarhona 3,mʲeʃinam,B,central_asian:to sit:4,central_asian
+to sit,T-Kaptarhona 3,mʲeʃinam,B,central_asian:to sit:2,central_asian
 to sit,T-Kaptarhona 4,ʃiʃtan,B,central_asian:to sit:2,central_asian
 to sit,T-Kaptarhona 5,ʃiʃtan,B,central_asian:to sit:2,central_asian
 to sit,T-Navdî 1,ʃiʃtan,B,central_asian:to sit:2,central_asian
@@ -7744,78 +7744,78 @@ to kill,Y-Dugova 1,atxujimʃ,C,central_asian:to kill:3,central_asian
 to kill,Y-Dugova 2,tuxojak,C,central_asian:to kill:3,central_asian
 to kill,Y-Safedorak 1,txʊjak,C,central_asian:to kill:3,central_asian
 to kill,Y-Safedorak 2,txʊjak,C,central_asian:to kill:3,central_asian
-to dig,KK-Halqabad 1,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Halqabad 2,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Halqabad 3,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Kokdarya 1,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Kokdarya 2,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Kokdarya 3,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Kokdarya 4,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Shege 1,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Shege 2,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Shege 3,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,KK-Shege 4,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ka-Gazli 1,qazu,A,central_asian:to dig:1,central_asian
-to dig,Ka-Gazli 2,qazu,A,central_asian:to dig:1,central_asian
-to dig,Ka-Gazli 3,qazu,A,central_asian:to dig:1,central_asian
-to dig,Ka-Gazli 4,qazu,A,central_asian:to dig:1,central_asian
-to dig,Ka-Gazli 5,qazu,A,central_asian:to dig:1,central_asian
-to dig,Ka-Gazli 6,qazu,A,central_asian:to dig:1,central_asian
-to dig,Ka-Gazli 7,qazu,A,central_asian:to dig:1,central_asian
-to dig,Ka-Raushan 1,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ka-Raushan 2,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ka-Raushan 3,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ka-Raushan 4,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Akmuz 1,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Akmuz 2,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Akmuz 3,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Barskoon,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Kulanak 1,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Kulanak 2,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Kulanak 3,qaz̥,A,central_asian:to dig:1,central_asian
-to dig,Ki-Kulanak 4,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Kulanak 5,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Orday 1,qɒzɪʃ,A,central_asian:to dig:1,central_asian
+to dig,KK-Halqabad 1,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Halqabad 2,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Halqabad 3,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Kokdarya 1,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Kokdarya 2,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Kokdarya 3,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Kokdarya 4,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Shege 1,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Shege 2,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Shege 3,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,KK-Shege 4,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ka-Gazli 1,qazu,A,central_asian:to dig:2,central_asian
+to dig,Ka-Gazli 2,qazu,A,central_asian:to dig:2,central_asian
+to dig,Ka-Gazli 3,qazu,A,central_asian:to dig:2,central_asian
+to dig,Ka-Gazli 4,qazu,A,central_asian:to dig:2,central_asian
+to dig,Ka-Gazli 5,qazu,A,central_asian:to dig:2,central_asian
+to dig,Ka-Gazli 6,qazu,A,central_asian:to dig:2,central_asian
+to dig,Ka-Gazli 7,qazu,A,central_asian:to dig:2,central_asian
+to dig,Ka-Raushan 1,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ka-Raushan 2,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ka-Raushan 3,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ka-Raushan 4,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Akmuz 1,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Akmuz 2,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Akmuz 3,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Barskoon,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Kulanak 1,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Kulanak 2,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Kulanak 3,qaz̥,A,central_asian:to dig:2,central_asian
+to dig,Ki-Kulanak 4,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Kulanak 5,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Orday 1,qɒzɪʃ,A,central_asian:to dig:2,central_asian
 to dig,Ki-Orday 2,kaβlɛm,B,central_asian:to dig:3,central_asian
 to dig,Ki-Orday 3,ʧavɛt,B,central_asian:to dig:3,central_asian
-to dig,Ki-Orday 4,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,Ki-Tamga,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,T-Agalyk,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Kamangaron 1,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Kamangaron 2,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Kamangaron 3,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Kamangaron 4,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Kaptarhona 1,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Kaptarhona 2,koftan,B,central_asian:to dig:2,central_asian
+to dig,Ki-Orday 4,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,Ki-Tamga,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,T-Agalyk,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Kamangaron 1,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Kamangaron 2,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Kamangaron 3,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Kamangaron 4,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Kaptarhona 1,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Kaptarhona 2,koftan,B,central_asian:to dig:1,central_asian
 to dig,T-Kaptarhona 3,mekanom,C,central_asian:to dig:4,central_asian
-to dig,T-Kaptarhona 4,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Kaptarhona 5,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Navdî 1,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Navdî 2,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Navdî 3,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Nimich 1,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Nimich 2,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Nimich 3,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Nimich 4,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Novmetan 1,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Novmetan 2,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Nûshor 1,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Nûshor 3,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Rishtan 1,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Rishtan 2,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Rishtan 3,koftan,B,central_asian:to dig:2,central_asian
-to dig,T-Shink 1,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Shink 2,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Shink 3,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Urmetan 1,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Urmetan 2,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Urmetan 3,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Urmetan 4,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,T-Zarmanak 1,kandan,C,central_asian:to dig:2,central_asian
-to dig,T-Zarmanak 2,kɔftan,B,central_asian:to dig:2,central_asian
-to dig,U-Hitoy 1,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,U-Hitoy 2,qazʊː,A,central_asian:to dig:1,central_asian
-to dig,U-Hitoy 3,qazʊː,A,central_asian:to dig:1,central_asian
+to dig,T-Kaptarhona 4,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Kaptarhona 5,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Navdî 1,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Navdî 2,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Navdî 3,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Nimich 1,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Nimich 2,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Nimich 3,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Nimich 4,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Novmetan 1,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Novmetan 2,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Nûshor 1,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Nûshor 3,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Rishtan 1,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Rishtan 2,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Rishtan 3,koftan,B,central_asian:to dig:1,central_asian
+to dig,T-Shink 1,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Shink 2,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Shink 3,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Urmetan 1,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Urmetan 2,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Urmetan 3,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Urmetan 4,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,T-Zarmanak 1,kandan,C,central_asian:to dig:1,central_asian
+to dig,T-Zarmanak 2,kɔftan,B,central_asian:to dig:1,central_asian
+to dig,U-Hitoy 1,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,U-Hitoy 2,qazʊː,A,central_asian:to dig:2,central_asian
+to dig,U-Hitoy 3,qazʊː,A,central_asian:to dig:2,central_asian
 to dig,U-Novmetan 3,kɔvlaʃ,B,central_asian:to dig:3,central_asian
 to dig,U-Soy Mahalla 1,kaβlaʃ,B,central_asian:to dig:3,central_asian
 to dig,U-Soy Mahalla 2,ʧaβlamɔq,B,central_asian:to dig:3,central_asian
@@ -7827,9 +7827,9 @@ to dig,U-Urtoqqishloq 4,kɔvlamɔq,B,central_asian:to dig:3,central_asian
 to dig,U-Zarmanak 3,kɔvlaʃ,B,central_asian:to dig:3,central_asian
 to dig,U-Zarmanak 4,kɔwlamɔq,B,central_asian:to dig:3,central_asian
 to dig,Y-Dugova 1,akanim,C,central_asian:to dig:4,central_asian
-to dig,Y-Dugova 2,kanak,C,central_asian:to dig:2,central_asian
-to dig,Y-Safedorak 1,koβak,B,central_asian:to dig:2,central_asian
-to dig,Y-Safedorak 2,kanak,C,central_asian:to dig:2,central_asian
+to dig,Y-Dugova 2,kanak,C,central_asian:to dig:1,central_asian
+to dig,Y-Safedorak 1,koβak,B,central_asian:to dig:1,central_asian
+to dig,Y-Safedorak 2,kanak,C,central_asian:to dig:1,central_asian
 to fear,KK-Halqabad 1,qɔrχʊː,A,central_asian:to fear:1,central_asian
 to fear,KK-Halqabad 2,qɔrqʊː,A,central_asian:to fear:1,central_asian
 to fear,KK-Halqabad 3,qɔrqʊː,A,central_asian:to fear:1,central_asian
@@ -8207,39 +8207,39 @@ yellow,Ki-Orday 2,sarɜq,A,central_asian:yellow:1,central_asian
 yellow,Ki-Orday 3,sarɜq,A,central_asian:yellow:1,central_asian
 yellow,Ki-Orday 4,sarɨ,A,central_asian:yellow:1,central_asian
 yellow,Ki-Tamga,sarɨ,A,central_asian:yellow:1,central_asian
-yellow,T-Agalyk,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Kamangaron 1,zard̥,B,central_asian:yellow:1,central_asian
-yellow,T-Kamangaron 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Kamangaron 3,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Kaptarhona 1,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Kaptarhona 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Kaptarhona 3,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Kaptarhona 4,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Kaptarhona 5,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Navdî 1,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Navdî 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Navdî 3,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Nimich 1,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Nimich 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Nimich 3,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Nimich 4,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Novmetan 1,zart,B,central_asian:yellow:1,central_asian
-yellow,T-Novmetan 2,zard̥,B,central_asian:yellow:1,central_asian
-yellow,T-Nûshor 1,zard̥,B,central_asian:yellow:1,central_asian
-yellow,T-Nûshor 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Nûshor 3,zard̥,B,central_asian:yellow:1,central_asian
-yellow,T-Rishtan 1,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Rishtan 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Rishtan 3,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Shink 1,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Shink 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Shink 3,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Urmetan 1,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Urmetan 2,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Urmetan 3,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Urmetan 4,zard,B,central_asian:yellow:1,central_asian
-yellow,T-Zarmanak 1,zard̥,B,central_asian:yellow:1,central_asian
-yellow,T-Zarmanak 2,zard̥,B,central_asian:yellow:1,central_asian
+yellow,T-Agalyk,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Kamangaron 1,zard̥,B,central_asian:yellow:2,central_asian
+yellow,T-Kamangaron 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Kamangaron 3,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Kaptarhona 1,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Kaptarhona 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Kaptarhona 3,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Kaptarhona 4,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Kaptarhona 5,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Navdî 1,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Navdî 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Navdî 3,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Nimich 1,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Nimich 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Nimich 3,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Nimich 4,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Novmetan 1,zart,B,central_asian:yellow:2,central_asian
+yellow,T-Novmetan 2,zard̥,B,central_asian:yellow:2,central_asian
+yellow,T-Nûshor 1,zard̥,B,central_asian:yellow:2,central_asian
+yellow,T-Nûshor 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Nûshor 3,zard̥,B,central_asian:yellow:2,central_asian
+yellow,T-Rishtan 1,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Rishtan 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Rishtan 3,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Shink 1,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Shink 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Shink 3,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Urmetan 1,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Urmetan 2,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Urmetan 3,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Urmetan 4,zard,B,central_asian:yellow:2,central_asian
+yellow,T-Zarmanak 1,zard̥,B,central_asian:yellow:2,central_asian
+yellow,T-Zarmanak 2,zard̥,B,central_asian:yellow:2,central_asian
 yellow,U-Hitoy 1,sarɜ,A,central_asian:yellow:1,central_asian
 yellow,U-Hitoy 2,sarɜ,A,central_asian:yellow:1,central_asian
 yellow,U-Hitoy 3,sarɜ,A,central_asian:yellow:1,central_asian
@@ -8253,10 +8253,10 @@ yellow,U-Urtoqqishloq 3,sarəq,A,central_asian:yellow:1,central_asian
 yellow,U-Urtoqqishloq 4,sarəq,A,central_asian:yellow:1,central_asian
 yellow,U-Zarmanak 3,sarəq,A,central_asian:yellow:1,central_asian
 yellow,U-Zarmanak 4,sarəq,A,central_asian:yellow:1,central_asian
-yellow,Y-Dugova 1,zard,B,central_asian:yellow:1,central_asian
-yellow,Y-Dugova 2,zard,B,central_asian:yellow:1,central_asian
-yellow,Y-Safedorak 1,zard,B,central_asian:yellow:1,central_asian
-yellow,Y-Safedorak 2,zard,B,central_asian:yellow:1,central_asian
+yellow,Y-Dugova 1,zard,B,central_asian:yellow:2,central_asian
+yellow,Y-Dugova 2,zard,B,central_asian:yellow:2,central_asian
+yellow,Y-Safedorak 1,zard,B,central_asian:yellow:2,central_asian
+yellow,Y-Safedorak 2,zard,B,central_asian:yellow:2,central_asian
 green,KK-Halqabad 1,kwøk,B,central_asian:green:4,central_asian
 green,KK-Halqabad 2,ʒasɨl,A,central_asian:green:1,central_asian
 green,KK-Halqabad 3,kʉk,B,central_asian:green:4,central_asian
@@ -8375,7 +8375,7 @@ full,Ki-Kulanak 4,tɔlʊq,A,central_asian:full:1,central_asian
 full,Ki-Kulanak 5,tɔlʊq,A,central_asian:full:1,central_asian
 full,Ki-Orday 1,tɔləq,A,central_asian:full:1,central_asian
 full,Ki-Orday 2,tɔldɜr,B,central_asian:full:1,central_asian
-full,Ki-Orday 3,bardɐdɐ,C,central_asian:full:2,central_asian
+full,Ki-Orday 3,bardɐdɐ,C,central_asian:full:1,central_asian
 full,Ki-Orday 4,tɔlʊq,A,central_asian:full:1,central_asian
 full,Ki-Tamga,tɔltʊra,B,central_asian:full:1,central_asian
 full,T-Agalyk,pʉrrak,G,central_asian:full:2,central_asian
@@ -8537,25 +8537,25 @@ to freeze,Ka-Raushan 2,tɔŋʊː,A,central_asian:to freeze:2,central_asian
 to freeze,Ka-Raushan 3,tɔŋʊː,A,central_asian:to freeze:2,central_asian
 to freeze,Ka-Raushan 4,tɔŋʊː,A,central_asian:to freeze:2,central_asian
 to freeze,Ki-Akmuz 1,tɔŋu,A,central_asian:to freeze:2,central_asian
-to freeze,Ki-Akmuz 2,yʃyː,C,central_asian:to freeze:3,central_asian
-to freeze,Ki-Akmuz 3,yʃyː,C,central_asian:to freeze:3,central_asian
-to freeze,Ki-Barskoon,ʉʃʉː,C,central_asian:to freeze:3,central_asian
-to freeze,Ki-Kulanak 1,yʃyː,C,central_asian:to freeze:3,central_asian
+to freeze,Ki-Akmuz 2,yʃyː,C,central_asian:to freeze:4,central_asian
+to freeze,Ki-Akmuz 3,yʃyː,C,central_asian:to freeze:4,central_asian
+to freeze,Ki-Barskoon,ʉʃʉː,C,central_asian:to freeze:4,central_asian
+to freeze,Ki-Kulanak 1,yʃyː,C,central_asian:to freeze:4,central_asian
 to freeze,Ki-Kulanak 2,tɔŋuː,A,central_asian:to freeze:2,central_asian
 to freeze,Ki-Kulanak 3,tɔŋuː,A,central_asian:to freeze:2,central_asian
 to freeze,Ki-Kulanak 4,tɔŋuː,A,central_asian:to freeze:2,central_asian
 to freeze,Ki-Kulanak 5,tɔŋuː,A,central_asian:to freeze:2,central_asian
-to freeze,Ki-Orday 1,yʃɪʃ,C,central_asian:to freeze:3,central_asian
+to freeze,Ki-Orday 1,yʃɪʃ,C,central_asian:to freeze:4,central_asian
 to freeze,Ki-Orday 2,tɔŋɨjt,A,central_asian:to freeze:2,central_asian
-to freeze,Ki-Orday 3,ysyt,C,central_asian:to freeze:3,central_asian
+to freeze,Ki-Orday 3,ysyt,C,central_asian:to freeze:4,central_asian
 to freeze,Ki-Orday 4,tɔŋʊː,A,central_asian:to freeze:2,central_asian
-to freeze,Ki-Tamga,yʃyː,C,central_asian:to freeze:3,central_asian
+to freeze,Ki-Tamga,yʃyː,C,central_asian:to freeze:4,central_asian
 to freeze,T-Agalyk,xunuk,I,central_asian:to freeze:1,central_asian
-to freeze,T-Kamangaron 1,jax,J,central_asian:to freeze:6,central_asian
+to freeze,T-Kamangaron 1,jax,J,central_asian:to freeze:5,central_asian
 to freeze,T-Kamangaron 2,xunuk,I,central_asian:to freeze:1,central_asian
 to freeze,T-Kamangaron 3,xunuk,I,central_asian:to freeze:1,central_asian
 to freeze,T-Kamangaron 4,xunuk,I,central_asian:to freeze:1,central_asian
-to freeze,T-Kaptarhona 1,jax,J,central_asian:to freeze:6,central_asian
+to freeze,T-Kaptarhona 1,jax,J,central_asian:to freeze:5,central_asian
 to freeze,T-Kaptarhona 2,xunuk,I,central_asian:to freeze:1,central_asian
 to freeze,T-Kaptarhona 3,xanək,I,central_asian:to freeze:1,central_asian
 to freeze,T-Kaptarhona 4,xənək,I,central_asian:to freeze:1,central_asian
@@ -8564,7 +8564,7 @@ to freeze,T-Navdî 1,xunuk,I,central_asian:to freeze:1,central_asian
 to freeze,T-Navdî 2,xunuk,I,central_asian:to freeze:1,central_asian
 to freeze,T-Navdî 3,xunuk,I,central_asian:to freeze:1,central_asian
 to freeze,T-Nimich 1,xunuk,I,central_asian:to freeze:1,central_asian
-to freeze,T-Nimich 2,jax,J,central_asian:to freeze:6,central_asian
+to freeze,T-Nimich 2,jax,J,central_asian:to freeze:5,central_asian
 to freeze,T-Nimich 3,xənək,I,central_asian:to freeze:1,central_asian
 to freeze,T-Nimich 4,xənək,I,central_asian:to freeze:1,central_asian
 to freeze,T-Novmetan 1,xunuk,I,central_asian:to freeze:1,central_asian
@@ -8587,17 +8587,17 @@ to freeze,T-Zarmanak 2,xunuk,I,central_asian:to freeze:1,central_asian
 to freeze,U-Hitoy 1,tɔŋʊː,A,central_asian:to freeze:2,central_asian
 to freeze,U-Hitoy 2,tɔŋʊː,A,central_asian:to freeze:2,central_asian
 to freeze,U-Hitoy 3,tɔŋʊː,A,central_asian:to freeze:2,central_asian
-to freeze,U-Novmetan 3,sauq,D,central_asian:to freeze:5,central_asian
-to freeze,U-Soy Mahalla 1,sɔβʊq,D,central_asian:to freeze:5,central_asian
-to freeze,U-Soy Mahalla 2,muzlamɔq,E,central_asian:to freeze:4,central_asian
-to freeze,U-Soy Mahalla 3,sɔβʊq,D,central_asian:to freeze:5,central_asian
-to freeze,U-Urtoqqishloq 1,sɔqɔtɪʃ,F,central_asian:to freeze:5,central_asian
-to freeze,U-Urtoqqishloq 2,mʊzlamɔq,E,central_asian:to freeze:4,central_asian
-to freeze,U-Urtoqqishloq 3,mʊzlamɔq,E,central_asian:to freeze:4,central_asian
-to freeze,U-Urtoqqishloq 4,mʊzlamɔq,E,central_asian:to freeze:4,central_asian
-to freeze,U-Zarmanak 3,muzlamɔq,E,central_asian:to freeze:4,central_asian
-to freeze,U-Zarmanak 4,sɔvuq,D,central_asian:to freeze:5,central_asian
-to freeze,Y-Dugova 1,ix,J,central_asian:to freeze:6,central_asian
+to freeze,U-Novmetan 3,sauq,D,central_asian:to freeze:3,central_asian
+to freeze,U-Soy Mahalla 1,sɔβʊq,D,central_asian:to freeze:3,central_asian
+to freeze,U-Soy Mahalla 2,muzlamɔq,E,central_asian:to freeze:3,central_asian
+to freeze,U-Soy Mahalla 3,sɔβʊq,D,central_asian:to freeze:3,central_asian
+to freeze,U-Urtoqqishloq 1,sɔqɔtɪʃ,F,central_asian:to freeze:3,central_asian
+to freeze,U-Urtoqqishloq 2,mʊzlamɔq,E,central_asian:to freeze:3,central_asian
+to freeze,U-Urtoqqishloq 3,mʊzlamɔq,E,central_asian:to freeze:3,central_asian
+to freeze,U-Urtoqqishloq 4,mʊzlamɔq,E,central_asian:to freeze:3,central_asian
+to freeze,U-Zarmanak 3,muzlamɔq,E,central_asian:to freeze:3,central_asian
+to freeze,U-Zarmanak 4,sɔvuq,D,central_asian:to freeze:3,central_asian
+to freeze,Y-Dugova 1,ix,J,central_asian:to freeze:5,central_asian
 to freeze,Y-Dugova 2,xʊnʊk,I,central_asian:to freeze:1,central_asian
 to freeze,Y-Safedorak 1,xʊnʊk,I,central_asian:to freeze:1,central_asian
 to freeze,Y-Safedorak 2,xʊnʊk,I,central_asian:to freeze:1,central_asian
@@ -8639,8 +8639,8 @@ to cut,Ki-Tamga,kʲesyː,A,central_asian:to cut:1,central_asian
 to cut,T-Agalyk,bʊridan,C,central_asian:to cut:2,central_asian
 to cut,T-Kamangaron 1,buridan,C,central_asian:to cut:2,central_asian
 to cut,T-Kamangaron 2,buridan,C,central_asian:to cut:2,central_asian
-to cut,T-Kamangaron 3,ʧɔ,D,central_asian:to cut:5,central_asian
-to cut,T-Kamangaron 4,rʲeza,E,central_asian:to cut:4,central_asian
+to cut,T-Kamangaron 3,ʧɔ,D,central_asian:to cut:4,central_asian
+to cut,T-Kamangaron 4,rʲeza,E,central_asian:to cut:3,central_asian
 to cut,T-Kaptarhona 1,bridan,C,central_asian:to cut:2,central_asian
 to cut,T-Kaptarhona 2,bəridan,C,central_asian:to cut:2,central_asian
 to cut,T-Kaptarhona 3,mebaram,C,central_asian:to cut:3,central_asian
@@ -8683,10 +8683,10 @@ to cut,U-Urtoqqishloq 3,kʲesmɔq,A,central_asian:to cut:1,central_asian
 to cut,U-Urtoqqishloq 4,kʲesmɔq,A,central_asian:to cut:1,central_asian
 to cut,U-Zarmanak 3,kʲesiʃ,A,central_asian:to cut:1,central_asian
 to cut,U-Zarmanak 4,kʲesmɔq,A,central_asian:to cut:1,central_asian
-to cut,Y-Dugova 1,pakaʃ,H,central_asian:to cut:6,central_asian
-to cut,Y-Dugova 2,rezai,E,central_asian:to cut:4,central_asian
+to cut,Y-Dugova 1,pakaʃ,H,central_asian:to cut:5,central_asian
+to cut,Y-Dugova 2,rezai,E,central_asian:to cut:3,central_asian
 to cut,Y-Safedorak 1,majdai,G,central_asian:to cut:3,central_asian
-to cut,Y-Safedorak 2,kʊʃak,I,central_asian:to cut:7,central_asian
+to cut,Y-Safedorak 2,kʊʃak,I,central_asian:to cut:6,central_asian
 to hit,KK-Halqabad 1,ʊrʊː,A,central_asian:to hit:1,central_asian
 to hit,KK-Halqabad 2,ʊrʊː,A,central_asian:to hit:1,central_asian
 to hit,KK-Halqabad 3,ʊrʊː,A,central_asian:to hit:1,central_asian
@@ -8710,13 +8710,13 @@ to hit,Ka-Raushan 2,ʊrʊː,A,central_asian:to hit:1,central_asian
 to hit,Ka-Raushan 3,ʊrʊː,A,central_asian:to hit:1,central_asian
 to hit,Ka-Raushan 4,ʊrʊː,A,central_asian:to hit:1,central_asian
 to hit,Ki-Akmuz 1,uruː,A,central_asian:to hit:1,central_asian
-to hit,Ki-Akmuz 2,ʧaβuː,B,central_asian:to hit:3,central_asian
+to hit,Ki-Akmuz 2,ʧaβuː,B,central_asian:to hit:4,central_asian
 to hit,Ki-Akmuz 3,turat,C,central_asian:to hit:1,central_asian
 to hit,Ki-Barskoon,ʃoq,D,central_asian:to hit:1,central_asian
-to hit,Ki-Kulanak 2,ʧaβuː,B,central_asian:to hit:3,central_asian
+to hit,Ki-Kulanak 2,ʧaβuː,B,central_asian:to hit:4,central_asian
 to hit,Ki-Kulanak 3,ur,A,central_asian:to hit:1,central_asian
 to hit,Ki-Kulanak 4,uruː,A,central_asian:to hit:1,central_asian
-to hit,Ki-Kulanak 5,ʧaβuː,B,central_asian:to hit:3,central_asian
+to hit,Ki-Kulanak 5,ʧaβuː,B,central_asian:to hit:4,central_asian
 to hit,Ki-Orday 1,urɪʃ,A,central_asian:to hit:1,central_asian
 to hit,Ki-Orday 2,uram,A,central_asian:to hit:1,central_asian
 to hit,Ki-Orday 3,urat,A,central_asian:to hit:1,central_asian
@@ -8733,7 +8733,7 @@ to hit,T-Kaptarhona 3,mezanam,J,central_asian:to hit:2,central_asian
 to hit,T-Kaptarhona 4,zadan,J,central_asian:to hit:2,central_asian
 to hit,T-Kaptarhona 5,zadan,J,central_asian:to hit:2,central_asian
 to hit,T-Navdî 1,zadan,J,central_asian:to hit:2,central_asian
-to hit,T-Navdî 3,lat,K,central_asian:to hit:4,central_asian
+to hit,T-Navdî 3,lat,K,central_asian:to hit:1,central_asian
 to hit,T-Nimich 1,zadan,J,central_asian:to hit:2,central_asian
 to hit,T-Nimich 2,zadan,J,central_asian:to hit:2,central_asian
 to hit,T-Nimich 3,zadan,J,central_asian:to hit:2,central_asian
@@ -8769,9 +8769,9 @@ to hit,U-Urtoqqishloq 4,urmɔq,A,central_asian:to hit:1,central_asian
 to hit,U-Zarmanak 3,urmɔq,A,central_asian:to hit:1,central_asian
 to hit,U-Zarmanak 4,urmɔq,A,central_asian:to hit:1,central_asian
 to hit,Y-Dugova 1,adehimʃ,L,central_asian:to hit:5,central_asian
-to hit,Y-Dugova 2,dihak,L,central_asian:to hit:4,central_asian
-to hit,Y-Safedorak 1,dɪhak,L,central_asian:to hit:4,central_asian
-to hit,Y-Safedorak 2,dɪhak,L,central_asian:to hit:4,central_asian
+to hit,Y-Dugova 2,dihak,L,central_asian:to hit:3,central_asian
+to hit,Y-Safedorak 1,dɪhak,L,central_asian:to hit:3,central_asian
+to hit,Y-Safedorak 2,dɪhak,L,central_asian:to hit:3,central_asian
 to hunt,KK-Halqabad 1,aŋ,A,central_asian:to hunt:1,central_asian
 to hunt,KK-Halqabad 2,aŋ,A,central_asian:to hunt:1,central_asian
 to hunt,KK-Halqabad 3,aŋ,A,central_asian:to hunt:1,central_asian
@@ -8823,7 +8823,7 @@ to hunt,T-Nimich 2,ʃikɔr,F,central_asian:to hunt:2,central_asian
 to hunt,T-Nimich 3,ʃikɔr,F,central_asian:to hunt:2,central_asian
 to hunt,T-Nimich 4,ʃkɔr,F,central_asian:to hunt:2,central_asian
 to hunt,T-Novmetan 1,axota,G,central_asian:to hunt:3,central_asian
-to hunt,T-Novmetan 2,awʧi,E,central_asian:to hunt:1,central_asian
+to hunt,T-Novmetan 2,awʧi,E,central_asian:to hunt:3,central_asian
 to hunt,T-Nûshor 1,ʃikɔr,F,central_asian:to hunt:2,central_asian
 to hunt,T-Nûshor 3,ʃkɔr,F,central_asian:to hunt:2,central_asian
 to hunt,T-Rishtan 1,ɔw,E,central_asian:to hunt:3,central_asian
@@ -8885,43 +8885,43 @@ to scratch,Ki-Kulanak 2,tɨtʊː,C,central_asian:to scratch:1,central_asian
 to scratch,Ki-Kulanak 3,tɨt,C,central_asian:to scratch:1,central_asian
 to scratch,Ki-Kulanak 4,tɨrmɔː,A,central_asian:to scratch:1,central_asian
 to scratch,Ki-Kulanak 5,tɨtʊː,C,central_asian:to scratch:1,central_asian
-to scratch,Ki-Orday 1,ʒɨrmalaʃ,B,central_asian:to scratch:1,central_asian
+to scratch,Ki-Orday 1,ʒɨrmalaʃ,B,central_asian:to scratch:4,central_asian
 to scratch,Ki-Orday 2,tɨrnaɪm,A,central_asian:to scratch:1,central_asian
 to scratch,Ki-Orday 3,tarajt,A,central_asian:to scratch:1,central_asian
 to scratch,Ki-Orday 4,tɨrmoː,A,central_asian:to scratch:1,central_asian
 to scratch,Ki-Tamga,tɨtʊː,C,central_asian:to scratch:1,central_asian
-to scratch,T-Agalyk,xarɔʃidan,H,central_asian:to scratch:3,central_asian
+to scratch,T-Agalyk,xarɔʃidan,H,central_asian:to scratch:2,central_asian
 to scratch,T-Kamangaron 1,xanʤɔla,J,central_asian:to scratch:2,central_asian
 to scratch,T-Kamangaron 2,xanʤɔla,J,central_asian:to scratch:2,central_asian
 to scratch,T-Kamangaron 3,xanʤɔra,J,central_asian:to scratch:2,central_asian
 to scratch,T-Kamangaron 4,xanʤɔ,J,central_asian:to scratch:2,central_asian
-to scratch,T-Kaptarhona 1,xør,H,central_asian:to scratch:4,central_asian
-to scratch,T-Kaptarhona 2,xur,H,central_asian:to scratch:4,central_asian
-to scratch,T-Kaptarhona 3,xra,H,central_asian:to scratch:4,central_asian
-to scratch,T-Kaptarhona 4,xør,H,central_asian:to scratch:4,central_asian
-to scratch,T-Kaptarhona 5,xr̩,H,central_asian:to scratch:4,central_asian
-to scratch,T-Navdî 1,xərɔʃidan,H,central_asian:to scratch:3,central_asian
-to scratch,T-Navdî 2,xaroʃidan,H,central_asian:to scratch:3,central_asian
-to scratch,T-Navdî 3,xaroʃidan,H,central_asian:to scratch:3,central_asian
+to scratch,T-Kaptarhona 1,xør,H,central_asian:to scratch:3,central_asian
+to scratch,T-Kaptarhona 2,xur,H,central_asian:to scratch:3,central_asian
+to scratch,T-Kaptarhona 3,xra,H,central_asian:to scratch:3,central_asian
+to scratch,T-Kaptarhona 4,xør,H,central_asian:to scratch:3,central_asian
+to scratch,T-Kaptarhona 5,xr̩,H,central_asian:to scratch:3,central_asian
+to scratch,T-Navdî 1,xərɔʃidan,H,central_asian:to scratch:2,central_asian
+to scratch,T-Navdî 2,xaroʃidan,H,central_asian:to scratch:2,central_asian
+to scratch,T-Navdî 3,xaroʃidan,H,central_asian:to scratch:2,central_asian
 to scratch,T-Nimich 1,kandan,K,central_asian:to scratch:2,central_asian
-to scratch,T-Nimich 2,xarɔʃidan,H,central_asian:to scratch:3,central_asian
-to scratch,T-Nimich 3,xərɔʃidan,H,central_asian:to scratch:3,central_asian
-to scratch,T-Nimich 4,xərɔʃidan,H,central_asian:to scratch:3,central_asian
+to scratch,T-Nimich 2,xarɔʃidan,H,central_asian:to scratch:2,central_asian
+to scratch,T-Nimich 3,xərɔʃidan,H,central_asian:to scratch:2,central_asian
+to scratch,T-Nimich 4,xərɔʃidan,H,central_asian:to scratch:2,central_asian
 to scratch,T-Novmetan 1,xanʤɔl,J,central_asian:to scratch:2,central_asian
 to scratch,T-Novmetan 2,xanʤɔl,J,central_asian:to scratch:2,central_asian
 to scratch,T-Nûshor 1,kandan,K,central_asian:to scratch:2,central_asian
 to scratch,T-Nûshor 2,kandan,K,central_asian:to scratch:2,central_asian
-to scratch,T-Nûshor 3,xəroʃidan,H,central_asian:to scratch:3,central_asian
+to scratch,T-Nûshor 3,xəroʃidan,H,central_asian:to scratch:2,central_asian
 to scratch,T-Rishtan 1,kandan,K,central_asian:to scratch:2,central_asian
 to scratch,T-Rishtan 2,kandan,K,central_asian:to scratch:2,central_asian
 to scratch,T-Rishtan 3,kandan,K,central_asian:to scratch:2,central_asian
 to scratch,T-Shink 1,kandan,K,central_asian:to scratch:2,central_asian
-to scratch,T-Shink 2,xarɔʃidan,H,central_asian:to scratch:3,central_asian
-to scratch,T-Shink 3,xarɔʃidan,H,central_asian:to scratch:3,central_asian
-to scratch,T-Urmetan 1,ɣɔzidan,L,central_asian:to scratch:3,central_asian
-to scratch,T-Urmetan 2,xaroʃidan,H,central_asian:to scratch:3,central_asian
-to scratch,T-Urmetan 3,xar,H,central_asian:to scratch:4,central_asian
-to scratch,T-Urmetan 4,ɣɔzidan,L,central_asian:to scratch:3,central_asian
+to scratch,T-Shink 2,xarɔʃidan,H,central_asian:to scratch:2,central_asian
+to scratch,T-Shink 3,xarɔʃidan,H,central_asian:to scratch:2,central_asian
+to scratch,T-Urmetan 1,ɣɔzidan,L,central_asian:to scratch:2,central_asian
+to scratch,T-Urmetan 2,xaroʃidan,H,central_asian:to scratch:2,central_asian
+to scratch,T-Urmetan 3,xar,H,central_asian:to scratch:3,central_asian
+to scratch,T-Urmetan 4,ɣɔzidan,L,central_asian:to scratch:2,central_asian
 to scratch,T-Zarmanak 1,xanʤɔl,J,central_asian:to scratch:2,central_asian
 to scratch,T-Zarmanak 2,xanʤɔl,J,central_asian:to scratch:2,central_asian
 to scratch,U-Hitoy 1,tɨrnaʊ,A,central_asian:to scratch:1,central_asian
@@ -8930,7 +8930,7 @@ to scratch,U-Hitoy 3,tɨrnaʊ,A,central_asian:to scratch:1,central_asian
 to scratch,U-Novmetan 3,tɨrnaʃ,A,central_asian:to scratch:1,central_asian
 to scratch,U-Soy Mahalla 1,tɨrnamɔq,A,central_asian:to scratch:1,central_asian
 to scratch,U-Soy Mahalla 2,tɨrnamɔq,A,central_asian:to scratch:1,central_asian
-to scratch,U-Soy Mahalla 3,jʉliʃ,D,central_asian:to scratch:1,central_asian
+to scratch,U-Soy Mahalla 3,jʉliʃ,D,central_asian:to scratch:4,central_asian
 to scratch,U-Urtoqqishloq 1,jylmɔq,D,central_asian:to scratch:1,central_asian
 to scratch,U-Urtoqqishloq 2,tɪrnamɔq,A,central_asian:to scratch:1,central_asian
 to scratch,U-Urtoqqishloq 3,tɪrnamɔq,A,central_asian:to scratch:1,central_asian
@@ -8938,9 +8938,9 @@ to scratch,U-Urtoqqishloq 4,kaʃlamɔq,E,central_asian:to scratch:1,central_asia
 to scratch,U-Zarmanak 3,xastakəlmɔq,F,central_asian:to scratch:1,central_asian
 to scratch,U-Zarmanak 4,tərnamɔq,A,central_asian:to scratch:1,central_asian
 to scratch,Y-Dugova 1,akanimʃ,K,central_asian:to scratch:6,central_asian
-to scratch,Y-Dugova 2,xarajsak,H,central_asian:to scratch:3,central_asian
+to scratch,Y-Dugova 2,xarajsak,H,central_asian:to scratch:2,central_asian
 to scratch,Y-Safedorak 1,kanak,K,central_asian:to scratch:2,central_asian
-to scratch,Y-Safedorak 2,xʊrʊʃak,H,central_asian:to scratch:3,central_asian
+to scratch,Y-Safedorak 2,xʊrʊʃak,H,central_asian:to scratch:2,central_asian
 to swim,KK-Halqabad 1,ʒɨzʊː,A,central_asian:to swim:1,central_asian
 to swim,KK-Halqabad 2,ʒɨzʊː,A,central_asian:to swim:1,central_asian
 to swim,KK-Halqabad 3,ʒɨzʊː,A,central_asian:to swim:1,central_asian
@@ -9096,7 +9096,7 @@ to spit,T-Zarmanak 2,tuf,B,central_asian:to spit:2,central_asian
 to spit,U-Hitoy 1,təpʉrʊ,A,central_asian:to spit:1,central_asian
 to spit,U-Hitoy 2,tʉpʉrʊ,A,central_asian:to spit:1,central_asian
 to spit,U-Hitoy 3,tʉpʉrʊ,A,central_asian:to spit:1,central_asian
-to spit,U-Novmetan 3,tupəriʃ,A,central_asian:to spit:2,central_asian
+to spit,U-Novmetan 3,tupəriʃ,A,central_asian:to spit:1,central_asian
 to spit,U-Soy Mahalla 1,tʊpʊrə,A,central_asian:to spit:1,central_asian
 to spit,U-Soy Mahalla 2,typyrmɔq,A,central_asian:to spit:1,central_asian
 to spit,U-Soy Mahalla 3,tʉpʉrɪʃ,A,central_asian:to spit:1,central_asian
@@ -9503,7 +9503,7 @@ to give,T-Kaptarhona 4,dot,B,central_asian:to give:2,central_asian
 to give,T-Kaptarhona 5,dodan,B,central_asian:to give:2,central_asian
 to give,T-Navdî 1,dodan,B,central_asian:to give:2,central_asian
 to give,T-Navdî 2,dodan,B,central_asian:to give:2,central_asian
-to give,T-Navdî 3,te,C,central_asian:to give:2,central_asian
+to give,T-Navdî 3,te,C,central_asian:to give:4,central_asian
 to give,T-Nimich 1,dodan,B,central_asian:to give:2,central_asian
 to give,T-Nimich 2,dodan,B,central_asian:to give:2,central_asian
 to give,T-Nimich 3,dodan,B,central_asian:to give:2,central_asian
@@ -9672,7 +9672,7 @@ to wash,T-Kamangaron 3,ʃytan,B,central_asian:to wash:2,central_asian
 to wash,T-Kamangaron 4,ʃuʃtan,B,central_asian:to wash:2,central_asian
 to wash,T-Kaptarhona 1,ʃuftan,B,central_asian:to wash:2,central_asian
 to wash,T-Kaptarhona 2,suʃtan,B,central_asian:to wash:2,central_asian
-to wash,T-Kaptarhona 3,mʲeʃum,B,central_asian:to wash:5,central_asian
+to wash,T-Kaptarhona 3,mʲeʃum,B,central_asian:to wash:4,central_asian
 to wash,T-Kaptarhona 4,ʃuftan,B,central_asian:to wash:2,central_asian
 to wash,T-Kaptarhona 5,ʃuftan,B,central_asian:to wash:2,central_asian
 to wash,T-Navdî 1,ʃʉʃtan,B,central_asian:to wash:2,central_asian
@@ -9703,15 +9703,15 @@ to wash,U-Hitoy 1,ʤʊwʊ,A,central_asian:to wash:1,central_asian
 to wash,U-Hitoy 2,ʤʊwʊ,A,central_asian:to wash:1,central_asian
 to wash,U-Hitoy 3,ʤʊβʊ,A,central_asian:to wash:1,central_asian
 to wash,U-Novmetan 3,juviʃ,A,central_asian:to wash:1,central_asian
-to wash,U-Soy Mahalla 1,jumɔq,A,central_asian:to wash:4,central_asian
+to wash,U-Soy Mahalla 1,jumɔq,A,central_asian:to wash:1,central_asian
 to wash,U-Soy Mahalla 2,juvmɔq,A,central_asian:to wash:1,central_asian
 to wash,U-Soy Mahalla 3,juβiʃ,A,central_asian:to wash:1,central_asian
 to wash,U-Urtoqqishloq 1,juwɪʃ,A,central_asian:to wash:1,central_asian
-to wash,U-Urtoqqishloq 2,juːmɔq,A,central_asian:to wash:4,central_asian
-to wash,U-Urtoqqishloq 3,jumɔq,A,central_asian:to wash:4,central_asian
+to wash,U-Urtoqqishloq 2,juːmɔq,A,central_asian:to wash:1,central_asian
+to wash,U-Urtoqqishloq 3,jumɔq,A,central_asian:to wash:1,central_asian
 to wash,U-Urtoqqishloq 4,juwɪʃ,A,central_asian:to wash:1,central_asian
 to wash,U-Zarmanak 3,juviʃ,A,central_asian:to wash:1,central_asian
-to wash,U-Zarmanak 4,juvmɔq,A,central_asian:to wash:4,central_asian
+to wash,U-Zarmanak 4,juvmɔq,A,central_asian:to wash:1,central_asian
 to wash,Y-Dugova 1,asinojim,D,central_asian:to wash:3,central_asian
 to wash,Y-Dugova 2,sinɔjak,D,central_asian:to wash:3,central_asian
 to wash,Y-Safedorak 1,sinojak,D,central_asian:to wash:3,central_asian
@@ -10179,31 +10179,31 @@ to say,Ki-Orday 3,syløjt,B,central_asian:to say:1,central_asian
 to say,Ki-Orday 4,syløw,B,central_asian:to say:1,central_asian
 to say,Ki-Tamga,syjløː,B,central_asian:to say:1,central_asian
 to say,T-Agalyk,guftan,G,central_asian:to say:2,central_asian
-to say,T-Kamangaron 1,gaf,G,central_asian:to say:3,central_asian
+to say,T-Kamangaron 1,gaf,G,central_asian:to say:2,central_asian
 to say,T-Kamangaron 2,guftan,G,central_asian:to say:2,central_asian
 to say,T-Kamangaron 3,guftan,G,central_asian:to say:2,central_asian
-to say,T-Kamangaron 4,gap,G,central_asian:to say:3,central_asian
+to say,T-Kamangaron 4,gap,G,central_asian:to say:2,central_asian
 to say,T-Kaptarhona 1,guftan,G,central_asian:to say:2,central_asian
-to say,T-Kaptarhona 2,gab,G,central_asian:to say:3,central_asian
-to say,T-Kaptarhona 3,gab,G,central_asian:to say:3,central_asian
-to say,T-Kaptarhona 4,gaf,G,central_asian:to say:3,central_asian
-to say,T-Kaptarhona 5,gaf,G,central_asian:to say:3,central_asian
+to say,T-Kaptarhona 2,gab,G,central_asian:to say:2,central_asian
+to say,T-Kaptarhona 3,gab,G,central_asian:to say:2,central_asian
+to say,T-Kaptarhona 4,gaf,G,central_asian:to say:2,central_asian
+to say,T-Kaptarhona 5,gaf,G,central_asian:to say:2,central_asian
 to say,T-Navdî 1,guftan,G,central_asian:to say:2,central_asian
 to say,T-Navdî 2,guftan,G,central_asian:to say:2,central_asian
 to say,T-Navdî 3,gafzan,G,central_asian:to say:2,central_asian
 to say,T-Nimich 1,guftan,G,central_asian:to say:2,central_asian
-to say,T-Nimich 2,gap,G,central_asian:to say:3,central_asian
+to say,T-Nimich 2,gap,G,central_asian:to say:2,central_asian
 to say,T-Nimich 3,guftan,G,central_asian:to say:2,central_asian
 to say,T-Nimich 4,guftan,G,central_asian:to say:2,central_asian
-to say,T-Novmetan 1,gap,G,central_asian:to say:3,central_asian
-to say,T-Novmetan 2,gap,G,central_asian:to say:3,central_asian
+to say,T-Novmetan 1,gap,G,central_asian:to say:2,central_asian
+to say,T-Novmetan 2,gap,G,central_asian:to say:2,central_asian
 to say,T-Nûshor 1,guftan,G,central_asian:to say:2,central_asian
 to say,T-Nûshor 2,guftan,G,central_asian:to say:2,central_asian
-to say,T-Nûshor 3,gap,G,central_asian:to say:3,central_asian
-to say,T-Rishtan 1,gav,G,central_asian:to say:3,central_asian
-to say,T-Rishtan 2,gap,G,central_asian:to say:3,central_asian
-to say,T-Rishtan 3,gap,G,central_asian:to say:3,central_asian
-to say,T-Shink 1,gaf,G,central_asian:to say:3,central_asian
+to say,T-Nûshor 3,gap,G,central_asian:to say:2,central_asian
+to say,T-Rishtan 1,gav,G,central_asian:to say:2,central_asian
+to say,T-Rishtan 2,gap,G,central_asian:to say:2,central_asian
+to say,T-Rishtan 3,gap,G,central_asian:to say:2,central_asian
+to say,T-Shink 1,gaf,G,central_asian:to say:2,central_asian
 to say,T-Shink 2,gʊftan,G,central_asian:to say:2,central_asian
 to say,T-Shink 3,gʊftan,G,central_asian:to say:2,central_asian
 to say,T-Urmetan 1,guftan,G,central_asian:to say:2,central_asian
@@ -10211,24 +10211,24 @@ to say,T-Urmetan 2,guftan,G,central_asian:to say:2,central_asian
 to say,T-Urmetan 3,guftan,G,central_asian:to say:2,central_asian
 to say,T-Urmetan 4,guftan,G,central_asian:to say:2,central_asian
 to say,T-Zarmanak 1,guftan,G,central_asian:to say:2,central_asian
-to say,T-Zarmanak 2,gap,G,central_asian:to say:3,central_asian
+to say,T-Zarmanak 2,gap,G,central_asian:to say:2,central_asian
 to say,U-Hitoy 1,søzlʊː,B,central_asian:to say:1,central_asian
 to say,U-Hitoy 2,søjlʲʊ,B,central_asian:to say:1,central_asian
 to say,U-Hitoy 3,søzlʊː,B,central_asian:to say:1,central_asian
-to say,U-Novmetan 3,gapɪrgin,C,central_asian:to say:4,central_asian
-to say,U-Soy Mahalla 1,gaplaʃiʃ,C,central_asian:to say:4,central_asian
-to say,U-Soy Mahalla 2,gapɪrmɔq,C,central_asian:to say:4,central_asian
-to say,U-Soy Mahalla 3,gapɨrɪʃ,C,central_asian:to say:4,central_asian
-to say,U-Urtoqqishloq 1,gapɨrmɔq,C,central_asian:to say:4,central_asian
-to say,U-Urtoqqishloq 2,ajtmɔq,A,central_asian:to say:4,central_asian
-to say,U-Urtoqqishloq 3,gapərmɔq,C,central_asian:to say:4,central_asian
-to say,U-Urtoqqishloq 4,gapərmɔq,C,central_asian:to say:4,central_asian
-to say,U-Zarmanak 3,gapərmɔq,C,central_asian:to say:4,central_asian
-to say,U-Zarmanak 4,gapərmɔq,C,central_asian:to say:4,central_asian
-to say,Y-Dugova 1,gap,G,central_asian:to say:3,central_asian
-to say,Y-Dugova 2,gap,G,central_asian:to say:3,central_asian
-to say,Y-Safedorak 1,βɔβak,J,central_asian:to say:5,central_asian
-to say,Y-Safedorak 2,gapi,G,central_asian:to say:3,central_asian
+to say,U-Novmetan 3,gapɪrgin,C,central_asian:to say:3,central_asian
+to say,U-Soy Mahalla 1,gaplaʃiʃ,C,central_asian:to say:3,central_asian
+to say,U-Soy Mahalla 2,gapɪrmɔq,C,central_asian:to say:3,central_asian
+to say,U-Soy Mahalla 3,gapɨrɪʃ,C,central_asian:to say:3,central_asian
+to say,U-Urtoqqishloq 1,gapɨrmɔq,C,central_asian:to say:3,central_asian
+to say,U-Urtoqqishloq 2,ajtmɔq,A,central_asian:to say:3,central_asian
+to say,U-Urtoqqishloq 3,gapərmɔq,C,central_asian:to say:3,central_asian
+to say,U-Urtoqqishloq 4,gapərmɔq,C,central_asian:to say:3,central_asian
+to say,U-Zarmanak 3,gapərmɔq,C,central_asian:to say:3,central_asian
+to say,U-Zarmanak 4,gapərmɔq,C,central_asian:to say:3,central_asian
+to say,Y-Dugova 1,gap,G,central_asian:to say:2,central_asian
+to say,Y-Dugova 2,gap,G,central_asian:to say:2,central_asian
+to say,Y-Safedorak 1,βɔβak,J,central_asian:to say:4,central_asian
+to say,Y-Safedorak 2,gapi,G,central_asian:to say:2,central_asian
 sea,KK-Halqabad 1,tʲeŋiz̥,B,central_asian:sea:1,central_asian
 sea,KK-Halqabad 2,tʲeŋiz̥,B,central_asian:sea:1,central_asian
 sea,KK-Halqabad 3,tʲeŋiz̥,B,central_asian:sea:1,central_asian
@@ -10528,7 +10528,7 @@ to die,T-Kamangaron 3,murdan,B,central_asian:to die:2,central_asian
 to die,T-Kamangaron 4,mʊrdan,B,central_asian:to die:2,central_asian
 to die,T-Kaptarhona 1,mørdan,B,central_asian:to die:2,central_asian
 to die,T-Kaptarhona 2,murdan,B,central_asian:to die:2,central_asian
-to die,T-Kaptarhona 3,membaram,B,central_asian:to die:3,central_asian
+to die,T-Kaptarhona 3,membaram,B,central_asian:to die:2,central_asian
 to die,T-Kaptarhona 4,mʊrdan,B,central_asian:to die:2,central_asian
 to die,T-Kaptarhona 5,mr̩dan,B,central_asian:to die:2,central_asian
 to die,T-Navdî 1,murdan,B,central_asian:to die:2,central_asian
@@ -10569,9 +10569,9 @@ to die,U-Urtoqqishloq 4,wʉlɪʃ,A,central_asian:to die:1,central_asian
 to die,U-Zarmanak 3,ʉliʃ,A,central_asian:to die:1,central_asian
 to die,U-Zarmanak 4,ʉlmɔq,A,central_asian:to die:1,central_asian
 to die,Y-Dugova 1,amirim,B,central_asian:to die:3,central_asian
-to die,Y-Dugova 2,mirak,B,central_asian:to die:2,central_asian
-to die,Y-Safedorak 1,mirak,B,central_asian:to die:2,central_asian
-to die,Y-Safedorak 2,mirak,B,central_asian:to die:2,central_asian
+to die,Y-Dugova 2,mirak,B,central_asian:to die:3,central_asian
+to die,Y-Safedorak 1,mirak,B,central_asian:to die:3,central_asian
+to die,Y-Safedorak 2,mirak,B,central_asian:to die:3,central_asian
 two,KK-Halqabad 1,jɪkɐ,A,central_asian:two:1,central_asian
 two,KK-Halqabad 2,jɪkɐ,A,central_asian:two:1,central_asian
 two,KK-Halqabad 3,jɪkə,A,central_asian:two:1,central_asian
@@ -11008,93 +11008,93 @@ red,Y-Dugova 1,sʉrx,B,central_asian:red:2,central_asian
 red,Y-Dugova 2,surx,B,central_asian:red:2,central_asian
 red,Y-Safedorak 1,surx,B,central_asian:red:2,central_asian
 red,Y-Safedorak 2,surx,B,central_asian:red:2,central_asian
-to sleep,KK-Halqabad 1,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Halqabad 2,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Halqabad 3,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Kokdarya 1,ʊxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Kokdarya 2,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Kokdarya 3,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Kokdarya 4,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Shege 1,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Shege 2,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Shege 3,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,KK-Shege 4,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Gazli 1,ɪxtaw,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Gazli 2,ʉxtaw,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Gazli 3,ʉqtaw,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Gazli 4,ʉqtaw,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Gazli 5,ʉxta,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Gazli 6,ʉqtaw,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Gazli 7,ʉqtaw,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Raushan 1,ɨxloː,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Raushan 2,ʉxtaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Raushan 3,ʉxtɔʊ,A,central_asian:to sleep:1,central_asian
-to sleep,Ka-Raushan 4,ʉxtaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Akmuz 1,uχtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Akmuz 2,uqtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Akmuz 3,uqtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Barskoon,uqtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Kulanak 1,uqtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Kulanak 2,uqtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Kulanak 3,uqta,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Kulanak 4,uqtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Kulanak 5,uqtɔː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Orday 1,ujqɔʊ,B,central_asian:to sleep:1,central_asian
-to sleep,Ki-Orday 2,uxtam,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Orday 3,uxtæt,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Orday 4,uktoː,A,central_asian:to sleep:1,central_asian
-to sleep,Ki-Tamga,uχta,A,central_asian:to sleep:1,central_asian
-to sleep,T-Agalyk,xobraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kamangaron 1,xɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kamangaron 2,xɔbraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kamangaron 3,xɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kamangaron 4,xɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kaptarhona 1,xaɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kaptarhona 2,xaɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kaptarhona 3,xaɔmeram,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kaptarhona 4,xaɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Kaptarhona 5,xaɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Navdî 1,xob̥kardan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Navdî 2,xobraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Navdî 3,xob̥kardan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Nimich 1,xobraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Nimich 2,xɔbraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Nimich 3,xɔwraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Nimich 4,xɔwkardan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Novmetan 1,xɔraw,C,central_asian:to sleep:2,central_asian
-to sleep,T-Novmetan 2,xɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Nûshor 1,xɔbʃidan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Nûshor 2,xɔbkardan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Nûshor 3,xɔwʃidan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Rishtan 1,xɔb̥raftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Rishtan 2,xɔb̥raftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Rishtan 3,xɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Shink 1,xɔbraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Shink 2,xɔb,C,central_asian:to sleep:2,central_asian
-to sleep,T-Shink 3,xɔwidan,D,central_asian:to sleep:2,central_asian
-to sleep,T-Urmetan 1,xɔbraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Urmetan 2,xɔbidan,D,central_asian:to sleep:2,central_asian
-to sleep,T-Urmetan 3,xɔbraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Urmetan 4,xɔbraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Zarmanak 1,xɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,T-Zarmanak 2,xɔraftan,C,central_asian:to sleep:2,central_asian
-to sleep,U-Hitoy 1,uxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Hitoy 2,ʉxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Hitoy 3,ɨxlaʊ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Novmetan 3,uxlaʃ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Soy Mahalla 1,uxlaʃ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Soy Mahalla 2,uxlamɔq,A,central_asian:to sleep:1,central_asian
-to sleep,U-Soy Mahalla 3,uxlaʃ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Urtoqqishloq 1,ujxʉ,B,central_asian:to sleep:1,central_asian
-to sleep,U-Urtoqqishloq 2,uxlamɔq,A,central_asian:to sleep:1,central_asian
-to sleep,U-Urtoqqishloq 3,uxlaʃ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Urtoqqishloq 4,uxlamɔq,A,central_asian:to sleep:1,central_asian
-to sleep,U-Zarmanak 3,uxlaʃ,A,central_asian:to sleep:1,central_asian
-to sleep,U-Zarmanak 4,uxlamɔq,A,central_asian:to sleep:1,central_asian
-to sleep,Y-Dugova 1,anipidim,E,central_asian:to sleep:3,central_asian
-to sleep,Y-Dugova 2,nipidak,E,central_asian:to sleep:3,central_asian
-to sleep,Y-Safedorak 1,nipidak,E,central_asian:to sleep:3,central_asian
-to sleep,Y-Safedorak 2,nipidak,E,central_asian:to sleep:3,central_asian
+to sleep,KK-Halqabad 1,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Halqabad 2,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Halqabad 3,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Kokdarya 1,ʊxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Kokdarya 2,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Kokdarya 3,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Kokdarya 4,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Shege 1,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Shege 2,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Shege 3,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,KK-Shege 4,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,Ka-Gazli 1,ɪxtaw,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Gazli 2,ʉxtaw,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Gazli 3,ʉqtaw,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Gazli 4,ʉqtaw,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Gazli 5,ʉxta,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Gazli 6,ʉqtaw,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Gazli 7,ʉqtaw,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Raushan 1,ɨxloː,A,central_asian:to sleep:2,central_asian
+to sleep,Ka-Raushan 2,ʉxtaʊ,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Raushan 3,ʉxtɔʊ,A,central_asian:to sleep:3,central_asian
+to sleep,Ka-Raushan 4,ʉxtaʊ,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Akmuz 1,uχtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Akmuz 2,uqtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Akmuz 3,uqtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Barskoon,uqtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Kulanak 1,uqtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Kulanak 2,uqtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Kulanak 3,uqta,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Kulanak 4,uqtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Kulanak 5,uqtɔː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Orday 1,ujqɔʊ,B,central_asian:to sleep:3,central_asian
+to sleep,Ki-Orday 2,uxtam,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Orday 3,uxtæt,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Orday 4,uktoː,A,central_asian:to sleep:3,central_asian
+to sleep,Ki-Tamga,uχta,A,central_asian:to sleep:3,central_asian
+to sleep,T-Agalyk,xobraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kamangaron 1,xɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kamangaron 2,xɔbraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kamangaron 3,xɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kamangaron 4,xɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kaptarhona 1,xaɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kaptarhona 2,xaɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kaptarhona 3,xaɔmeram,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kaptarhona 4,xaɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Kaptarhona 5,xaɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Navdî 1,xob̥kardan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Navdî 2,xobraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Navdî 3,xob̥kardan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Nimich 1,xobraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Nimich 2,xɔbraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Nimich 3,xɔwraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Nimich 4,xɔwkardan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Novmetan 1,xɔraw,C,central_asian:to sleep:1,central_asian
+to sleep,T-Novmetan 2,xɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Nûshor 1,xɔbʃidan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Nûshor 2,xɔbkardan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Nûshor 3,xɔwʃidan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Rishtan 1,xɔb̥raftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Rishtan 2,xɔb̥raftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Rishtan 3,xɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Shink 1,xɔbraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Shink 2,xɔb,C,central_asian:to sleep:1,central_asian
+to sleep,T-Shink 3,xɔwidan,D,central_asian:to sleep:1,central_asian
+to sleep,T-Urmetan 1,xɔbraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Urmetan 2,xɔbidan,D,central_asian:to sleep:1,central_asian
+to sleep,T-Urmetan 3,xɔbraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Urmetan 4,xɔbraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Zarmanak 1,xɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,T-Zarmanak 2,xɔraftan,C,central_asian:to sleep:1,central_asian
+to sleep,U-Hitoy 1,uxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Hitoy 2,ʉxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Hitoy 3,ɨxlaʊ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Novmetan 3,uxlaʃ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Soy Mahalla 1,uxlaʃ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Soy Mahalla 2,uxlamɔq,A,central_asian:to sleep:2,central_asian
+to sleep,U-Soy Mahalla 3,uxlaʃ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Urtoqqishloq 1,ujxʉ,B,central_asian:to sleep:2,central_asian
+to sleep,U-Urtoqqishloq 2,uxlamɔq,A,central_asian:to sleep:2,central_asian
+to sleep,U-Urtoqqishloq 3,uxlaʃ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Urtoqqishloq 4,uxlamɔq,A,central_asian:to sleep:2,central_asian
+to sleep,U-Zarmanak 3,uxlaʃ,A,central_asian:to sleep:2,central_asian
+to sleep,U-Zarmanak 4,uxlamɔq,A,central_asian:to sleep:2,central_asian
+to sleep,Y-Dugova 1,anipidim,E,central_asian:to sleep:4,central_asian
+to sleep,Y-Dugova 2,nipidak,E,central_asian:to sleep:4,central_asian
+to sleep,Y-Safedorak 1,nipidak,E,central_asian:to sleep:4,central_asian
+to sleep,Y-Safedorak 2,nipidak,E,central_asian:to sleep:4,central_asian
 to smell,KK-Halqabad 1,jiskʲelʊː,A,central_asian:to smell:2,central_asian
 to smell,KK-Halqabad 2,jiskʲeʊ,A,central_asian:to smell:2,central_asian
 to smell,KK-Halqabad 3,jiskʲeʊ,A,central_asian:to smell:2,central_asian
@@ -11155,11 +11155,11 @@ to smell,T-Nûshor 3,bʊ,E,central_asian:to smell:1,central_asian
 to smell,T-Rishtan 1,buj,E,central_asian:to smell:1,central_asian
 to smell,T-Rishtan 2,buj,E,central_asian:to smell:1,central_asian
 to smell,T-Rishtan 3,bu,E,central_asian:to smell:1,central_asian
-to smell,T-Shink 1,nafas,F,central_asian:to smell:4,central_asian
-to smell,T-Shink 2,nafas,F,central_asian:to smell:4,central_asian
+to smell,T-Shink 1,nafas,F,central_asian:to smell:5,central_asian
+to smell,T-Shink 2,nafas,F,central_asian:to smell:5,central_asian
 to smell,T-Shink 3,bu,E,central_asian:to smell:1,central_asian
 to smell,T-Urmetan 1,buj,E,central_asian:to smell:1,central_asian
-to smell,T-Urmetan 2,his,G,central_asian:to smell:4,central_asian
+to smell,T-Urmetan 2,his,G,central_asian:to smell:5,central_asian
 to smell,T-Urmetan 3,buj,E,central_asian:to smell:1,central_asian
 to smell,T-Urmetan 4,bu,E,central_asian:to smell:1,central_asian
 to smell,T-Zarmanak 1,bʉj,E,central_asian:to smell:1,central_asian
@@ -11217,36 +11217,36 @@ to turn,Ki-Orday 2,ajlanam,A,central_asian:to turn:1,central_asian
 to turn,Ki-Orday 3,ajlandrat,A,central_asian:to turn:1,central_asian
 to turn,Ki-Orday 4,ajlandɨrʊː,A,central_asian:to turn:1,central_asian
 to turn,Ki-Tamga,tegerɛn,C,central_asian:to turn:6,central_asian
-to turn,T-Agalyk,ʧarx,H,central_asian:to turn:3,central_asian
-to turn,T-Kamangaron 1,ʧarɣ,H,central_asian:to turn:3,central_asian
+to turn,T-Agalyk,ʧarx,H,central_asian:to turn:4,central_asian
+to turn,T-Kamangaron 1,ʧarɣ,H,central_asian:to turn:4,central_asian
 to turn,T-Kamangaron 2,ajnali,A,central_asian:to turn:1,central_asian
 to turn,T-Kamangaron 3,ajnali,A,central_asian:to turn:1,central_asian
 to turn,T-Kamangaron 4,ajnali,A,central_asian:to turn:1,central_asian
-to turn,T-Kaptarhona 1,før,J,central_asian:to turn:4,central_asian
-to turn,T-Kaptarhona 2,fir,J,central_asian:to turn:4,central_asian
-to turn,T-Kaptarhona 3,fər,J,central_asian:to turn:4,central_asian
-to turn,T-Kaptarhona 4,før,J,central_asian:to turn:4,central_asian
-to turn,T-Kaptarhona 5,fr̩,J,central_asian:to turn:4,central_asian
-to turn,T-Navdî 1,fr̩,J,central_asian:to turn:4,central_asian
+to turn,T-Kaptarhona 1,før,J,central_asian:to turn:3,central_asian
+to turn,T-Kaptarhona 2,fir,J,central_asian:to turn:3,central_asian
+to turn,T-Kaptarhona 3,fər,J,central_asian:to turn:3,central_asian
+to turn,T-Kaptarhona 4,før,J,central_asian:to turn:3,central_asian
+to turn,T-Kaptarhona 5,fr̩,J,central_asian:to turn:3,central_asian
+to turn,T-Navdî 1,fr̩,J,central_asian:to turn:3,central_asian
 to turn,T-Navdî 2,gird,K,central_asian:to turn:5,central_asian
 to turn,T-Navdî 3,tɔv,L,central_asian:to turn:2,central_asian
-to turn,T-Nimich 1,fər,J,central_asian:to turn:4,central_asian
-to turn,T-Nimich 2,ʧarx,H,central_asian:to turn:3,central_asian
+to turn,T-Nimich 1,fər,J,central_asian:to turn:3,central_asian
+to turn,T-Nimich 2,ʧarx,H,central_asian:to turn:4,central_asian
 to turn,T-Nimich 3,tɔw,L,central_asian:to turn:2,central_asian
-to turn,T-Nimich 4,ʧarx,H,central_asian:to turn:3,central_asian
+to turn,T-Nimich 4,ʧarx,H,central_asian:to turn:4,central_asian
 to turn,T-Novmetan 1,girt,K,central_asian:to turn:5,central_asian
 to turn,T-Nûshor 1,tɔftan,L,central_asian:to turn:2,central_asian
 to turn,T-Nûshor 2,tɔb̥,L,central_asian:to turn:2,central_asian
-to turn,T-Nûshor 3,fr̩,J,central_asian:to turn:4,central_asian
-to turn,T-Rishtan 1,ʧarh,H,central_asian:to turn:3,central_asian
-to turn,T-Rishtan 2,ʧarh,H,central_asian:to turn:3,central_asian
-to turn,T-Rishtan 3,ʧarɣ,H,central_asian:to turn:3,central_asian
+to turn,T-Nûshor 3,fr̩,J,central_asian:to turn:3,central_asian
+to turn,T-Rishtan 1,ʧarh,H,central_asian:to turn:4,central_asian
+to turn,T-Rishtan 2,ʧarh,H,central_asian:to turn:4,central_asian
+to turn,T-Rishtan 3,ʧarɣ,H,central_asian:to turn:4,central_asian
 to turn,T-Shink 1,tɔw,L,central_asian:to turn:2,central_asian
 to turn,T-Shink 2,tɔb̥,L,central_asian:to turn:2,central_asian
 to turn,T-Shink 3,gird,K,central_asian:to turn:5,central_asian
 to turn,T-Urmetan 1,tɔb,L,central_asian:to turn:2,central_asian
-to turn,T-Urmetan 2,ʧarx,H,central_asian:to turn:3,central_asian
-to turn,T-Urmetan 3,ʧarx,H,central_asian:to turn:3,central_asian
+to turn,T-Urmetan 2,ʧarx,H,central_asian:to turn:4,central_asian
+to turn,T-Urmetan 3,ʧarx,H,central_asian:to turn:4,central_asian
 to turn,T-Zarmanak 1,ɣir,K,central_asian:to turn:5,central_asian
 to turn,T-Zarmanak 2,gir,K,central_asian:to turn:5,central_asian
 to turn,U-Hitoy 1,ajlandrʊ,A,central_asian:to turn:1,central_asian
@@ -11263,7 +11263,7 @@ to turn,U-Urtoqqishloq 4,ajlanmɔq,A,central_asian:to turn:1,central_asian
 to turn,U-Zarmanak 3,ajlanmɔq,A,central_asian:to turn:1,central_asian
 to turn,U-Zarmanak 4,ajlanmɔq,A,central_asian:to turn:1,central_asian
 to turn,Y-Dugova 1,tɔb̥,L,central_asian:to turn:2,central_asian
-to turn,Y-Dugova 2,daβri,M,central_asian:to turn:2,central_asian
+to turn,Y-Dugova 2,daβri,M,central_asian:to turn:3,central_asian
 to turn,Y-Safedorak 1,tɔpɪ,L,central_asian:to turn:2,central_asian
 to turn,Y-Safedorak 2,tɔbak,L,central_asian:to turn:2,central_asian
 black,KK-Halqabad 1,qara,A,central_asian:black:1,central_asian
@@ -11427,7 +11427,7 @@ short,U-Novmetan 3,kalta,B,central_asian:short:1,central_asian
 short,U-Soy Mahalla 1,kalta,B,central_asian:short:1,central_asian
 short,U-Soy Mahalla 2,kalta,B,central_asian:short:1,central_asian
 short,U-Soy Mahalla 3,kalta,B,central_asian:short:1,central_asian
-short,U-Urtoqqishloq 1,qałta,B,central_asian:short:1,central_asian
+short,U-Urtoqqishloq 1,qałta,B,central_asian:short:2,central_asian
 short,U-Urtoqqishloq 2,qs̩ka,A,central_asian:short:2,central_asian
 short,U-Urtoqqishloq 3,qs̩ka,A,central_asian:short:2,central_asian
 short,U-Urtoqqishloq 4,qs̩ka,A,central_asian:short:2,central_asian
@@ -11944,7 +11944,7 @@ to tie,Ka-Gazli 1,bajlaw,A,central_asian:to tie:1,central_asian
 to tie,Ka-Gazli 2,bajlaw,A,central_asian:to tie:1,central_asian
 to tie,Ka-Gazli 3,bajlaw,A,central_asian:to tie:1,central_asian
 to tie,Ka-Gazli 4,bajlaw,A,central_asian:to tie:1,central_asian
-to tie,Ka-Gazli 5,toχu,C,central_asian:to tie:9,central_asian
+to tie,Ka-Gazli 5,toχu,C,central_asian:to tie:8,central_asian
 to tie,Ka-Gazli 6,bajlaw,A,central_asian:to tie:1,central_asian
 to tie,Ka-Gazli 7,bajlaw,A,central_asian:to tie:1,central_asian
 to tie,Ka-Raushan 1,bajloː,A,central_asian:to tie:1,central_asian
@@ -11969,10 +11969,10 @@ to tie,T-Agalyk,bastan,G,central_asian:to tie:2,central_asian
 to tie,T-Kamangaron 1,bastan,G,central_asian:to tie:2,central_asian
 to tie,T-Kamangaron 2,bastan,G,central_asian:to tie:2,central_asian
 to tie,T-Kamangaron 3,bastan,G,central_asian:to tie:2,central_asian
-to tie,T-Kamangaron 4,ula,K,central_asian:to tie:8,central_asian
+to tie,T-Kamangaron 4,ula,K,central_asian:to tie:7,central_asian
 to tie,T-Kaptarhona 1,bastan,G,central_asian:to tie:2,central_asian
 to tie,T-Kaptarhona 2,bastan,G,central_asian:to tie:2,central_asian
-to tie,T-Kaptarhona 3,mʲebandom,G,central_asian:to tie:7,central_asian
+to tie,T-Kaptarhona 3,mʲebandom,G,central_asian:to tie:3,central_asian
 to tie,T-Kaptarhona 4,bastak,G,central_asian:to tie:2,central_asian
 to tie,T-Kaptarhona 5,bastan,G,central_asian:to tie:2,central_asian
 to tie,T-Navdî 1,bastan,G,central_asian:to tie:2,central_asian
@@ -12026,7 +12026,7 @@ near,KK-Shege 2,ʒaχən,A,central_asian:near:1,central_asian
 near,KK-Shege 3,ʒ˳aχən,A,central_asian:near:1,central_asian
 near,KK-Shege 4,ʒaχən,A,central_asian:near:1,central_asian
 near,Ka-Gazli 1,ʒaqən,A,central_asian:near:1,central_asian
-near,Ka-Gazli 2,ʒɨltraq,B,central_asian:near:4,central_asian
+near,Ka-Gazli 2,ʒɨltraq,B,central_asian:near:1,central_asian
 near,Ka-Gazli 3,ʒaχɪn,A,central_asian:near:1,central_asian
 near,Ka-Gazli 4,ʒaxən,A,central_asian:near:1,central_asian
 near,Ka-Gazli 5,ʒaqən,A,central_asian:near:1,central_asian
@@ -12312,11 +12312,11 @@ dog,T-Kamangaron 1,sak,E,central_asian:dog:2,central_asian
 dog,T-Kamangaron 2,kuʧuk,B,central_asian:dog:3,central_asian
 dog,T-Kamangaron 3,kuʧuk,B,central_asian:dog:3,central_asian
 dog,T-Kamangaron 4,kuʧuk,B,central_asian:dog:3,central_asian
-dog,T-Kaptarhona 1,kʧøk,B,central_asian:dog:3,central_asian
+dog,T-Kaptarhona 1,kʧøk,B,central_asian:dog:2,central_asian
 dog,T-Kaptarhona 2,sak,E,central_asian:dog:2,central_asian
 dog,T-Kaptarhona 3,sag˳,E,central_asian:dog:2,central_asian
 dog,T-Kaptarhona 4,sak,E,central_asian:dog:2,central_asian
-dog,T-Kaptarhona 5,kʧok,B,central_asian:dog:3,central_asian
+dog,T-Kaptarhona 5,kʧok,B,central_asian:dog:2,central_asian
 dog,T-Navdî 1,sag˳,E,central_asian:dog:2,central_asian
 dog,T-Navdî 2,sag,E,central_asian:dog:2,central_asian
 dog,T-Navdî 3,sag˳,E,central_asian:dog:2,central_asian
@@ -13972,10 +13972,10 @@ mountain,T-Nimich 2,kuh,C,central_asian:mountain:2,central_asian
 mountain,T-Nimich 3,kh̩,C,central_asian:mountain:2,central_asian
 mountain,T-Nimich 4,kh̩,C,central_asian:mountain:2,central_asian
 mountain,T-Novmetan 1,tɔɣ˳,A,central_asian:mountain:1,central_asian
-mountain,T-Novmetan 2,balandi,D,central_asian:mountain:5,central_asian
+mountain,T-Novmetan 2,balandi,D,central_asian:mountain:3,central_asian
 mountain,T-Nûshor 1,kh̩,C,central_asian:mountain:2,central_asian
 mountain,T-Nûshor 2,kʊh,C,central_asian:mountain:2,central_asian
-mountain,T-Nûshor 3,ps̩ta,E,central_asian:mountain:4,central_asian
+mountain,T-Nûshor 3,ps̩ta,E,central_asian:mountain:1,central_asian
 mountain,T-Rishtan 1,kʊh,C,central_asian:mountain:2,central_asian
 mountain,T-Rishtan 2,kuh,C,central_asian:mountain:2,central_asian
 mountain,T-Rishtan 3,kyh,C,central_asian:mountain:2,central_asian
@@ -13986,7 +13986,7 @@ mountain,T-Urmetan 1,kʉh,C,central_asian:mountain:2,central_asian
 mountain,T-Urmetan 2,kuh,C,central_asian:mountain:2,central_asian
 mountain,T-Urmetan 3,kʉh,C,central_asian:mountain:2,central_asian
 mountain,T-Urmetan 4,kʉh,C,central_asian:mountain:2,central_asian
-mountain,T-Zarmanak 1,tɔɣ,A,central_asian:mountain:3,central_asian
+mountain,T-Zarmanak 1,tɔɣ,A,central_asian:mountain:1,central_asian
 mountain,T-Zarmanak 2,tɔɣ˳,A,central_asian:mountain:1,central_asian
 mountain,U-Hitoy 1,taʊ,A,central_asian:mountain:1,central_asian
 mountain,U-Hitoy 2,taɔ,A,central_asian:mountain:1,central_asian
@@ -14001,10 +14001,10 @@ mountain,U-Urtoqqishloq 3,tɔɣ˳,A,central_asian:mountain:1,central_asian
 mountain,U-Urtoqqishloq 4,tɔɣ˳,A,central_asian:mountain:1,central_asian
 mountain,U-Zarmanak 3,tɔɣ˳,A,central_asian:mountain:1,central_asian
 mountain,U-Zarmanak 4,tɔɣ˳,A,central_asian:mountain:1,central_asian
-mountain,Y-Dugova 1,ɣar,F,central_asian:mountain:3,central_asian
-mountain,Y-Dugova 2,ɣar,F,central_asian:mountain:3,central_asian
-mountain,Y-Safedorak 1,ɣar,F,central_asian:mountain:3,central_asian
-mountain,Y-Safedorak 2,ɣɔr,F,central_asian:mountain:3,central_asian
+mountain,Y-Dugova 1,ɣar,F,central_asian:mountain:2,central_asian
+mountain,Y-Dugova 2,ɣar,F,central_asian:mountain:2,central_asian
+mountain,Y-Safedorak 1,ɣar,F,central_asian:mountain:2,central_asian
+mountain,Y-Safedorak 2,ɣɔr,F,central_asian:mountain:2,central_asian
 ashes,KK-Halqabad 1,kʉl,A,central_asian:ashes:1,central_asian
 ashes,KK-Halqabad 2,kʉl,A,central_asian:ashes:1,central_asian
 ashes,KK-Halqabad 3,kʉl,A,central_asian:ashes:1,central_asian
@@ -14188,11 +14188,11 @@ river,KK-Shege 3,d̥arja,B,central_asian:river:1,central_asian
 river,KK-Shege 4,darja,B,central_asian:river:1,central_asian
 river,Ka-Gazli 1,wøzʲen,A,central_asian:river:2,central_asian
 river,Ka-Gazli 2,darja,B,central_asian:river:1,central_asian
-river,Ka-Gazli 3,bəlaq,C,central_asian:river:4,central_asian
+river,Ka-Gazli 3,bəlaq,C,central_asian:river:1,central_asian
 river,Ka-Gazli 4,wøzʲen,A,central_asian:river:2,central_asian
 river,Ka-Gazli 5,wøzʲen,A,central_asian:river:2,central_asian
 river,Ka-Gazli 6,wøzʲen,A,central_asian:river:2,central_asian
-river,Ka-Gazli 7,kʉł,D,central_asian:river:4,central_asian
+river,Ka-Gazli 7,kʉł,D,central_asian:river:5,central_asian
 river,Ka-Raushan 1,darja,B,central_asian:river:1,central_asian
 river,Ka-Raushan 2,wøzʲen,A,central_asian:river:2,central_asian
 river,Ka-Raushan 3,wøzʲɛn,A,central_asian:river:2,central_asian
@@ -14213,12 +14213,12 @@ river,Ki-Orday 4,sɒj,F,central_asian:river:3,central_asian
 river,Ki-Tamga,arɨk,G,central_asian:river:1,central_asian
 river,T-Agalyk,darjɔ,B,central_asian:river:1,central_asian
 river,T-Kamangaron 1,darjɔ,B,central_asian:river:1,central_asian
-river,T-Kamangaron 2,ʤɔj,K,central_asian:river:3,central_asian
+river,T-Kamangaron 2,ʤɔj,K,central_asian:river:1,central_asian
 river,T-Kamangaron 3,ʤɔj,K,central_asian:river:3,central_asian
 river,T-Kamangaron 4,darjɔ,B,central_asian:river:1,central_asian
 river,T-Kaptarhona 1,darjɔ,B,central_asian:river:1,central_asian
 river,T-Kaptarhona 2,darjɔ,B,central_asian:river:1,central_asian
-river,T-Kaptarhona 3,kanal,L,central_asian:river:4,central_asian
+river,T-Kaptarhona 3,kanal,L,central_asian:river:5,central_asian
 river,T-Kaptarhona 4,darjɔ,B,central_asian:river:1,central_asian
 river,T-Kaptarhona 5,darjɔ,B,central_asian:river:1,central_asian
 river,T-Navdî 1,darjɔ,B,central_asian:river:1,central_asian
@@ -14370,7 +14370,7 @@ root,Ka-Raushan 1,tamɜr,A,central_asian:root:1,central_asian
 root,Ka-Raushan 2,tamɜr,A,central_asian:root:1,central_asian
 root,Ka-Raushan 3,tamɜr,A,central_asian:root:1,central_asian
 root,Ka-Raushan 4,tamɜr,A,central_asian:root:1,central_asian
-root,Ki-Akmuz 1,butaq,B,central_asian:root:5,central_asian
+root,Ki-Akmuz 1,butaq,B,central_asian:root:1,central_asian
 root,Ki-Akmuz 2,tɒmɨr,A,central_asian:root:1,central_asian
 root,Ki-Akmuz 3,tɒmɨr,A,central_asian:root:1,central_asian
 root,Ki-Barskoon,tamɨr,A,central_asian:root:1,central_asian
@@ -14488,7 +14488,7 @@ sand,T-Nimich 4,qɜm,A,central_asian:sand:1,central_asian
 sand,T-Novmetan 1,reg˳,D,central_asian:sand:2,central_asian
 sand,T-Novmetan 2,reg,D,central_asian:sand:2,central_asian
 sand,T-Nûshor 1,rʲeg˳,D,central_asian:sand:2,central_asian
-sand,T-Nûshor 2,xɔq,E,central_asian:sand:1,central_asian
+sand,T-Nûshor 2,xɔq,E,central_asian:sand:2,central_asian
 sand,T-Nûshor 3,qm̩,A,central_asian:sand:1,central_asian
 sand,T-Rishtan 1,reg˳,D,central_asian:sand:2,central_asian
 sand,T-Rishtan 2,reg˳,D,central_asian:sand:2,central_asian
@@ -14496,12 +14496,12 @@ sand,T-Rishtan 3,reg˳,D,central_asian:sand:2,central_asian
 sand,T-Shink 1,qʊm,A,central_asian:sand:1,central_asian
 sand,T-Shink 2,qʊm,A,central_asian:sand:1,central_asian
 sand,T-Shink 3,qʊm,A,central_asian:sand:1,central_asian
-sand,T-Urmetan 1,xɔk,E,central_asian:sand:1,central_asian
+sand,T-Urmetan 1,xɔk,E,central_asian:sand:2,central_asian
 sand,T-Urmetan 2,qʊm,A,central_asian:sand:1,central_asian
 sand,T-Urmetan 3,qm̩,A,central_asian:sand:1,central_asian
-sand,T-Urmetan 4,xɔk,E,central_asian:sand:1,central_asian
-sand,T-Zarmanak 1,xɔk,E,central_asian:sand:1,central_asian
-sand,T-Zarmanak 2,xɔk,E,central_asian:sand:1,central_asian
+sand,T-Urmetan 4,xɔk,E,central_asian:sand:2,central_asian
+sand,T-Zarmanak 1,xɔk,E,central_asian:sand:2,central_asian
+sand,T-Zarmanak 2,xɔk,E,central_asian:sand:2,central_asian
 sand,U-Hitoy 1,qʊm,A,central_asian:sand:1,central_asian
 sand,U-Hitoy 2,qʊm,A,central_asian:sand:1,central_asian
 sand,U-Hitoy 3,qʊm,A,central_asian:sand:1,central_asian
@@ -14509,7 +14509,7 @@ sand,U-Novmetan 3,qʊm,A,central_asian:sand:1,central_asian
 sand,U-Soy Mahalla 1,qum,A,central_asian:sand:1,central_asian
 sand,U-Soy Mahalla 2,qum,A,central_asian:sand:1,central_asian
 sand,U-Soy Mahalla 3,qʊm,A,central_asian:sand:1,central_asian
-sand,U-Urtoqqishloq 1,tuprɔk,B,central_asian:sand:1,central_asian
+sand,U-Urtoqqishloq 1,tuprɔk,B,central_asian:sand:2,central_asian
 sand,U-Urtoqqishloq 2,qʊm,A,central_asian:sand:1,central_asian
 sand,U-Urtoqqishloq 3,qʊm,A,central_asian:sand:1,central_asian
 sand,U-Urtoqqishloq 4,qʊm,A,central_asian:sand:1,central_asian
@@ -15050,7 +15050,7 @@ smoke,Ka-Gazli 2,tytyn,A,central_asian:smoke:1,central_asian
 smoke,Ka-Gazli 3,tytyn,A,central_asian:smoke:1,central_asian
 smoke,Ka-Gazli 4,tytyn,A,central_asian:smoke:1,central_asian
 smoke,Ka-Gazli 5,tʉtʉn,A,central_asian:smoke:1,central_asian
-smoke,Ka-Gazli 6,bu,B,central_asian:smoke:2,central_asian
+smoke,Ka-Gazli 6,bu,B,central_asian:smoke:3,central_asian
 smoke,Ka-Gazli 7,tʉtʉn,A,central_asian:smoke:1,central_asian
 smoke,Ka-Raushan 1,tytyn,A,central_asian:smoke:1,central_asian
 smoke,Ka-Raushan 2,tytyn,A,central_asian:smoke:1,central_asian
@@ -15070,42 +15070,42 @@ smoke,Ki-Orday 2,tytyn,A,central_asian:smoke:1,central_asian
 smoke,Ki-Orday 3,tytyn,A,central_asian:smoke:1,central_asian
 smoke,Ki-Orday 4,tytyn,A,central_asian:smoke:1,central_asian
 smoke,Ki-Tamga,tytyn,A,central_asian:smoke:1,central_asian
-smoke,T-Agalyk,dʉd̥,C,central_asian:smoke:1,central_asian
-smoke,T-Kamangaron 1,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Kamangaron 2,dud̥,C,central_asian:smoke:1,central_asian
+smoke,T-Agalyk,dʉd̥,C,central_asian:smoke:2,central_asian
+smoke,T-Kamangaron 1,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Kamangaron 2,dud̥,C,central_asian:smoke:2,central_asian
 smoke,T-Kamangaron 3,tutun,A,central_asian:smoke:1,central_asian
 smoke,T-Kaptarhona 1,tutun,A,central_asian:smoke:1,central_asian
-smoke,T-Kaptarhona 2,dud,C,central_asian:smoke:1,central_asian
-smoke,T-Kaptarhona 3,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Kaptarhona 4,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Kaptarhona 5,dd̩,C,central_asian:smoke:1,central_asian
-smoke,T-Navdî 1,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Navdî 2,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Navdî 3,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Nimich 1,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Nimich 2,dʊd,C,central_asian:smoke:1,central_asian
-smoke,T-Nimich 3,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Nimich 4,dʊd̥,C,central_asian:smoke:1,central_asian
+smoke,T-Kaptarhona 2,dud,C,central_asian:smoke:2,central_asian
+smoke,T-Kaptarhona 3,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Kaptarhona 4,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Kaptarhona 5,dd̩,C,central_asian:smoke:2,central_asian
+smoke,T-Navdî 1,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Navdî 2,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Navdî 3,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Nimich 1,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Nimich 2,dʊd,C,central_asian:smoke:2,central_asian
+smoke,T-Nimich 3,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Nimich 4,dʊd̥,C,central_asian:smoke:2,central_asian
 smoke,T-Novmetan 1,tutun,A,central_asian:smoke:1,central_asian
-smoke,T-Nûshor 1,dʊd̥,C,central_asian:smoke:1,central_asian
-smoke,T-Nûshor 2,dʊd̥,C,central_asian:smoke:1,central_asian
-smoke,T-Nûshor 3,dʊd̥,C,central_asian:smoke:1,central_asian
-smoke,T-Rishtan 1,dyd̥,C,central_asian:smoke:1,central_asian
-smoke,T-Rishtan 2,dyd̥,C,central_asian:smoke:1,central_asian
-smoke,T-Rishtan 3,dyd̥,C,central_asian:smoke:1,central_asian
-smoke,T-Shink 1,dd̩,C,central_asian:smoke:1,central_asian
-smoke,T-Shink 2,dud,C,central_asian:smoke:1,central_asian
-smoke,T-Shink 3,dyd,C,central_asian:smoke:1,central_asian
-smoke,T-Urmetan 1,dyt,C,central_asian:smoke:1,central_asian
-smoke,T-Urmetan 2,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Urmetan 3,dyt,C,central_asian:smoke:1,central_asian
-smoke,T-Urmetan 4,dd̩,C,central_asian:smoke:1,central_asian
-smoke,T-Zarmanak 1,dud̥,C,central_asian:smoke:1,central_asian
-smoke,T-Zarmanak 2,dud̥,C,central_asian:smoke:1,central_asian
+smoke,T-Nûshor 1,dʊd̥,C,central_asian:smoke:2,central_asian
+smoke,T-Nûshor 2,dʊd̥,C,central_asian:smoke:2,central_asian
+smoke,T-Nûshor 3,dʊd̥,C,central_asian:smoke:2,central_asian
+smoke,T-Rishtan 1,dyd̥,C,central_asian:smoke:2,central_asian
+smoke,T-Rishtan 2,dyd̥,C,central_asian:smoke:2,central_asian
+smoke,T-Rishtan 3,dyd̥,C,central_asian:smoke:2,central_asian
+smoke,T-Shink 1,dd̩,C,central_asian:smoke:2,central_asian
+smoke,T-Shink 2,dud,C,central_asian:smoke:2,central_asian
+smoke,T-Shink 3,dyd,C,central_asian:smoke:2,central_asian
+smoke,T-Urmetan 1,dyt,C,central_asian:smoke:2,central_asian
+smoke,T-Urmetan 2,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Urmetan 3,dyt,C,central_asian:smoke:2,central_asian
+smoke,T-Urmetan 4,dd̩,C,central_asian:smoke:2,central_asian
+smoke,T-Zarmanak 1,dud̥,C,central_asian:smoke:2,central_asian
+smoke,T-Zarmanak 2,dud̥,C,central_asian:smoke:2,central_asian
 smoke,U-Hitoy 1,tytyn,A,central_asian:smoke:1,central_asian
 smoke,U-Hitoy 2,tytyn,A,central_asian:smoke:1,central_asian
 smoke,U-Hitoy 3,tytyn,A,central_asian:smoke:1,central_asian
-smoke,U-Novmetan 3,dud,C,central_asian:smoke:1,central_asian
+smoke,U-Novmetan 3,dud,C,central_asian:smoke:2,central_asian
 smoke,U-Soy Mahalla 1,tutun,A,central_asian:smoke:1,central_asian
 smoke,U-Soy Mahalla 2,tytyn,A,central_asian:smoke:1,central_asian
 smoke,U-Soy Mahalla 3,tʉtʉn,A,central_asian:smoke:1,central_asian
@@ -15115,10 +15115,10 @@ smoke,U-Urtoqqishloq 3,tytyn,A,central_asian:smoke:1,central_asian
 smoke,U-Urtoqqishloq 4,tytyn,A,central_asian:smoke:1,central_asian
 smoke,U-Zarmanak 3,tutun,A,central_asian:smoke:1,central_asian
 smoke,U-Zarmanak 4,tutun,A,central_asian:smoke:1,central_asian
-smoke,Y-Dugova 1,dud,C,central_asian:smoke:1,central_asian
-smoke,Y-Dugova 2,dud,C,central_asian:smoke:1,central_asian
-smoke,Y-Safedorak 1,dʉd,C,central_asian:smoke:1,central_asian
-smoke,Y-Safedorak 2,did,C,central_asian:smoke:1,central_asian
+smoke,Y-Dugova 1,dud,C,central_asian:smoke:2,central_asian
+smoke,Y-Dugova 2,dud,C,central_asian:smoke:2,central_asian
+smoke,Y-Safedorak 1,dʉd,C,central_asian:smoke:2,central_asian
+smoke,Y-Safedorak 2,did,C,central_asian:smoke:2,central_asian
 snow,KK-Halqabad 1,qar,A,central_asian:snow:1,central_asian
 snow,KK-Halqabad 2,qar,A,central_asian:snow:1,central_asian
 snow,KK-Halqabad 3,qar,A,central_asian:snow:1,central_asian
@@ -15636,11 +15636,11 @@ blood,U-Urtoqqishloq 3,qɔn,A,central_asian:blood:1,central_asian
 blood,U-Urtoqqishloq 4,qɔn,A,central_asian:blood:1,central_asian
 blood,U-Zarmanak 3,qɔn,A,central_asian:blood:1,central_asian
 blood,U-Zarmanak 4,qɔn,A,central_asian:blood:1,central_asian
-blood,Y-Dugova 1,vaxm̩,B,central_asian:blood:2,central_asian
-blood,Y-Dugova 2,vaxm̩,B,central_asian:blood:2,central_asian
-blood,Y-Safedorak 1,vaxm̩,B,central_asian:blood:2,central_asian
-blood,Y-Safedorak 2,vaxm̩,B,central_asian:blood:2,central_asian
-blood,Y-Safedorak 3,vaxm̩,B,central_asian:blood:2,central_asian
+blood,Y-Dugova 1,vaxm̩,B,central_asian:blood:1,central_asian
+blood,Y-Dugova 2,vaxm̩,B,central_asian:blood:1,central_asian
+blood,Y-Safedorak 1,vaxm̩,B,central_asian:blood:1,central_asian
+blood,Y-Safedorak 2,vaxm̩,B,central_asian:blood:1,central_asian
+blood,Y-Safedorak 3,vaxm̩,B,central_asian:blood:1,central_asian
 water,KK-Halqabad 1,sʊː,A,central_asian:water:1,central_asian
 water,KK-Halqabad 2,sʊː,A,central_asian:water:1,central_asian
 water,KK-Halqabad 3,sʊː,A,central_asian:water:1,central_asian

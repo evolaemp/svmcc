@@ -41,18 +41,18 @@ huon,many,ONO,louloutNe,huon:many:6,huon:many:7
 huon,many,SELEPET,biwiro,huon:many:7,huon:many:2
 huon,many,TIMBE,biwiro,huon:many:7,huon:many:2
 huon,many,TOBO,sesia,huon:many:3,huon:many:1
-huon,big,BURUM,ketaNi,huon:big:6,huon:big:3
-huon,big,DEDUA,kuneN,huon:big:3,huon:big:2
-huon,big,HUBE,kuneN,huon:big:3,huon:big:2
-huon,big,KATE,ko7gbene,huon:big:1,huon:big:11
-huon,big,KOMBA,pato,huon:big:8,huon:big:1
-huon,big,KOSORONG,somata,huon:big:5,huon:big:10
-huon,big,MAPE_2,yasogo,huon:big:2,huon:big:9
-huon,big,MINDIK,ketaNi,huon:big:6,huon:big:3
-huon,big,MOMOLILI,k3itn,huon:big:11,huon:big:8
+huon,big,BURUM,ketaNi,huon:big:6,huon:big:1
+huon,big,DEDUA,kuneN,huon:big:3,huon:big:3
+huon,big,HUBE,kuneN,huon:big:3,huon:big:3
+huon,big,KATE,ko7gbene,huon:big:1,huon:big:10
+huon,big,KOMBA,pato,huon:big:8,huon:big:2
+huon,big,KOSORONG,somata,huon:big:5,huon:big:9
+huon,big,MAPE_2,yasogo,huon:big:2,huon:big:8
+huon,big,MINDIK,ketaNi,huon:big:6,huon:big:1
+huon,big,MOMOLILI,k3itn,huon:big:11,huon:big:1
 huon,big,NABAK,taemba,huon:big:10,huon:big:7
 huon,big,ONO,suaine,huon:big:7,huon:big:6
-huon,big,SELEPET,pato,huon:big:8,huon:big:1
+huon,big,SELEPET,pato,huon:big:8,huon:big:2
 huon,big,TIMBE,humo,huon:big:9,huon:big:5
 huon,big,TOBO,baia,huon:big:4,huon:big:4
 huon,long,BURUM,koripNi,huon:long:2,huon:long:1
@@ -73,14 +73,14 @@ huon,tongue,BURUM,neselam,huon:tongue:3,huon:tongue:1
 huon,tongue,DEDUA,nameN,huon:tongue:1,huon:tongue:2
 huon,tongue,HUBE,eceraN,huon:tongue:3,huon:tongue:1
 huon,tongue,KATE,nameN,huon:tongue:1,huon:tongue:2
-huon,tongue,KOMBA,nobolam,huon:tongue:3,huon:tongue:1
+huon,tongue,KOMBA,nobolam,huon:tongue:3,huon:tongue:3
 huon,tongue,KOSORONG,neselaN,huon:tongue:3,huon:tongue:1
-huon,tongue,MAPE_2,eroN,huon:tongue:2,huon:tongue:3
+huon,tongue,MAPE_2,eroN,huon:tongue:2,huon:tongue:1
 huon,tongue,MINDIK,nesolam,huon:tongue:3,huon:tongue:1
 huon,tongue,MOMOLILI,namb~alaN,huon:tongue:3,huon:tongue:2
 huon,tongue,NABAK,namb~arem,huon:tongue:3,huon:tongue:2
 huon,tongue,ONO,belakami,huon:tongue:4,huon:tongue:4
-huon,tongue,SELEPET,nibilam,huon:tongue:3,huon:tongue:1
+huon,tongue,SELEPET,nibilam,huon:tongue:3,huon:tongue:3
 huon,tongue,TIMBE,elewot,huon:tongue:5,huon:tongue:5
 huon,tongue,TOBO,ecelom,huon:tongue:3,huon:tongue:1
 huon,I,BURUM,ni,huon:I:2,huon:I:1
@@ -107,24 +107,24 @@ huon,we,MAPE_2,noNu,huon:we:1,huon:we:1
 huon,we,MINDIK,nini,huon:we:2,huon:we:1
 huon,we,MOMOLILI,ni,huon:we:2,huon:we:1
 huon,we,NABAK,nin,huon:we:2,huon:we:1
-huon,we,ONO,Nedo,huon:we:3,huon:we:2
+huon,we,ONO,Nedo,huon:we:3,huon:we:1
 huon,we,SELEPET,nen,huon:we:2,huon:we:1
 huon,we,TIMBE,nen,huon:we:2,huon:we:1
 huon,we,TOBO,nini,huon:we:2,huon:we:1
-huon,this,BURUM,ke,huon:this:5,huon:this:3
+huon,this,BURUM,ke,huon:this:5,huon:this:2
 huon,this,DEDUA,i,huon:this:3,huon:this:1
 huon,this,HUBE,i,huon:this:3,huon:this:1
 huon,this,KATE,ci,huon:this:1,huon:this:1
 huon,this,KOMBA,zi,huon:this:1,huon:this:1
 huon,this,KOSORONG,i,huon:this:3,huon:this:1
 huon,this,MAPE_2,oi,huon:this:2,huon:this:1
-huon,this,MINDIK,mu,huon:this:4,huon:this:2
+huon,this,MINDIK,mu,huon:this:4,huon:this:3
 huon,this,MOMOLILI,wi,huon:this:8,huon:this:1
-huon,this,NABAK,kapi,huon:this:7,huon:this:3
+huon,this,NABAK,kapi,huon:this:7,huon:this:2
 huon,this,ONO,i,huon:this:3,huon:this:1
 huon,this,SELEPET,yu,huon:this:6,huon:this:4
 huon,this,TIMBE,i,huon:this:3,huon:this:1
-huon,this,TOBO,mu,huon:this:4,huon:this:2
+huon,this,TOBO,mu,huon:this:4,huon:this:3
 huon,thou,BURUM,gi,huon:thou:2,huon:thou:1
 huon,thou,DEDUA,ge,huon:thou:2,huon:thou:1
 huon,thou,HUBE,gi,huon:thou:2,huon:thou:1
@@ -158,71 +158,71 @@ huon,nose,DEDUA,soge,huon:nose:1,huon:nose:1
 huon,nose,HUBE,sere,huon:nose:2,huon:nose:1
 huon,nose,KATE,soke,huon:nose:1,huon:nose:1
 huon,nose,KOMBA,sogon,huon:nose:3,huon:nose:1
-huon,nose,KOSORONG,sewaN,huon:nose:4,huon:nose:3
+huon,nose,KOSORONG,sewaN,huon:nose:4,huon:nose:2
 huon,nose,MAPE_2,siko,huon:nose:1,huon:nose:1
 huon,nose,MINDIK,soNgoro,huon:nose:3,huon:nose:1
-huon,nose,MOMOLILI,siNg~eN,huon:nose:8,huon:nose:4
-huon,nose,NABAK,NiN3N,huon:nose:7,huon:nose:5
+huon,nose,MOMOLILI,siNg~eN,huon:nose:8,huon:nose:2
+huon,nose,NABAK,NiN3N,huon:nose:7,huon:nose:2
 huon,nose,ONO,sot,huon:nose:5,huon:nose:1
-huon,nose,SELEPET,home,huon:nose:6,huon:nose:2
-huon,nose,TIMBE,home,huon:nose:6,huon:nose:2
+huon,nose,SELEPET,home,huon:nose:6,huon:nose:3
+huon,nose,TIMBE,home,huon:nose:6,huon:nose:3
 huon,nose,TOBO,sohori,huon:nose:3,huon:nose:1
 huon,heart,BURUM,wel bot,huon:heart:5,huon:heart:1
 huon,heart,DEDUA,woso honduN,huon:heart:3,huon:heart:4
 huon,heart,HUBE,webogokme,huon:heart:4,huon:heart:9
 huon,heart,KATE,bu hondoN,huon:heart:1,huon:heart:4
-huon,heart,KOMBA,kabiam,huon:heart:8,huon:heart:3
+huon,heart,KOMBA,kabiam,huon:heart:8,huon:heart:2
 huon,heart,KOSORONG,bakota,huon:heart:6,huon:heart:8
 huon,heart,MAPE_2,maki koruN,huon:heart:2,huon:heart:7
 huon,heart,MINDIK,wel bot,huon:heart:5,huon:heart:1
-huon,heart,MOMOLILI,wemb3 k3t,huon:heart:11,huon:heart:2
-huon,heart,NABAK,gum k3t,huon:heart:10,huon:heart:2
+huon,heart,MOMOLILI,wemb3 k3t,huon:heart:11,huon:heart:3
+huon,heart,NABAK,gum k3t,huon:heart:10,huon:heart:3
 huon,heart,ONO,kombaNi,huon:heart:7,huon:heart:6
-huon,heart,SELEPET,kabiam,huon:heart:8,huon:heart:3
+huon,heart,SELEPET,kabiam,huon:heart:8,huon:heart:2
 huon,heart,TIMBE,okot,huon:heart:9,huon:heart:5
 huon,heart,TOBO,wel bot,huon:heart:5,huon:heart:1
-huon,earth,BURUM,golme,huon:earth:5,huon:earth:8
-huon,earth,DEDUA,baNek,huon:earth:2,huon:earth:2
-huon,earth,HUBE,baek,huon:earth:2,huon:earth:2
-huon,earth,KATE,moreN,huon:earth:1,huon:earth:4
-huon,earth,KOMBA,an,huon:earth:7,huon:earth:1
-huon,earth,KOSORONG,namok,huon:earth:3,huon:earth:7
-huon,earth,MAPE_2,moreN,huon:earth:1,huon:earth:4
-huon,earth,MINDIK,baloN,huon:earth:4,huon:earth:6
-huon,earth,MOMOLILI,misa,huon:earth:8,huon:earth:3
-huon,earth,NABAK,misat,huon:earth:8,huon:earth:3
-huon,earth,ONO,kepe,huon:earth:6,huon:earth:5
-huon,earth,SELEPET,hon,huon:earth:7,huon:earth:1
-huon,earth,TIMBE,hon,huon:earth:7,huon:earth:1
-huon,earth,TOBO,bait,huon:earth:2,huon:earth:2
-huon,new,BURUM,dolokNi,huon:new:2,huon:new:3
+huon,earth,BURUM,golme,huon:earth:5,huon:earth:7
+huon,earth,DEDUA,baNek,huon:earth:2,huon:earth:1
+huon,earth,HUBE,baek,huon:earth:2,huon:earth:1
+huon,earth,KATE,moreN,huon:earth:1,huon:earth:3
+huon,earth,KOMBA,an,huon:earth:7,huon:earth:2
+huon,earth,KOSORONG,namok,huon:earth:3,huon:earth:5
+huon,earth,MAPE_2,moreN,huon:earth:1,huon:earth:3
+huon,earth,MINDIK,baloN,huon:earth:4,huon:earth:1
+huon,earth,MOMOLILI,misa,huon:earth:8,huon:earth:4
+huon,earth,NABAK,misat,huon:earth:8,huon:earth:4
+huon,earth,ONO,kepe,huon:earth:6,huon:earth:6
+huon,earth,SELEPET,hon,huon:earth:7,huon:earth:2
+huon,earth,TIMBE,hon,huon:earth:7,huon:earth:2
+huon,earth,TOBO,bait,huon:earth:2,huon:earth:1
+huon,new,BURUM,dolokNi,huon:new:2,huon:new:2
 huon,new,DEDUA,gb~oria,huon:new:1,huon:new:1
 huon,new,HUBE,gb~eria,huon:new:1,huon:new:1
 huon,new,KATE,gb~orine,huon:new:1,huon:new:1
 huon,new,KOMBA,irakNo,huon:new:2,huon:new:2
 huon,new,KOSORONG,gb~ilia,huon:new:1,huon:new:1
 huon,new,MAPE_2,gb~oine,huon:new:1,huon:new:1
-huon,new,MINDIK,dolokNi,huon:new:2,huon:new:3
+huon,new,MINDIK,dolokNi,huon:new:2,huon:new:2
 huon,new,MOMOLILI,gor3N,huon:new:5,huon:new:1
 huon,new,NABAK,arakN3N,huon:new:2,huon:new:2
-huon,new,ONO,wele,huon:new:3,huon:new:4
+huon,new,ONO,wele,huon:new:3,huon:new:3
 huon,new,SELEPET,oiNe,huon:new:4,huon:new:1
 huon,new,TIMBE,irakNe,huon:new:2,huon:new:2
 huon,new,TOBO,gb~ilik,huon:new:1,huon:new:1
-huon,night,BURUM,suNgem,huon:night:6,huon:night:3
-huon,night,DEDUA,tofonak,huon:night:3,huon:night:9
-huon,night,HUBE,siNi,huon:night:4,huon:night:2
-huon,night,KATE,Nafe,huon:night:1,huon:night:10
+huon,night,BURUM,suNgem,huon:night:6,huon:night:2
+huon,night,DEDUA,tofonak,huon:night:3,huon:night:6
+huon,night,HUBE,siNi,huon:night:4,huon:night:4
+huon,night,KATE,Nafe,huon:night:1,huon:night:5
 huon,night,KOMBA,Natik,huon:night:8,huon:night:1
 huon,night,KOSORONG,ketek,huon:night:5,huon:night:1
-huon,night,MAPE_2,uwu,huon:night:2,huon:night:8
-huon,night,MINDIK,suNgem,huon:night:6,huon:night:3
-huon,night,MOMOLILI,mimb~a,huon:night:12,huon:night:7
-huon,night,NABAK,t3mb~uyat,huon:night:11,huon:night:6
-huon,night,ONO,ruwo,huon:night:7,huon:night:5
-huon,night,SELEPET,omoN,huon:night:9,huon:night:4
+huon,night,MAPE_2,uwu,huon:night:2,huon:night:3
+huon,night,MINDIK,suNgem,huon:night:6,huon:night:2
+huon,night,MOMOLILI,mimb~a,huon:night:12,huon:night:9
+huon,night,NABAK,t3mb~uyat,huon:night:11,huon:night:8
+huon,night,ONO,ruwo,huon:night:7,huon:night:3
+huon,night,SELEPET,omoN,huon:night:9,huon:night:7
 huon,night,TIMBE,hadok,huon:night:10,huon:night:1
-huon,night,TOBO,siNiaha,huon:night:4,huon:night:2
+huon,night,TOBO,siNiaha,huon:night:4,huon:night:4
 huon,who,BURUM,kun,huon:who:2,huon:who:1
 huon,who,DEDUA,moN,huon:who:1,huon:who:1
 huon,who,HUBE,moN,huon:who:1,huon:who:1
@@ -265,33 +265,33 @@ huon,not,ONO,mi,huon:not:1,huon:not:1
 huon,not,SELEPET,ki,huon:not:5,huon:not:2
 huon,not,TIMBE,bo,huon:not:6,huon:not:5
 huon,not,TOBO,mondo,huon:not:3,huon:not:3
-huon,small,BURUM,moroNi,huon:small:6,huon:small:12
-huon,small,DEDUA,kapia,huon:small:3,huon:small:11
+huon,small,BURUM,moroNi,huon:small:6,huon:small:1
+huon,small,DEDUA,kapia,huon:small:3,huon:small:4
 huon,small,HUBE,komoga,huon:small:4,huon:small:1
-huon,small,KATE,piti7ne,huon:small:1,huon:small:10
-huon,small,KOMBA,moikto,huon:small:8,huon:small:9
-huon,small,KOSORONG,merak,huon:small:5,huon:small:8
-huon,small,MAPE_2,mendakne,huon:small:2,huon:small:7
+huon,small,KATE,piti7ne,huon:small:1,huon:small:9
+huon,small,KOMBA,moikto,huon:small:8,huon:small:3
+huon,small,KOSORONG,merak,huon:small:5,huon:small:2
+huon,small,MAPE_2,mendakne,huon:small:2,huon:small:2
 huon,small,MINDIK,komokNi,huon:small:4,huon:small:1
-huon,small,MOMOLILI,namzi,huon:small:12,huon:small:6
-huon,small,NABAK,isikN3n,huon:small:11,huon:small:5
-huon,small,ONO,nigatne,huon:small:7,huon:small:4
-huon,small,SELEPET,tipiNe,huon:small:9,huon:small:3
-huon,small,TIMBE,boleNe,huon:small:10,huon:small:2
+huon,small,MOMOLILI,namzi,huon:small:12,huon:small:5
+huon,small,NABAK,isikN3n,huon:small:11,huon:small:6
+huon,small,ONO,nigatne,huon:small:7,huon:small:7
+huon,small,SELEPET,tipiNe,huon:small:9,huon:small:8
+huon,small,TIMBE,boleNe,huon:small:10,huon:small:1
 huon,small,TOBO,komora,huon:small:4,huon:small:1
 huon,ear,BURUM,kecap,huon:ear:1,huon:ear:1
 huon,ear,DEDUA,heca,huon:ear:1,huon:ear:1
 huon,ear,HUBE,geca,huon:ear:1,huon:ear:1
 huon,ear,KATE,hace7,huon:ear:1,huon:ear:1
-huon,ear,KOMBA,kidap,huon:ear:1,huon:ear:2
+huon,ear,KOMBA,kidap,huon:ear:1,huon:ear:1
 huon,ear,KOSORONG,geca,huon:ear:1,huon:ear:1
 huon,ear,MAPE_2,kace,huon:ear:1,huon:ear:1
 huon,ear,MINDIK,kecap,huon:ear:1,huon:ear:1
-huon,ear,MOMOLILI,b3b3t,huon:ear:4,huon:ear:4
+huon,ear,MOMOLILI,b3b3t,huon:ear:4,huon:ear:2
 huon,ear,NABAK,wak,huon:ear:3,huon:ear:3
 huon,ear,ONO,ket,huon:ear:1,huon:ear:1
-huon,ear,SELEPET,odop,huon:ear:2,huon:ear:2
-huon,ear,TIMBE,odop,huon:ear:2,huon:ear:2
+huon,ear,SELEPET,odop,huon:ear:2,huon:ear:1
+huon,ear,TIMBE,odop,huon:ear:2,huon:ear:1
 huon,ear,TOBO,kesap,huon:ear:1,huon:ear:1
 huon,eye,BURUM,ce,huon:eye:4,huon:eye:1
 huon,eye,DEDUA,kiwa,huon:eye:2,huon:eye:2
@@ -303,10 +303,10 @@ huon,eye,MAPE_2,ciNo,huon:eye:1,huon:eye:1
 huon,eye,MINDIK,ce,huon:eye:4,huon:eye:1
 huon,eye,MOMOLILI,ci,huon:eye:4,huon:eye:1
 huon,eye,NABAK,ci,huon:eye:4,huon:eye:1
-huon,eye,ONO,dei,huon:eye:4,huon:eye:4
+huon,eye,ONO,dei,huon:eye:4,huon:eye:3
 huon,eye,SELEPET,sen,huon:eye:4,huon:eye:1
 huon,eye,TIMBE,dewun,huon:eye:5,huon:eye:1
-huon,eye,TOBO,kp~at,huon:eye:3,huon:eye:3
+huon,eye,TOBO,kp~at,huon:eye:3,huon:eye:2
 huon,belly,BURUM,golom,huon:belly:6,huon:belly:5
 huon,belly,DEDUA,kera,huon:belly:3,huon:belly:2
 huon,belly,HUBE,tomeN,huon:belly:4,huon:belly:4
@@ -322,16 +322,16 @@ huon,belly,SELEPET,tep,huon:belly:8,huon:belly:1
 huon,belly,TIMBE,tep,huon:belly:8,huon:belly:1
 huon,belly,TOBO,kerap,huon:belly:3,huon:belly:2
 huon,head,BURUM,noruk,huon:head:5,huon:head:1
-huon,head,DEDUA,fufu,huon:head:3,huon:head:7
-huon,head,HUBE,ogu,huon:head:4,huon:head:6
-huon,head,KATE,kp~ice7,huon:head:1,huon:head:3
+huon,head,DEDUA,fufu,huon:head:3,huon:head:3
+huon,head,HUBE,ogu,huon:head:4,huon:head:1
+huon,head,KATE,kp~ice7,huon:head:1,huon:head:4
 huon,head,KOMBA,kauk,huon:head:8,huon:head:2
 huon,head,KOSORONG,osoga,huon:head:6,huon:head:5
 huon,head,MAPE_2,kp~oru,huon:head:2,huon:head:1
 huon,head,MINDIK,noruk,huon:head:5,huon:head:1
 huon,head,MOMOLILI,nok,huon:head:10,huon:head:1
-huon,head,NABAK,Nokanci,huon:head:9,huon:head:1
-huon,head,ONO,lewit,huon:head:7,huon:head:4
+huon,head,NABAK,Nokanci,huon:head:9,huon:head:6
+huon,head,ONO,lewit,huon:head:7,huon:head:7
 huon,head,SELEPET,kun,huon:head:9,huon:head:2
 huon,head,TIMBE,kaut,huon:head:8,huon:head:2
 huon,head,TOBO,norok,huon:head:5,huon:head:1
@@ -377,17 +377,17 @@ huon,hot,ONO,gerep,huon:hot:3,huon:hot:2
 huon,hot,SELEPET,kolop,huon:hot:4,huon:hot:1
 huon,hot,TIMBE,kolop,huon:hot:4,huon:hot:1
 huon,hot,TOBO,girua,huon:hot:3,huon:hot:4
-huon,cold,BURUM,ciNim,huon:cold:5,huon:cold:5
+huon,cold,BURUM,ciNim,huon:cold:5,huon:cold:6
 huon,cold,DEDUA,moteNa,huon:cold:1,huon:cold:1
 huon,cold,HUBE,sageNa,huon:cold:2,huon:cold:3
 huon,cold,KATE,moteNne,huon:cold:1,huon:cold:1
 huon,cold,KOMBA,poteN,huon:cold:7,huon:cold:1
 huon,cold,KOSORONG,oloNa,huon:cold:3,huon:cold:2
 huon,cold,MAPE_2,moteNne,huon:cold:1,huon:cold:1
-huon,cold,MINDIK,hamotNi,huon:cold:4,huon:cold:7
+huon,cold,MINDIK,hamotNi,huon:cold:4,huon:cold:1
 huon,cold,MOMOLILI,tak3N,huon:cold:10,huon:cold:4
 huon,cold,NABAK,bakN3N,huon:cold:9,huon:cold:4
-huon,cold,ONO,momoine,huon:cold:6,huon:cold:6
+huon,cold,ONO,momoine,huon:cold:6,huon:cold:5
 huon,cold,SELEPET,bolopNe,huon:cold:8,huon:cold:2
 huon,cold,TIMBE,bolopNe,huon:cold:8,huon:cold:2
 huon,cold,TOBO,saNgeN,huon:cold:2,huon:cold:3
@@ -419,34 +419,34 @@ huon,moon,ONO,meso,huon:moon:1,huon:moon:2
 huon,moon,SELEPET,emesenNe,huon:moon:5,huon:moon:7
 huon,moon,TIMBE,dewuto hodohon gotNe,huon:moon:6,huon:moon:6
 huon,moon,TOBO,kombol,huon:moon:3,huon:moon:4
-huon,neck,BURUM,col,huon:neck:3,huon:neck:2
+huon,neck,BURUM,col,huon:neck:3,huon:neck:3
 huon,neck,DEDUA,upe,huon:neck:1,huon:neck:1
-huon,neck,HUBE,ebasi~gla,huon:neck:2,huon:neck:7
+huon,neck,HUBE,ebasi~gla,huon:neck:2,huon:neck:4
 huon,neck,KATE,upe,huon:neck:1,huon:neck:1
 huon,neck,KOMBA,godu,huon:neck:5,huon:neck:6
 huon,neck,KOSORONG,are,huon:neck:4,huon:neck:5
 huon,neck,MAPE_2,upe,huon:neck:1,huon:neck:1
-huon,neck,MINDIK,col,huon:neck:3,huon:neck:2
-huon,neck,MOMOLILI,andeN,huon:neck:7,huon:neck:3
-huon,neck,NABAK,Nande,huon:neck:7,huon:neck:3
+huon,neck,MINDIK,col,huon:neck:3,huon:neck:3
+huon,neck,MOMOLILI,andeN,huon:neck:7,huon:neck:2
+huon,neck,NABAK,Nande,huon:neck:7,huon:neck:2
 huon,neck,ONO,ebi,huon:neck:1,huon:neck:1
 huon,neck,SELEPET,obe,huon:neck:1,huon:neck:1
-huon,neck,TIMBE,han,huon:neck:6,huon:neck:4
-huon,neck,TOBO,cel,huon:neck:3,huon:neck:2
+huon,neck,TIMBE,han,huon:neck:6,huon:neck:2
+huon,neck,TOBO,cel,huon:neck:3,huon:neck:3
 huon,white,BURUM,tuatNi,huon:white:5,huon:white:5
-huon,white,DEDUA,koNak,huon:white:2,huon:white:7
-huon,white,HUBE,rarak,huon:white:3,huon:white:4
-huon,white,KATE,kp~aN kp~aN,huon:white:1,huon:white:3
+huon,white,DEDUA,koNak,huon:white:2,huon:white:2
+huon,white,HUBE,rarak,huon:white:3,huon:white:3
+huon,white,KATE,kp~aN kp~aN,huon:white:1,huon:white:2
 huon,white,KOMBA,kau kau,huon:white:7,huon:white:1
-huon,white,KOSORONG,tataNkota,huon:white:4,huon:white:8
-huon,white,MAPE_2,kp~aN kp~aN,huon:white:1,huon:white:3
+huon,white,KOSORONG,tataNkota,huon:white:4,huon:white:7
+huon,white,MAPE_2,kp~aN kp~aN,huon:white:1,huon:white:2
 huon,white,MINDIK,toatNi,huon:white:5,huon:white:5
-huon,white,MOMOLILI,sagatn,huon:white:8,huon:white:2
-huon,white,NABAK,satn3N,huon:white:8,huon:white:2
+huon,white,MOMOLILI,sagatn,huon:white:8,huon:white:4
+huon,white,NABAK,satn3N,huon:white:8,huon:white:4
 huon,white,ONO,libeka,huon:white:6,huon:white:6
 huon,white,SELEPET,kaok,huon:white:7,huon:white:1
 huon,white,TIMBE,kau,huon:white:7,huon:white:1
-huon,white,TOBO,lalap,huon:white:3,huon:white:4
+huon,white,TOBO,lalap,huon:white:3,huon:white:3
 huon,eat,BURUM,ne,huon:eat:1,huon:eat:1
 huon,eat,DEDUA,ne,huon:eat:1,huon:eat:1
 huon,eat,HUBE,ne,huon:eat:1,huon:eat:1
@@ -531,41 +531,41 @@ huon,bone,ONO,set,huon:bone:1,huon:bone:1
 huon,bone,SELEPET,hahit,huon:bone:1,huon:bone:1
 huon,bone,TIMBE,hahit,huon:bone:1,huon:bone:1
 huon,bone,TOBO,sihit,huon:bone:1,huon:bone:1
-huon,round,BURUM,lambo,huon:round:3,huon:round:5
-huon,round,DEDUA,oroN,huon:round:1,huon:round:4
+huon,round,BURUM,lambo,huon:round:3,huon:round:4
+huon,round,DEDUA,oroN,huon:round:1,huon:round:2
 huon,round,HUBE,rerek rerek,huon:round:2,huon:round:1
-huon,round,KATE,oroN oroN,huon:round:1,huon:round:3
-huon,round,KOMBA,gawoN gawoN,huon:round:4,huon:round:2
+huon,round,KATE,oroN oroN,huon:round:1,huon:round:2
+huon,round,KOMBA,gawoN gawoN,huon:round:4,huon:round:3
 huon,round,KOSORONG,lilik lilik,huon:round:2,huon:round:1
-huon,round,MAPE_2,oroN,huon:round:1,huon:round:4
+huon,round,MAPE_2,oroN,huon:round:1,huon:round:2
 huon,round,MINDIK,lilik lilik,huon:round:2,huon:round:1
-huon,round,MOMOLILI,warag3n,huon:round:6,huon:round:7
+huon,round,MOMOLILI,warag3n,huon:round:6,huon:round:5
 huon,round,NABAK,kililiN,huon:round:5,huon:round:6
 huon,round,ONO,lolik lolik,huon:round:2,huon:round:1
-huon,round,SELEPET,gawoN gawoN,huon:round:4,huon:round:2
-huon,round,TIMBE,gawoN gawoN,huon:round:4,huon:round:2
-huon,round,TOBO,koroN koroN,huon:round:1,huon:round:3
+huon,round,SELEPET,gawoN gawoN,huon:round:4,huon:round:3
+huon,round,TIMBE,gawoN gawoN,huon:round:4,huon:round:3
+huon,round,TOBO,koroN koroN,huon:round:1,huon:round:2
 huon,dry,BURUM,oroNgo,huon:dry:6,huon:dry:1
-huon,dry,DEDUA,kereN,huon:dry:1,huon:dry:3
-huon,dry,HUBE,irege,huon:dry:3,huon:dry:7
-huon,dry,KATE,kereNke,huon:dry:1,huon:dry:3
+huon,dry,DEDUA,kereN,huon:dry:1,huon:dry:1
+huon,dry,HUBE,irege,huon:dry:3,huon:dry:1
+huon,dry,KATE,kereNke,huon:dry:1,huon:dry:1
 huon,dry,KOMBA,araroN,huon:dry:6,huon:dry:1
-huon,dry,KOSORONG,tobori,huon:dry:5,huon:dry:6
+huon,dry,KOSORONG,tobori,huon:dry:5,huon:dry:3
 huon,dry,MAPE_2,ciga,huon:dry:2,huon:dry:2
 huon,dry,MINDIK,oroNgo,huon:dry:6,huon:dry:1
 huon,dry,MOMOLILI,alaNg3,huon:dry:6,huon:dry:1
-huon,dry,NABAK,ko,huon:dry:8,huon:dry:5
+huon,dry,NABAK,ko,huon:dry:8,huon:dry:4
 huon,dry,ONO,cipki,huon:dry:4,huon:dry:2
 huon,dry,SELEPET,horoN,huon:dry:6,huon:dry:1
-huon,dry,TIMBE,kamili,huon:dry:7,huon:dry:4
+huon,dry,TIMBE,kamili,huon:dry:7,huon:dry:5
 huon,dry,TOBO,cipko,huon:dry:4,huon:dry:2
 huon,breast,BURUM,cucu,huon:breast:3,huon:breast:2
 huon,breast,DEDUA,namu,huon:breast:2,huon:breast:1
 huon,breast,HUBE,namu,huon:breast:2,huon:breast:1
-huon,breast,KATE,moN,huon:breast:1,huon:breast:3
+huon,breast,KATE,moN,huon:breast:1,huon:breast:1
 huon,breast,KOMBA,nam,huon:breast:2,huon:breast:1
 huon,breast,KOSORONG,acu,huon:breast:3,huon:breast:2
-huon,breast,MAPE_2,moN,huon:breast:1,huon:breast:3
+huon,breast,MAPE_2,moN,huon:breast:1,huon:breast:1
 huon,breast,MINDIK,cucu,huon:breast:3,huon:breast:2
 huon,breast,MOMOLILI,nam,huon:breast:2,huon:breast:1
 huon,breast,NABAK,nam,huon:breast:2,huon:breast:1
@@ -645,38 +645,38 @@ huon,sit,TIMBE,ta,huon:sit:2,huon:sit:1
 huon,sit,TOBO,ta,huon:sit:2,huon:sit:1
 huon,yellow,BURUM,gohotNi,huon:yellow:4,huon:yellow:1
 huon,yellow,DEDUA,cagea,huon:yellow:2,huon:yellow:5
-huon,yellow,HUBE,gb~aok gb~aok,huon:yellow:3,huon:yellow:2
-huon,yellow,KATE,boNeNne,huon:yellow:1,huon:yellow:4
+huon,yellow,HUBE,gb~aok gb~aok,huon:yellow:3,huon:yellow:4
+huon,yellow,KATE,boNeNne,huon:yellow:1,huon:yellow:3
 huon,yellow,KOMBA,gibaN gibaN,huon:yellow:7,huon:yellow:1
 huon,yellow,KOSORONG,gogokota,huon:yellow:4,huon:yellow:7
-huon,yellow,MAPE_2,boboNeN,huon:yellow:1,huon:yellow:4
+huon,yellow,MAPE_2,boboNeN,huon:yellow:1,huon:yellow:3
 huon,yellow,MINDIK,gibaNi,huon:yellow:5,huon:yellow:1
-huon,yellow,MOMOLILI,alaN,huon:yellow:8,huon:yellow:3
-huon,yellow,NABAK,araraN,huon:yellow:8,huon:yellow:3
+huon,yellow,MOMOLILI,alaN,huon:yellow:8,huon:yellow:2
+huon,yellow,NABAK,araraN,huon:yellow:8,huon:yellow:2
 huon,yellow,ONO,yaNaike,huon:yellow:6,huon:yellow:6
 huon,yellow,SELEPET,gibaN,huon:yellow:7,huon:yellow:1
 huon,yellow,TIMBE,gibaN,huon:yellow:7,huon:yellow:1
-huon,yellow,TOBO,gb~aot gb~aot,huon:yellow:3,huon:yellow:2
-huon,green,BURUM,gorokNi,huon:green:6,huon:green:11
-huon,green,DEDUA,oroNborik,huon:green:1,huon:green:3
-huon,green,HUBE,gerik meria,huon:green:3,huon:green:10
-huon,green,KATE,oroNbori7,huon:green:1,huon:green:3
-huon,green,KOMBA,wohon wohon,huon:green:8,huon:green:9
+huon,yellow,TOBO,gb~aot gb~aot,huon:yellow:3,huon:yellow:4
+huon,green,BURUM,gorokNi,huon:green:6,huon:green:3
+huon,green,DEDUA,oroNborik,huon:green:1,huon:green:4
+huon,green,HUBE,gerik meria,huon:green:3,huon:green:9
+huon,green,KATE,oroNbori7,huon:green:1,huon:green:4
+huon,green,KOMBA,wohon wohon,huon:green:8,huon:green:10
 huon,green,KOSORONG,asoN asoN,huon:green:4,huon:green:1
 huon,green,MAPE_2,buge,huon:green:2,huon:green:8
 huon,green,MINDIK,toNgon toNgon,huon:green:5,huon:green:7
-huon,green,MOMOLILI,kokN,huon:green:11,huon:green:6
-huon,green,NABAK,araN3N,huon:green:10,huon:green:5
-huon,green,ONO,wisika,huon:green:7,huon:green:4
+huon,green,MOMOLILI,kokN,huon:green:11,huon:green:3
+huon,green,NABAK,araN3N,huon:green:10,huon:green:6
+huon,green,ONO,wisika,huon:green:7,huon:green:5
 huon,green,SELEPET,golo,huon:green:9,huon:green:2
 huon,green,TIMBE,golo,huon:green:9,huon:green:2
 huon,green,TOBO,asoNa,huon:green:4,huon:green:1
 huon,full,BURUM,kokolak kp~e,huon:full:5,huon:full:1
-huon,full,DEDUA,wake,huon:full:2,huon:full:6
+huon,full,DEDUA,wake,huon:full:2,huon:full:7
 huon,full,HUBE,koia kp~e,huon:full:3,huon:full:1
 huon,full,KATE,fuse,huon:full:1,huon:full:4
 huon,full,KOMBA,pik,huon:full:7,huon:full:2
-huon,full,KOSORONG,sa kp~e,huon:full:4,huon:full:1
+huon,full,KOSORONG,sa kp~e,huon:full:4,huon:full:6
 huon,full,MAPE_2,fuse,huon:full:1,huon:full:4
 huon,full,MINDIK,koko kp~e,huon:full:5,huon:full:1
 huon,full,MOMOLILI,c3c3 ko,huon:full:8,huon:full:3
@@ -756,29 +756,29 @@ huon,say,SELEPET,y,huon:say:2,huon:say:3
 huon,say,TIMBE,ma,huon:say:4,huon:say:2
 huon,say,TOBO,ci,huon:say:2,huon:say:1
 huon,cloud,BURUM,kousu,huon:cloud:4,huon:cloud:1
-huon,cloud,DEDUA,kurumeN,huon:cloud:3,huon:cloud:9
+huon,cloud,DEDUA,kurumeN,huon:cloud:3,huon:cloud:3
 huon,cloud,HUBE,hosesu,huon:cloud:4,huon:cloud:1
 huon,cloud,KATE,karora7,huon:cloud:1,huon:cloud:8
-huon,cloud,KOMBA,sasa,huon:cloud:6,huon:cloud:7
+huon,cloud,KOMBA,sasa,huon:cloud:6,huon:cloud:2
 huon,cloud,KOSORONG,kosuk,huon:cloud:4,huon:cloud:1
-huon,cloud,MAPE_2,goweN,huon:cloud:2,huon:cloud:6
+huon,cloud,MAPE_2,goweN,huon:cloud:2,huon:cloud:7
 huon,cloud,MINDIK,kousu,huon:cloud:4,huon:cloud:1
-huon,cloud,MOMOLILI,kumbu,huon:cloud:10,huon:cloud:5
-huon,cloud,NABAK,canca,huon:cloud:9,huon:cloud:4
+huon,cloud,MOMOLILI,kumbu,huon:cloud:10,huon:cloud:6
+huon,cloud,NABAK,canca,huon:cloud:9,huon:cloud:2
 huon,cloud,ONO,kezoN,huon:cloud:5,huon:cloud:1
-huon,cloud,SELEPET,elem,huon:cloud:7,huon:cloud:3
-huon,cloud,TIMBE,hamadat,huon:cloud:8,huon:cloud:2
+huon,cloud,SELEPET,elem,huon:cloud:7,huon:cloud:5
+huon,cloud,TIMBE,hamadat,huon:cloud:8,huon:cloud:4
 huon,cloud,TOBO,kosu,huon:cloud:4,huon:cloud:1
 huon,one,BURUM,mohot,huon:one:3,huon:one:1
-huon,one,DEDUA,mokgu,huon:one:1,huon:one:3
-huon,one,HUBE,momakgu,huon:one:1,huon:one:3
-huon,one,KATE,moyaha,huon:one:1,huon:one:7
+huon,one,DEDUA,mokgu,huon:one:1,huon:one:1
+huon,one,HUBE,momakgu,huon:one:1,huon:one:1
+huon,one,KATE,moyaha,huon:one:1,huon:one:1
 huon,one,KOMBA,konok,huon:one:6,huon:one:2
 huon,one,KOSORONG,motoNgok,huon:one:4,huon:one:1
 huon,one,MAPE_2,mokotoN,huon:one:2,huon:one:1
 huon,one,MINDIK,mokuN,huon:one:1,huon:one:1
-huon,one,MOMOLILI,kpeci,huon:one:7,huon:one:6
-huon,one,NABAK,kpep,huon:one:7,huon:one:5
+huon,one,MOMOLILI,kpeci,huon:one:7,huon:one:3
+huon,one,NABAK,kpep,huon:one:7,huon:one:3
 huon,one,ONO,weku,huon:one:5,huon:one:4
 huon,one,SELEPET,konok,huon:one:6,huon:one:2
 huon,one,TIMBE,konok,huon:one:6,huon:one:2
@@ -805,8 +805,8 @@ huon,two,KOMBA,zohot,huon:two:2,huon:two:1
 huon,two,KOSORONG,woik,huon:two:3,huon:two:3
 huon,two,MAPE_2,yoyokak,huon:two:1,huon:two:2
 huon,two,MINDIK,woit,huon:two:3,huon:two:3
-huon,two,MOMOLILI,ceba,huon:two:7,huon:two:8
-huon,two,NABAK,cut,huon:two:6,huon:two:7
+huon,two,MOMOLILI,ceba,huon:two:7,huon:two:7
+huon,two,NABAK,cut,huon:two:6,huon:two:1
 huon,two,ONO,etke,huon:two:4,huon:two:6
 huon,two,SELEPET,yohop,huon:two:2,huon:two:5
 huon,two,TIMBE,louwo,huon:two:5,huon:two:4
@@ -839,46 +839,46 @@ huon,red,ONO,weNemka,huon:red:5,huon:red:7
 huon,red,SELEPET,kuriN,huon:red:6,huon:red:3
 huon,red,TIMBE,gilomNe,huon:red:7,huon:red:8
 huon,red,TOBO,posoha,huon:red:3,huon:red:1
-huon,sleep,BURUM,aho,huon:sleep:4,huon:sleep:1
+huon,sleep,BURUM,aho,huon:sleep:4,huon:sleep:2
 huon,sleep,DEDUA,fe,huon:sleep:1,huon:sleep:1
 huon,sleep,HUBE,fe,huon:sleep:1,huon:sleep:1
-huon,sleep,KATE,fo,huon:sleep:1,huon:sleep:1
-huon,sleep,KOMBA,zi,huon:sleep:6,huon:sleep:2
+huon,sleep,KATE,fo,huon:sleep:1,huon:sleep:2
+huon,sleep,KOMBA,zi,huon:sleep:6,huon:sleep:3
 huon,sleep,KOSORONG,e,huon:sleep:1,huon:sleep:1
 huon,sleep,MAPE_2,kp~e,huon:sleep:2,huon:sleep:1
-huon,sleep,MINDIK,aho,huon:sleep:4,huon:sleep:1
+huon,sleep,MINDIK,aho,huon:sleep:4,huon:sleep:2
 huon,sleep,MOMOLILI,we,huon:sleep:7,huon:sleep:1
 huon,sleep,NABAK,we,huon:sleep:7,huon:sleep:1
 huon,sleep,ONO,pa,huon:sleep:5,huon:sleep:1
-huon,sleep,SELEPET,i,huon:sleep:6,huon:sleep:2
-huon,sleep,TIMBE,ye,huon:sleep:6,huon:sleep:2
-huon,sleep,TOBO,goohe,huon:sleep:3,huon:sleep:1
-huon,black,BURUM,towuNi,huon:black:5,huon:black:10
-huon,black,DEDUA,cacu,huon:black:2,huon:black:6
-huon,black,HUBE,capera,huon:black:3,huon:black:4
-huon,black,KATE,gogopo7,huon:black:1,huon:black:3
-huon,black,KOMBA,sumun sumun,huon:black:7,huon:black:5
-huon,black,KOSORONG,incaNa,huon:black:4,huon:black:2
-huon,black,MAPE_2,gogowuk,huon:black:1,huon:black:3
-huon,black,MINDIK,incaNi,huon:black:4,huon:black:2
-huon,black,MOMOLILI,s3mbopm,huon:black:10,huon:black:9
-huon,black,NABAK,sopm3N,huon:black:9,huon:black:8
-huon,black,ONO,dika,huon:black:6,huon:black:7
+huon,sleep,SELEPET,i,huon:sleep:6,huon:sleep:3
+huon,sleep,TIMBE,ye,huon:sleep:6,huon:sleep:3
+huon,sleep,TOBO,goohe,huon:sleep:3,huon:sleep:2
+huon,black,BURUM,towuNi,huon:black:5,huon:black:8
+huon,black,DEDUA,cacu,huon:black:2,huon:black:7
+huon,black,HUBE,capera,huon:black:3,huon:black:5
+huon,black,KATE,gogopo7,huon:black:1,huon:black:4
+huon,black,KOMBA,sumun sumun,huon:black:7,huon:black:6
+huon,black,KOSORONG,incaNa,huon:black:4,huon:black:3
+huon,black,MAPE_2,gogowuk,huon:black:1,huon:black:4
+huon,black,MINDIK,incaNi,huon:black:4,huon:black:3
+huon,black,MOMOLILI,s3mbopm,huon:black:10,huon:black:2
+huon,black,NABAK,sopm3N,huon:black:9,huon:black:2
+huon,black,ONO,dika,huon:black:6,huon:black:9
 huon,black,SELEPET,heleN,huon:black:8,huon:black:1
 huon,black,TIMBE,heleN,huon:black:8,huon:black:1
-huon,black,TOBO,capala,huon:black:3,huon:black:4
+huon,black,TOBO,capala,huon:black:3,huon:black:5
 huon,dog,BURUM,kiam,huon:dog:3,huon:dog:1
 huon,dog,DEDUA,kasi,huon:dog:2,huon:dog:2
 huon,dog,HUBE,kacu,huon:dog:2,huon:dog:2
 huon,dog,KATE,kp~oto,huon:dog:1,huon:dog:3
-huon,dog,KOMBA,wau,huon:dog:4,huon:dog:4
+huon,dog,KOMBA,wau,huon:dog:4,huon:dog:2
 huon,dog,KOSORONG,kasuk,huon:dog:2,huon:dog:2
 huon,dog,MAPE_2,kp~oro,huon:dog:1,huon:dog:3
 huon,dog,MINDIK,kiam,huon:dog:3,huon:dog:1
 huon,dog,MOMOLILI,ta,huon:dog:7,huon:dog:1
 huon,dog,NABAK,tam,huon:dog:7,huon:dog:1
 huon,dog,ONO,kasi,huon:dog:2,huon:dog:2
-huon,dog,SELEPET,soso,huon:dog:5,huon:dog:5
+huon,dog,SELEPET,soso,huon:dog:5,huon:dog:4
 huon,dog,TIMBE,dua,huon:dog:6,huon:dog:1
 huon,dog,TOBO,kiam,huon:dog:3,huon:dog:1
 huon,burn,BURUM,ce,huon:burn:1,huon:burn:1
@@ -917,8 +917,8 @@ huon,meat,KOMBA,sunum,huon:meat:3,huon:meat:2
 huon,meat,KOSORONG,busi,huon:meat:2,huon:meat:1
 huon,meat,MAPE_2,biu,huon:meat:1,huon:meat:1
 huon,meat,MINDIK,busu,huon:meat:2,huon:meat:1
-huon,meat,MOMOLILI,mirik,huon:meat:5,huon:meat:3
-huon,meat,NABAK,s3sumbaN,huon:meat:4,huon:meat:4
+huon,meat,MOMOLILI,mirik,huon:meat:5,huon:meat:4
+huon,meat,NABAK,s3sumbaN,huon:meat:4,huon:meat:3
 huon,meat,ONO,biku,huon:meat:1,huon:meat:1
 huon,meat,SELEPET,sunum,huon:meat:3,huon:meat:2
 huon,meat,TIMBE,sunum,huon:meat:3,huon:meat:2
@@ -938,19 +938,19 @@ huon,mountain,SELEPET,giboNe,huon:mountain:5,huon:mountain:1
 huon,mountain,TIMBE,giboNe,huon:mountain:5,huon:mountain:1
 huon,mountain,TOBO,bohoNa,huon:mountain:2,huon:mountain:1
 huon,ash,BURUM,kau,huon:ash:4,huon:ash:1
-huon,ash,DEDUA,hama,huon:ash:2,huon:ash:2
-huon,ash,HUBE,homa,huon:ash:2,huon:ash:2
-huon,ash,KATE,cafe,huon:ash:1,huon:ash:3
+huon,ash,DEDUA,hama,huon:ash:2,huon:ash:1
+huon,ash,HUBE,homa,huon:ash:2,huon:ash:1
+huon,ash,KATE,cafe,huon:ash:1,huon:ash:2
 huon,ash,KOMBA,kau,huon:ash:4,huon:ash:1
-huon,ash,KOSORONG,tok,huon:ash:3,huon:ash:5
-huon,ash,MAPE_2,cafe,huon:ash:1,huon:ash:3
+huon,ash,KOSORONG,tok,huon:ash:3,huon:ash:3
+huon,ash,MAPE_2,cafe,huon:ash:1,huon:ash:2
 huon,ash,MINDIK,kau,huon:ash:4,huon:ash:1
 huon,ash,MOMOLILI,cita,huon:ash:5,huon:ash:4
 huon,ash,NABAK,kou,huon:ash:4,huon:ash:1
 huon,ash,ONO,kau,huon:ash:4,huon:ash:1
 huon,ash,SELEPET,kou,huon:ash:4,huon:ash:1
 huon,ash,TIMBE,kau,huon:ash:4,huon:ash:1
-huon,ash,TOBO,kama,huon:ash:2,huon:ash:2
+huon,ash,TOBO,kama,huon:ash:2,huon:ash:1
 huon,rain,BURUM,kie,huon:rain:1,huon:rain:1
 huon,rain,DEDUA,kia,huon:rain:1,huon:rain:1
 huon,rain,HUBE,kia,huon:rain:1,huon:rain:1
@@ -984,13 +984,13 @@ huon,root,DEDUA,gode,huon:root:1,huon:root:1
 huon,root,HUBE,gete,huon:root:1,huon:root:1
 huon,root,KATE,goto,huon:root:1,huon:root:1
 huon,root,KOMBA,odoN,huon:root:2,huon:root:1
-huon,root,KOSORONG,tita,huon:root:3,huon:root:5
+huon,root,KOSORONG,tita,huon:root:3,huon:root:4
 huon,root,MAPE_2,goru,huon:root:1,huon:root:1
 huon,root,MINDIK,calo,huon:root:4,huon:root:3
 huon,root,MOMOLILI,kindiri,huon:root:7,huon:root:2
 huon,root,NABAK,kindi,huon:root:7,huon:root:2
-huon,root,ONO,Nodi,huon:root:5,huon:root:1
-huon,root,SELEPET,gihit,huon:root:6,huon:root:4
+huon,root,ONO,Nodi,huon:root:5,huon:root:2
+huon,root,SELEPET,gihit,huon:root:6,huon:root:5
 huon,root,TIMBE,kodoro,huon:root:7,huon:root:1
 huon,root,TOBO,onde,huon:root:2,huon:root:2
 huon,sand,BURUM,sak,huon:sand:2,huon:sand:1
@@ -1021,7 +1021,7 @@ huon,seed,ONO,wau,huon:seed:6,huon:seed:4
 huon,seed,SELEPET,kehet,huon:seed:7,huon:seed:1
 huon,seed,TIMBE,kodet,huon:seed:8,huon:seed:1
 huon,seed,TOBO,gopi,huon:seed:4,huon:seed:3
-huon,claw,BURUM,kambo,huon:claw:7,huon:claw:11
+huon,claw,BURUM,kambo,huon:claw:7,huon:claw:3
 huon,claw,DEDUA,boN,huon:claw:3,huon:claw:2
 huon,claw,HUBE,boNsewe,huon:claw:3,huon:claw:2
 huon,claw,KATE,misiN,huon:claw:1,huon:claw:10
@@ -1034,7 +1034,7 @@ huon,claw,NABAK,p3luk,huon:claw:10,huon:claw:5
 huon,claw,ONO,zolip,huon:claw:8,huon:claw:4
 huon,claw,SELEPET,pekat,huon:claw:9,huon:claw:1
 huon,claw,TIMBE,pekat,huon:claw:9,huon:claw:1
-huon,claw,TOBO,kawon,huon:claw:4,huon:claw:3
+huon,claw,TOBO,kawon,huon:claw:4,huon:claw:2
 huon,skin,BURUM,sile,huon:skin:4,huon:skin:1
 huon,skin,DEDUA,sebi,huon:skin:3,huon:skin:1
 huon,skin,HUBE,sewira,huon:skin:3,huon:skin:1
@@ -1066,14 +1066,14 @@ huon,smoke,TOBO,kasak,huon:smoke:1,huon:smoke:1
 huon,that,BURUM,me,huon:that:4,huon:that:2
 huon,that,DEDUA,yo,huon:that:3,huon:that:1
 huon,that,HUBE,yo,huon:that:3,huon:that:1
-huon,that,KATE,i,huon:that:1,huon:that:2
+huon,that,KATE,i,huon:that:1,huon:that:1
 huon,that,KOMBA,zo,huon:that:3,huon:that:1
 huon,that,KOSORONG,lo,huon:that:3,huon:that:1
 huon,that,MAPE_2,o,huon:that:2,huon:that:1
 huon,that,MINDIK,me,huon:that:4,huon:that:2
 huon,that,MOMOLILI,mei,huon:that:4,huon:that:2
 huon,that,NABAK,ke,huon:that:7,huon:that:2
-huon,that,ONO,eri,huon:that:5,huon:that:2
+huon,that,ONO,eri,huon:that:5,huon:that:1
 huon,that,SELEPET,ya,huon:that:3,huon:that:1
 huon,that,TIMBE,ido,huon:that:6,huon:that:1
 huon,that,TOBO,mi,huon:that:4,huon:that:2
@@ -1091,20 +1091,20 @@ huon,stone,ONO,wesi,huon:stone:7,huon:stone:4
 huon,stone,SELEPET,kot,huon:stone:6,huon:stone:1
 huon,stone,TIMBE,kot,huon:stone:6,huon:stone:1
 huon,stone,TOBO,baNa,huon:stone:4,huon:stone:3
-huon,tree,BURUM,ip,huon:tree:2,huon:tree:2
+huon,tree,BURUM,ip,huon:tree:2,huon:tree:1
 huon,tree,DEDUA,ik,huon:tree:2,huon:tree:1
 huon,tree,HUBE,ik,huon:tree:2,huon:tree:1
 huon,tree,KATE,yo7,huon:tree:1,huon:tree:1
 huon,tree,KOMBA,nak,huon:tree:4,huon:tree:1
 huon,tree,KOSORONG,ik,huon:tree:2,huon:tree:1
 huon,tree,MAPE_2,yok,huon:tree:1,huon:tree:1
-huon,tree,MINDIK,ip,huon:tree:2,huon:tree:2
-huon,tree,MOMOLILI,t3,huon:tree:6,huon:tree:2
-huon,tree,NABAK,t3p,huon:tree:6,huon:tree:2
+huon,tree,MINDIK,ip,huon:tree:2,huon:tree:1
+huon,tree,MOMOLILI,t3,huon:tree:6,huon:tree:1
+huon,tree,NABAK,t3p,huon:tree:6,huon:tree:1
 huon,tree,ONO,eki,huon:tree:3,huon:tree:1
 huon,tree,SELEPET,nak,huon:tree:4,huon:tree:1
-huon,tree,TIMBE,lowin,huon:tree:5,huon:tree:3
-huon,tree,TOBO,ip,huon:tree:2,huon:tree:2
+huon,tree,TIMBE,lowin,huon:tree:5,huon:tree:2
+huon,tree,TOBO,ip,huon:tree:2,huon:tree:1
 huon,bird,BURUM,nei,huon:bird:3,huon:bird:1
 huon,bird,DEDUA,neN,huon:bird:3,huon:bird:1
 huon,bird,HUBE,nei,huon:bird:3,huon:bird:1
@@ -1125,13 +1125,13 @@ huon,blood,HUBE,sawa,huon:blood:1,huon:blood:1
 huon,blood,KATE,so7,huon:blood:1,huon:blood:1
 huon,blood,KOMBA,sep,huon:blood:1,huon:blood:1
 huon,blood,KOSORONG,saya,huon:blood:1,huon:blood:1
-huon,blood,MAPE_2,dari,huon:blood:2,huon:blood:2
+huon,blood,MAPE_2,dari,huon:blood:2,huon:blood:4
 huon,blood,MINDIK,sep,huon:blood:1,huon:blood:1
 huon,blood,MOMOLILI,sip,huon:blood:1,huon:blood:1
 huon,blood,NABAK,sip,huon:blood:1,huon:blood:1
 huon,blood,ONO,weNemi,huon:blood:3,huon:blood:3
 huon,blood,SELEPET,hep,huon:blood:1,huon:blood:1
-huon,blood,TIMBE,gilom,huon:blood:4,huon:blood:4
+huon,blood,TIMBE,gilom,huon:blood:4,huon:blood:2
 huon,blood,TOBO,sap,huon:blood:1,huon:blood:1
 huon,water,BURUM,ou,huon:water:2,huon:water:1
 huon,water,DEDUA,doku,huon:water:3,huon:water:1
@@ -1151,15 +1151,15 @@ huon,woman,BURUM,ambi,huon:woman:2,huon:woman:1
 huon,woman,DEDUA,Nak,huon:woman:1,huon:woman:2
 huon,woman,HUBE,embak,huon:woman:2,huon:woman:1
 huon,woman,KATE,Noka7,huon:woman:1,huon:woman:2
-huon,woman,KOMBA,abon,huon:woman:2,huon:woman:3
+huon,woman,KOMBA,abon,huon:woman:2,huon:woman:4
 huon,woman,KOSORONG,embak,huon:woman:2,huon:woman:1
 huon,woman,MAPE_2,Nigok,huon:woman:1,huon:woman:2
 huon,woman,MINDIK,ambi,huon:woman:2,huon:woman:1
 huon,woman,MOMOLILI,imbi,huon:woman:2,huon:woman:1
 huon,woman,NABAK,imbi,huon:woman:2,huon:woman:1
-huon,woman,ONO,Nerep,huon:woman:3,huon:woman:4
+huon,woman,ONO,Nerep,huon:woman:3,huon:woman:3
 huon,woman,SELEPET,ibi,huon:woman:2,huon:woman:1
-huon,woman,TIMBE,oboi,huon:woman:2,huon:woman:3
+huon,woman,TIMBE,oboi,huon:woman:2,huon:woman:1
 huon,woman,TOBO,embat,huon:woman:2,huon:woman:1
 huon,all,BURUM,kp~akp~ak,huon:all:6,huon:all:4
 huon,all,DEDUA,sasawa,huon:all:1,huon:all:1
