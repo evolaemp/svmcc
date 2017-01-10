@@ -43,7 +43,7 @@ def _infer_lexstat(dataset_path, output_path, threshold=0.57):
 	
 	for key, row in enumerate(data, 1):
 		new_data[key] = [row['language'], row['gloss'],
-			row['transcription'], row['tokens'], row['cognate_class']]
+			row['transcription'], row['tokens'].split(), row['cognate_class']]
 	
 	lex = make_lexstat(new_data)
 	
