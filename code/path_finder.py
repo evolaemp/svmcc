@@ -41,7 +41,7 @@ def find_all_datasets(this_dir):
 			if file_name.endswith('.tsv'):
 				paths.append(file_path)
 	
-	return paths
+	return list(sorted(paths))
 
 
 
