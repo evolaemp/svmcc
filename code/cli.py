@@ -64,7 +64,6 @@ class Cli:
 		
 		self._init_check()
 		self._init_infer()
-		self._init_patch()
 		self._init_prepare()
 		self._init_test()
 	

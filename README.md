@@ -18,11 +18,11 @@ The datasets are located in the ``data/datasets`` directory.
 | `afrasian`         | Afro-Asiatic                 |      790 | Militarev, 2000              |
 | `bai`              | Sino-Tibetan                 |     1028 | Wang, 2006                   |
 | `central_asian`    | Turkic, Indo-European        |    15903 | Manni et al, 2016            |
+| `chinese_1964`     | Sino-Tibetan                 |     3632 | Běijīng Dàxué, 1964          |
 | `chinese_2004`     | Sino-Tibetan                 |     2789 | Hóu, 2004                    |
-| `chinese_1964`     | Sino-Tibetan                 |     3653 | Běijīng Dàxué, 1964          |
 | `huon`             | Trans-New Guinea             |     1176 | McElhanon, 1967              |
-| `ielex`            | Indo-European                |    11572 | Dunn, 2012                   |
-| `japanese`         | Japonic                      |     1986 | Hattori, 1973                |
+| `ielex`            | Indo-European                |    11479 | Dunn, 2012                   |
+| `japanese`         | Japonic                      |     1963 | Hattori, 1973                |
 | `kadai`            | Tai-Kadai                    |      400 | Peiros, 1998                 |
 | `kamasau`          | Torricelli                   |      271 | Sanders, 1980                |
 | `lolo_burmese`     | Sino-Tibetan                 |      570 | Peiros, 1998                 |
@@ -51,7 +51,7 @@ a word and the columns are as follows:
 
 The datasets are published under a [Creative Commons Attribution-ShareAlike 4.0
 International License](https://creativecommons.org/licenses/by-sa/4.0/) and can
-also be found in Zenodo (URL pending).
+also be found in [Zenodo](https://zenodo.org/record/237339).
 
 
 ### vectors
@@ -137,4 +137,4 @@ The source code (but not the data) is published under the MIT Licence (see the
 
 ## links
 
-* Zenodo URL here
+* [The project on Zenodo](https://zenodo.org/record/237339)
