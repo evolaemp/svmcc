@@ -98,14 +98,12 @@ guaranteed to work with the specified versions of those.
 # clone this repository
 git clone https://github.com/evolaemp/svmcc
 
-# you do not need to create a virtual environment if you know what you are
-# doing; remember that the code is written in python3
-virtualenv path/to/my/venv
-source path/to/my/venv/bin/activate
+# you do not need to create a conda environment if you know what you are
+# doing; remember that the code is written in python3.6
+conda env create -f svmcc.yml
+conda activate svmcc
+pip install \ git+https://github.com/lingpy/lingpy.git@710d708f869f263ac24f1bb60dc69e1b5684e913#egg=lingpy
 
-# install the dependencies
-# it is important to use the versions specified in the requirements file
-pip install -r requirements.txt
 
 # this ensures the reproducibility of the results
 export PYTHONHASHSEED=0
