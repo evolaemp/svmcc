@@ -102,7 +102,7 @@ git clone https://github.com/evolaemp/svmcc
 # doing; remember that the code is written in python3.6
 conda env create -f svmcc.yml
 conda activate svmcc
-pip install \ git+https://github.com/lingpy/lingpy.git@710d708f869f263ac24f1bb60dc69e1b5684e913#egg=lingpy
+pip install git+https://github.com/lingpy/lingpy.git@710d708f869f263ac24f1bb60dc69e1b5684e913#egg=lingpy
 
 
 # this ensures the reproducibility of the results
