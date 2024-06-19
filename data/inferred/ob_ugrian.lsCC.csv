@@ -16,12 +16,12 @@ I,Sherkaly Khanty,maː,82,1
 I,Kazym Khanty,maː,82,1
 I,Synja Khanty,maː,82,1
 I,Obdorsk Khanty,mæː,82,1
-all,North Mansi,pusən,1,6
-all,Middle Lozva Mansi,puʃn,1,6
-all,Lower Lozva Mansi,ʃaq,2,5
-all,Pelymka Mansi,ʃoq,2,5
-all,Konda Mansi,soq,2,5
-all,Tavda Mansi,ʃɔχ,2,5
+all,North Mansi,pusən,1,7
+all,Middle Lozva Mansi,puʃn,1,7
+all,Lower Lozva Mansi,ʃaq,2,6
+all,Pelymka Mansi,ʃoq,2,6
+all,Konda Mansi,soq,2,6
+all,Tavda Mansi,ʃɔχ,2,6
 all,Vakh Khanty,ejnæːm,3,3
 all,Verkhne-Kalymsk Khanty,ejnæːm,3,3
 all,Vartovskoje Khanty,ejnæːm,3,3
@@ -30,26 +30,26 @@ all,Malyj Jugan Khanty,ejnæːm,3,3
 all,Tremjugan Khanty,ejnæːm,3,3
 all,Jugan Khanty,ejnæːm,3,3
 all,Upper Demjanka Khanty,χarnaː,4,8
-all,Konda Khanty,pertæː,5,7
+all,Konda Khanty,pertæː,5,5
 all,Nizjam Khanty,isaχaːt,6,4
 all,Sherkaly Khanty,isaːt,6,4
 all,Kazym Khanty,isaː,6,4
 all,Synja Khanty,isaː,6,4
-ashes,North Mansi,χuʎəm,8,9
-ashes,Middle Lozva Mansi,quʎəm,8,9
-ashes,Lower Lozva Mansi,quʎəm,8,9
-ashes,Konda Mansi,quʎəm,8,9
-ashes,Tavda Mansi,qoːʎəm,8,9
-ashes,Vakh Khanty,pæːr,9,10
-ashes,Vasjugan Khanty,pæːr,9,10
-ashes,Tremjugan Khanty,næːjpæːr,9,10
-ashes,Jugan Khanty,næːjpæːr,9,10
-ashes,Upper Demjanka Khanty,χoːjəm,8,9
-ashes,Konda Khanty,χoːjəm,8,9
-ashes,Nizjam Khanty,χɔːjəm,8,9
-ashes,Sherkaly Khanty,χɔːjəm,8,9
-ashes,Kazym Khanty,raːtχiʃ,7,11
-ashes,Obdorsk Khanty,ræːtχis,7,11
+ashes,North Mansi,χuʎəm,8,11
+ashes,Middle Lozva Mansi,quʎəm,8,11
+ashes,Lower Lozva Mansi,quʎəm,8,11
+ashes,Konda Mansi,quʎəm,8,11
+ashes,Tavda Mansi,qoːʎəm,8,11
+ashes,Vakh Khanty,pæːr,9,9
+ashes,Vasjugan Khanty,pæːr,9,9
+ashes,Tremjugan Khanty,næːjpæːr,9,9
+ashes,Jugan Khanty,næːjpæːr,9,9
+ashes,Upper Demjanka Khanty,χoːjəm,8,11
+ashes,Konda Khanty,χoːjəm,8,11
+ashes,Nizjam Khanty,χɔːjəm,8,11
+ashes,Sherkaly Khanty,χɔːjəm,8,11
+ashes,Kazym Khanty,raːtχiʃ,7,10
+ashes,Obdorsk Khanty,ræːtχis,7,10
 bark,Vakh Khanty,kæːr,11,12
 bark,Verkhne-Kalymsk Khanty,kæːr,11,12
 bark,Vasjugan Khanty,kæːr,11,12
@@ -80,26 +80,26 @@ belly,Sherkaly Khanty,χon,13,13
 belly,Kazym Khanty,χoɳ,13,13
 belly,Synja Khanty,χoɳ,13,13
 belly,Obdorsk Khanty,χon,13,13
-big,North Mansi,jænɨɣ,15,16
-big,Middle Lozva Mansi,jæni,15,16
-big,Lower Lozva Mansi,jæni,15,16
-big,Pelymka Mansi,jæni,15,16
-big,Konda Mansi,jæni,15,16
-big,Tavda Mansi,jænu,15,16
-big,Vakh Khanty,eɭɭə,15,17
-big,Verkhne-Kalymsk Khanty,eɭə,15,17
-big,Vasjugan Khanty,eɭɭə,15,17
-big,Vartovskoje Khanty,eɭə,15,17
-big,Likrisovskoje Khanty,eɭə,15,17
-big,Malyj Jugan Khanty,enɬ,15,16
-big,Tremjugan Khanty,enɬ,15,16
-big,Jugan Khanty,entɬ,15,19
-big,Upper Demjanka Khanty,eːnə,15,16
-big,Konda Khanty,eːnə,15,16
-big,Nizjam Khanty,uːnə,16,16
-big,Sherkaly Khanty,uːnə,16,16
-big,Kazym Khanty,wɵːn,16,18
-big,Synja Khanty,uːn,16,18
+big,North Mansi,jænɨɣ,15,18
+big,Middle Lozva Mansi,jæni,15,18
+big,Lower Lozva Mansi,jæni,15,18
+big,Pelymka Mansi,jæni,15,18
+big,Konda Mansi,jæni,15,18
+big,Tavda Mansi,jænu,15,18
+big,Vakh Khanty,eɭɭə,15,19
+big,Verkhne-Kalymsk Khanty,eɭə,15,19
+big,Vasjugan Khanty,eɭɭə,15,19
+big,Vartovskoje Khanty,eɭə,15,19
+big,Likrisovskoje Khanty,eɭə,15,19
+big,Malyj Jugan Khanty,enɬ,15,18
+big,Tremjugan Khanty,enɬ,15,18
+big,Jugan Khanty,entɬ,15,16
+big,Upper Demjanka Khanty,eːnə,15,18
+big,Konda Khanty,eːnə,15,18
+big,Nizjam Khanty,uːnə,16,18
+big,Sherkaly Khanty,uːnə,16,18
+big,Kazym Khanty,wɵːn,16,17
+big,Synja Khanty,uːn,16,17
 bird,North Mansi,tɔwləŋuj,17,20
 bird,Middle Lozva Mansi,tɔuləŋuj,17,20
 bird,Lower Lozva Mansi,uj,17,22
@@ -211,17 +211,17 @@ breast,Sherkaly Khanty,meːɣət,27,31
 breast,Kazym Khanty,meːwəɬ,27,31
 breast,Synja Khanty,meːwəl,27,31
 breast,Obdorsk Khanty,meːwəl,27,31
-burn,North Mansi,titti,28,32
-burn,Middle Lozva Mansi,tiχti,28,32
-burn,Lower Lozva Mansi,tiχti,28,32
-burn,Pelymka Mansi,tiχti,28,32
-burn,Konda Mansi,təχti,28,32
-burn,Tavda Mansi,tæitæl,28,32
-burn,Jugan Khanty,ɬæːpət,28,33
-burn,Upper Demjanka Khanty,tæːpət,28,33
-burn,Konda Khanty,tæːpət,28,33
-burn,Kazym Khanty,ɬaːpət,28,33
-burn,Synja Khanty,laːpət,28,33
+burn,North Mansi,titti,28,33
+burn,Middle Lozva Mansi,tiχti,28,33
+burn,Lower Lozva Mansi,tiχti,28,33
+burn,Pelymka Mansi,tiχti,28,33
+burn,Konda Mansi,təχti,28,33
+burn,Tavda Mansi,tæitæl,28,33
+burn,Jugan Khanty,ɬæːpət,28,32
+burn,Upper Demjanka Khanty,tæːpət,28,32
+burn,Konda Khanty,tæːpət,28,32
+burn,Kazym Khanty,ɬaːpət,28,32
+burn,Synja Khanty,laːpət,28,32
 claw (nail),North Mansi,kʷons,29,34
 claw (nail),Middle Lozva Mansi,kʷænʃ,29,34
 claw (nail),Lower Lozva Mansi,kʷænʃ,29,34
@@ -263,30 +263,30 @@ cloud,Sherkaly Khanty,patəŋ,31,35
 cloud,Kazym Khanty,paɬəŋ,31,35
 cloud,Synja Khanty,paləŋ,31,35
 cloud,Obdorsk Khanty,pæləŋ,31,35
-cold,North Mansi,asʲerəm,35,37
-cold,Middle Lozva Mansi,æsʲerəm,35,37
-cold,Lower Lozva Mansi,æsʲerəm,35,37
-cold,Pelymka Mansi,æsʲərəm,35,37
-cold,Konda Mansi,asʲərəm,35,37
-cold,Tavda Mansi,iʧirəm,35,37
-cold,Vakh Khanty,etjəɣ,32,38
-cold,Verkhne-Kalymsk Khanty,etjəɣ,32,38
-cold,Vasjugan Khanty,etjəɣ,32,38
-cold,Malyj Jugan Khanty,ɬiːɬ,33,40
-cold,Tremjugan Khanty,jæɣɬiː,34,40
-cold,Jugan Khanty,jæɣɬiː,34,40
-cold,Upper Demjanka Khanty,etjək,32,38
-cold,Konda Khanty,etjək,32,38
-cold,Nizjam Khanty,isjkə,32,39
-cold,Sherkaly Khanty,isjkə,32,39
-cold,Kazym Khanty,isjkiː,32,39
-cold,Synja Khanty,isjkiː,32,39
-cold,Obdorsk Khanty,isjkiː,32,39
-come,North Mansi,jiw,36,42
-come,Middle Lozva Mansi,jiw,36,42
-come,Lower Lozva Mansi,iːw,36,42
-come,Pelymka Mansi,jiw,36,42
-come,Konda Mansi,jiw,36,42
+cold,North Mansi,asʲerəm,35,40
+cold,Middle Lozva Mansi,æsʲerəm,35,40
+cold,Lower Lozva Mansi,æsʲerəm,35,40
+cold,Pelymka Mansi,æsʲərəm,35,40
+cold,Konda Mansi,asʲərəm,35,40
+cold,Tavda Mansi,iʧirəm,35,40
+cold,Vakh Khanty,etjəɣ,32,39
+cold,Verkhne-Kalymsk Khanty,etjəɣ,32,39
+cold,Vasjugan Khanty,etjəɣ,32,39
+cold,Malyj Jugan Khanty,ɬiːɬ,33,37
+cold,Tremjugan Khanty,jæɣɬiː,34,37
+cold,Jugan Khanty,jæɣɬiː,34,37
+cold,Upper Demjanka Khanty,etjək,32,39
+cold,Konda Khanty,etjək,32,39
+cold,Nizjam Khanty,isjkə,32,38
+cold,Sherkaly Khanty,isjkə,32,38
+cold,Kazym Khanty,isjkiː,32,38
+cold,Synja Khanty,isjkiː,32,38
+cold,Obdorsk Khanty,isjkiː,32,38
+come,North Mansi,jiw,36,41
+come,Middle Lozva Mansi,jiw,36,41
+come,Lower Lozva Mansi,iːw,36,41
+come,Pelymka Mansi,jiw,36,41
+come,Konda Mansi,jiw,36,41
 come,Tavda Mansi,jæːnt,36,41
 come,Vakh Khanty,jœ,36,41
 come,Vasjugan Khanty,jœ,36,41
@@ -306,165 +306,165 @@ die,Lower Lozva Mansi,qɔːli,37,44
 die,Pelymka Mansi,qoːli,37,44
 die,Konda Mansi,qoːli,37,44
 die,Tavda Mansi,qɔlɔnt,37,44
-die,Vakh Khanty,suːr,38,43
-die,Verkhne-Kalymsk Khanty,suːr,38,43
-die,Vasjugan Khanty,teːwərsæːɣjentæː,39,46
-die,Vartovskoje Khanty,suːr,38,43
-die,Likrisovskoje Khanty,suːr,38,43
-die,Malyj Jugan Khanty,suːræːɬ,38,43
-die,Tremjugan Khanty,suːræːɬ,38,43
-die,Jugan Khanty,suːraːɬ,38,43
-die,Upper Demjanka Khanty,suːraːt,38,43
-die,Konda Khanty,joːχaːt,40,45
-die,Nizjam Khanty,toχaːt,41,45
-dog,North Mansi,aːmp,43,47
-dog,Middle Lozva Mansi,oɔmp,43,47
-dog,Lower Lozva Mansi,ɔːmp,43,47
-dog,Pelymka Mansi,oɔmp,43,47
-dog,Konda Mansi,oɔmp,43,47
-dog,Tavda Mansi,æːmp,43,47
-dog,Vakh Khanty,æːmp,43,47
-dog,Vasjugan Khanty,æːmp,43,47
-dog,Likrisovskoje Khanty,æːmp,43,47
-dog,Malyj Jugan Khanty,æːmp,43,47
-dog,Tremjugan Khanty,æːmp,43,47
-dog,Jugan Khanty,æːmp,43,47
-dog,Upper Demjanka Khanty,æːmp,43,47
-dog,Konda Khanty,æːmp,43,47
-dog,Nizjam Khanty,aːmp,43,47
-dog,Kazym Khanty,aːmp,43,47
-dog,Synja Khanty,aːp,43,47
-dog,Obdorsk Khanty,æːmp,43,47
-drink,North Mansi,aji,44,50
-drink,Middle Lozva Mansi,æji,44,50
-drink,Lower Lozva Mansi,æji,44,50
-drink,Pelymka Mansi,æji,44,50
-drink,Konda Mansi,æji,44,50
-drink,Tavda Mansi,æjænt,44,50
+die,Vakh Khanty,suːr,38,42
+die,Verkhne-Kalymsk Khanty,suːr,38,42
+die,Vasjugan Khanty,teːwərsæːɣjentæː,39,45
+die,Vartovskoje Khanty,suːr,38,42
+die,Likrisovskoje Khanty,suːr,38,42
+die,Malyj Jugan Khanty,suːræːɬ,38,42
+die,Tremjugan Khanty,suːræːɬ,38,42
+die,Jugan Khanty,suːraːɬ,38,42
+die,Upper Demjanka Khanty,suːraːt,38,42
+die,Konda Khanty,joːχaːt,40,43
+die,Nizjam Khanty,toχaːt,41,43
+dog,North Mansi,aːmp,43,46
+dog,Middle Lozva Mansi,oɔmp,43,46
+dog,Lower Lozva Mansi,ɔːmp,43,46
+dog,Pelymka Mansi,oɔmp,43,46
+dog,Konda Mansi,oɔmp,43,46
+dog,Tavda Mansi,æːmp,43,46
+dog,Vakh Khanty,æːmp,43,46
+dog,Vasjugan Khanty,æːmp,43,46
+dog,Likrisovskoje Khanty,æːmp,43,46
+dog,Malyj Jugan Khanty,æːmp,43,46
+dog,Tremjugan Khanty,æːmp,43,46
+dog,Jugan Khanty,æːmp,43,46
+dog,Upper Demjanka Khanty,æːmp,43,46
+dog,Konda Khanty,æːmp,43,46
+dog,Nizjam Khanty,aːmp,43,46
+dog,Kazym Khanty,aːmp,43,46
+dog,Synja Khanty,aːp,43,46
+dog,Obdorsk Khanty,æːmp,43,46
+drink,North Mansi,aji,44,48
+drink,Middle Lozva Mansi,æji,44,48
+drink,Lower Lozva Mansi,æji,44,48
+drink,Pelymka Mansi,æji,44,48
+drink,Konda Mansi,æji,44,48
+drink,Tavda Mansi,æjænt,44,48
 drink,Vakh Khanty,liː,45,49
 drink,Verkhne-Kalymsk Khanty,jiː,45,49
 drink,Vasjugan Khanty,iː,45,49
 drink,Vartovskoje Khanty,ɬiː,45,49
 drink,Likrisovskoje Khanty,θiː,45,49
 drink,Malyj Jugan Khanty,ɬiː,45,49
-drink,Tremjugan Khanty,jeːɲtj,46,48
-drink,Upper Demjanka Khanty,jæːɲtj,46,48
-drink,Konda Khanty,jæːɲtj,46,48
-drink,Nizjam Khanty,jaːɲsj,46,48
-drink,Sherkaly Khanty,jaːɲsj,46,48
-drink,Kazym Khanty,jaːɲsj,46,48
-drink,Synja Khanty,jiɲsj,46,48
-drink,Obdorsk Khanty,jeːɲsj,46,48
-dry,North Mansi,tɔːsəm,47,51
-dry,Middle Lozva Mansi,toːʃəm,47,51
-dry,Lower Lozva Mansi,toːʃəm,47,51
-dry,Pelymka Mansi,toːʃəm,47,51
-dry,Konda Mansi,toːsəm,47,51
-dry,Tavda Mansi,tɔʃɔm,47,51
-dry,Vakh Khanty,pæːntəm,48,52
-dry,Vasjugan Khanty,pæːntəm,48,52
-dry,Tremjugan Khanty,sɔːrəm,49,51
-dry,Jugan Khanty,sɔːrəm,49,51
-dry,Upper Demjanka Khanty,soːrəm,49,51
-dry,Konda Khanty,soːrəm,49,51
-dry,Nizjam Khanty,sɔːrəm,49,51
-dry,Sherkaly Khanty,sɔːrəm,49,51
-dry,Kazym Khanty,sɔːrəm,49,51
-dry,Synja Khanty,sɔːrəm,49,51
-dry,Obdorsk Khanty,saːrəm,49,51
-ear,North Mansi,paʎ,50,53
-ear,Middle Lozva Mansi,pæʎ,50,53
-ear,Lower Lozva Mansi,pæʎ,50,53
-ear,Pelymka Mansi,pæʎ,50,53
-ear,Konda Mansi,pæʎ,50,53
-ear,Tavda Mansi,piʎ,50,53
-ear,Vakh Khanty,pel,50,53
-ear,Verkhne-Kalymsk Khanty,pel,50,53
-ear,Vasjugan Khanty,pel,50,53
-ear,Vartovskoje Khanty,peɬ,50,53
-ear,Likrisovskoje Khanty,peθ,50,53
-ear,Malyj Jugan Khanty,peɬ,50,53
-ear,Tremjugan Khanty,peɬ,50,53
-ear,Jugan Khanty,peɬ,50,53
-ear,Upper Demjanka Khanty,pet,50,53
-ear,Konda Khanty,pet,50,53
-ear,Nizjam Khanty,pat,50,53
-ear,Sherkaly Khanty,pat,50,53
-ear,Kazym Khanty,paɬ,50,53
-ear,Obdorsk Khanty,pæl,50,53
-earth,North Mansi,maː,51,54
-earth,Middle Lozva Mansi,məː,51,54
-earth,Lower Lozva Mansi,məː,51,54
-earth,Pelymka Mansi,məː,51,54
-earth,Konda Mansi,məː,51,54
-earth,Tavda Mansi,maː,51,54
-earth,Vakh Khanty,meɣ,51,54
-earth,Verkhne-Kalymsk Khanty,meɣ,51,54
-earth,Vasjugan Khanty,meɣ,51,54
-earth,Tremjugan Khanty,meɣ,51,54
-earth,Jugan Khanty,meɣ,51,54
-earth,Upper Demjanka Khanty,meɣ,51,54
-earth,Konda Khanty,meɣ,51,54
-earth,Nizjam Khanty,miɣ,51,54
-earth,Sherkaly Khanty,miɣ,51,54
-earth,Kazym Khanty,muw,51,54
-earth,Synja Khanty,muw,51,54
-earth,Obdorsk Khanty,muːw,51,54
-eat,North Mansi,teːɨɣ,52,55
-eat,Middle Lozva Mansi,tij,52,55
-eat,Lower Lozva Mansi,ti,52,55
-eat,Pelymka Mansi,teːi,52,55
-eat,Konda Mansi,təɨɣ,52,55
-eat,Tavda Mansi,tæjænt,52,55
-eat,Vakh Khanty,liː,52,55
-eat,Verkhne-Kalymsk Khanty,jiː,52,55
-eat,Vasjugan Khanty,iː,52,55
-eat,Vartovskoje Khanty,ɬiː,52,55
-eat,Likrisovskoje Khanty,θiː,52,55
-eat,Malyj Jugan Khanty,ɬiː,52,55
-eat,Tremjugan Khanty,ɬiː,52,55
-eat,Jugan Khanty,ɬiː,52,55
-eat,Upper Demjanka Khanty,teː,52,55
-eat,Konda Khanty,teː,52,55
-eat,Nizjam Khanty,teː,52,55
-eat,Sherkaly Khanty,teː,52,55
-eat,Kazym Khanty,ɬɛː,52,55
-eat,Synja Khanty,leː,52,55
-eat,Obdorsk Khanty,liː,52,55
-egg,North Mansi,muŋi,54,59
-egg,Konda Mansi,moŋ,54,56
-egg,Vakh Khanty,mɔːk,55,56
-egg,Verkhne-Kalymsk Khanty,moːk,55,56
-egg,Vartovskoje Khanty,moːk,55,56
-egg,Likrisovskoje Khanty,maːkʷ,55,56
-egg,Malyj Jugan Khanty,moːk,55,56
-egg,Tremjugan Khanty,moːk,55,56
-egg,Jugan Khanty,moːk,55,56
-egg,Upper Demjanka Khanty,kæːrəmoːχ,55,58
-egg,Konda Khanty,kærəmoːχ,55,58
-egg,Nizjam Khanty,poʃəχ,56,57
-egg,Sherkaly Khanty,poʃəχ,56,57
-egg,Kazym Khanty,poʃəχ,56,57
-egg,Obdorsk Khanty,pasəχ,56,57
-eye,North Mansi,sam,57,60
-eye,Middle Lozva Mansi,ʃæm,57,60
-eye,Lower Lozva Mansi,ʃæm,57,60
-eye,Pelymka Mansi,ʃæm,57,60
-eye,Konda Mansi,sæm,57,60
-eye,Tavda Mansi,ʃəm,57,60
-eye,Vakh Khanty,seːm,57,60
-eye,Verkhne-Kalymsk Khanty,seːm,57,60
-eye,Vasjugan Khanty,seːm,57,60
-eye,Vartovskoje Khanty,sæm,57,60
-eye,Tremjugan Khanty,sæm,57,60
-eye,Jugan Khanty,sæm,57,60
-eye,Upper Demjanka Khanty,seːm,57,60
-eye,Konda Khanty,seːm,57,60
-eye,Nizjam Khanty,seːm,57,60
-eye,Sherkaly Khanty,seːm,57,60
-eye,Kazym Khanty,sɛːm,57,60
-eye,Synja Khanty,seːm,57,60
-eye,Obdorsk Khanty,seːm,57,60
+drink,Tremjugan Khanty,jeːɲtj,46,47
+drink,Upper Demjanka Khanty,jæːɲtj,46,47
+drink,Konda Khanty,jæːɲtj,46,47
+drink,Nizjam Khanty,jaːɲsj,46,47
+drink,Sherkaly Khanty,jaːɲsj,46,47
+drink,Kazym Khanty,jaːɲsj,46,47
+drink,Synja Khanty,jiɲsj,46,47
+drink,Obdorsk Khanty,jeːɲsj,46,47
+dry,North Mansi,tɔːsəm,47,50
+dry,Middle Lozva Mansi,toːʃəm,47,50
+dry,Lower Lozva Mansi,toːʃəm,47,50
+dry,Pelymka Mansi,toːʃəm,47,50
+dry,Konda Mansi,toːsəm,47,50
+dry,Tavda Mansi,tɔʃɔm,47,50
+dry,Vakh Khanty,pæːntəm,48,51
+dry,Vasjugan Khanty,pæːntəm,48,51
+dry,Tremjugan Khanty,sɔːrəm,49,50
+dry,Jugan Khanty,sɔːrəm,49,50
+dry,Upper Demjanka Khanty,soːrəm,49,50
+dry,Konda Khanty,soːrəm,49,50
+dry,Nizjam Khanty,sɔːrəm,49,50
+dry,Sherkaly Khanty,sɔːrəm,49,50
+dry,Kazym Khanty,sɔːrəm,49,50
+dry,Synja Khanty,sɔːrəm,49,50
+dry,Obdorsk Khanty,saːrəm,49,50
+ear,North Mansi,paʎ,50,52
+ear,Middle Lozva Mansi,pæʎ,50,52
+ear,Lower Lozva Mansi,pæʎ,50,52
+ear,Pelymka Mansi,pæʎ,50,52
+ear,Konda Mansi,pæʎ,50,52
+ear,Tavda Mansi,piʎ,50,52
+ear,Vakh Khanty,pel,50,52
+ear,Verkhne-Kalymsk Khanty,pel,50,52
+ear,Vasjugan Khanty,pel,50,52
+ear,Vartovskoje Khanty,peɬ,50,52
+ear,Likrisovskoje Khanty,peθ,50,52
+ear,Malyj Jugan Khanty,peɬ,50,52
+ear,Tremjugan Khanty,peɬ,50,52
+ear,Jugan Khanty,peɬ,50,52
+ear,Upper Demjanka Khanty,pet,50,52
+ear,Konda Khanty,pet,50,52
+ear,Nizjam Khanty,pat,50,52
+ear,Sherkaly Khanty,pat,50,52
+ear,Kazym Khanty,paɬ,50,52
+ear,Obdorsk Khanty,pæl,50,52
+earth,North Mansi,maː,51,53
+earth,Middle Lozva Mansi,məː,51,53
+earth,Lower Lozva Mansi,məː,51,53
+earth,Pelymka Mansi,məː,51,53
+earth,Konda Mansi,məː,51,53
+earth,Tavda Mansi,maː,51,53
+earth,Vakh Khanty,meɣ,51,53
+earth,Verkhne-Kalymsk Khanty,meɣ,51,53
+earth,Vasjugan Khanty,meɣ,51,53
+earth,Tremjugan Khanty,meɣ,51,53
+earth,Jugan Khanty,meɣ,51,53
+earth,Upper Demjanka Khanty,meɣ,51,53
+earth,Konda Khanty,meɣ,51,53
+earth,Nizjam Khanty,miɣ,51,53
+earth,Sherkaly Khanty,miɣ,51,53
+earth,Kazym Khanty,muw,51,53
+earth,Synja Khanty,muw,51,53
+earth,Obdorsk Khanty,muːw,51,53
+eat,North Mansi,teːɨɣ,52,54
+eat,Middle Lozva Mansi,tij,52,54
+eat,Lower Lozva Mansi,ti,52,54
+eat,Pelymka Mansi,teːi,52,54
+eat,Konda Mansi,təɨɣ,52,54
+eat,Tavda Mansi,tæjænt,52,54
+eat,Vakh Khanty,liː,52,54
+eat,Verkhne-Kalymsk Khanty,jiː,52,54
+eat,Vasjugan Khanty,iː,52,54
+eat,Vartovskoje Khanty,ɬiː,52,54
+eat,Likrisovskoje Khanty,θiː,52,54
+eat,Malyj Jugan Khanty,ɬiː,52,54
+eat,Tremjugan Khanty,ɬiː,52,54
+eat,Jugan Khanty,ɬiː,52,54
+eat,Upper Demjanka Khanty,teː,52,54
+eat,Konda Khanty,teː,52,54
+eat,Nizjam Khanty,teː,52,54
+eat,Sherkaly Khanty,teː,52,54
+eat,Kazym Khanty,ɬɛː,52,54
+eat,Synja Khanty,leː,52,54
+eat,Obdorsk Khanty,liː,52,54
+egg,North Mansi,muŋi,54,58
+egg,Konda Mansi,moŋ,54,55
+egg,Vakh Khanty,mɔːk,55,55
+egg,Verkhne-Kalymsk Khanty,moːk,55,55
+egg,Vartovskoje Khanty,moːk,55,55
+egg,Likrisovskoje Khanty,maːkʷ,55,55
+egg,Malyj Jugan Khanty,moːk,55,55
+egg,Tremjugan Khanty,moːk,55,55
+egg,Jugan Khanty,moːk,55,55
+egg,Upper Demjanka Khanty,kæːrəmoːχ,55,57
+egg,Konda Khanty,kærəmoːχ,55,57
+egg,Nizjam Khanty,poʃəχ,56,56
+egg,Sherkaly Khanty,poʃəχ,56,56
+egg,Kazym Khanty,poʃəχ,56,56
+egg,Obdorsk Khanty,pasəχ,56,56
+eye,North Mansi,sam,57,59
+eye,Middle Lozva Mansi,ʃæm,57,59
+eye,Lower Lozva Mansi,ʃæm,57,59
+eye,Pelymka Mansi,ʃæm,57,59
+eye,Konda Mansi,sæm,57,59
+eye,Tavda Mansi,ʃəm,57,59
+eye,Vakh Khanty,seːm,57,59
+eye,Verkhne-Kalymsk Khanty,seːm,57,59
+eye,Vasjugan Khanty,seːm,57,59
+eye,Vartovskoje Khanty,sæm,57,59
+eye,Tremjugan Khanty,sæm,57,59
+eye,Jugan Khanty,sæm,57,59
+eye,Upper Demjanka Khanty,seːm,57,59
+eye,Konda Khanty,seːm,57,59
+eye,Nizjam Khanty,seːm,57,59
+eye,Sherkaly Khanty,seːm,57,59
+eye,Kazym Khanty,sɛːm,57,59
+eye,Synja Khanty,seːm,57,59
+eye,Obdorsk Khanty,seːm,57,59
 far,North Mansi,χɔsæt,207,61
 far,Middle Lozva Mansi,qɔsæt,207,61
 far,Pelymka Mansi,qʷɔʃæt,207,61
@@ -473,769 +473,769 @@ far,Tavda Mansi,qoʃot,207,61
 far,Vakh Khanty,koːkkə,208,61
 far,Vasjugan Khanty,koːkkə,208,61
 far,Tremjugan Khanty,kokkə,208,61
-far,Upper Demjanka Khanty,χowaː,208,62
-far,Konda Khanty,χowaː,208,62
-far,Nizjam Khanty,χuwaː,208,62
-far,Kazym Khanty,χuwaː,208,62
-far,Obdorsk Khanty,χowiː,208,62
-fat,North Mansi,woːj,58,63
-fat,Middle Lozva Mansi,wuoj,58,63
-fat,Pelymka Mansi,wuoj,58,63
-fat,Konda Mansi,wuoj,58,63
-fat,Tavda Mansi,wɔːj,58,63
-fat,Vakh Khanty,woːj,58,63
-fat,Verkhne-Kalymsk Khanty,woːj,58,63
-fat,Vasjugan Khanty,woːj,58,63
-fat,Vartovskoje Khanty,woːj,58,63
-fat,Likrisovskoje Khanty,woːj,58,63
-fat,Malyj Jugan Khanty,woj,58,63
-fat,Tremjugan Khanty,woj,58,63
-fat,Jugan Khanty,woj,58,63
-fat,Upper Demjanka Khanty,uːj,58,63
-fat,Konda Khanty,yːj,58,63
-fat,Nizjam Khanty,saχsə,59,64
-fat,Sherkaly Khanty,saχsə,59,64
-fat,Kazym Khanty,woj,58,63
-fat,Synja Khanty,woj,58,63
-fat,Obdorsk Khanty,waj,58,63
-feather,North Mansi,pun,60,65
-feather,Middle Lozva Mansi,pun,60,65
-feather,Lower Lozva Mansi,pun,60,65
-feather,Pelymka Mansi,pun,60,65
-feather,Konda Mansi,pon,60,65
-feather,Tavda Mansi,pon,60,65
-feather,Vakh Khanty,puːn,60,65
-feather,Verkhne-Kalymsk Khanty,puːn,60,65
-feather,Vasjugan Khanty,puːn,60,65
-feather,Likrisovskoje Khanty,puːn,60,65
-feather,Malyj Jugan Khanty,puːn,60,65
-feather,Tremjugan Khanty,puːn,60,65
-feather,Upper Demjanka Khanty,pyːn,60,65
-feather,Konda Khanty,pyːn,60,65
-feather,Nizjam Khanty,pun,60,65
-feather,Sherkaly Khanty,pun,60,65
-feather,Kazym Khanty,pun,60,65
-feather,Synja Khanty,pun,60,65
-feather,Obdorsk Khanty,puːn,60,65
-fire,North Mansi,uʎæ,61,68
-fire,Middle Lozva Mansi,toɔt,62,66
-fire,Lower Lozva Mansi,tɔːt,62,66
+far,Upper Demjanka Khanty,χowaː,208,60
+far,Konda Khanty,χowaː,208,60
+far,Nizjam Khanty,χuwaː,208,60
+far,Kazym Khanty,χuwaː,208,60
+far,Obdorsk Khanty,χowiː,208,60
+fat,North Mansi,woːj,58,62
+fat,Middle Lozva Mansi,wuoj,58,62
+fat,Pelymka Mansi,wuoj,58,62
+fat,Konda Mansi,wuoj,58,62
+fat,Tavda Mansi,wɔːj,58,62
+fat,Vakh Khanty,woːj,58,62
+fat,Verkhne-Kalymsk Khanty,woːj,58,62
+fat,Vasjugan Khanty,woːj,58,62
+fat,Vartovskoje Khanty,woːj,58,62
+fat,Likrisovskoje Khanty,woːj,58,62
+fat,Malyj Jugan Khanty,woj,58,62
+fat,Tremjugan Khanty,woj,58,62
+fat,Jugan Khanty,woj,58,62
+fat,Upper Demjanka Khanty,uːj,58,62
+fat,Konda Khanty,yːj,58,62
+fat,Nizjam Khanty,saχsə,59,63
+fat,Sherkaly Khanty,saχsə,59,63
+fat,Kazym Khanty,woj,58,62
+fat,Synja Khanty,woj,58,62
+fat,Obdorsk Khanty,waj,58,62
+feather,North Mansi,pun,60,64
+feather,Middle Lozva Mansi,pun,60,64
+feather,Lower Lozva Mansi,pun,60,64
+feather,Pelymka Mansi,pun,60,64
+feather,Konda Mansi,pon,60,64
+feather,Tavda Mansi,pon,60,64
+feather,Vakh Khanty,puːn,60,64
+feather,Verkhne-Kalymsk Khanty,puːn,60,64
+feather,Vasjugan Khanty,puːn,60,64
+feather,Likrisovskoje Khanty,puːn,60,64
+feather,Malyj Jugan Khanty,puːn,60,64
+feather,Tremjugan Khanty,puːn,60,64
+feather,Upper Demjanka Khanty,pyːn,60,64
+feather,Konda Khanty,pyːn,60,64
+feather,Nizjam Khanty,pun,60,64
+feather,Sherkaly Khanty,pun,60,64
+feather,Kazym Khanty,pun,60,64
+feather,Synja Khanty,pun,60,64
+feather,Obdorsk Khanty,puːn,60,64
+fire,North Mansi,uʎæ,61,66
+fire,Middle Lozva Mansi,toɔt,62,65
+fire,Lower Lozva Mansi,tɔːt,62,65
 fire,Pelymka Mansi,oɔrəsʲ,63,67
-fire,Konda Mansi,tɔut,62,66
-fire,Tavda Mansi,tæut,62,66
-fire,Vakh Khanty,tœɣət,62,66
-fire,Verkhne-Kalymsk Khanty,tœɣət,62,66
-fire,Vasjugan Khanty,tœɣət,62,66
-fire,Vartovskoje Khanty,tœɣət,62,66
-fire,Likrisovskoje Khanty,teɣʷət,62,66
-fire,Malyj Jugan Khanty,teɣʷət,62,66
-fire,Tremjugan Khanty,teɣʷət,62,66
-fire,Jugan Khanty,tewət,62,66
-fire,Upper Demjanka Khanty,tyːt,62,66
-fire,Konda Khanty,tyːt,62,66
-fire,Nizjam Khanty,tut,62,66
-fire,Sherkaly Khanty,tut,62,66
-fire,Kazym Khanty,tut,62,66
-fire,Synja Khanty,tut,62,66
-fire,Obdorsk Khanty,tuːt,62,66
-fish,North Mansi,χul,64,69
-fish,Middle Lozva Mansi,qul,64,69
-fish,Lower Lozva Mansi,qul,64,69
-fish,Pelymka Mansi,qul,64,69
-fish,Konda Mansi,qul,64,69
-fish,Tavda Mansi,qol,64,69
-fish,Vakh Khanty,kuːl,64,69
-fish,Verkhne-Kalymsk Khanty,kuːl,64,69
-fish,Vasjugan Khanty,kuːl,64,69
-fish,Vartovskoje Khanty,kuːɬ,64,69
-fish,Likrisovskoje Khanty,kuːθ,64,69
-fish,Malyj Jugan Khanty,kuːɬ,64,69
-fish,Tremjugan Khanty,kuːɬ,64,69
-fish,Jugan Khanty,kuːɬ,64,69
-fish,Upper Demjanka Khanty,χuːtj,64,69
-fish,Konda Khanty,χuːtj,64,69
-fish,Nizjam Khanty,χut,64,69
-fish,Sherkaly Khanty,χut,64,69
-fish,Kazym Khanty,χuɬ,64,69
-fish,Synja Khanty,χul,64,69
-fish,Obdorsk Khanty,χuːl,64,69
-fly,North Mansi,tɨːli,65,70
-fly,Middle Lozva Mansi,tɨːli,65,70
-fly,Lower Lozva Mansi,tiːli,65,70
-fly,Pelymka Mansi,təɨli,65,70
-fly,Konda Mansi,təɨli,65,70
-fly,Tavda Mansi,tæulænt,65,70
-fly,Vakh Khanty,leɣəl,65,71
-fly,Tremjugan Khanty,ɬeɣəɬ,65,71
-fly,Jugan Khanty,ɬeɣəɬ,65,71
-fly,Upper Demjanka Khanty,teɣət,65,71
-fly,Konda Khanty,teɣət,65,71
-fly,Sherkaly Khanty,jaŋχ,66,72
-fly,Kazym Khanty,jaŋ,66,72
-fly,Synja Khanty,jaŋχ,66,72
-foot,North Mansi,laɣɨl,68,74
-foot,Middle Lozva Mansi,ləl,68,74
-foot,Lower Lozva Mansi,ləl,68,74
-foot,Pelymka Mansi,ləl,68,74
-foot,Konda Mansi,ləl,68,74
-foot,Tavda Mansi,laəl,68,74
-foot,Vakh Khanty,kœr,67,73
-foot,Verkhne-Kalymsk Khanty,kœr,67,73
-foot,Vasjugan Khanty,kœr,67,73
-foot,Tremjugan Khanty,kœr,67,73
-foot,Jugan Khanty,kœr,67,73
-foot,Upper Demjanka Khanty,kor,67,73
-foot,Konda Khanty,kor,67,73
-foot,Nizjam Khanty,kur,67,73
-foot,Sherkaly Khanty,kur,67,73
-foot,Kazym Khanty,kur,67,73
-foot,Synja Khanty,kur,67,73
-foot,Obdorsk Khanty,kuːr,67,73
-full,North Mansi,taɣɨl,69,75
-full,Middle Lozva Mansi,taɨl,69,75
-full,Lower Lozva Mansi,taɨl,69,75
-full,Pelymka Mansi,tæɣɨl,69,75
-full,Konda Mansi,taɣɨl,69,75
-full,Tavda Mansi,tæul,69,75
-full,Vakh Khanty,teːlɣæːl,69,75
-full,Verkhne-Kalymsk Khanty,teːl,69,75
-full,Vasjugan Khanty,teːl,69,75
-full,Likrisovskoje Khanty,tæθ,69,75
-full,Malyj Jugan Khanty,tæɬ,69,75
-full,Tremjugan Khanty,tæɬ,69,75
-full,Jugan Khanty,tæɬəɬ,69,75
-full,Upper Demjanka Khanty,teːt,69,75
-full,Konda Khanty,teːt,69,75
-full,Nizjam Khanty,teːt,69,75
-full,Sherkaly Khanty,teːt,69,75
-full,Kazym Khanty,tɛːɬ,69,75
-full,Synja Khanty,teːl,69,75
-full,Obdorsk Khanty,teːl,69,75
-give,North Mansi,mɨːɣ,70,76
-give,Middle Lozva Mansi,mij,70,76
-give,Lower Lozva Mansi,miː,70,76
-give,Pelymka Mansi,mæji,70,76
-give,Konda Mansi,məɨɣ,70,76
-give,Tavda Mansi,mæjænt,70,76
-give,Vakh Khanty,me,70,76
-give,Vasjugan Khanty,me,70,76
-give,Tremjugan Khanty,me,70,76
-give,Jugan Khanty,me,70,76
-give,Upper Demjanka Khanty,me,70,76
-give,Konda Khanty,me,70,76
-give,Nizjam Khanty,ma,70,76
-give,Sherkaly Khanty,ma,70,76
-give,Kazym Khanty,ma,70,76
-give,Synja Khanty,ma,70,76
-give,Obdorsk Khanty,mæ,70,76
-good,North Mansi,jɔməs,71,78
-good,Middle Lozva Mansi,jæməs,71,78
-good,Lower Lozva Mansi,jæməs,71,78
-good,Pelymka Mansi,jɔməs,71,78
-good,Konda Mansi,jɔməs,71,78
-good,Tavda Mansi,jumɔs,71,78
-good,Vakh Khanty,jem,71,77
-good,Verkhne-Kalymsk Khanty,jem,71,77
-good,Vasjugan Khanty,jem,71,77
-good,Vartovskoje Khanty,jem,71,77
-good,Likrisovskoje Khanty,jem,71,77
-good,Malyj Jugan Khanty,jem,71,77
-good,Tremjugan Khanty,jem,71,77
-good,Jugan Khanty,jem,71,77
-good,Upper Demjanka Khanty,jem,71,77
-good,Konda Khanty,jem,71,77
-good,Nizjam Khanty,jam,71,77
-good,Sherkaly Khanty,jam,71,77
-good,Kazym Khanty,jam,71,77
-good,Synja Khanty,jam,71,77
-good,Obdorsk Khanty,jiːm,71,77
-green,North Mansi,ɲaːrpum,72,80
-green,Middle Lozva Mansi,ɲoɔrpum,72,80
-green,Pelymka Mansi,ɲɔːrpum,72,80
-green,Konda Mansi,ɲoɔrpom,72,80
-green,Tavda Mansi,ɲærqɔr,72,81
-green,Tremjugan Khanty,wastə,73,79
-green,Jugan Khanty,wastə,73,79
-green,Upper Demjanka Khanty,wastə,73,79
-green,Konda Khanty,wastə,73,79
-green,Nizjam Khanty,wostə,73,79
-green,Sherkaly Khanty,wostə,73,79
-green,Kazym Khanty,wostiː,73,79
-green,Synja Khanty,wostiː,73,79
-green,Obdorsk Khanty,wastiː,73,79
-hair,North Mansi,aːt,74,82
-hair,Middle Lozva Mansi,əːt,74,82
-hair,Lower Lozva Mansi,əːt,74,82
-hair,Pelymka Mansi,əːt,74,82
-hair,Konda Mansi,əːt,74,82
-hair,Tavda Mansi,æːt,74,82
-hair,Vakh Khanty,aːwət,74,82
-hair,Verkhne-Kalymsk Khanty,aːwət,74,82
-hair,Vasjugan Khanty,aːwət,74,82
-hair,Vartovskoje Khanty,aːwət,74,82
-hair,Likrisovskoje Khanty,oːpət,74,82
-hair,Malyj Jugan Khanty,oːpət,74,82
-hair,Tremjugan Khanty,oːpət,74,82
-hair,Jugan Khanty,oːpət,74,82
-hair,Upper Demjanka Khanty,uːpət,74,82
-hair,Konda Khanty,uːpət,74,82
-hair,Nizjam Khanty,uːpət,74,82
-hair,Sherkaly Khanty,uːpət,74,82
-hair,Kazym Khanty,ɵːpət,74,82
-hair,Synja Khanty,uːpət,74,82
-hair,Obdorsk Khanty,oːpət,74,82
-hand,North Mansi,kaːt,75,83
-hand,Middle Lozva Mansi,koɔt,75,83
-hand,Lower Lozva Mansi,kɔːt,75,83
-hand,Pelymka Mansi,koɔt,75,83
-hand,Konda Mansi,koæt,75,83
-hand,Tavda Mansi,kæːt,75,83
-hand,Vakh Khanty,kœːt,75,83
-hand,Verkhne-Kalymsk Khanty,kœːt,75,83
-hand,Vasjugan Khanty,kœːt,75,83
-hand,Vartovskoje Khanty,kœt,75,83
-hand,Likrisovskoje Khanty,kœt,75,83
-hand,Malyj Jugan Khanty,kœt,75,83
-hand,Tremjugan Khanty,kœt,75,83
-hand,Jugan Khanty,kœt,75,83
-hand,Upper Demjanka Khanty,keːt,75,83
-hand,Konda Khanty,keːt,75,83
-hand,Nizjam Khanty,jɔːʃ,76,84
-hand,Sherkaly Khanty,jɔːʃ,76,84
-hand,Kazym Khanty,jɔːʃ,76,84
-hand,Synja Khanty,jɔːʃ,76,84
-hand,Obdorsk Khanty,jaːs,76,84
-head,North Mansi,puŋk,77,86
-head,Middle Lozva Mansi,pəŋk,77,86
-head,Lower Lozva Mansi,pəŋk,77,86
-head,Pelymka Mansi,pəŋk,77,86
-head,Konda Mansi,pæŋk,77,86
-head,Tavda Mansi,pəŋ,77,86
-head,Vakh Khanty,ɔːɣ,78,85
-head,Verkhne-Kalymsk Khanty,oːɣ,78,85
-head,Vasjugan Khanty,ɔːɣ,78,85
-head,Vartovskoje Khanty,oːɣ,78,85
-head,Malyj Jugan Khanty,oːɣʷ,78,85
-head,Tremjugan Khanty,oːɣʷ,78,85
-head,Jugan Khanty,oːw,78,85
-head,Upper Demjanka Khanty,uːχ,78,85
-head,Konda Khanty,uːχ,78,85
-head,Nizjam Khanty,uːχ,78,85
-head,Sherkaly Khanty,uːχ,78,85
-head,Kazym Khanty,oχ,78,85
-head,Synja Khanty,oχ,78,85
-head,Obdorsk Khanty,oχ,78,85
-hear,North Mansi,χɔːli,79,87
-hear,Middle Lozva Mansi,qʷoli,79,87
-hear,Lower Lozva Mansi,qoːli,79,87
-hear,Pelymka Mansi,qoːli,79,87
-hear,Konda Mansi,qoːli,79,87
-hear,Tavda Mansi,qɔlɔnt,79,87
-hear,Vakh Khanty,kɔːl,79,87
-hear,Verkhne-Kalymsk Khanty,koːl,79,87
-hear,Vasjugan Khanty,kɔːl,79,87
-hear,Vartovskoje Khanty,koːɬ,79,87
-hear,Likrisovskoje Khanty,koːθ,79,87
-hear,Malyj Jugan Khanty,koːɬ,79,87
-hear,Tremjugan Khanty,koːɬ,79,87
-hear,Jugan Khanty,koːɬ,79,87
-hear,Upper Demjanka Khanty,χuːt,79,87
-hear,Konda Khanty,χuːt,79,87
-hear,Nizjam Khanty,χuːt,79,87
-hear,Sherkaly Khanty,χuːt,79,87
-hear,Kazym Khanty,χɵːɬ,79,87
-hear,Synja Khanty,χuːl,79,87
-hear,Obdorsk Khanty,χoːl,79,87
-heart,North Mansi,sim,80,88
-heart,Middle Lozva Mansi,ʃim,80,88
-heart,Lower Lozva Mansi,ʃim,80,88
-heart,Pelymka Mansi,ʃim,80,88
-heart,Konda Mansi,səm,80,88
-heart,Tavda Mansi,ʃɔm,80,88
-heart,Vakh Khanty,sem,80,88
-heart,Verkhne-Kalymsk Khanty,sem,80,88
-heart,Vasjugan Khanty,sem,80,88
-heart,Vartovskoje Khanty,sem,80,88
-heart,Likrisovskoje Khanty,sem,80,88
-heart,Malyj Jugan Khanty,sem,80,88
-heart,Tremjugan Khanty,sem,80,88
-heart,Jugan Khanty,sem,80,88
-heart,Upper Demjanka Khanty,sem,80,88
-heart,Konda Khanty,sem,80,88
-heart,Nizjam Khanty,sam,80,88
-heart,Sherkaly Khanty,sam,80,88
-heart,Kazym Khanty,sam,80,88
-heart,Synja Khanty,sam,80,88
-heart,Obdorsk Khanty,sæm,80,88
-heavy,North Mansi,taːrwitəŋ,210,90
-heavy,Middle Lozva Mansi,taːrytʲəŋ,210,90
-heavy,Pelymka Mansi,taːrwytʲiŋ,210,90
-heavy,Konda Mansi,toɔrwitʲiŋ,210,90
-heavy,Tavda Mansi,tærkutʲəŋ,210,90
-heavy,Vakh Khanty,læːɣərt,210,89
-heavy,Verkhne-Kalymsk Khanty,jæːɣərt,210,89
-heavy,Vasjugan Khanty,jæːɣərt,210,89
-heavy,Vartovskoje Khanty,ɬæːɣərt,210,89
-heavy,Likrisovskoje Khanty,θæːɣərt,210,89
-heavy,Malyj Jugan Khanty,ɬæːɣərt,210,89
-heavy,Tremjugan Khanty,ɬæːɣərt,210,89
-heavy,Jugan Khanty,ɬæːɣərt,210,89
-heavy,Upper Demjanka Khanty,tæːɣərt,210,89
-heavy,Konda Khanty,tæːɣərt,210,89
-heavy,Nizjam Khanty,taːwərt,210,89
-heavy,Sherkaly Khanty,taːɣər,210,89
-heavy,Kazym Khanty,ɬaːwərt,210,89
-heavy,Synja Khanty,laːwər,210,89
-heavy,Obdorsk Khanty,sjoːkət,209,91
-horn,North Mansi,aːɲt,81,92
-horn,Middle Lozva Mansi,ɔɲt,81,92
-horn,Lower Lozva Mansi,aɲt,81,92
-horn,Pelymka Mansi,ɔɲt,81,92
-horn,Konda Mansi,əːɲtʲ,81,92
-horn,Tavda Mansi,æːnt,81,92
-horn,Vakh Khanty,aŋət,81,92
-horn,Verkhne-Kalymsk Khanty,aŋət,81,92
-horn,Vasjugan Khanty,aŋət,81,92
-horn,Vartovskoje Khanty,aŋət,81,92
-horn,Likrisovskoje Khanty,aŋət,81,92
-horn,Malyj Jugan Khanty,ɔːŋət,81,92
-horn,Tremjugan Khanty,ɔːŋət,81,92
-horn,Jugan Khanty,ɔːŋət,81,92
-horn,Upper Demjanka Khanty,oːŋət,81,92
-horn,Konda Khanty,oːŋət,81,92
-horn,Nizjam Khanty,ɔːŋət,81,92
-horn,Sherkaly Khanty,ɔːŋət,81,92
-horn,Kazym Khanty,ɔːŋət,81,92
-horn,Synja Khanty,ɔːŋət,81,92
-horn,Obdorsk Khanty,aːŋət,81,92
-kill,North Mansi,ali,83,94
-kill,Middle Lozva Mansi,æli,83,94
-kill,Lower Lozva Mansi,æli,83,94
-kill,Pelymka Mansi,æli,83,94
-kill,Konda Mansi,æli,83,94
-kill,Tavda Mansi,ælænt,83,94
-kill,Vakh Khanty,weːl,83,93
-kill,Vasjugan Khanty,weːl,83,93
-kill,Likrisovskoje Khanty,wæθ,83,93
-kill,Malyj Jugan Khanty,wæɬ,83,93
-kill,Tremjugan Khanty,wæɬ,83,93
-kill,Jugan Khanty,wæɬ,83,93
-kill,Upper Demjanka Khanty,weːt,83,93
-kill,Konda Khanty,weːt,83,93
-kill,Nizjam Khanty,weːt,83,93
-kill,Sherkaly Khanty,weːt,83,93
-kill,Kazym Khanty,weːɬ,83,93
-kill,Synja Khanty,weːl,83,93
-kill,Obdorsk Khanty,weːl,83,93
+fire,Konda Mansi,tɔut,62,65
+fire,Tavda Mansi,tæut,62,65
+fire,Vakh Khanty,tœɣət,62,65
+fire,Verkhne-Kalymsk Khanty,tœɣət,62,65
+fire,Vasjugan Khanty,tœɣət,62,65
+fire,Vartovskoje Khanty,tœɣət,62,65
+fire,Likrisovskoje Khanty,teɣʷət,62,65
+fire,Malyj Jugan Khanty,teɣʷət,62,65
+fire,Tremjugan Khanty,teɣʷət,62,65
+fire,Jugan Khanty,tewət,62,65
+fire,Upper Demjanka Khanty,tyːt,62,65
+fire,Konda Khanty,tyːt,62,65
+fire,Nizjam Khanty,tut,62,65
+fire,Sherkaly Khanty,tut,62,65
+fire,Kazym Khanty,tut,62,65
+fire,Synja Khanty,tut,62,65
+fire,Obdorsk Khanty,tuːt,62,65
+fish,North Mansi,χul,64,68
+fish,Middle Lozva Mansi,qul,64,68
+fish,Lower Lozva Mansi,qul,64,68
+fish,Pelymka Mansi,qul,64,68
+fish,Konda Mansi,qul,64,68
+fish,Tavda Mansi,qol,64,68
+fish,Vakh Khanty,kuːl,64,68
+fish,Verkhne-Kalymsk Khanty,kuːl,64,68
+fish,Vasjugan Khanty,kuːl,64,68
+fish,Vartovskoje Khanty,kuːɬ,64,68
+fish,Likrisovskoje Khanty,kuːθ,64,68
+fish,Malyj Jugan Khanty,kuːɬ,64,68
+fish,Tremjugan Khanty,kuːɬ,64,68
+fish,Jugan Khanty,kuːɬ,64,68
+fish,Upper Demjanka Khanty,χuːtj,64,68
+fish,Konda Khanty,χuːtj,64,68
+fish,Nizjam Khanty,χut,64,68
+fish,Sherkaly Khanty,χut,64,68
+fish,Kazym Khanty,χuɬ,64,68
+fish,Synja Khanty,χul,64,68
+fish,Obdorsk Khanty,χuːl,64,68
+fly,North Mansi,tɨːli,65,71
+fly,Middle Lozva Mansi,tɨːli,65,71
+fly,Lower Lozva Mansi,tiːli,65,71
+fly,Pelymka Mansi,təɨli,65,71
+fly,Konda Mansi,təɨli,65,71
+fly,Tavda Mansi,tæulænt,65,71
+fly,Vakh Khanty,leɣəl,65,69
+fly,Tremjugan Khanty,ɬeɣəɬ,65,69
+fly,Jugan Khanty,ɬeɣəɬ,65,69
+fly,Upper Demjanka Khanty,teɣət,65,69
+fly,Konda Khanty,teɣət,65,69
+fly,Sherkaly Khanty,jaŋχ,66,70
+fly,Kazym Khanty,jaŋ,66,70
+fly,Synja Khanty,jaŋχ,66,70
+foot,North Mansi,laɣɨl,68,73
+foot,Middle Lozva Mansi,ləl,68,73
+foot,Lower Lozva Mansi,ləl,68,73
+foot,Pelymka Mansi,ləl,68,73
+foot,Konda Mansi,ləl,68,73
+foot,Tavda Mansi,laəl,68,73
+foot,Vakh Khanty,kœr,67,72
+foot,Verkhne-Kalymsk Khanty,kœr,67,72
+foot,Vasjugan Khanty,kœr,67,72
+foot,Tremjugan Khanty,kœr,67,72
+foot,Jugan Khanty,kœr,67,72
+foot,Upper Demjanka Khanty,kor,67,72
+foot,Konda Khanty,kor,67,72
+foot,Nizjam Khanty,kur,67,72
+foot,Sherkaly Khanty,kur,67,72
+foot,Kazym Khanty,kur,67,72
+foot,Synja Khanty,kur,67,72
+foot,Obdorsk Khanty,kuːr,67,72
+full,North Mansi,taɣɨl,69,74
+full,Middle Lozva Mansi,taɨl,69,74
+full,Lower Lozva Mansi,taɨl,69,74
+full,Pelymka Mansi,tæɣɨl,69,74
+full,Konda Mansi,taɣɨl,69,74
+full,Tavda Mansi,tæul,69,74
+full,Vakh Khanty,teːlɣæːl,69,74
+full,Verkhne-Kalymsk Khanty,teːl,69,74
+full,Vasjugan Khanty,teːl,69,74
+full,Likrisovskoje Khanty,tæθ,69,74
+full,Malyj Jugan Khanty,tæɬ,69,74
+full,Tremjugan Khanty,tæɬ,69,74
+full,Jugan Khanty,tæɬəɬ,69,74
+full,Upper Demjanka Khanty,teːt,69,74
+full,Konda Khanty,teːt,69,74
+full,Nizjam Khanty,teːt,69,74
+full,Sherkaly Khanty,teːt,69,74
+full,Kazym Khanty,tɛːɬ,69,74
+full,Synja Khanty,teːl,69,74
+full,Obdorsk Khanty,teːl,69,74
+give,North Mansi,mɨːɣ,70,75
+give,Middle Lozva Mansi,mij,70,75
+give,Lower Lozva Mansi,miː,70,75
+give,Pelymka Mansi,mæji,70,75
+give,Konda Mansi,məɨɣ,70,75
+give,Tavda Mansi,mæjænt,70,75
+give,Vakh Khanty,me,70,75
+give,Vasjugan Khanty,me,70,75
+give,Tremjugan Khanty,me,70,75
+give,Jugan Khanty,me,70,75
+give,Upper Demjanka Khanty,me,70,75
+give,Konda Khanty,me,70,75
+give,Nizjam Khanty,ma,70,75
+give,Sherkaly Khanty,ma,70,75
+give,Kazym Khanty,ma,70,75
+give,Synja Khanty,ma,70,75
+give,Obdorsk Khanty,mæ,70,75
+good,North Mansi,jɔməs,71,77
+good,Middle Lozva Mansi,jæməs,71,77
+good,Lower Lozva Mansi,jæməs,71,77
+good,Pelymka Mansi,jɔməs,71,77
+good,Konda Mansi,jɔməs,71,77
+good,Tavda Mansi,jumɔs,71,77
+good,Vakh Khanty,jem,71,76
+good,Verkhne-Kalymsk Khanty,jem,71,76
+good,Vasjugan Khanty,jem,71,76
+good,Vartovskoje Khanty,jem,71,76
+good,Likrisovskoje Khanty,jem,71,76
+good,Malyj Jugan Khanty,jem,71,76
+good,Tremjugan Khanty,jem,71,76
+good,Jugan Khanty,jem,71,76
+good,Upper Demjanka Khanty,jem,71,76
+good,Konda Khanty,jem,71,76
+good,Nizjam Khanty,jam,71,76
+good,Sherkaly Khanty,jam,71,76
+good,Kazym Khanty,jam,71,76
+good,Synja Khanty,jam,71,76
+good,Obdorsk Khanty,jiːm,71,76
+green,North Mansi,ɲaːrpum,72,79
+green,Middle Lozva Mansi,ɲoɔrpum,72,79
+green,Pelymka Mansi,ɲɔːrpum,72,79
+green,Konda Mansi,ɲoɔrpom,72,79
+green,Tavda Mansi,ɲærqɔr,72,80
+green,Tremjugan Khanty,wastə,73,78
+green,Jugan Khanty,wastə,73,78
+green,Upper Demjanka Khanty,wastə,73,78
+green,Konda Khanty,wastə,73,78
+green,Nizjam Khanty,wostə,73,78
+green,Sherkaly Khanty,wostə,73,78
+green,Kazym Khanty,wostiː,73,78
+green,Synja Khanty,wostiː,73,78
+green,Obdorsk Khanty,wastiː,73,78
+hair,North Mansi,aːt,74,81
+hair,Middle Lozva Mansi,əːt,74,81
+hair,Lower Lozva Mansi,əːt,74,81
+hair,Pelymka Mansi,əːt,74,81
+hair,Konda Mansi,əːt,74,81
+hair,Tavda Mansi,æːt,74,81
+hair,Vakh Khanty,aːwət,74,81
+hair,Verkhne-Kalymsk Khanty,aːwət,74,81
+hair,Vasjugan Khanty,aːwət,74,81
+hair,Vartovskoje Khanty,aːwət,74,81
+hair,Likrisovskoje Khanty,oːpət,74,81
+hair,Malyj Jugan Khanty,oːpət,74,81
+hair,Tremjugan Khanty,oːpət,74,81
+hair,Jugan Khanty,oːpət,74,81
+hair,Upper Demjanka Khanty,uːpət,74,81
+hair,Konda Khanty,uːpət,74,81
+hair,Nizjam Khanty,uːpət,74,81
+hair,Sherkaly Khanty,uːpət,74,81
+hair,Kazym Khanty,ɵːpət,74,81
+hair,Synja Khanty,uːpət,74,81
+hair,Obdorsk Khanty,oːpət,74,81
+hand,North Mansi,kaːt,75,82
+hand,Middle Lozva Mansi,koɔt,75,82
+hand,Lower Lozva Mansi,kɔːt,75,82
+hand,Pelymka Mansi,koɔt,75,82
+hand,Konda Mansi,koæt,75,82
+hand,Tavda Mansi,kæːt,75,82
+hand,Vakh Khanty,kœːt,75,82
+hand,Verkhne-Kalymsk Khanty,kœːt,75,82
+hand,Vasjugan Khanty,kœːt,75,82
+hand,Vartovskoje Khanty,kœt,75,82
+hand,Likrisovskoje Khanty,kœt,75,82
+hand,Malyj Jugan Khanty,kœt,75,82
+hand,Tremjugan Khanty,kœt,75,82
+hand,Jugan Khanty,kœt,75,82
+hand,Upper Demjanka Khanty,keːt,75,82
+hand,Konda Khanty,keːt,75,82
+hand,Nizjam Khanty,jɔːʃ,76,83
+hand,Sherkaly Khanty,jɔːʃ,76,83
+hand,Kazym Khanty,jɔːʃ,76,83
+hand,Synja Khanty,jɔːʃ,76,83
+hand,Obdorsk Khanty,jaːs,76,83
+head,North Mansi,puŋk,77,85
+head,Middle Lozva Mansi,pəŋk,77,85
+head,Lower Lozva Mansi,pəŋk,77,85
+head,Pelymka Mansi,pəŋk,77,85
+head,Konda Mansi,pæŋk,77,85
+head,Tavda Mansi,pəŋ,77,85
+head,Vakh Khanty,ɔːɣ,78,84
+head,Verkhne-Kalymsk Khanty,oːɣ,78,84
+head,Vasjugan Khanty,ɔːɣ,78,84
+head,Vartovskoje Khanty,oːɣ,78,84
+head,Malyj Jugan Khanty,oːɣʷ,78,84
+head,Tremjugan Khanty,oːɣʷ,78,84
+head,Jugan Khanty,oːw,78,84
+head,Upper Demjanka Khanty,uːχ,78,84
+head,Konda Khanty,uːχ,78,84
+head,Nizjam Khanty,uːχ,78,84
+head,Sherkaly Khanty,uːχ,78,84
+head,Kazym Khanty,oχ,78,84
+head,Synja Khanty,oχ,78,84
+head,Obdorsk Khanty,oχ,78,84
+hear,North Mansi,χɔːli,79,86
+hear,Middle Lozva Mansi,qʷoli,79,86
+hear,Lower Lozva Mansi,qoːli,79,86
+hear,Pelymka Mansi,qoːli,79,86
+hear,Konda Mansi,qoːli,79,86
+hear,Tavda Mansi,qɔlɔnt,79,86
+hear,Vakh Khanty,kɔːl,79,86
+hear,Verkhne-Kalymsk Khanty,koːl,79,86
+hear,Vasjugan Khanty,kɔːl,79,86
+hear,Vartovskoje Khanty,koːɬ,79,86
+hear,Likrisovskoje Khanty,koːθ,79,86
+hear,Malyj Jugan Khanty,koːɬ,79,86
+hear,Tremjugan Khanty,koːɬ,79,86
+hear,Jugan Khanty,koːɬ,79,86
+hear,Upper Demjanka Khanty,χuːt,79,86
+hear,Konda Khanty,χuːt,79,86
+hear,Nizjam Khanty,χuːt,79,86
+hear,Sherkaly Khanty,χuːt,79,86
+hear,Kazym Khanty,χɵːɬ,79,86
+hear,Synja Khanty,χuːl,79,86
+hear,Obdorsk Khanty,χoːl,79,86
+heart,North Mansi,sim,80,87
+heart,Middle Lozva Mansi,ʃim,80,87
+heart,Lower Lozva Mansi,ʃim,80,87
+heart,Pelymka Mansi,ʃim,80,87
+heart,Konda Mansi,səm,80,87
+heart,Tavda Mansi,ʃɔm,80,87
+heart,Vakh Khanty,sem,80,87
+heart,Verkhne-Kalymsk Khanty,sem,80,87
+heart,Vasjugan Khanty,sem,80,87
+heart,Vartovskoje Khanty,sem,80,87
+heart,Likrisovskoje Khanty,sem,80,87
+heart,Malyj Jugan Khanty,sem,80,87
+heart,Tremjugan Khanty,sem,80,87
+heart,Jugan Khanty,sem,80,87
+heart,Upper Demjanka Khanty,sem,80,87
+heart,Konda Khanty,sem,80,87
+heart,Nizjam Khanty,sam,80,87
+heart,Sherkaly Khanty,sam,80,87
+heart,Kazym Khanty,sam,80,87
+heart,Synja Khanty,sam,80,87
+heart,Obdorsk Khanty,sæm,80,87
+heavy,North Mansi,taːrwitəŋ,210,89
+heavy,Middle Lozva Mansi,taːrytʲəŋ,210,89
+heavy,Pelymka Mansi,taːrwytʲiŋ,210,89
+heavy,Konda Mansi,toɔrwitʲiŋ,210,89
+heavy,Tavda Mansi,tærkutʲəŋ,210,89
+heavy,Vakh Khanty,læːɣərt,210,88
+heavy,Verkhne-Kalymsk Khanty,jæːɣərt,210,88
+heavy,Vasjugan Khanty,jæːɣərt,210,88
+heavy,Vartovskoje Khanty,ɬæːɣərt,210,88
+heavy,Likrisovskoje Khanty,θæːɣərt,210,88
+heavy,Malyj Jugan Khanty,ɬæːɣərt,210,88
+heavy,Tremjugan Khanty,ɬæːɣərt,210,88
+heavy,Jugan Khanty,ɬæːɣərt,210,88
+heavy,Upper Demjanka Khanty,tæːɣərt,210,88
+heavy,Konda Khanty,tæːɣərt,210,88
+heavy,Nizjam Khanty,taːwərt,210,88
+heavy,Sherkaly Khanty,taːɣər,210,88
+heavy,Kazym Khanty,ɬaːwərt,210,88
+heavy,Synja Khanty,laːwər,210,88
+heavy,Obdorsk Khanty,sjoːkət,209,90
+horn,North Mansi,aːɲt,81,91
+horn,Middle Lozva Mansi,ɔɲt,81,91
+horn,Lower Lozva Mansi,aɲt,81,91
+horn,Pelymka Mansi,ɔɲt,81,91
+horn,Konda Mansi,əːɲtʲ,81,91
+horn,Tavda Mansi,æːnt,81,91
+horn,Vakh Khanty,aŋət,81,91
+horn,Verkhne-Kalymsk Khanty,aŋət,81,91
+horn,Vasjugan Khanty,aŋət,81,91
+horn,Vartovskoje Khanty,aŋət,81,91
+horn,Likrisovskoje Khanty,aŋət,81,91
+horn,Malyj Jugan Khanty,ɔːŋət,81,91
+horn,Tremjugan Khanty,ɔːŋət,81,91
+horn,Jugan Khanty,ɔːŋət,81,91
+horn,Upper Demjanka Khanty,oːŋət,81,91
+horn,Konda Khanty,oːŋət,81,91
+horn,Nizjam Khanty,ɔːŋət,81,91
+horn,Sherkaly Khanty,ɔːŋət,81,91
+horn,Kazym Khanty,ɔːŋət,81,91
+horn,Synja Khanty,ɔːŋət,81,91
+horn,Obdorsk Khanty,aːŋət,81,91
+kill,North Mansi,ali,83,93
+kill,Middle Lozva Mansi,æli,83,93
+kill,Lower Lozva Mansi,æli,83,93
+kill,Pelymka Mansi,æli,83,93
+kill,Konda Mansi,æli,83,93
+kill,Tavda Mansi,ælænt,83,93
+kill,Vakh Khanty,weːl,83,92
+kill,Vasjugan Khanty,weːl,83,92
+kill,Likrisovskoje Khanty,wæθ,83,92
+kill,Malyj Jugan Khanty,wæɬ,83,92
+kill,Tremjugan Khanty,wæɬ,83,92
+kill,Jugan Khanty,wæɬ,83,92
+kill,Upper Demjanka Khanty,weːt,83,92
+kill,Konda Khanty,weːt,83,92
+kill,Nizjam Khanty,weːt,83,92
+kill,Sherkaly Khanty,weːt,83,92
+kill,Kazym Khanty,weːɬ,83,92
+kill,Synja Khanty,weːl,83,92
+kill,Obdorsk Khanty,weːl,83,92
 knee,North Mansi,saːns,84,95
 knee,Middle Lozva Mansi,ʃanʃ,84,95
 knee,Lower Lozva Mansi,ʃaːnʃ,84,95
 knee,Pelymka Mansi,ʃanʃ,84,95
 knee,Konda Mansi,sɔnəs,84,95
 knee,Tavda Mansi,ʃɔnʃ,84,95
-knee,Vakh Khanty,ʧæːɳʧ,84,96
-knee,Verkhne-Kalymsk Khanty,ʧæːɳʧ,84,96
-knee,Vasjugan Khanty,ʧæːɳʧ,84,96
-knee,Vartovskoje Khanty,ʧæːɳʧ,84,96
-knee,Likrisovskoje Khanty,ʧæːɳʧ,84,96
-knee,Malyj Jugan Khanty,ʧæːnʧ,84,96
-knee,Tremjugan Khanty,ʧæːɳʧ,84,96
-knee,Jugan Khanty,ʧæːnʧ,84,96
-knee,Upper Demjanka Khanty,ʧæːnʧ,84,96
-knee,Konda Khanty,ʧæːnʧ,84,96
+knee,Vakh Khanty,ʧæːɳʧ,84,94
+knee,Verkhne-Kalymsk Khanty,ʧæːɳʧ,84,94
+knee,Vasjugan Khanty,ʧæːɳʧ,84,94
+knee,Vartovskoje Khanty,ʧæːɳʧ,84,94
+knee,Likrisovskoje Khanty,ʧæːɳʧ,84,94
+knee,Malyj Jugan Khanty,ʧæːnʧ,84,94
+knee,Tremjugan Khanty,ʧæːɳʧ,84,94
+knee,Jugan Khanty,ʧæːnʧ,84,94
+knee,Upper Demjanka Khanty,ʧæːnʧ,84,94
+knee,Konda Khanty,ʧæːnʧ,84,94
 knee,Nizjam Khanty,ʃaːʃ,84,95
 knee,Sherkaly Khanty,ʃaːʃ,84,95
 knee,Kazym Khanty,ʃaːʃ,84,95
 knee,Synja Khanty,ʃaːʃ,84,95
 knee,Obdorsk Khanty,sæːs,84,95
-know,North Mansi,waːɣ,85,100
+know,North Mansi,waːɣ,85,97
 know,Middle Lozva Mansi,qaɲsʲi,86,98
 know,Lower Lozva Mansi,qanʃi,86,98
 know,Pelymka Mansi,qaɲʃi,86,98
 know,Konda Mansi,qaɲsʲi,86,98
 know,Tavda Mansi,qaɲʃant,86,98
-know,Vakh Khanty,toŋəmt,87,97
-know,Verkhne-Kalymsk Khanty,toŋəmt,87,97
-know,Vasjugan Khanty,toŋəmt,87,97
-know,Vartovskoje Khanty,toŋəmt,87,97
-know,Likrisovskoje Khanty,toŋəmtə,87,97
-know,Malyj Jugan Khanty,toŋəmtə,87,97
-know,Tremjugan Khanty,wuː,85,99
-know,Jugan Khanty,uː,85,99
-know,Upper Demjanka Khanty,woː,85,100
-know,Nizjam Khanty,uː,85,99
-know,Sherkaly Khanty,uː,85,99
-know,Kazym Khanty,wɵː,85,100
+know,Vakh Khanty,toŋəmt,87,99
+know,Verkhne-Kalymsk Khanty,toŋəmt,87,99
+know,Vasjugan Khanty,toŋəmt,87,99
+know,Vartovskoje Khanty,toŋəmt,87,99
+know,Likrisovskoje Khanty,toŋəmtə,87,99
+know,Malyj Jugan Khanty,toŋəmtə,87,99
+know,Tremjugan Khanty,wuː,85,96
+know,Jugan Khanty,uː,85,96
+know,Upper Demjanka Khanty,woː,85,97
+know,Nizjam Khanty,uː,85,96
+know,Sherkaly Khanty,uː,85,96
+know,Kazym Khanty,wɵː,85,97
 know,Synja Khanty,uːjət,85,101
-know,Obdorsk Khanty,oːsj,85,102
-leaf,North Mansi,luːptæ,88,104
-leaf,Middle Lozva Mansi,luoptæ,88,104
-leaf,Lower Lozva Mansi,lɔːpta,88,104
-leaf,Pelymka Mansi,luptə,88,104
-leaf,Konda Mansi,ləptə,88,104
-leaf,Tavda Mansi,lɔptɔ,88,104
-leaf,Vakh Khanty,ɭɨːwət,88,103
-leaf,Verkhne-Kalymsk Khanty,ɭɨːwət,88,103
-leaf,Vasjugan Khanty,ɭɨːwət,88,103
-leaf,Vartovskoje Khanty,ɭɨːwət,88,103
-leaf,Likrisovskoje Khanty,ɭɨːpət,88,103
-leaf,Malyj Jugan Khanty,ɭɨːpət,88,103
-leaf,Tremjugan Khanty,ɭɨːpət,88,103
-leaf,Jugan Khanty,ɭɨːpət,88,103
-leaf,Upper Demjanka Khanty,liːpət,88,105
-leaf,Konda Khanty,liːpət,88,103
-leaf,Nizjam Khanty,lipət,88,103
-leaf,Sherkaly Khanty,lipət,88,103
-leaf,Kazym Khanty,ɭipət,88,103
-leaf,Synja Khanty,ɭipət,88,103
-leaf,Obdorsk Khanty,liːpət,88,103
+know,Obdorsk Khanty,oːsj,85,100
+leaf,North Mansi,luːptæ,88,103
+leaf,Middle Lozva Mansi,luoptæ,88,103
+leaf,Lower Lozva Mansi,lɔːpta,88,103
+leaf,Pelymka Mansi,luptə,88,103
+leaf,Konda Mansi,ləptə,88,103
+leaf,Tavda Mansi,lɔptɔ,88,103
+leaf,Vakh Khanty,ɭɨːwət,88,102
+leaf,Verkhne-Kalymsk Khanty,ɭɨːwət,88,102
+leaf,Vasjugan Khanty,ɭɨːwət,88,102
+leaf,Vartovskoje Khanty,ɭɨːwət,88,102
+leaf,Likrisovskoje Khanty,ɭɨːpət,88,102
+leaf,Malyj Jugan Khanty,ɭɨːpət,88,102
+leaf,Tremjugan Khanty,ɭɨːpət,88,102
+leaf,Jugan Khanty,ɭɨːpət,88,102
+leaf,Upper Demjanka Khanty,liːpət,88,104
+leaf,Konda Khanty,liːpət,88,102
+leaf,Nizjam Khanty,lipət,88,102
+leaf,Sherkaly Khanty,lipət,88,102
+leaf,Kazym Khanty,ɭipət,88,102
+leaf,Synja Khanty,ɭipət,88,102
+leaf,Obdorsk Khanty,liːpət,88,102
 lie,North Mansi,χuji,90,106
 lie,Middle Lozva Mansi,qujji,90,106
 lie,Lower Lozva Mansi,quji,90,106
 lie,Pelymka Mansi,quji,90,106
 lie,Konda Mansi,qoji,90,106
 lie,Tavda Mansi,quj,90,106
-lie,Vakh Khanty,alaː,89,108
-lie,Vasjugan Khanty,alaː,89,108
-lie,Tremjugan Khanty,aɬ,89,107
-lie,Jugan Khanty,aɬ,89,107
-lie,Upper Demjanka Khanty,at,89,107
-lie,Konda Khanty,at,89,107
-lie,Sherkaly Khanty,ot,89,107
-lie,Kazym Khanty,oɬ,89,107
-lie,Synja Khanty,ol,89,107
+lie,Vakh Khanty,alaː,89,107
+lie,Vasjugan Khanty,alaː,89,107
+lie,Tremjugan Khanty,aɬ,89,105
+lie,Jugan Khanty,aɬ,89,105
+lie,Upper Demjanka Khanty,at,89,105
+lie,Konda Khanty,at,89,105
+lie,Sherkaly Khanty,ot,89,105
+lie,Kazym Khanty,oɬ,89,105
+lie,Synja Khanty,ol,89,105
 lie,Obdorsk Khanty,χoːj,90,106
-liver,North Mansi,majt,91,109
-liver,Middle Lozva Mansi,məːt,91,109
-liver,Lower Lozva Mansi,mət,91,109
-liver,Pelymka Mansi,mət,91,109
-liver,Konda Mansi,məːt,91,109
-liver,Tavda Mansi,mait,91,109
-liver,Vakh Khanty,muːɣəl,91,109
-liver,Verkhne-Kalymsk Khanty,muːɣəl,91,109
-liver,Vasjugan Khanty,muːɣəl,91,109
-liver,Likrisovskoje Khanty,muːɣəθ,91,109
-liver,Malyj Jugan Khanty,muːɣəɬ,91,109
-liver,Tremjugan Khanty,muːɣəɬ,91,109
-liver,Jugan Khanty,muːwɬ,91,109
-liver,Upper Demjanka Khanty,muːχət,91,109
-liver,Konda Khanty,muːχət,91,109
-liver,Nizjam Khanty,muːχət,91,109
-liver,Sherkaly Khanty,muːχət,91,109
-liver,Kazym Khanty,moχəɬ,91,109
-liver,Obdorsk Khanty,maχəl,91,109
-long,North Mansi,χɔsæ,92,110
-long,Middle Lozva Mansi,qʷɔʃæ,92,110
-long,Lower Lozva Mansi,qʷɔʃæ,92,110
-long,Pelymka Mansi,qʷɔʃæ,92,110
-long,Konda Mansi,qʷɔisʲə,92,110
-long,Tavda Mansi,quʃo,92,110
-long,Vakh Khanty,koːɣ,93,110
-long,Verkhne-Kalymsk Khanty,koːɣ,93,110
-long,Vasjugan Khanty,koːɣ,93,110
-long,Vartovskoje Khanty,kɔɣ,93,110
-long,Likrisovskoje Khanty,kɔɣ,93,110
-long,Malyj Jugan Khanty,koɣʷ,93,110
-long,Tremjugan Khanty,koɣʷ,93,110
-long,Jugan Khanty,kow,93,110
-long,Upper Demjanka Khanty,χow,93,110
-long,Konda Khanty,χow,93,110
-long,Nizjam Khanty,χuw,93,110
-long,Sherkaly Khanty,χuw,93,110
-long,Kazym Khanty,χuw,93,110
-long,Synja Khanty,χuw,93,110
-long,Obdorsk Khanty,χow,93,110
-louse,North Mansi,taːkəm,94,111
-louse,Middle Lozva Mansi,taːχəm,94,111
-louse,Lower Lozva Mansi,taχəm,94,111
-louse,Pelymka Mansi,taχəm,94,111
-louse,Konda Mansi,tɔːχəm,94,111
-louse,Tavda Mansi,tæχəm,94,111
-louse,Vakh Khanty,tœːɣtəm,94,111
-louse,Verkhne-Kalymsk Khanty,tœːɣtəm,94,111
-louse,Vasjugan Khanty,tœːɣtəm,94,111
-louse,Likrisovskoje Khanty,teɣʷtəm,94,111
-louse,Malyj Jugan Khanty,tæɣʷtəm,94,111
-louse,Tremjugan Khanty,tæɣʷtəm,94,111
-louse,Jugan Khanty,tæwtəm,94,111
-louse,Upper Demjanka Khanty,teːwtəm,94,111
-louse,Konda Khanty,teːwtəm,94,111
-louse,Nizjam Khanty,teːwtəm,94,111
-louse,Sherkaly Khanty,teːwtəm,94,111
-louse,Kazym Khanty,teːwtəm,94,111
-louse,Synja Khanty,teːwtəm,94,111
-louse,Obdorsk Khanty,teːwtəm,94,111
-man,North Mansi,χum,95,112
-man,Middle Lozva Mansi,qum,95,112
-man,Lower Lozva Mansi,qum,95,112
-man,Pelymka Mansi,qum,95,112
-man,Konda Mansi,qom,95,112
-man,Tavda Mansi,qom,95,112
-man,Vakh Khanty,kuː,96,112
-man,Verkhne-Kalymsk Khanty,kuː,96,112
-man,Vasjugan Khanty,kuː,96,112
-man,Vartovskoje Khanty,kuː,96,112
-man,Likrisovskoje Khanty,kuː,96,112
-man,Malyj Jugan Khanty,koː,96,112
-man,Tremjugan Khanty,koː,96,112
-man,Jugan Khanty,koː,96,112
-man,Upper Demjanka Khanty,χoːj,96,112
-man,Konda Khanty,χuːj,96,112
-man,Nizjam Khanty,χuː,96,112
-man,Sherkaly Khanty,χuː,96,112
-man,Kazym Khanty,χɵː,96,112
-man,Synja Khanty,χuː,96,112
-man,Obdorsk Khanty,χoːj,96,112
-many,North Mansi,saw,97,114
-many,Middle Lozva Mansi,ʃoɔw,97,114
-many,Lower Lozva Mansi,ʃɔu,97,114
-many,Pelymka Mansi,ʃɔu,97,114
-many,Konda Mansi,sɔu,97,114
-many,Tavda Mansi,ʃɔu,97,114
-many,Vakh Khanty,æːr,98,113
-many,Vasjugan Khanty,æːr,98,113
-many,Tremjugan Khanty,æːr,98,113
-many,Jugan Khanty,æːr,98,113
-many,Upper Demjanka Khanty,æːr,98,113
-many,Konda Khanty,æːr,98,113
-many,Nizjam Khanty,aːr,98,113
-many,Sherkaly Khanty,aːr,98,113
-many,Kazym Khanty,aːr,98,113
-many,Synja Khanty,aːr,98,113
-many,Obdorsk Khanty,æːr,98,113
-meat,North Mansi,ɲɔwəʎ,99,115
-meat,Middle Lozva Mansi,ɲoul,99,115
-meat,Lower Lozva Mansi,ɲɔul,99,115
-meat,Pelymka Mansi,ɲɔuʎ,99,115
-meat,Konda Mansi,ɲoul,99,115
-meat,Tavda Mansi,ɲəːul,99,115
-meat,Vakh Khanty,ɲoːɣɨː,99,115
-meat,Verkhne-Kalymsk Khanty,ɲoːɣɨː,99,115
-meat,Vasjugan Khanty,ɲoːɣɨː,99,115
-meat,Vartovskoje Khanty,ɲoːɣɨː,99,115
-meat,Likrisovskoje Khanty,ɲaɣʷɨː,99,115
-meat,Malyj Jugan Khanty,ɲaɣʷɨː,99,115
-meat,Tremjugan Khanty,ɲaɣʷɨː,99,115
-meat,Jugan Khanty,ɲawɨː,99,115
-meat,Upper Demjanka Khanty,ɲoχə,99,115
-meat,Konda Khanty,ɲoχə,99,115
-meat,Nizjam Khanty,ɲoχə,99,115
-meat,Sherkaly Khanty,ɲoχə,99,115
-meat,Kazym Khanty,ɲoχiː,99,115
-meat,Synja Khanty,ɲoχiː,99,115
-meat,Obdorsk Khanty,ɲoχaː,99,115
-moon,North Mansi,jɔːŋχəp,100,116
-moon,Middle Lozva Mansi,joɔŋqəp,100,116
-moon,Lower Lozva Mansi,jɔːŋχəp,100,116
-moon,Pelymka Mansi,joːŋqəp,100,116
-moon,Konda Mansi,joːŋqəp,100,116
-moon,Tavda Mansi,jamp,100,116
-moon,Vakh Khanty,iːkiː,101,117
-moon,Vasjugan Khanty,iːkiː,101,117
-mountain,North Mansi,ur,107,120
-mountain,Middle Lozva Mansi,ur,107,120
-mountain,Lower Lozva Mansi,əχ,103,119
-mountain,Pelymka Mansi,əχ,103,119
-mountain,Konda Mansi,əχ,103,119
-mountain,Tavda Mansi,æχ,103,119
-mountain,Vakh Khanty,joɣ,104,119
-mountain,Verkhne-Kalymsk Khanty,reːw,105,118
-mountain,Vasjugan Khanty,reːw,105,118
-mountain,Vartovskoje Khanty,ræw,105,118
-mountain,Likrisovskoje Khanty,ræp,105,118
-mountain,Tremjugan Khanty,ræp,105,118
-mountain,Jugan Khanty,ræp,105,118
-mountain,Upper Demjanka Khanty,reːp,105,118
-mountain,Konda Khanty,reːp,105,118
-mountain,Nizjam Khanty,reːp,105,118
-mountain,Sherkaly Khanty,keːw,106,121
-mountain,Kazym Khanty,rɛːp,105,118
-mountain,Synja Khanty,reːp,105,118
-mountain,Obdorsk Khanty,reːp,105,118
-mouth,North Mansi,suːp,108,124
-mouth,Middle Lozva Mansi,tus,109,122
-mouth,Lower Lozva Mansi,tus,109,122
-mouth,Pelymka Mansi,tus,109,122
-mouth,Konda Mansi,tus,109,122
-mouth,Tavda Mansi,toːʃ,109,122
-mouth,Vakh Khanty,luːl,110,122
-mouth,Verkhne-Kalymsk Khanty,juːl,110,122
-mouth,Vasjugan Khanty,juːl,110,122
-mouth,Vartovskoje Khanty,ɬuːɬ,110,122
-mouth,Likrisovskoje Khanty,θuːθ,110,122
-mouth,Malyj Jugan Khanty,ɬuːɬ,110,122
-mouth,Tremjugan Khanty,ɬuːɬ,110,122
-mouth,Jugan Khanty,ɬuːɬ,110,122
-mouth,Upper Demjanka Khanty,tuːt,110,122
-mouth,Konda Khanty,tuːt,110,122
-mouth,Nizjam Khanty,tuːt,110,122
-mouth,Sherkaly Khanty,tuːt,110,122
-mouth,Kazym Khanty,uŋəɬ,111,123
-mouth,Synja Khanty,uŋəl,111,123
-mouth,Obdorsk Khanty,uːŋəl,111,123
-name,North Mansi,nam,112,125
-name,Middle Lozva Mansi,næm,112,125
-name,Pelymka Mansi,næm,112,125
-name,Konda Mansi,næm,112,125
-name,Tavda Mansi,næm,112,125
-name,Vakh Khanty,neːm,112,125
-name,Verkhne-Kalymsk Khanty,neːm,112,125
-name,Vasjugan Khanty,neːm,112,125
-name,Vartovskoje Khanty,næm,112,125
-name,Likrisovskoje Khanty,næm,112,125
-name,Malyj Jugan Khanty,næm,112,125
-name,Tremjugan Khanty,næm,112,125
-name,Jugan Khanty,næm,112,125
-name,Upper Demjanka Khanty,neːm,112,125
-name,Konda Khanty,neːm,112,125
-name,Nizjam Khanty,neːm,112,125
-name,Sherkaly Khanty,neːm,112,125
-name,Kazym Khanty,nɛːm,112,125
-name,Synja Khanty,neːm,112,125
-name,Obdorsk Khanty,neːm,112,125
-near,North Mansi,ʎapæ,211,127
-near,Middle Lozva Mansi,ælæ,212,127
-near,Pelymka Mansi,ælæɨ,212,127
-near,Konda Mansi,æli,212,127
-near,Tavda Mansi,ælæu,212,127
-near,Vakh Khanty,wæːɳɳə,213,126
-near,Vasjugan Khanty,teŋtəɣ,214,128
-near,Tremjugan Khanty,wæːɳɳə,213,126
-near,Jugan Khanty,wæːnnə,213,126
-near,Upper Demjanka Khanty,wæːnnə,213,126
-near,Konda Khanty,wæːnnə,213,126
-near,Nizjam Khanty,waːnnaː,213,126
-near,Kazym Khanty,waːɳɳə,213,126
-near,Obdorsk Khanty,wæːnnæː,213,126
-neck,North Mansi,siplu,113,129
-neck,Middle Lozva Mansi,ʃiplu,113,129
-neck,Pelymka Mansi,ʃiplu,113,129
-neck,Konda Mansi,soplo,113,129
-neck,Vakh Khanty,sæːwəl,113,129
-neck,Verkhne-Kalymsk Khanty,sæːwəl,113,129
-neck,Vasjugan Khanty,sæːwəl,113,129
-neck,Likrisovskoje Khanty,sæːpəθ,113,129
-neck,Malyj Jugan Khanty,sæːpəɬ,113,129
-neck,Tremjugan Khanty,sæːpəɬ,113,129
-neck,Jugan Khanty,sæːpəɬ,113,129
-neck,Upper Demjanka Khanty,sæːpət,113,129
-neck,Nizjam Khanty,saːpət,113,129
-neck,Sherkaly Khanty,saːpət,113,129
-neck,Kazym Khanty,saːpəɬ,113,129
-neck,Synja Khanty,saːpəl,113,129
-neck,Obdorsk Khanty,sæːpəl,113,129
-new,North Mansi,iʎp,114,130
-new,Middle Lozva Mansi,ʎæʎpəl,114,131
-new,Lower Lozva Mansi,ʎæʎpəl,114,131
-new,Pelymka Mansi,ʎæʎpəl,114,131
-new,Konda Mansi,jelpəl,114,131
-new,Tavda Mansi,elpəʎ,114,131
-new,Vakh Khanty,jeləw,114,130
-new,Verkhne-Kalymsk Khanty,jeləw,114,130
-new,Vasjugan Khanty,jeləw,114,130
-new,Vartovskoje Khanty,jeɬəw,114,130
-new,Likrisovskoje Khanty,jeθəp,114,130
-new,Malyj Jugan Khanty,jeɬəp,114,130
-new,Tremjugan Khanty,jeɬəp,114,130
-new,Jugan Khanty,jeɬəp,114,130
-new,Upper Demjanka Khanty,jetəp,114,130
-new,Konda Khanty,jetəp,114,130
-new,Nizjam Khanty,jitəp,114,130
-new,Sherkaly Khanty,jatəp,114,130
-new,Kazym Khanty,jiɬəp,114,130
-new,Synja Khanty,jaləp,114,130
-new,Obdorsk Khanty,jiːləp,114,130
-night,North Mansi,eːt,115,132
-night,Middle Lozva Mansi,jiː,116,133
-night,Lower Lozva Mansi,i,116,133
-night,Pelymka Mansi,jiː,116,133
-night,Konda Mansi,jə,116,133
-night,Tavda Mansi,jiː,116,133
-night,Vakh Khanty,jej,116,133
-night,Verkhne-Kalymsk Khanty,jej,116,133
-night,Vasjugan Khanty,ej,116,133
-night,Vartovskoje Khanty,jej,116,133
-night,Malyj Jugan Khanty,æːt,115,132
-night,Tremjugan Khanty,æːt,115,132
-night,Jugan Khanty,æːt,115,132
-night,Upper Demjanka Khanty,æːt,115,132
-night,Konda Khanty,æːt,115,132
-night,Nizjam Khanty,aːt,115,132
-night,Sherkaly Khanty,aːt,115,132
-night,Kazym Khanty,aːt,115,132
-night,Synja Khanty,aːt,115,132
-night,Obdorsk Khanty,æːt,115,132
-nose,North Mansi,ɲol,117,134
-nose,Middle Lozva Mansi,ɲal,117,134
-nose,Lower Lozva Mansi,ɲal,117,134
-nose,Pelymka Mansi,ɲal,117,134
-nose,Konda Mansi,ɲɔl,117,134
-nose,Tavda Mansi,ɲɔl,117,134
-nose,Vakh Khanty,ɲol,117,134
-nose,Verkhne-Kalymsk Khanty,ɲol,117,134
-nose,Vasjugan Khanty,ɲol,117,134
-nose,Likrisovskoje Khanty,ɲoθ,117,134
-nose,Malyj Jugan Khanty,ɲoɬ,117,134
-nose,Tremjugan Khanty,ɲoɬ,117,134
-nose,Jugan Khanty,ɲoɬ,117,134
-nose,Upper Demjanka Khanty,ɲat,117,134
-nose,Konda Khanty,ɲat,117,134
-nose,Nizjam Khanty,ɲot,117,134
-nose,Sherkaly Khanty,ɲot,117,134
-nose,Kazym Khanty,ɲoɬ,117,134
-nose,Synja Khanty,ɲol,117,134
-nose,Obdorsk Khanty,ɲal,117,134
-not,North Mansi,at,118,136
-not,Middle Lozva Mansi,at,118,136
-not,Lower Lozva Mansi,at,118,136
-not,Pelymka Mansi,at,118,136
-not,Konda Mansi,oɔt,118,136
-not,Tavda Mansi,æː,119,137
-not,Vakh Khanty,entə,120,135
-not,Vasjugan Khanty,entə,120,135
-not,Tremjugan Khanty,entə,120,135
-not,Jugan Khanty,entə,120,135
-not,Upper Demjanka Khanty,en,120,135
-not,Konda Khanty,en,120,135
-not,Nizjam Khanty,anta,120,135
-not,Sherkaly Khanty,ant,120,135
-not,Kazym Khanty,an,120,135
-not,Synja Khanty,at,120,136
-not,Obdorsk Khanty,æn,120,135
-one,North Mansi,akʷ,122,139
-one,Middle Lozva Mansi,ækʷ,122,139
-one,Lower Lozva Mansi,æk,122,139
-one,Pelymka Mansi,əkʷ,122,139
-one,Konda Mansi,ækʷ,122,139
-one,Tavda Mansi,uχ,122,139
-one,Vakh Khanty,ej,121,138
-one,Verkhne-Kalymsk Khanty,ej,121,138
-one,Vasjugan Khanty,ej,121,138
-one,Tremjugan Khanty,ej,121,138
-one,Jugan Khanty,ej,121,138
-one,Upper Demjanka Khanty,ej,121,138
-one,Konda Khanty,ej,121,138
-one,Nizjam Khanty,ij,121,138
-one,Sherkaly Khanty,ij,121,138
-one,Kazym Khanty,i,121,138
-one,Synja Khanty,i,121,138
-one,Obdorsk Khanty,iːj,121,138
-person,North Mansi,eːləmχɔːləs,124,141
-person,Middle Lozva Mansi,qɔls,124,141
-person,Lower Lozva Mansi,qɔls,124,141
-person,Pelymka Mansi,qɔləs,124,141
-person,Konda Mansi,qoləs,124,141
-person,Tavda Mansi,qɔlɔs,124,141
-person,Vakh Khanty,kasɨː,125,142
-person,Vasjugan Khanty,kasɨː,125,142
-person,Tremjugan Khanty,kantəkkoː,126,143
-person,Upper Demjanka Khanty,χajeːt,127,140
-person,Konda Khanty,χajæːt,127,140
-person,Nizjam Khanty,χojaːt,127,140
-person,Sherkaly Khanty,χojaːt,127,140
-person,Kazym Khanty,χojaːt,127,140
-person,Synja Khanty,χojaːt,127,140
-person,Obdorsk Khanty,neːŋχuːj,123,144
+liver,North Mansi,majt,91,108
+liver,Middle Lozva Mansi,məːt,91,108
+liver,Lower Lozva Mansi,mət,91,108
+liver,Pelymka Mansi,mət,91,108
+liver,Konda Mansi,məːt,91,108
+liver,Tavda Mansi,mait,91,108
+liver,Vakh Khanty,muːɣəl,91,108
+liver,Verkhne-Kalymsk Khanty,muːɣəl,91,108
+liver,Vasjugan Khanty,muːɣəl,91,108
+liver,Likrisovskoje Khanty,muːɣəθ,91,108
+liver,Malyj Jugan Khanty,muːɣəɬ,91,108
+liver,Tremjugan Khanty,muːɣəɬ,91,108
+liver,Jugan Khanty,muːwɬ,91,108
+liver,Upper Demjanka Khanty,muːχət,91,108
+liver,Konda Khanty,muːχət,91,108
+liver,Nizjam Khanty,muːχət,91,108
+liver,Sherkaly Khanty,muːχət,91,108
+liver,Kazym Khanty,moχəɬ,91,108
+liver,Obdorsk Khanty,maχəl,91,108
+long,North Mansi,χɔsæ,92,109
+long,Middle Lozva Mansi,qʷɔʃæ,92,109
+long,Lower Lozva Mansi,qʷɔʃæ,92,109
+long,Pelymka Mansi,qʷɔʃæ,92,109
+long,Konda Mansi,qʷɔisʲə,92,109
+long,Tavda Mansi,quʃo,92,109
+long,Vakh Khanty,koːɣ,93,109
+long,Verkhne-Kalymsk Khanty,koːɣ,93,109
+long,Vasjugan Khanty,koːɣ,93,109
+long,Vartovskoje Khanty,kɔɣ,93,109
+long,Likrisovskoje Khanty,kɔɣ,93,109
+long,Malyj Jugan Khanty,koɣʷ,93,109
+long,Tremjugan Khanty,koɣʷ,93,109
+long,Jugan Khanty,kow,93,109
+long,Upper Demjanka Khanty,χow,93,109
+long,Konda Khanty,χow,93,109
+long,Nizjam Khanty,χuw,93,109
+long,Sherkaly Khanty,χuw,93,109
+long,Kazym Khanty,χuw,93,109
+long,Synja Khanty,χuw,93,109
+long,Obdorsk Khanty,χow,93,109
+louse,North Mansi,taːkəm,94,110
+louse,Middle Lozva Mansi,taːχəm,94,110
+louse,Lower Lozva Mansi,taχəm,94,110
+louse,Pelymka Mansi,taχəm,94,110
+louse,Konda Mansi,tɔːχəm,94,110
+louse,Tavda Mansi,tæχəm,94,110
+louse,Vakh Khanty,tœːɣtəm,94,110
+louse,Verkhne-Kalymsk Khanty,tœːɣtəm,94,110
+louse,Vasjugan Khanty,tœːɣtəm,94,110
+louse,Likrisovskoje Khanty,teɣʷtəm,94,110
+louse,Malyj Jugan Khanty,tæɣʷtəm,94,110
+louse,Tremjugan Khanty,tæɣʷtəm,94,110
+louse,Jugan Khanty,tæwtəm,94,110
+louse,Upper Demjanka Khanty,teːwtəm,94,110
+louse,Konda Khanty,teːwtəm,94,110
+louse,Nizjam Khanty,teːwtəm,94,110
+louse,Sherkaly Khanty,teːwtəm,94,110
+louse,Kazym Khanty,teːwtəm,94,110
+louse,Synja Khanty,teːwtəm,94,110
+louse,Obdorsk Khanty,teːwtəm,94,110
+man,North Mansi,χum,95,111
+man,Middle Lozva Mansi,qum,95,111
+man,Lower Lozva Mansi,qum,95,111
+man,Pelymka Mansi,qum,95,111
+man,Konda Mansi,qom,95,111
+man,Tavda Mansi,qom,95,111
+man,Vakh Khanty,kuː,96,111
+man,Verkhne-Kalymsk Khanty,kuː,96,111
+man,Vasjugan Khanty,kuː,96,111
+man,Vartovskoje Khanty,kuː,96,111
+man,Likrisovskoje Khanty,kuː,96,111
+man,Malyj Jugan Khanty,koː,96,111
+man,Tremjugan Khanty,koː,96,111
+man,Jugan Khanty,koː,96,111
+man,Upper Demjanka Khanty,χoːj,96,111
+man,Konda Khanty,χuːj,96,111
+man,Nizjam Khanty,χuː,96,111
+man,Sherkaly Khanty,χuː,96,111
+man,Kazym Khanty,χɵː,96,111
+man,Synja Khanty,χuː,96,111
+man,Obdorsk Khanty,χoːj,96,111
+many,North Mansi,saw,97,113
+many,Middle Lozva Mansi,ʃoɔw,97,113
+many,Lower Lozva Mansi,ʃɔu,97,113
+many,Pelymka Mansi,ʃɔu,97,113
+many,Konda Mansi,sɔu,97,113
+many,Tavda Mansi,ʃɔu,97,113
+many,Vakh Khanty,æːr,98,112
+many,Vasjugan Khanty,æːr,98,112
+many,Tremjugan Khanty,æːr,98,112
+many,Jugan Khanty,æːr,98,112
+many,Upper Demjanka Khanty,æːr,98,112
+many,Konda Khanty,æːr,98,112
+many,Nizjam Khanty,aːr,98,112
+many,Sherkaly Khanty,aːr,98,112
+many,Kazym Khanty,aːr,98,112
+many,Synja Khanty,aːr,98,112
+many,Obdorsk Khanty,æːr,98,112
+meat,North Mansi,ɲɔwəʎ,99,114
+meat,Middle Lozva Mansi,ɲoul,99,114
+meat,Lower Lozva Mansi,ɲɔul,99,114
+meat,Pelymka Mansi,ɲɔuʎ,99,114
+meat,Konda Mansi,ɲoul,99,114
+meat,Tavda Mansi,ɲəːul,99,114
+meat,Vakh Khanty,ɲoːɣɨː,99,114
+meat,Verkhne-Kalymsk Khanty,ɲoːɣɨː,99,114
+meat,Vasjugan Khanty,ɲoːɣɨː,99,114
+meat,Vartovskoje Khanty,ɲoːɣɨː,99,114
+meat,Likrisovskoje Khanty,ɲaɣʷɨː,99,114
+meat,Malyj Jugan Khanty,ɲaɣʷɨː,99,114
+meat,Tremjugan Khanty,ɲaɣʷɨː,99,114
+meat,Jugan Khanty,ɲawɨː,99,114
+meat,Upper Demjanka Khanty,ɲoχə,99,114
+meat,Konda Khanty,ɲoχə,99,114
+meat,Nizjam Khanty,ɲoχə,99,114
+meat,Sherkaly Khanty,ɲoχə,99,114
+meat,Kazym Khanty,ɲoχiː,99,114
+meat,Synja Khanty,ɲoχiː,99,114
+meat,Obdorsk Khanty,ɲoχaː,99,114
+moon,North Mansi,jɔːŋχəp,100,115
+moon,Middle Lozva Mansi,joɔŋqəp,100,115
+moon,Lower Lozva Mansi,jɔːŋχəp,100,115
+moon,Pelymka Mansi,joːŋqəp,100,115
+moon,Konda Mansi,joːŋqəp,100,115
+moon,Tavda Mansi,jamp,100,115
+moon,Vakh Khanty,iːkiː,101,116
+moon,Vasjugan Khanty,iːkiː,101,116
+mountain,North Mansi,ur,107,119
+mountain,Middle Lozva Mansi,ur,107,119
+mountain,Lower Lozva Mansi,əχ,103,118
+mountain,Pelymka Mansi,əχ,103,118
+mountain,Konda Mansi,əχ,103,118
+mountain,Tavda Mansi,æχ,103,118
+mountain,Vakh Khanty,joɣ,104,118
+mountain,Verkhne-Kalymsk Khanty,reːw,105,117
+mountain,Vasjugan Khanty,reːw,105,117
+mountain,Vartovskoje Khanty,ræw,105,117
+mountain,Likrisovskoje Khanty,ræp,105,117
+mountain,Tremjugan Khanty,ræp,105,117
+mountain,Jugan Khanty,ræp,105,117
+mountain,Upper Demjanka Khanty,reːp,105,117
+mountain,Konda Khanty,reːp,105,117
+mountain,Nizjam Khanty,reːp,105,117
+mountain,Sherkaly Khanty,keːw,106,120
+mountain,Kazym Khanty,rɛːp,105,117
+mountain,Synja Khanty,reːp,105,117
+mountain,Obdorsk Khanty,reːp,105,117
+mouth,North Mansi,suːp,108,123
+mouth,Middle Lozva Mansi,tus,109,121
+mouth,Lower Lozva Mansi,tus,109,121
+mouth,Pelymka Mansi,tus,109,121
+mouth,Konda Mansi,tus,109,121
+mouth,Tavda Mansi,toːʃ,109,121
+mouth,Vakh Khanty,luːl,110,121
+mouth,Verkhne-Kalymsk Khanty,juːl,110,121
+mouth,Vasjugan Khanty,juːl,110,121
+mouth,Vartovskoje Khanty,ɬuːɬ,110,121
+mouth,Likrisovskoje Khanty,θuːθ,110,121
+mouth,Malyj Jugan Khanty,ɬuːɬ,110,121
+mouth,Tremjugan Khanty,ɬuːɬ,110,121
+mouth,Jugan Khanty,ɬuːɬ,110,121
+mouth,Upper Demjanka Khanty,tuːt,110,121
+mouth,Konda Khanty,tuːt,110,121
+mouth,Nizjam Khanty,tuːt,110,121
+mouth,Sherkaly Khanty,tuːt,110,121
+mouth,Kazym Khanty,uŋəɬ,111,122
+mouth,Synja Khanty,uŋəl,111,122
+mouth,Obdorsk Khanty,uːŋəl,111,122
+name,North Mansi,nam,112,124
+name,Middle Lozva Mansi,næm,112,124
+name,Pelymka Mansi,næm,112,124
+name,Konda Mansi,næm,112,124
+name,Tavda Mansi,næm,112,124
+name,Vakh Khanty,neːm,112,124
+name,Verkhne-Kalymsk Khanty,neːm,112,124
+name,Vasjugan Khanty,neːm,112,124
+name,Vartovskoje Khanty,næm,112,124
+name,Likrisovskoje Khanty,næm,112,124
+name,Malyj Jugan Khanty,næm,112,124
+name,Tremjugan Khanty,næm,112,124
+name,Jugan Khanty,næm,112,124
+name,Upper Demjanka Khanty,neːm,112,124
+name,Konda Khanty,neːm,112,124
+name,Nizjam Khanty,neːm,112,124
+name,Sherkaly Khanty,neːm,112,124
+name,Kazym Khanty,nɛːm,112,124
+name,Synja Khanty,neːm,112,124
+name,Obdorsk Khanty,neːm,112,124
+near,North Mansi,ʎapæ,211,126
+near,Middle Lozva Mansi,ælæ,212,126
+near,Pelymka Mansi,ælæɨ,212,126
+near,Konda Mansi,æli,212,126
+near,Tavda Mansi,ælæu,212,126
+near,Vakh Khanty,wæːɳɳə,213,125
+near,Vasjugan Khanty,teŋtəɣ,214,127
+near,Tremjugan Khanty,wæːɳɳə,213,125
+near,Jugan Khanty,wæːnnə,213,125
+near,Upper Demjanka Khanty,wæːnnə,213,125
+near,Konda Khanty,wæːnnə,213,125
+near,Nizjam Khanty,waːnnaː,213,125
+near,Kazym Khanty,waːɳɳə,213,125
+near,Obdorsk Khanty,wæːnnæː,213,125
+neck,North Mansi,siplu,113,128
+neck,Middle Lozva Mansi,ʃiplu,113,128
+neck,Pelymka Mansi,ʃiplu,113,128
+neck,Konda Mansi,soplo,113,128
+neck,Vakh Khanty,sæːwəl,113,128
+neck,Verkhne-Kalymsk Khanty,sæːwəl,113,128
+neck,Vasjugan Khanty,sæːwəl,113,128
+neck,Likrisovskoje Khanty,sæːpəθ,113,128
+neck,Malyj Jugan Khanty,sæːpəɬ,113,128
+neck,Tremjugan Khanty,sæːpəɬ,113,128
+neck,Jugan Khanty,sæːpəɬ,113,128
+neck,Upper Demjanka Khanty,sæːpət,113,128
+neck,Nizjam Khanty,saːpət,113,128
+neck,Sherkaly Khanty,saːpət,113,128
+neck,Kazym Khanty,saːpəɬ,113,128
+neck,Synja Khanty,saːpəl,113,128
+neck,Obdorsk Khanty,sæːpəl,113,128
+new,North Mansi,iʎp,114,129
+new,Middle Lozva Mansi,ʎæʎpəl,114,130
+new,Lower Lozva Mansi,ʎæʎpəl,114,130
+new,Pelymka Mansi,ʎæʎpəl,114,130
+new,Konda Mansi,jelpəl,114,130
+new,Tavda Mansi,elpəʎ,114,130
+new,Vakh Khanty,jeləw,114,129
+new,Verkhne-Kalymsk Khanty,jeləw,114,129
+new,Vasjugan Khanty,jeləw,114,129
+new,Vartovskoje Khanty,jeɬəw,114,129
+new,Likrisovskoje Khanty,jeθəp,114,129
+new,Malyj Jugan Khanty,jeɬəp,114,129
+new,Tremjugan Khanty,jeɬəp,114,129
+new,Jugan Khanty,jeɬəp,114,129
+new,Upper Demjanka Khanty,jetəp,114,129
+new,Konda Khanty,jetəp,114,129
+new,Nizjam Khanty,jitəp,114,129
+new,Sherkaly Khanty,jatəp,114,129
+new,Kazym Khanty,jiɬəp,114,129
+new,Synja Khanty,jaləp,114,129
+new,Obdorsk Khanty,jiːləp,114,129
+night,North Mansi,eːt,115,131
+night,Middle Lozva Mansi,jiː,116,132
+night,Lower Lozva Mansi,i,116,132
+night,Pelymka Mansi,jiː,116,132
+night,Konda Mansi,jə,116,132
+night,Tavda Mansi,jiː,116,132
+night,Vakh Khanty,jej,116,132
+night,Verkhne-Kalymsk Khanty,jej,116,132
+night,Vasjugan Khanty,ej,116,132
+night,Vartovskoje Khanty,jej,116,132
+night,Malyj Jugan Khanty,æːt,115,131
+night,Tremjugan Khanty,æːt,115,131
+night,Jugan Khanty,æːt,115,131
+night,Upper Demjanka Khanty,æːt,115,131
+night,Konda Khanty,æːt,115,131
+night,Nizjam Khanty,aːt,115,131
+night,Sherkaly Khanty,aːt,115,131
+night,Kazym Khanty,aːt,115,131
+night,Synja Khanty,aːt,115,131
+night,Obdorsk Khanty,æːt,115,131
+nose,North Mansi,ɲol,117,133
+nose,Middle Lozva Mansi,ɲal,117,133
+nose,Lower Lozva Mansi,ɲal,117,133
+nose,Pelymka Mansi,ɲal,117,133
+nose,Konda Mansi,ɲɔl,117,133
+nose,Tavda Mansi,ɲɔl,117,133
+nose,Vakh Khanty,ɲol,117,133
+nose,Verkhne-Kalymsk Khanty,ɲol,117,133
+nose,Vasjugan Khanty,ɲol,117,133
+nose,Likrisovskoje Khanty,ɲoθ,117,133
+nose,Malyj Jugan Khanty,ɲoɬ,117,133
+nose,Tremjugan Khanty,ɲoɬ,117,133
+nose,Jugan Khanty,ɲoɬ,117,133
+nose,Upper Demjanka Khanty,ɲat,117,133
+nose,Konda Khanty,ɲat,117,133
+nose,Nizjam Khanty,ɲot,117,133
+nose,Sherkaly Khanty,ɲot,117,133
+nose,Kazym Khanty,ɲoɬ,117,133
+nose,Synja Khanty,ɲol,117,133
+nose,Obdorsk Khanty,ɲal,117,133
+not,North Mansi,at,118,135
+not,Middle Lozva Mansi,at,118,135
+not,Lower Lozva Mansi,at,118,135
+not,Pelymka Mansi,at,118,135
+not,Konda Mansi,oɔt,118,135
+not,Tavda Mansi,æː,119,136
+not,Vakh Khanty,entə,120,134
+not,Vasjugan Khanty,entə,120,134
+not,Tremjugan Khanty,entə,120,134
+not,Jugan Khanty,entə,120,134
+not,Upper Demjanka Khanty,en,120,134
+not,Konda Khanty,en,120,134
+not,Nizjam Khanty,anta,120,134
+not,Sherkaly Khanty,ant,120,134
+not,Kazym Khanty,an,120,134
+not,Synja Khanty,at,120,135
+not,Obdorsk Khanty,æn,120,134
+one,North Mansi,akʷ,122,138
+one,Middle Lozva Mansi,ækʷ,122,138
+one,Lower Lozva Mansi,æk,122,138
+one,Pelymka Mansi,əkʷ,122,138
+one,Konda Mansi,ækʷ,122,138
+one,Tavda Mansi,uχ,122,138
+one,Vakh Khanty,ej,121,137
+one,Verkhne-Kalymsk Khanty,ej,121,137
+one,Vasjugan Khanty,ej,121,137
+one,Tremjugan Khanty,ej,121,137
+one,Jugan Khanty,ej,121,137
+one,Upper Demjanka Khanty,ej,121,137
+one,Konda Khanty,ej,121,137
+one,Nizjam Khanty,ij,121,137
+one,Sherkaly Khanty,ij,121,137
+one,Kazym Khanty,i,121,137
+one,Synja Khanty,i,121,137
+one,Obdorsk Khanty,iːj,121,137
+person,North Mansi,eːləmχɔːləs,124,140
+person,Middle Lozva Mansi,qɔls,124,140
+person,Lower Lozva Mansi,qɔls,124,140
+person,Pelymka Mansi,qɔləs,124,140
+person,Konda Mansi,qoləs,124,140
+person,Tavda Mansi,qɔlɔs,124,140
+person,Vakh Khanty,kasɨː,125,143
+person,Vasjugan Khanty,kasɨː,125,143
+person,Tremjugan Khanty,kantəkkoː,126,142
+person,Upper Demjanka Khanty,χajeːt,127,139
+person,Konda Khanty,χajæːt,127,139
+person,Nizjam Khanty,χojaːt,127,139
+person,Sherkaly Khanty,χojaːt,127,139
+person,Kazym Khanty,χojaːt,127,139
+person,Synja Khanty,χojaːt,127,139
+person,Obdorsk Khanty,neːŋχuːj,123,141
 rain,North Mansi,rakʷ,128,146
 rain,Middle Lozva Mansi,ræχʷ,128,146
 rain,Lower Lozva Mansi,ræχʷ,128,146
@@ -1247,9 +1247,9 @@ rain,Verkhne-Kalymsk Khanty,ɭawətj,129,147
 rain,Vasjugan Khanty,ɭawətj,129,147
 rain,Vartovskoje Khanty,ɭɔwətj,129,147
 rain,Likrisovskoje Khanty,ɭopətj,129,147
-rain,Malyj Jugan Khanty,jom,130,148
-rain,Tremjugan Khanty,jom,130,148
-rain,Jugan Khanty,jom,130,148
+rain,Malyj Jugan Khanty,jom,130,144
+rain,Tremjugan Khanty,jom,130,144
+rain,Jugan Khanty,jom,130,144
 rain,Upper Demjanka Khanty,jeːrt,131,145
 rain,Konda Khanty,jeːrt,131,145
 rain,Nizjam Khanty,jeːrt,131,145
@@ -1257,68 +1257,68 @@ rain,Sherkaly Khanty,jeːr,131,145
 rain,Kazym Khanty,jɛːrt,131,145
 rain,Synja Khanty,jeːr,131,145
 rain,Obdorsk Khanty,jeːrt,131,145
-red,North Mansi,wɨɣɨr,132,149
-red,Middle Lozva Mansi,wyir,132,149
-red,Lower Lozva Mansi,œːr,132,149
-red,Pelymka Mansi,wyɨr,132,149
-red,Konda Mansi,wɨr,132,149
-red,Tavda Mansi,uːrqɔr,132,149
-red,Vakh Khanty,wertə,132,149
-red,Vasjugan Khanty,wertə,132,149
-red,Tremjugan Khanty,wertə,132,149
-red,Jugan Khanty,wertə,132,149
-red,Upper Demjanka Khanty,wertə,132,149
-red,Konda Khanty,wertə,132,149
-red,Nizjam Khanty,wurtə,132,149
-red,Sherkaly Khanty,wurtə,132,149
-red,Kazym Khanty,wurtiː,132,149
-red,Synja Khanty,wurtiː,132,149
-road,North Mansi,ʎɔːŋχ,133,152
-road,Middle Lozva Mansi,ʎoχ,133,152
-road,Lower Lozva Mansi,ʎoχ,133,152
-road,Pelymka Mansi,ʎoːŋq,133,150
-road,Konda Mansi,ʎoːŋq,133,152
-road,Tavda Mansi,ʎɔŋ,133,152
-road,Vakh Khanty,ɭœːk,134,150
-road,Verkhne-Kalymsk Khanty,ɭœːk,134,150
-road,Vasjugan Khanty,ɭœːk,134,150
-road,Vartovskoje Khanty,ɭœːk,134,150
-road,Likrisovskoje Khanty,ɭeːkʷ,134,150
-road,Malyj Jugan Khanty,ɭeːkʷ,134,150
-road,Tremjugan Khanty,ɭeːkʷ,134,150
-road,Jugan Khanty,ɭeːkʷ,134,150
-road,Upper Demjanka Khanty,pent,135,151
-road,Konda Khanty,pent,135,151
-road,Nizjam Khanty,pant,135,151
-road,Sherkaly Khanty,pant,135,151
-road,Kazym Khanty,pant,135,151
-road,Synja Khanty,juːʃ,136,153
-road,Obdorsk Khanty,joːs,136,153
-root,North Mansi,taːr,137,154
-root,Middle Lozva Mansi,toɔr,137,154
-root,Lower Lozva Mansi,tɔːr,137,154
-root,Pelymka Mansi,tɔːr,137,154
-root,Konda Mansi,toɔr,137,154
-root,Tavda Mansi,tæːr,137,154
-root,Vakh Khanty,loːr,138,154
-root,Verkhne-Kalymsk Khanty,joːr,138,154
-root,Vasjugan Khanty,joːr,138,154
-root,Vartovskoje Khanty,ɬɔr,138,154
-root,Likrisovskoje Khanty,θɔr,138,154
-root,Malyj Jugan Khanty,ɬort,138,154
-root,Tremjugan Khanty,ɬort,138,154
-root,Jugan Khanty,ɬort,138,154
-root,Konda Khanty,tuːrt,138,154
-round,North Mansi,puːɣər,141,156
-round,Middle Lozva Mansi,pæːr,141,156
-round,Lower Lozva Mansi,pæːr,141,156
-round,Pelymka Mansi,pæwər,141,156
-round,Konda Mansi,pæwər,141,156
-round,Tavda Mansi,pəur,141,156
-round,Vakh Khanty,pœːŋɭək,142,158
-round,Vasjugan Khanty,pœːŋɭək,142,158
-round,Tremjugan Khanty,peŋrək,141,158
-round,Jugan Khanty,peŋrək,141,158
+red,North Mansi,wɨɣɨr,132,148
+red,Middle Lozva Mansi,wyir,132,148
+red,Lower Lozva Mansi,œːr,132,148
+red,Pelymka Mansi,wyɨr,132,148
+red,Konda Mansi,wɨr,132,148
+red,Tavda Mansi,uːrqɔr,132,148
+red,Vakh Khanty,wertə,132,148
+red,Vasjugan Khanty,wertə,132,148
+red,Tremjugan Khanty,wertə,132,148
+red,Jugan Khanty,wertə,132,148
+red,Upper Demjanka Khanty,wertə,132,148
+red,Konda Khanty,wertə,132,148
+red,Nizjam Khanty,wurtə,132,148
+red,Sherkaly Khanty,wurtə,132,148
+red,Kazym Khanty,wurtiː,132,148
+red,Synja Khanty,wurtiː,132,148
+road,North Mansi,ʎɔːŋχ,133,151
+road,Middle Lozva Mansi,ʎoχ,133,151
+road,Lower Lozva Mansi,ʎoχ,133,151
+road,Pelymka Mansi,ʎoːŋq,133,149
+road,Konda Mansi,ʎoːŋq,133,151
+road,Tavda Mansi,ʎɔŋ,133,151
+road,Vakh Khanty,ɭœːk,134,149
+road,Verkhne-Kalymsk Khanty,ɭœːk,134,149
+road,Vasjugan Khanty,ɭœːk,134,149
+road,Vartovskoje Khanty,ɭœːk,134,149
+road,Likrisovskoje Khanty,ɭeːkʷ,134,149
+road,Malyj Jugan Khanty,ɭeːkʷ,134,149
+road,Tremjugan Khanty,ɭeːkʷ,134,149
+road,Jugan Khanty,ɭeːkʷ,134,149
+road,Upper Demjanka Khanty,pent,135,150
+road,Konda Khanty,pent,135,150
+road,Nizjam Khanty,pant,135,150
+road,Sherkaly Khanty,pant,135,150
+road,Kazym Khanty,pant,135,150
+road,Synja Khanty,juːʃ,136,152
+road,Obdorsk Khanty,joːs,136,152
+root,North Mansi,taːr,137,153
+root,Middle Lozva Mansi,toɔr,137,153
+root,Lower Lozva Mansi,tɔːr,137,153
+root,Pelymka Mansi,tɔːr,137,153
+root,Konda Mansi,toɔr,137,153
+root,Tavda Mansi,tæːr,137,153
+root,Vakh Khanty,loːr,138,153
+root,Verkhne-Kalymsk Khanty,joːr,138,153
+root,Vasjugan Khanty,joːr,138,153
+root,Vartovskoje Khanty,ɬɔr,138,153
+root,Likrisovskoje Khanty,θɔr,138,153
+root,Malyj Jugan Khanty,ɬort,138,153
+root,Tremjugan Khanty,ɬort,138,153
+root,Jugan Khanty,ɬort,138,153
+root,Konda Khanty,tuːrt,138,153
+round,North Mansi,puːɣər,141,157
+round,Middle Lozva Mansi,pæːr,141,157
+round,Lower Lozva Mansi,pæːr,141,157
+round,Pelymka Mansi,pæwər,141,157
+round,Konda Mansi,pæwər,141,157
+round,Tavda Mansi,pəur,141,157
+round,Vakh Khanty,pœːŋɭək,142,154
+round,Vasjugan Khanty,pœːŋɭək,142,154
+round,Tremjugan Khanty,peŋrək,141,154
+round,Jugan Khanty,peŋrək,141,154
 round,Nizjam Khanty,ɲuːmrə,143,155
 round,Kazym Khanty,ɲɵːmər,143,155
 round,Synja Khanty,ɲuːmər,143,155
@@ -1326,168 +1326,168 @@ round,North Mansi,marawi,139,155
 round,Middle Lozva Mansi,mæræu,139,155
 round,Pelymka Mansi,mæru,139,155
 round,Konda Mansi,mærwə,139,155
-round,Konda Khanty,jæŋtæː,140,157
-round,Nizjam Khanty,jeːŋtaː,140,157
-round,Kazym Khanty,jɛːŋtaː,140,157
-round,Synja Khanty,jeːŋtaː,140,157
-round,Obdorsk Khanty,jeːŋtæː,140,157
-salt,Middle Lozva Mansi,sʲæχ,216,159
-salt,Lower Lozva Mansi,ʃæχ,216,159
-salt,Pelymka Mansi,sʲæχ,216,159
-salt,Konda Mansi,ʃæχ,216,159
-salt,Tavda Mansi,ʧiχ,216,159
-sand,North Mansi,jeːm,146,160
-sand,Middle Lozva Mansi,jiːm,146,160
-sand,Lower Lozva Mansi,jeːm,146,160
-sand,Pelymka Mansi,jeːm,146,160
-sand,Konda Mansi,jəm,146,160
-sand,Tavda Mansi,iːm,146,160
-sand,Vakh Khanty,saŋkɨː,144,161
-sand,Vasjugan Khanty,saŋkɨː,144,161
-sand,Tremjugan Khanty,saŋkɨː,144,161
-sand,Jugan Khanty,saŋkɨː,144,161
-sand,Upper Demjanka Khanty,saŋχə,144,161
-sand,Konda Khanty,saŋχə,144,161
-sand,Nizjam Khanty,seːj,145,162
-sand,Kazym Khanty,seːj,145,162
-sand,Synja Khanty,seːj,145,162
-say,North Mansi,laːwi,147,163
-say,Middle Lozva Mansi,loɔɣi,147,163
-say,Lower Lozva Mansi,lɔːi,147,163
-say,Pelymka Mansi,lɔːwi,147,163
-say,Konda Mansi,lɔːwi,147,163
-say,Tavda Mansi,læːnt,147,168
-say,Vakh Khanty,toɭɣəlt,148,167
-say,Verkhne-Kalymsk Khanty,jæːsŋəl,149,166
-say,Vasjugan Khanty,jæːsŋəl,149,166
-say,Tremjugan Khanty,jæːstə,149,164
-say,Jugan Khanty,jæːstə,149,164
-say,Upper Demjanka Khanty,jæːstə,149,164
-say,Konda Khanty,jæːstə,149,164
-say,Nizjam Khanty,lop,150,165
-say,Sherkaly Khanty,lop,150,165
-say,Kazym Khanty,ɭop,150,165
-say,Synja Khanty,jaːstə,149,164
-see,North Mansi,waːɣ,151,169
-see,Middle Lozva Mansi,uj,151,169
-see,Pelymka Mansi,wəi,151,169
-see,Konda Mansi,woj,151,169
-see,Tavda Mansi,wajant,151,170
-see,Vakh Khanty,wuː,151,169
-see,Verkhne-Kalymsk Khanty,wuː,151,169
-see,Vasjugan Khanty,uː,151,169
-see,Vartovskoje Khanty,wuː,151,169
-see,Likrisovskoje Khanty,wuː,151,169
-see,Malyj Jugan Khanty,wuː,151,169
-see,Tremjugan Khanty,wuː,151,169
-see,Jugan Khanty,uː,151,169
-see,Upper Demjanka Khanty,woː,151,169
-see,Konda Khanty,uː,151,169
-see,Nizjam Khanty,uː,151,169
-see,Sherkaly Khanty,uː,151,169
-see,Kazym Khanty,waːnt,152,170
-see,Synja Khanty,waːt,152,170
-see,Obdorsk Khanty,wæːnt,152,170
-seed,Pelymka Mansi,tajim,155,171
-seed,Konda Mansi,toɔjəm,155,171
-seed,Tavda Mansi,tejim,155,171
-seed,Vakh Khanty,læːseːm,156,172
-short,North Mansi,waːtʲi,219,176
-short,Middle Lozva Mansi,uːŋkʷæ,220,174
-short,Lower Lozva Mansi,œːnkʷə,220,174
+round,Konda Khanty,jæŋtæː,140,156
+round,Nizjam Khanty,jeːŋtaː,140,156
+round,Kazym Khanty,jɛːŋtaː,140,156
+round,Synja Khanty,jeːŋtaː,140,156
+round,Obdorsk Khanty,jeːŋtæː,140,156
+salt,Middle Lozva Mansi,sʲæχ,216,158
+salt,Lower Lozva Mansi,ʃæχ,216,158
+salt,Pelymka Mansi,sʲæχ,216,158
+salt,Konda Mansi,ʃæχ,216,158
+salt,Tavda Mansi,ʧiχ,216,158
+sand,North Mansi,jeːm,146,161
+sand,Middle Lozva Mansi,jiːm,146,161
+sand,Lower Lozva Mansi,jeːm,146,161
+sand,Pelymka Mansi,jeːm,146,161
+sand,Konda Mansi,jəm,146,161
+sand,Tavda Mansi,iːm,146,161
+sand,Vakh Khanty,saŋkɨː,144,159
+sand,Vasjugan Khanty,saŋkɨː,144,159
+sand,Tremjugan Khanty,saŋkɨː,144,159
+sand,Jugan Khanty,saŋkɨː,144,159
+sand,Upper Demjanka Khanty,saŋχə,144,159
+sand,Konda Khanty,saŋχə,144,159
+sand,Nizjam Khanty,seːj,145,160
+sand,Kazym Khanty,seːj,145,160
+sand,Synja Khanty,seːj,145,160
+say,North Mansi,laːwi,147,164
+say,Middle Lozva Mansi,loɔɣi,147,164
+say,Lower Lozva Mansi,lɔːi,147,164
+say,Pelymka Mansi,lɔːwi,147,164
+say,Konda Mansi,lɔːwi,147,164
+say,Tavda Mansi,læːnt,147,165
+say,Vakh Khanty,toɭɣəlt,148,166
+say,Verkhne-Kalymsk Khanty,jæːsŋəl,149,167
+say,Vasjugan Khanty,jæːsŋəl,149,167
+say,Tremjugan Khanty,jæːstə,149,162
+say,Jugan Khanty,jæːstə,149,162
+say,Upper Demjanka Khanty,jæːstə,149,162
+say,Konda Khanty,jæːstə,149,162
+say,Nizjam Khanty,lop,150,163
+say,Sherkaly Khanty,lop,150,163
+say,Kazym Khanty,ɭop,150,163
+say,Synja Khanty,jaːstə,149,162
+see,North Mansi,waːɣ,151,168
+see,Middle Lozva Mansi,uj,151,168
+see,Pelymka Mansi,wəi,151,168
+see,Konda Mansi,woj,151,168
+see,Tavda Mansi,wajant,151,169
+see,Vakh Khanty,wuː,151,168
+see,Verkhne-Kalymsk Khanty,wuː,151,168
+see,Vasjugan Khanty,uː,151,168
+see,Vartovskoje Khanty,wuː,151,168
+see,Likrisovskoje Khanty,wuː,151,168
+see,Malyj Jugan Khanty,wuː,151,168
+see,Tremjugan Khanty,wuː,151,168
+see,Jugan Khanty,uː,151,168
+see,Upper Demjanka Khanty,woː,151,168
+see,Konda Khanty,uː,151,168
+see,Nizjam Khanty,uː,151,168
+see,Sherkaly Khanty,uː,151,168
+see,Kazym Khanty,waːnt,152,169
+see,Synja Khanty,waːt,152,169
+see,Obdorsk Khanty,wæːnt,152,169
+seed,Pelymka Mansi,tajim,155,170
+seed,Konda Mansi,toɔjəm,155,170
+seed,Tavda Mansi,tejim,155,170
+seed,Vakh Khanty,læːseːm,156,171
+short,North Mansi,waːtʲi,219,174
+short,Middle Lozva Mansi,uːŋkʷæ,220,173
+short,Lower Lozva Mansi,œːnkʷə,220,173
 short,Pelymka Mansi,uːnək,220,175
-short,Konda Mansi,uːŋkʷə,220,174
-short,Tavda Mansi,oːn,220,174
-short,Vakh Khanty,wæːɳ,218,173
-short,Verkhne-Kalymsk Khanty,wæːɳ,218,173
-short,Vasjugan Khanty,wæːɳ,218,173
-short,Likrisovskoje Khanty,wæːɳ,218,173
-short,Malyj Jugan Khanty,wæːn,218,173
-short,Tremjugan Khanty,wæːɳ,218,173
-short,Jugan Khanty,wæːn,218,173
-short,Upper Demjanka Khanty,wæːn,218,173
-short,Konda Khanty,wæːn,218,173
-short,Nizjam Khanty,waːn,218,173
-short,Sherkaly Khanty,waːn,218,173
-short,Kazym Khanty,waːɳ,218,173
-short,Synja Khanty,waːɳ,218,173
-short,Obdorsk Khanty,wæːn,218,173
-sit,North Mansi,uːnli,157,178
-sit,Middle Lozva Mansi,unli,157,178
-sit,Lower Lozva Mansi,unli,157,178
-sit,Pelymka Mansi,wunli,157,178
-sit,Konda Mansi,wonli,157,178
-sit,Tavda Mansi,oːnɔnt,157,179
-sit,Vakh Khanty,aːməs,158,177
-sit,Verkhne-Kalymsk Khanty,aːməs,158,177
-sit,Vasjugan Khanty,aːməs,158,177
-sit,Likrisovskoje Khanty,aːməs,158,177
-sit,Malyj Jugan Khanty,aːməs,158,177
-sit,Tremjugan Khanty,ɔːməs,158,177
-sit,Jugan Khanty,ɔːməs,158,177
-sit,Upper Demjanka Khanty,oːməs,158,177
-sit,Konda Khanty,oːməs,158,177
-sit,Nizjam Khanty,ɔːməs,158,177
-sit,Sherkaly Khanty,ɔːməs,158,177
-sit,Kazym Khanty,ɔːməs,158,177
-sit,Synja Khanty,ɔːməs,158,177
-sit,Obdorsk Khanty,aːməs,158,177
-skin,North Mansi,sɔw,159,180
-skin,Middle Lozva Mansi,sɔu,159,180
-skin,Pelymka Mansi,sɔu,159,180
-skin,Konda Mansi,sɔu,159,180
-skin,Vakh Khanty,soɣ,159,180
-skin,Verkhne-Kalymsk Khanty,soɣ,159,180
-skin,Vasjugan Khanty,soɣ,159,180
-skin,Vartovskoje Khanty,soɣ,159,180
-skin,Likrisovskoje Khanty,soɣ,159,180
-skin,Malyj Jugan Khanty,soɣʷ,159,180
-skin,Tremjugan Khanty,soɣʷ,159,180
-skin,Jugan Khanty,sow,159,180
-skin,Upper Demjanka Khanty,soχ,159,180
-skin,Konda Khanty,soχ,159,180
-skin,Nizjam Khanty,soχ,159,180
-skin,Sherkaly Khanty,soχ,159,180
-skin,Kazym Khanty,soχ,159,180
-skin,Synja Khanty,soχ,159,180
-skin,Obdorsk Khanty,soχ,159,180
+short,Konda Mansi,uːŋkʷə,220,173
+short,Tavda Mansi,oːn,220,173
+short,Vakh Khanty,wæːɳ,218,172
+short,Verkhne-Kalymsk Khanty,wæːɳ,218,172
+short,Vasjugan Khanty,wæːɳ,218,172
+short,Likrisovskoje Khanty,wæːɳ,218,172
+short,Malyj Jugan Khanty,wæːn,218,172
+short,Tremjugan Khanty,wæːɳ,218,172
+short,Jugan Khanty,wæːn,218,172
+short,Upper Demjanka Khanty,wæːn,218,172
+short,Konda Khanty,wæːn,218,172
+short,Nizjam Khanty,waːn,218,172
+short,Sherkaly Khanty,waːn,218,172
+short,Kazym Khanty,waːɳ,218,172
+short,Synja Khanty,waːɳ,218,172
+short,Obdorsk Khanty,wæːn,218,172
+sit,North Mansi,uːnli,157,177
+sit,Middle Lozva Mansi,unli,157,177
+sit,Lower Lozva Mansi,unli,157,177
+sit,Pelymka Mansi,wunli,157,177
+sit,Konda Mansi,wonli,157,177
+sit,Tavda Mansi,oːnɔnt,157,178
+sit,Vakh Khanty,aːməs,158,176
+sit,Verkhne-Kalymsk Khanty,aːməs,158,176
+sit,Vasjugan Khanty,aːməs,158,176
+sit,Likrisovskoje Khanty,aːməs,158,176
+sit,Malyj Jugan Khanty,aːməs,158,176
+sit,Tremjugan Khanty,ɔːməs,158,176
+sit,Jugan Khanty,ɔːməs,158,176
+sit,Upper Demjanka Khanty,oːməs,158,176
+sit,Konda Khanty,oːməs,158,176
+sit,Nizjam Khanty,ɔːməs,158,176
+sit,Sherkaly Khanty,ɔːməs,158,176
+sit,Kazym Khanty,ɔːməs,158,176
+sit,Synja Khanty,ɔːməs,158,176
+sit,Obdorsk Khanty,aːməs,158,176
+skin,North Mansi,sɔw,159,179
+skin,Middle Lozva Mansi,sɔu,159,179
+skin,Pelymka Mansi,sɔu,159,179
+skin,Konda Mansi,sɔu,159,179
+skin,Vakh Khanty,soɣ,159,179
+skin,Verkhne-Kalymsk Khanty,soɣ,159,179
+skin,Vasjugan Khanty,soɣ,159,179
+skin,Vartovskoje Khanty,soɣ,159,179
+skin,Likrisovskoje Khanty,soɣ,159,179
+skin,Malyj Jugan Khanty,soɣʷ,159,179
+skin,Tremjugan Khanty,soɣʷ,159,179
+skin,Jugan Khanty,sow,159,179
+skin,Upper Demjanka Khanty,soχ,159,179
+skin,Konda Khanty,soχ,159,179
+skin,Nizjam Khanty,soχ,159,179
+skin,Sherkaly Khanty,soχ,159,179
+skin,Kazym Khanty,soχ,159,179
+skin,Synja Khanty,soχ,159,179
+skin,Obdorsk Khanty,soχ,159,179
 sleep,North Mansi,χuji,160,181
 sleep,Middle Lozva Mansi,qujji,160,181
 sleep,Lower Lozva Mansi,quji,160,181
 sleep,Pelymka Mansi,quji,160,181
 sleep,Konda Mansi,qoji,160,181
 sleep,Tavda Mansi,quj,160,181
-sleep,Vakh Khanty,alaː,161,183
-sleep,Vasjugan Khanty,alaː,161,183
-sleep,Tremjugan Khanty,aɬ,161,182
-sleep,Jugan Khanty,aɬ,161,182
-sleep,Upper Demjanka Khanty,at,161,182
-sleep,Konda Khanty,at,161,182
-sleep,Sherkaly Khanty,ot,161,182
-sleep,Kazym Khanty,oɬ,161,182
-sleep,Synja Khanty,ol,161,182
+sleep,Vakh Khanty,alaː,161,182
+sleep,Vasjugan Khanty,alaː,161,182
+sleep,Tremjugan Khanty,aɬ,161,180
+sleep,Jugan Khanty,aɬ,161,180
+sleep,Upper Demjanka Khanty,at,161,180
+sleep,Konda Khanty,at,161,180
+sleep,Sherkaly Khanty,ot,161,180
+sleep,Kazym Khanty,oɬ,161,180
+sleep,Synja Khanty,ol,161,180
 sleep,Obdorsk Khanty,χoːj,160,181
-small,North Mansi,maːɲ,162,187
-small,Middle Lozva Mansi,wysʲ,163,185
-small,Lower Lozva Mansi,isʲ,163,185
-small,Pelymka Mansi,isʲ,163,185
-small,Konda Mansi,wisʲ,163,185
-small,Tavda Mansi,usʲ,163,185
-small,Vakh Khanty,æːj,164,184
-small,Verkhne-Kalymsk Khanty,æːj,164,184
-small,Vasjugan Khanty,æːj,164,184
+small,North Mansi,maːɲ,162,185
+small,Middle Lozva Mansi,wysʲ,163,184
+small,Lower Lozva Mansi,isʲ,163,184
+small,Pelymka Mansi,isʲ,163,184
+small,Konda Mansi,wisʲ,163,184
+small,Tavda Mansi,usʲ,163,184
+small,Vakh Khanty,æːj,164,183
+small,Verkhne-Kalymsk Khanty,æːj,164,183
+small,Vasjugan Khanty,æːj,164,183
 small,Vartovskoje Khanty,œkəm,165,186
-small,Likrisovskoje Khanty,æːj,164,184
-small,Malyj Jugan Khanty,æːj,164,184
-small,Tremjugan Khanty,æːj,164,184
-small,Jugan Khanty,æːj,164,184
-small,Upper Demjanka Khanty,æːj,164,184
-small,Konda Khanty,æːj,164,184
-small,Nizjam Khanty,aːj,164,184
-small,Sherkaly Khanty,aːj,164,184
-small,Kazym Khanty,aːj,164,184
-small,Synja Khanty,aːj,164,184
-small,Obdorsk Khanty,æːj,164,184
+small,Likrisovskoje Khanty,æːj,164,183
+small,Malyj Jugan Khanty,æːj,164,183
+small,Tremjugan Khanty,æːj,164,183
+small,Jugan Khanty,æːj,164,183
+small,Upper Demjanka Khanty,æːj,164,183
+small,Konda Khanty,æːj,164,183
+small,Nizjam Khanty,aːj,164,183
+small,Sherkaly Khanty,aːj,164,183
+small,Kazym Khanty,aːj,164,183
+small,Synja Khanty,aːj,164,183
+small,Obdorsk Khanty,æːj,164,183
 smoke,North Mansi,posim,169,188
 smoke,Middle Lozva Mansi,pɔʃm,169,188
 smoke,Lower Lozva Mansi,paʃʃəm,169,188
@@ -1497,185 +1497,185 @@ smoke,Tavda Mansi,poʃəm,169,188
 smoke,Vakh Khanty,porkɨː,166,190
 smoke,Verkhne-Kalymsk Khanty,porkɨː,166,190
 smoke,Vasjugan Khanty,porkɨː,166,190
-smoke,Likrisovskoje Khanty,tœɣəθɨːpət,167,189
-smoke,Malyj Jugan Khanty,ɬɨːpət,167,189
-smoke,Tremjugan Khanty,næːjɬɨːpət,167,189
-smoke,Jugan Khanty,næːjɬɨːpət,167,189
-smoke,Upper Demjanka Khanty,ʧaχeːm,168,191
-smoke,Konda Khanty,ʧaχiːm,168,191
+smoke,Likrisovskoje Khanty,tœɣəθɨːpət,167,187
+smoke,Malyj Jugan Khanty,ɬɨːpət,167,187
+smoke,Tremjugan Khanty,næːjɬɨːpət,167,187
+smoke,Jugan Khanty,næːjɬɨːpət,167,187
+smoke,Upper Demjanka Khanty,ʧaχeːm,168,189
+smoke,Konda Khanty,ʧaχiːm,168,189
 smoke,Nizjam Khanty,puːsəŋ,169,188
 smoke,Kazym Khanty,pɵːsəŋ,169,188
 smoke,Synja Khanty,puːsəŋ,169,188
 smoke,Obdorsk Khanty,poːsəŋ,169,188
-snake,North Mansi,ɲɔːlɨɣ,221,192
-snake,Middle Lozva Mansi,ɲoli,221,192
-snake,Lower Lozva Mansi,ɲoli,221,192
-snake,Pelymka Mansi,ɲoli,221,192
-snake,Konda Mansi,ɲolɨ,221,192
-snake,Tavda Mansi,ɲɔlu,221,192
-snake,Vakh Khanty,mœːŋkæːm,222,193
-snake,Verkhne-Kalymsk Khanty,mœːŋkæːm,222,193
-snake,Vasjugan Khanty,mœːŋkæːm,222,193
-snake,Malyj Jugan Khanty,sæɣʷərwaːjəɣ,223,194
-snake,Jugan Khanty,mekkarɨwɔːjəɣ,224,194
-snake,Upper Demjanka Khanty,meɣχarwoːjə,224,194
-snake,Konda Khanty,waχtəwoːjə,225,195
-snake,Kazym Khanty,jɛːməŋwɔːj,226,196
-snake,Obdorsk Khanty,oχtiːwaːj,225,195
-stand,Middle Lozva Mansi,tuɲsʲi,170,198
-stand,Lower Lozva Mansi,toɲsʲi,170,198
-stand,Pelymka Mansi,tuɲsʲi,170,198
-stand,Konda Mansi,tuɲsʲi,170,198
-stand,Tavda Mansi,toɲsʲ,170,198
-stand,Vakh Khanty,laːʎ,171,197
-stand,Verkhne-Kalymsk Khanty,jaːʎ,171,197
-stand,Vasjugan Khanty,jaːʎ,171,197
-stand,Likrisovskoje Khanty,θaːθ,171,197
-stand,Malyj Jugan Khanty,ɬaːɬj,171,197
-stand,Tremjugan Khanty,ɬjɔːɬj,171,197
-stand,Jugan Khanty,ɬjoːɬj,171,197
-stand,Upper Demjanka Khanty,tjoːtj,171,197
-stand,Konda Khanty,tjoːtj,171,197
-stand,Nizjam Khanty,tɔːtj,171,197
-stand,Sherkaly Khanty,tɔːtj,171,197
-stand,Kazym Khanty,ɬɔːɬj,171,197
-stand,Synja Khanty,lɔːj,172,199
-star,North Mansi,sɔw,173,201
-star,Middle Lozva Mansi,sɔw,173,201
-star,Lower Lozva Mansi,sɔw,173,201
-star,Pelymka Mansi,sɔu,173,201
-star,Konda Mansi,sɔu,173,201
-star,Tavda Mansi,qoːɲsʲ,174,200
-star,Vakh Khanty,kɔːs,174,200
-star,Verkhne-Kalymsk Khanty,koːs,174,200
-star,Vasjugan Khanty,kɔːs,174,200
-star,Vartovskoje Khanty,koːs,174,200
-star,Likrisovskoje Khanty,koːs,174,200
-star,Malyj Jugan Khanty,koːs,174,200
-star,Tremjugan Khanty,koːs,174,200
-star,Jugan Khanty,koːs,174,200
-star,Upper Demjanka Khanty,χuːs,174,200
-star,Konda Khanty,χuːs,174,200
-star,Nizjam Khanty,χuːs,174,200
-star,Sherkaly Khanty,χuːs,174,200
-star,Kazym Khanty,χɵːs,174,200
-star,Synja Khanty,χuːs,174,200
-star,Obdorsk Khanty,χoːs,174,200
-stone,North Mansi,aːχʷtəs,175,203
-stone,Middle Lozva Mansi,əχʷtəʃ,175,203
-stone,Lower Lozva Mansi,əːχtəʃ,175,203
-stone,Pelymka Mansi,əχʷtəs,175,203
-stone,Konda Mansi,əχʷtəs,175,203
-stone,Tavda Mansi,kuː,176,202
-stone,Vakh Khanty,kœːɣ,176,202
-stone,Verkhne-Kalymsk Khanty,kœːɣ,176,202
-stone,Vasjugan Khanty,kœːɣ,176,202
-stone,Vartovskoje Khanty,kœɣ,176,202
-stone,Likrisovskoje Khanty,kæɣʷ,176,202
-stone,Malyj Jugan Khanty,kæɣʷ,176,202
-stone,Tremjugan Khanty,kæɣʷ,176,202
-stone,Jugan Khanty,kæw,176,202
-stone,Upper Demjanka Khanty,keːw,176,202
-stone,Konda Khanty,keːw,176,202
-stone,Nizjam Khanty,keːw,176,202
-stone,Sherkaly Khanty,keːw,176,202
-stone,Kazym Khanty,keːw,176,202
-stone,Synja Khanty,keːw,176,202
-stone,Obdorsk Khanty,keːw,176,202
-sun,North Mansi,χɔːtæl,177,204
-sun,Middle Lozva Mansi,qɔtəl,177,204
-sun,Lower Lozva Mansi,qatəl,177,204
-sun,Pelymka Mansi,qɔtəl,177,204
-sun,Konda Mansi,qotəl,177,204
-sun,Tavda Mansi,qɔtəl,177,204
-sun,Vakh Khanty,syːŋk,178,205
-sun,Verkhne-Kalymsk Khanty,syːŋk,178,205
-sun,Vasjugan Khanty,syːŋk,178,205
-sun,Likrisovskoje Khanty,katθ,177,204
-sun,Malyj Jugan Khanty,katɬ,177,204
-sun,Tremjugan Khanty,katɬ,177,204
-sun,Jugan Khanty,katɬ,177,204
-sun,Upper Demjanka Khanty,χat,177,204
-sun,Konda Khanty,χat,177,204
-sun,Nizjam Khanty,χatəl,177,204
-sun,Sherkaly Khanty,χatəl,177,204
-sun,Kazym Khanty,χatɬ,177,204
-sun,Synja Khanty,χatəl,177,204
-sun,Obdorsk Khanty,χatəl,177,204
-swim,North Mansi,uji,179,207
-swim,Middle Lozva Mansi,uji,179,207
-swim,Pelymka Mansi,wuji,179,207
-swim,Konda Mansi,wuji,179,207
-swim,Tavda Mansi,ujænt,179,207
-swim,Vakh Khanty,ɔːtj,179,206
-swim,Vasjugan Khanty,ɲoːrəɣ,180,208
-swim,Tremjugan Khanty,ɲarəɣ,180,208
-swim,Upper Demjanka Khanty,uːtj,179,206
-swim,Konda Khanty,uːtj,179,206
-swim,Nizjam Khanty,uːsj,179,206
-swim,Sherkaly Khanty,uːsj,179,206
-swim,Kazym Khanty,wɵːsj,179,206
-swim,Synja Khanty,uːsj,179,206
-swim,Obdorsk Khanty,oːsj,179,206
-tail,North Mansi,leːɨɣ,181,209
-tail,Middle Lozva Mansi,lɨː,181,209
-tail,Lower Lozva Mansi,liː,181,209
-tail,Pelymka Mansi,lɨː,181,209
-tail,Konda Mansi,lɨː,181,209
-tail,Tavda Mansi,poŋ,182,210
-tail,Vakh Khanty,leɣ,181,209
-tail,Verkhne-Kalymsk Khanty,leɣ,181,209
-tail,Vasjugan Khanty,leɣ,181,209
-tail,Vartovskoje Khanty,ɬeɣ,181,209
-tail,Likrisovskoje Khanty,θeɣ,181,209
-tail,Malyj Jugan Khanty,ɬeɣ,181,209
-tail,Tremjugan Khanty,ɬeɣ,181,209
-tail,Jugan Khanty,ɬeɣ,181,209
-tail,Konda Khanty,teɣ,181,209
-tail,Nizjam Khanty,tiɣ,181,209
-tail,Sherkaly Khanty,tiɣ,181,209
-tail,Kazym Khanty,ɬiw,181,209
-tail,Synja Khanty,lij,181,209
-tail,Obdorsk Khanty,poːsiː,183,210
-that,North Mansi,ta,184,211
-that,Middle Lozva Mansi,ta,184,211
-that,Lower Lozva Mansi,ta,184,211
-that,Pelymka Mansi,tæ,184,211
-that,Konda Mansi,tɔt,185,211
-that,Tavda Mansi,ta,184,211
-that,Vakh Khanty,toːm,185,211
-that,Vasjugan Khanty,toːm,185,211
-that,Tremjugan Khanty,tom,185,211
-that,Upper Demjanka Khanty,tom,185,211
-that,Konda Khanty,tom,185,211
-that,Nizjam Khanty,tom,185,211
-that,Sherkaly Khanty,tom,185,211
-that,Kazym Khanty,tom,185,211
-that,Synja Khanty,tum,185,211
-that,Obdorsk Khanty,tam,185,211
-thin,North Mansi,woutæ,229,212
-thin,Middle Lozva Mansi,wæɨtæ,229,212
-thin,Pelymka Mansi,wæɨtæ,229,212
-thin,Konda Mansi,wouti,229,212
-thin,Tavda Mansi,aʃtɔ,230,214
-thin,Vakh Khanty,woːɣəʎ,229,212
-thin,Verkhne-Kalymsk Khanty,woːɣəʎ,229,212
-thin,Vasjugan Khanty,woːɣəʎ,229,212
-thin,Vartovskoje Khanty,wɔɣəɬj,229,212
-thin,Likrisovskoje Khanty,waɣʷəθ,229,212
-thin,Malyj Jugan Khanty,woɣʷəɬ,229,212
-thin,Tremjugan Khanty,woɣʷəɬ,229,212
-thin,Jugan Khanty,woːɣəɬ,229,212
-thin,Upper Demjanka Khanty,woːχət,229,212
-thin,Konda Khanty,woːχət,229,212
-thin,Nizjam Khanty,uːχət,229,212
-thin,Sherkaly Khanty,uːχət,229,212
-thin,Kazym Khanty,ɵːχəɬ,229,212
-thin,Synja Khanty,uːχəl,229,212
-thin,Obdorsk Khanty,oːχəl,229,212
-thin,North Mansi,osʲsʲæ,231,214
-thin,Middle Lozva Mansi,ɲisʲsʲæ,232,214
-thin,Lower Lozva Mansi,ɲiʃʃæ,232,214
+snake,North Mansi,ɲɔːlɨɣ,221,194
+snake,Middle Lozva Mansi,ɲoli,221,194
+snake,Lower Lozva Mansi,ɲoli,221,194
+snake,Pelymka Mansi,ɲoli,221,194
+snake,Konda Mansi,ɲolɨ,221,194
+snake,Tavda Mansi,ɲɔlu,221,194
+snake,Vakh Khanty,mœːŋkæːm,222,195
+snake,Verkhne-Kalymsk Khanty,mœːŋkæːm,222,195
+snake,Vasjugan Khanty,mœːŋkæːm,222,195
+snake,Malyj Jugan Khanty,sæɣʷərwaːjəɣ,223,191
+snake,Jugan Khanty,mekkarɨwɔːjəɣ,224,191
+snake,Upper Demjanka Khanty,meɣχarwoːjə,224,191
+snake,Konda Khanty,waχtəwoːjə,225,193
+snake,Kazym Khanty,jɛːməŋwɔːj,226,192
+snake,Obdorsk Khanty,oχtiːwaːj,225,193
+stand,Middle Lozva Mansi,tuɲsʲi,170,197
+stand,Lower Lozva Mansi,toɲsʲi,170,197
+stand,Pelymka Mansi,tuɲsʲi,170,197
+stand,Konda Mansi,tuɲsʲi,170,197
+stand,Tavda Mansi,toɲsʲ,170,197
+stand,Vakh Khanty,laːʎ,171,196
+stand,Verkhne-Kalymsk Khanty,jaːʎ,171,196
+stand,Vasjugan Khanty,jaːʎ,171,196
+stand,Likrisovskoje Khanty,θaːθ,171,196
+stand,Malyj Jugan Khanty,ɬaːɬj,171,196
+stand,Tremjugan Khanty,ɬjɔːɬj,171,196
+stand,Jugan Khanty,ɬjoːɬj,171,196
+stand,Upper Demjanka Khanty,tjoːtj,171,196
+stand,Konda Khanty,tjoːtj,171,196
+stand,Nizjam Khanty,tɔːtj,171,196
+stand,Sherkaly Khanty,tɔːtj,171,196
+stand,Kazym Khanty,ɬɔːɬj,171,196
+stand,Synja Khanty,lɔːj,172,198
+star,North Mansi,sɔw,173,200
+star,Middle Lozva Mansi,sɔw,173,200
+star,Lower Lozva Mansi,sɔw,173,200
+star,Pelymka Mansi,sɔu,173,200
+star,Konda Mansi,sɔu,173,200
+star,Tavda Mansi,qoːɲsʲ,174,199
+star,Vakh Khanty,kɔːs,174,199
+star,Verkhne-Kalymsk Khanty,koːs,174,199
+star,Vasjugan Khanty,kɔːs,174,199
+star,Vartovskoje Khanty,koːs,174,199
+star,Likrisovskoje Khanty,koːs,174,199
+star,Malyj Jugan Khanty,koːs,174,199
+star,Tremjugan Khanty,koːs,174,199
+star,Jugan Khanty,koːs,174,199
+star,Upper Demjanka Khanty,χuːs,174,199
+star,Konda Khanty,χuːs,174,199
+star,Nizjam Khanty,χuːs,174,199
+star,Sherkaly Khanty,χuːs,174,199
+star,Kazym Khanty,χɵːs,174,199
+star,Synja Khanty,χuːs,174,199
+star,Obdorsk Khanty,χoːs,174,199
+stone,North Mansi,aːχʷtəs,175,202
+stone,Middle Lozva Mansi,əχʷtəʃ,175,202
+stone,Lower Lozva Mansi,əːχtəʃ,175,202
+stone,Pelymka Mansi,əχʷtəs,175,202
+stone,Konda Mansi,əχʷtəs,175,202
+stone,Tavda Mansi,kuː,176,201
+stone,Vakh Khanty,kœːɣ,176,201
+stone,Verkhne-Kalymsk Khanty,kœːɣ,176,201
+stone,Vasjugan Khanty,kœːɣ,176,201
+stone,Vartovskoje Khanty,kœɣ,176,201
+stone,Likrisovskoje Khanty,kæɣʷ,176,201
+stone,Malyj Jugan Khanty,kæɣʷ,176,201
+stone,Tremjugan Khanty,kæɣʷ,176,201
+stone,Jugan Khanty,kæw,176,201
+stone,Upper Demjanka Khanty,keːw,176,201
+stone,Konda Khanty,keːw,176,201
+stone,Nizjam Khanty,keːw,176,201
+stone,Sherkaly Khanty,keːw,176,201
+stone,Kazym Khanty,keːw,176,201
+stone,Synja Khanty,keːw,176,201
+stone,Obdorsk Khanty,keːw,176,201
+sun,North Mansi,χɔːtæl,177,203
+sun,Middle Lozva Mansi,qɔtəl,177,203
+sun,Lower Lozva Mansi,qatəl,177,203
+sun,Pelymka Mansi,qɔtəl,177,203
+sun,Konda Mansi,qotəl,177,203
+sun,Tavda Mansi,qɔtəl,177,203
+sun,Vakh Khanty,syːŋk,178,204
+sun,Verkhne-Kalymsk Khanty,syːŋk,178,204
+sun,Vasjugan Khanty,syːŋk,178,204
+sun,Likrisovskoje Khanty,katθ,177,203
+sun,Malyj Jugan Khanty,katɬ,177,203
+sun,Tremjugan Khanty,katɬ,177,203
+sun,Jugan Khanty,katɬ,177,203
+sun,Upper Demjanka Khanty,χat,177,203
+sun,Konda Khanty,χat,177,203
+sun,Nizjam Khanty,χatəl,177,203
+sun,Sherkaly Khanty,χatəl,177,203
+sun,Kazym Khanty,χatɬ,177,203
+sun,Synja Khanty,χatəl,177,203
+sun,Obdorsk Khanty,χatəl,177,203
+swim,North Mansi,uji,179,206
+swim,Middle Lozva Mansi,uji,179,206
+swim,Pelymka Mansi,wuji,179,206
+swim,Konda Mansi,wuji,179,206
+swim,Tavda Mansi,ujænt,179,206
+swim,Vakh Khanty,ɔːtj,179,205
+swim,Vasjugan Khanty,ɲoːrəɣ,180,207
+swim,Tremjugan Khanty,ɲarəɣ,180,207
+swim,Upper Demjanka Khanty,uːtj,179,205
+swim,Konda Khanty,uːtj,179,205
+swim,Nizjam Khanty,uːsj,179,205
+swim,Sherkaly Khanty,uːsj,179,205
+swim,Kazym Khanty,wɵːsj,179,205
+swim,Synja Khanty,uːsj,179,205
+swim,Obdorsk Khanty,oːsj,179,205
+tail,North Mansi,leːɨɣ,181,208
+tail,Middle Lozva Mansi,lɨː,181,208
+tail,Lower Lozva Mansi,liː,181,208
+tail,Pelymka Mansi,lɨː,181,208
+tail,Konda Mansi,lɨː,181,208
+tail,Tavda Mansi,poŋ,182,209
+tail,Vakh Khanty,leɣ,181,208
+tail,Verkhne-Kalymsk Khanty,leɣ,181,208
+tail,Vasjugan Khanty,leɣ,181,208
+tail,Vartovskoje Khanty,ɬeɣ,181,208
+tail,Likrisovskoje Khanty,θeɣ,181,208
+tail,Malyj Jugan Khanty,ɬeɣ,181,208
+tail,Tremjugan Khanty,ɬeɣ,181,208
+tail,Jugan Khanty,ɬeɣ,181,208
+tail,Konda Khanty,teɣ,181,208
+tail,Nizjam Khanty,tiɣ,181,208
+tail,Sherkaly Khanty,tiɣ,181,208
+tail,Kazym Khanty,ɬiw,181,208
+tail,Synja Khanty,lij,181,208
+tail,Obdorsk Khanty,poːsiː,183,209
+that,North Mansi,ta,184,210
+that,Middle Lozva Mansi,ta,184,210
+that,Lower Lozva Mansi,ta,184,210
+that,Pelymka Mansi,tæ,184,210
+that,Konda Mansi,tɔt,185,210
+that,Tavda Mansi,ta,184,210
+that,Vakh Khanty,toːm,185,210
+that,Vasjugan Khanty,toːm,185,210
+that,Tremjugan Khanty,tom,185,210
+that,Upper Demjanka Khanty,tom,185,210
+that,Konda Khanty,tom,185,210
+that,Nizjam Khanty,tom,185,210
+that,Sherkaly Khanty,tom,185,210
+that,Kazym Khanty,tom,185,210
+that,Synja Khanty,tum,185,210
+that,Obdorsk Khanty,tam,185,210
+thin,North Mansi,woutæ,229,211
+thin,Middle Lozva Mansi,wæɨtæ,229,211
+thin,Pelymka Mansi,wæɨtæ,229,211
+thin,Konda Mansi,wouti,229,211
+thin,Tavda Mansi,aʃtɔ,230,212
+thin,Vakh Khanty,woːɣəʎ,229,211
+thin,Verkhne-Kalymsk Khanty,woːɣəʎ,229,211
+thin,Vasjugan Khanty,woːɣəʎ,229,211
+thin,Vartovskoje Khanty,wɔɣəɬj,229,211
+thin,Likrisovskoje Khanty,waɣʷəθ,229,211
+thin,Malyj Jugan Khanty,woɣʷəɬ,229,211
+thin,Tremjugan Khanty,woɣʷəɬ,229,211
+thin,Jugan Khanty,woːɣəɬ,229,211
+thin,Upper Demjanka Khanty,woːχət,229,211
+thin,Konda Khanty,woːχət,229,211
+thin,Nizjam Khanty,uːχət,229,211
+thin,Sherkaly Khanty,uːχət,229,211
+thin,Kazym Khanty,ɵːχəɬ,229,211
+thin,Synja Khanty,uːχəl,229,211
+thin,Obdorsk Khanty,oːχəl,229,211
+thin,North Mansi,osʲsʲæ,231,212
+thin,Middle Lozva Mansi,ɲisʲsʲæ,232,212
+thin,Lower Lozva Mansi,ɲiʃʃæ,232,212
 thin,Vakh Khanty,wæːɲtj,227,213
 thin,Verkhne-Kalymsk Khanty,wæːɲtj,227,213
 thin,Vasjugan Khanty,wæːɲtj,227,213
@@ -1689,101 +1689,101 @@ thin,Nizjam Khanty,waːsj,227,213
 thin,Sherkaly Khanty,waːsj,227,213
 thin,Kazym Khanty,waːsj,227,213
 thin,Synja Khanty,waːsj,227,213
-this,North Mansi,ti,186,215
-this,Middle Lozva Mansi,tʲə,186,215
-this,Lower Lozva Mansi,ti,186,215
-this,Pelymka Mansi,tʲi,186,215
-this,Konda Mansi,tə,186,215
-this,Tavda Mansi,ti,186,215
-this,Vakh Khanty,tiːm,186,215
-this,Tremjugan Khanty,teːm,186,215
-this,Jugan Khanty,teːm,186,215
-this,Upper Demjanka Khanty,tæm,186,215
-this,Konda Khanty,tæm,186,215
-this,Nizjam Khanty,tam,186,215
-this,Sherkaly Khanty,tam,186,215
-this,Kazym Khanty,tam,186,215
-this,Synja Khanty,tam,186,215
-thou,North Mansi,naŋ,187,216
-thou,Middle Lozva Mansi,næu,187,216
-thou,Lower Lozva Mansi,næi,187,216
-thou,Pelymka Mansi,næɨ,187,216
-thou,Konda Mansi,næɨɣ,187,216
-thou,Tavda Mansi,nəu,187,216
-thou,Vakh Khanty,nœŋ,187,216
-thou,Vasjugan Khanty,nœŋ,187,216
-thou,Tremjugan Khanty,nœŋ,187,216
-thou,Jugan Khanty,nœŋ,187,216
-thou,Upper Demjanka Khanty,noŋ,187,216
-thou,Konda Khanty,noŋ,187,216
-thou,Nizjam Khanty,noŋ,187,216
-thou,Sherkaly Khanty,naŋ,187,216
-thou,Kazym Khanty,naŋ,187,216
-thou,Synja Khanty,naŋ,187,216
-thou,Obdorsk Khanty,næŋ,187,216
-tongue,North Mansi,ɲelm,188,217
-tongue,Middle Lozva Mansi,ɲilm,188,217
-tongue,Lower Lozva Mansi,ɲilm,188,217
-tongue,Pelymka Mansi,ɲiləm,188,217
-tongue,Konda Mansi,ɲiləm,188,217
-tongue,Tavda Mansi,ɲiʎəm,188,217
-tongue,Vakh Khanty,ɲæːləm,188,217
-tongue,Verkhne-Kalymsk Khanty,ɲæːləm,188,217
-tongue,Vasjugan Khanty,ɲæːləm,188,217
-tongue,Vartovskoje Khanty,ɲæːɬəm,188,217
-tongue,Likrisovskoje Khanty,ɲæːθəm,188,217
-tongue,Malyj Jugan Khanty,ɲæːɬəm,188,217
-tongue,Tremjugan Khanty,ɲæːɬəm,188,217
-tongue,Jugan Khanty,ɲæːɬəm,188,217
-tongue,Upper Demjanka Khanty,ɲæːtəm,188,217
-tongue,Konda Khanty,ɲæːtəm,188,217
-tongue,Nizjam Khanty,ɲaːtəm,188,217
-tongue,Sherkaly Khanty,ɲaːtəm,188,217
-tongue,Kazym Khanty,ɲaːɬəm,188,217
-tongue,Synja Khanty,ɲaːləm,188,217
-tongue,Obdorsk Khanty,ɲæːləm,188,217
-tooth,North Mansi,puŋk,189,218
-tooth,Middle Lozva Mansi,pæŋk,189,218
-tooth,Lower Lozva Mansi,pæŋk,189,218
-tooth,Pelymka Mansi,pæŋk,189,218
-tooth,Konda Mansi,pæŋk,189,218
-tooth,Tavda Mansi,pəŋ,189,218
-tooth,Vakh Khanty,pœːŋk,189,218
-tooth,Verkhne-Kalymsk Khanty,pœːŋk,189,218
-tooth,Vasjugan Khanty,pœːŋk,189,218
-tooth,Vartovskoje Khanty,pœːŋk,189,218
-tooth,Likrisovskoje Khanty,pæŋʷkʷ,189,218
-tooth,Malyj Jugan Khanty,pæŋʷkʷ,189,218
-tooth,Tremjugan Khanty,pæŋʷkʷ,189,218
-tooth,Jugan Khanty,pæŋʷkʷ,189,218
-tooth,Upper Demjanka Khanty,peːŋk,189,218
-tooth,Konda Khanty,peːŋk,189,218
-tooth,Nizjam Khanty,peːŋk,189,218
-tooth,Sherkaly Khanty,peːŋk,189,218
-tooth,Kazym Khanty,pɛːŋk,189,218
-tooth,Synja Khanty,peːk,189,218
-tooth,Obdorsk Khanty,peːŋk,189,218
-tree,North Mansi,jiw,190,220
-tree,Middle Lozva Mansi,jiw,190,220
-tree,Lower Lozva Mansi,iw,190,220
-tree,Pelymka Mansi,juː,190,219
-tree,Konda Mansi,jiw,190,220
+this,North Mansi,ti,186,214
+this,Middle Lozva Mansi,tʲə,186,214
+this,Lower Lozva Mansi,ti,186,214
+this,Pelymka Mansi,tʲi,186,214
+this,Konda Mansi,tə,186,214
+this,Tavda Mansi,ti,186,214
+this,Vakh Khanty,tiːm,186,214
+this,Tremjugan Khanty,teːm,186,214
+this,Jugan Khanty,teːm,186,214
+this,Upper Demjanka Khanty,tæm,186,214
+this,Konda Khanty,tæm,186,214
+this,Nizjam Khanty,tam,186,214
+this,Sherkaly Khanty,tam,186,214
+this,Kazym Khanty,tam,186,214
+this,Synja Khanty,tam,186,214
+thou,North Mansi,naŋ,187,215
+thou,Middle Lozva Mansi,næu,187,215
+thou,Lower Lozva Mansi,næi,187,215
+thou,Pelymka Mansi,næɨ,187,215
+thou,Konda Mansi,næɨɣ,187,215
+thou,Tavda Mansi,nəu,187,215
+thou,Vakh Khanty,nœŋ,187,215
+thou,Vasjugan Khanty,nœŋ,187,215
+thou,Tremjugan Khanty,nœŋ,187,215
+thou,Jugan Khanty,nœŋ,187,215
+thou,Upper Demjanka Khanty,noŋ,187,215
+thou,Konda Khanty,noŋ,187,215
+thou,Nizjam Khanty,noŋ,187,215
+thou,Sherkaly Khanty,naŋ,187,215
+thou,Kazym Khanty,naŋ,187,215
+thou,Synja Khanty,naŋ,187,215
+thou,Obdorsk Khanty,næŋ,187,215
+tongue,North Mansi,ɲelm,188,216
+tongue,Middle Lozva Mansi,ɲilm,188,216
+tongue,Lower Lozva Mansi,ɲilm,188,216
+tongue,Pelymka Mansi,ɲiləm,188,216
+tongue,Konda Mansi,ɲiləm,188,216
+tongue,Tavda Mansi,ɲiʎəm,188,216
+tongue,Vakh Khanty,ɲæːləm,188,216
+tongue,Verkhne-Kalymsk Khanty,ɲæːləm,188,216
+tongue,Vasjugan Khanty,ɲæːləm,188,216
+tongue,Vartovskoje Khanty,ɲæːɬəm,188,216
+tongue,Likrisovskoje Khanty,ɲæːθəm,188,216
+tongue,Malyj Jugan Khanty,ɲæːɬəm,188,216
+tongue,Tremjugan Khanty,ɲæːɬəm,188,216
+tongue,Jugan Khanty,ɲæːɬəm,188,216
+tongue,Upper Demjanka Khanty,ɲæːtəm,188,216
+tongue,Konda Khanty,ɲæːtəm,188,216
+tongue,Nizjam Khanty,ɲaːtəm,188,216
+tongue,Sherkaly Khanty,ɲaːtəm,188,216
+tongue,Kazym Khanty,ɲaːɬəm,188,216
+tongue,Synja Khanty,ɲaːləm,188,216
+tongue,Obdorsk Khanty,ɲæːləm,188,216
+tooth,North Mansi,puŋk,189,217
+tooth,Middle Lozva Mansi,pæŋk,189,217
+tooth,Lower Lozva Mansi,pæŋk,189,217
+tooth,Pelymka Mansi,pæŋk,189,217
+tooth,Konda Mansi,pæŋk,189,217
+tooth,Tavda Mansi,pəŋ,189,217
+tooth,Vakh Khanty,pœːŋk,189,217
+tooth,Verkhne-Kalymsk Khanty,pœːŋk,189,217
+tooth,Vasjugan Khanty,pœːŋk,189,217
+tooth,Vartovskoje Khanty,pœːŋk,189,217
+tooth,Likrisovskoje Khanty,pæŋʷkʷ,189,217
+tooth,Malyj Jugan Khanty,pæŋʷkʷ,189,217
+tooth,Tremjugan Khanty,pæŋʷkʷ,189,217
+tooth,Jugan Khanty,pæŋʷkʷ,189,217
+tooth,Upper Demjanka Khanty,peːŋk,189,217
+tooth,Konda Khanty,peːŋk,189,217
+tooth,Nizjam Khanty,peːŋk,189,217
+tooth,Sherkaly Khanty,peːŋk,189,217
+tooth,Kazym Khanty,pɛːŋk,189,217
+tooth,Synja Khanty,peːk,189,217
+tooth,Obdorsk Khanty,peːŋk,189,217
+tree,North Mansi,jiw,190,219
+tree,Middle Lozva Mansi,jiw,190,219
+tree,Lower Lozva Mansi,iw,190,219
+tree,Pelymka Mansi,juː,190,218
+tree,Konda Mansi,jiw,190,219
 tree,Tavda Mansi,jiw,190,220
-tree,Vakh Khanty,juːɣ,190,219
-tree,Verkhne-Kalymsk Khanty,juːɣ,190,219
-tree,Vasjugan Khanty,juːɣ,190,219
-tree,Vartovskoje Khanty,juːɣ,190,219
-tree,Likrisovskoje Khanty,juːɣ,190,219
-tree,Malyj Jugan Khanty,juːɣ,190,219
-tree,Tremjugan Khanty,juːɣ,190,219
-tree,Jugan Khanty,juːw,190,219
-tree,Upper Demjanka Khanty,juːχ,190,219
-tree,Konda Khanty,juːχ,190,219
-tree,Nizjam Khanty,juːχ,190,219
-tree,Sherkaly Khanty,juːχ,190,219
-tree,Kazym Khanty,juχ,190,219
-tree,Synja Khanty,juχ,190,219
-tree,Obdorsk Khanty,juːχ,190,219
+tree,Vakh Khanty,juːɣ,190,218
+tree,Verkhne-Kalymsk Khanty,juːɣ,190,218
+tree,Vasjugan Khanty,juːɣ,190,218
+tree,Vartovskoje Khanty,juːɣ,190,218
+tree,Likrisovskoje Khanty,juːɣ,190,218
+tree,Malyj Jugan Khanty,juːɣ,190,218
+tree,Tremjugan Khanty,juːɣ,190,218
+tree,Jugan Khanty,juːw,190,218
+tree,Upper Demjanka Khanty,juːχ,190,218
+tree,Konda Khanty,juːχ,190,218
+tree,Nizjam Khanty,juːχ,190,218
+tree,Sherkaly Khanty,juːχ,190,218
+tree,Kazym Khanty,juχ,190,218
+tree,Synja Khanty,juχ,190,218
+tree,Obdorsk Khanty,juːχ,190,218
 two,North Mansi,kit,191,221
 two,Middle Lozva Mansi,kit,191,221
 two,Lower Lozva Mansi,kit,191,221
@@ -1873,23 +1873,23 @@ we,Sherkaly Khanty,moŋ,197,226
 we,Kazym Khanty,muŋ,197,226
 we,Synja Khanty,muŋ,197,226
 we,Obdorsk Khanty,muːŋ,197,226
-what,North Mansi,manər,198,227
-what,Middle Lozva Mansi,mænər,198,227
-what,Lower Lozva Mansi,mær,198,227
-what,Pelymka Mansi,mænər,198,227
-what,Konda Mansi,nær,199,227
-what,Tavda Mansi,ɲær,199,227
-what,Vakh Khanty,mœɣəʎiː,198,229
-what,Vasjugan Khanty,mœɣəʎiː,198,229
-what,Tremjugan Khanty,meɣʷəɬiː,198,229
-what,Jugan Khanty,mewəɬiː,198,229
+what,North Mansi,manər,198,229
+what,Middle Lozva Mansi,mænər,198,229
+what,Lower Lozva Mansi,mær,198,229
+what,Pelymka Mansi,mænər,198,229
+what,Konda Mansi,nær,199,229
+what,Tavda Mansi,ɲær,199,229
+what,Vakh Khanty,mœɣəʎiː,198,227
+what,Vasjugan Khanty,mœɣəʎiː,198,227
+what,Tremjugan Khanty,meɣʷəɬiː,198,227
+what,Jugan Khanty,mewəɬiː,198,227
 what,Upper Demjanka Khanty,metoːjə,198,228
 what,Konda Khanty,metoːjə,198,228
 what,Nizjam Khanty,muj,198,228
 what,Sherkaly Khanty,muj,198,228
 what,Kazym Khanty,muj,198,228
 what,Synja Khanty,muj,198,228
-what,Obdorsk Khanty,malaː,198,229
+what,Obdorsk Khanty,malaː,198,227
 white,North Mansi,jaːŋk,201,232
 white,Pelymka Mansi,sairiŋ,202,231
 white,Konda Mansi,sɔjrəŋ,202,231
@@ -1998,10 +1998,10 @@ year,Sherkaly Khanty,tatə,238,240
 year,Kazym Khanty,ɔːɬ,239,240
 year,Synja Khanty,tal,238,240
 year,Obdorsk Khanty,tæl,238,240
-yellow,North Mansi,kasm,205,241
-yellow,Middle Lozva Mansi,kæʃm,205,241
-yellow,Pelymka Mansi,kæʃm,205,241
-yellow,Konda Mansi,kæsəm,205,241
-yellow,Tavda Mansi,kəʃəm,205,241
-yellow,Upper Demjanka Khanty,wastə,206,242
-yellow,Konda Khanty,χantəwastə,206,242
+yellow,North Mansi,kasm,205,242
+yellow,Middle Lozva Mansi,kæʃm,205,242
+yellow,Pelymka Mansi,kæʃm,205,242
+yellow,Konda Mansi,kæsəm,205,242
+yellow,Tavda Mansi,kəʃəm,205,242
+yellow,Upper Demjanka Khanty,wastə,206,241
+yellow,Konda Khanty,χantəwastə,206,241
