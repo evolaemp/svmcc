@@ -1,3 +1,4 @@
+#%%
 import csv
 import os
 
@@ -7,6 +8,7 @@ from code.prepare.params import load_params
 from code.prepare.pmi import get_asjp_data, prepare_lang_pair
 from code.prepare.utils import make_sample_id, is_asjp_data, explode_sample_id
 
+#%%
 
 
 def prepare(dataset_path, params_dir):
@@ -20,7 +22,7 @@ def prepare(dataset_path, params_dir):
 	samples, targets = _prepare(dataset_path, params_dir)
 	return create_pandas_frame(dataset_path, samples, targets)
 
-
+#%%
 
 def _prepare(dataset_path, params_dir):
 	"""
@@ -37,13 +39,12 @@ def _prepare(dataset_path, params_dir):
 	
 	data = load_data(dataset_path)
 	data_asjp = get_asjp_data(data, params)
-	
 	lang_pairs = [(a, b) for a in data.keys() for b in data.keys() if a < b]
 	
 	# pmi features
 	for lang1, lang2 in lang_pairs:
 		samples.update(prepare_lang_pair(lang1, lang2, data_asjp, params))
-	
+
 	gloss_len = get_average_gloss_len(data_asjp)
 	for key, sample in samples.items():
 		sample.append(gloss_len[key.split('/')[0]])
@@ -71,7 +72,7 @@ def _prepare(dataset_path, params_dir):
 	
 	return samples, targets
 
-
+#%%
 
 def load_data(dataset_path):
 	"""
@@ -92,7 +93,6 @@ def load_data(dataset_path):
 				data[line[0]][line[3]]  = []
 			assert line[5] not in ('', 'XXX')
 			data[line[0]][line[3]].append(line[5])
-	
 	return data
 
 

@@ -14,7 +14,30 @@ import pandas as pd
 from sklearn.metrics import adjusted_rand_score
 from sklearn import svm
 
-
+def pd_match(a, b):
+    """
+    Replicates the functionality of the deprecated pandas.match function.
+    
+    Parameters:
+    a (pd.Series or pd.Index): The series or index to match against.
+    b (pd.Series or pd.Index): The series or index containing the values to match.
+    
+    Returns:
+    np.ndarray: An array of indices where the values of b are found in a.
+                If a value in b is not found in a, -1 is returned for that position.
+    """
+    # Ensure that a and b are pandas Index objects
+    b_index = pd.Index(a)
+    a_index = pd.Index(b)
+    
+    # Ensure the index is unique
+    if not a_index.is_unique:
+        raise ValueError("Index a must be unique")
+    
+    # Use get_indexer to find the indices
+    indices = a_index.get_indexer(b_index)
+    
+    return indices
 
 """
 The names of the datasets used for training.
@@ -55,13 +78,13 @@ def infer(vectors_dir, output_dir):
 	global trainingVectors
 	global test
 	
-	dDict = {'gloss':unicode,
-		'l1':unicode, 'w1':unicode, 'cc1':unicode,
-		'l2':unicode, 'w2':unicode, 'cc2':unicode,
+	dDict = {'gloss':str,
+		'l1':str, 'w1':str, 'cc1':str,
+		'l2':str, 'w2':str, 'cc2':str,
 		'feature1':double, 'feature2':double, 'feature3':double,
 		'feature4':double, 'feature5':double,
 		'lexstat_simAA':double, 'lexstat_simBB':double, 'lexstat_simAB':double,
-		'feature7':double, 'target':int, 'db':unicode }
+		'feature7':double, 'target':int, 'db':str }
 	
 	# load the training data
 	training = pd.DataFrame()
@@ -74,7 +97,7 @@ def infer(vectors_dir, output_dir):
 	
 	nprandom.seed(1234)
 	random.seed(1234)
-	trainingVectors = training.ix[nprandom.permutation(training.index)].drop_duplicates(['db','gloss'])
+	trainingVectors = training.loc[nprandom.permutation(training.index)].drop_duplicates(['db','gloss'])
 	
 	# cross-validation over training data
 	pool = Pool()
@@ -177,12 +200,12 @@ def svmInfomapCluster(vdb,featureSubset=FEATURES,th=.34,C=.82,kernel='linear',ga
 	dataWordlist = pd.DataFrame(dataWordlist,columns=['concept','doculect',
 														'counterpart','cc'])
 	dataWordlist = dataWordlist.drop_duplicates()
-	dataWordlist.index = ['_'.join(map(unicode,x))
+	dataWordlist.index = ['_'.join(map(str,x))
 							for x in
 							dataWordlist[['concept','doculect','counterpart']].values]
-	validation['id_1'] = [c+'_'+l+'_'+unicode(w)
+	validation['id_1'] = [c+'_'+l+'_'+str(w)
 						for (c,l,w) in validation[['gloss','l1','w1']].values]
-	validation['id_2'] = [c+'_'+l+'_'+unicode(w)
+	validation['id_2'] = [c+'_'+l+'_'+str(w)
 						for (c,l,w) in validation[['gloss','l2','w2']].values]
 	for c in concepts:
 		dataC= validation[validation.gloss==c].copy()
@@ -192,10 +215,10 @@ def svmInfomapCluster(vdb,featureSubset=FEATURES,th=.34,C=.82,kernel='linear',ga
 		if len(wlC)>1:
 			wlC.index = [x.replace(' ','').replace(',','') for x in wlC.index]
 			svMtx = zeros((len(wlC.index),len(wlC.index)))
-			svMtx[pd.match(dataC.id_1,wlC.index),
-						pd.match(dataC.id_2,wlC.index)] = dataC.svScores.values
-			svMtx[pd.match(dataC.id_2,wlC.index),
-						pd.match(dataC.id_1,wlC.index)] = dataC.svScores.values
+			svMtx[pd_match(dataC.id_1,wlC.index),
+						pd_match(dataC.id_2,wlC.index)] = dataC.svScores.values
+			svMtx[pd_match(dataC.id_2,wlC.index),
+						pd_match(dataC.id_1,wlC.index)] = dataC.svScores.values
 			svDistMtx = log(1-svMtx)
 			tth = log(th)-svDistMtx.min()
 			svDistMtx -= svDistMtx.min()
@@ -236,12 +259,12 @@ def testCluster(vdb,featureSubset=FEATURES,C=0.82,gamma=9e-04,kernel='linear',th
 	dataWordlist = pd.DataFrame(dataWordlist,columns=['concept','doculect',
 														'counterpart','cc'])
 	dataWordlist = dataWordlist.drop_duplicates()
-	dataWordlist.index = ['_'.join(map(unicode,x))
+	dataWordlist.index = ['_'.join(map(str,x))
 							for x in
 							dataWordlist[['concept','doculect','counterpart']].values]
-	validation['id_1'] = [c+'_'+l+'_'+unicode(w)
+	validation['id_1'] = [c+'_'+l+'_'+str(w)
 						for (c,l,w) in validation[['gloss','l1','w1']].values]
-	validation['id_2'] = [c+'_'+l+'_'+unicode(w)
+	validation['id_2'] = [c+'_'+l+'_'+str(w)
 						for (c,l,w) in validation[['gloss','l2','w2']].values]
 	for c in concepts:
 		dataC= validation[validation.gloss==c].copy()
@@ -251,10 +274,10 @@ def testCluster(vdb,featureSubset=FEATURES,C=0.82,gamma=9e-04,kernel='linear',th
 		if len(wlC)>1:
 			wlC.index = [x.replace(' ','').replace(',','') for x in wlC.index]
 			svMtx = zeros((len(wlC.index),len(wlC.index)))
-			svMtx[pd.match(dataC.id_1,wlC.index),
-						pd.match(dataC.id_2,wlC.index)] = dataC.svScores.values
-			svMtx[pd.match(dataC.id_2,wlC.index),
-						pd.match(dataC.id_1,wlC.index)] = dataC.svScores.values
+			svMtx[pd_match(dataC.id_1,wlC.index),
+						pd_match(dataC.id_2,wlC.index)] = dataC.svScores.values
+			svMtx[pd_match(dataC.id_2,wlC.index),
+						pd_match(dataC.id_1,wlC.index)] = dataC.svScores.values
 			svDistMtx = log(1-svMtx)
 			tth = log(th)-svDistMtx.min()
 			svDistMtx -= svDistMtx.min()

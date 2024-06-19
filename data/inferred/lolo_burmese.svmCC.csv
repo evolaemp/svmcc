@@ -1,18 +1,18 @@
 db,concept,doculect,counterpart,fullCC,inferredCC
-lolo_burmese,tongue,ACHANG,so,lolo_burmese:tongue:1,lolo_burmese:tongue:3
-lolo_burmese,tongue,AKHA,mela,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,BISU,manhla,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,BIYUE,ala,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,BURMESE,hly~a,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,DAFANG,Lo,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,JINO,a Lo,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,LAHU,xate,lolo_burmese:tongue:1,lolo_burmese:tongue:2
-lolo_burmese,tongue,LISU,laCh~3,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,MPI,olo,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,NANJIANG,la,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,NUSU,fra,lolo_burmese:tongue:1,lolo_burmese:tongue:1
-lolo_burmese,tongue,XIDE,hane,lolo_burmese:tongue:1,lolo_burmese:tongue:2
-lolo_burmese,tongue,ZAIWA,So,lolo_burmese:tongue:1,lolo_burmese:tongue:3
+lolo_burmese,tongue,ACHANG,so,lolo_burmese:tongue:1,lolo_burmese:tongue:1
+lolo_burmese,tongue,AKHA,mela,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,BISU,manhla,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,BIYUE,ala,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,BURMESE,hly~a,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,DAFANG,Lo,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,JINO,a Lo,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,LAHU,xate,lolo_burmese:tongue:1,lolo_burmese:tongue:3
+lolo_burmese,tongue,LISU,laCh~3,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,MPI,olo,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,NANJIANG,la,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,NUSU,fra,lolo_burmese:tongue:1,lolo_burmese:tongue:2
+lolo_burmese,tongue,XIDE,hane,lolo_burmese:tongue:1,lolo_burmese:tongue:3
+lolo_burmese,tongue,ZAIWA,So,lolo_burmese:tongue:1,lolo_burmese:tongue:1
 lolo_burmese,I,ACHANG,No,lolo_burmese:I:2,lolo_burmese:I:1
 lolo_burmese,I,AKHA,Na,lolo_burmese:I:2,lolo_burmese:I:1
 lolo_burmese,I,BISU,ga,lolo_burmese:I:2,lolo_burmese:I:1
@@ -29,17 +29,17 @@ lolo_burmese,I,NUSU,Na,lolo_burmese:I:2,lolo_burmese:I:1
 lolo_burmese,I,XIDE,Na,lolo_burmese:I:2,lolo_burmese:I:1
 lolo_burmese,I,ZAIWA,No,lolo_burmese:I:2,lolo_burmese:I:1
 lolo_burmese,we,ACHANG,Notu7,lolo_burmese:we:1,lolo_burmese:we:1
-lolo_burmese,we,BISU,gu,lolo_burmese:we:3,lolo_burmese:we:3
-lolo_burmese,we,BIYUE,Nov,lolo_burmese:we:3,lolo_burmese:we:2
-lolo_burmese,we,BURMESE,kyw$antautui,lolo_burmese:we:1,lolo_burmese:we:6
+lolo_burmese,we,BISU,gu,lolo_burmese:we:3,lolo_burmese:we:2
+lolo_burmese,we,BIYUE,Nov,lolo_burmese:we:3,lolo_burmese:we:3
+lolo_burmese,we,BURMESE,kyw$antautui,lolo_burmese:we:1,lolo_burmese:we:4
 lolo_burmese,we,DAFANG,Nox3,lolo_burmese:we:3,lolo_burmese:we:1
-lolo_burmese,we,JINO,Na vu,lolo_burmese:we:3,lolo_burmese:we:2
+lolo_burmese,we,JINO,Na vu,lolo_burmese:we:3,lolo_burmese:we:3
 lolo_burmese,we,LAHU,Nax3,lolo_burmese:we:3,lolo_burmese:we:1
 lolo_burmese,we,LISU,Nuanu,lolo_burmese:we:5,lolo_burmese:we:5
-lolo_burmese,we,NAXI,N3Ng3,lolo_burmese:we:6,lolo_burmese:we:1
+lolo_burmese,we,NAXI,N3Ng3,lolo_burmese:we:6,lolo_burmese:we:6
 lolo_burmese,we,NUSU,Nad3,lolo_burmese:we:1,lolo_burmese:we:1
 lolo_burmese,we,XIDE,Noxo,lolo_burmese:we:3,lolo_burmese:we:1
-lolo_burmese,we,ZAIWA,Namo,lolo_burmese:we:2,lolo_burmese:we:4
+lolo_burmese,we,ZAIWA,Namo,lolo_burmese:we:2,lolo_burmese:we:7
 lolo_burmese,you,ACHANG,nuaN,lolo_burmese:you:2,lolo_burmese:you:1
 lolo_burmese,you,AKHA,no,lolo_burmese:you:2,lolo_burmese:you:1
 lolo_burmese,you,BISU,naN,lolo_burmese:you:2,lolo_burmese:you:1
@@ -69,21 +69,21 @@ lolo_burmese,nose,NAXI,5im3r,lolo_burmese:nose:1,lolo_burmese:nose:2
 lolo_burmese,nose,NUSU,hnaka*,lolo_burmese:nose:1,lolo_burmese:nose:1
 lolo_burmese,nose,XIDE,hnabi,lolo_burmese:nose:2,lolo_burmese:nose:1
 lolo_burmese,nose,ZAIWA,no7,lolo_burmese:nose:2,lolo_burmese:nose:1
-lolo_burmese,liver,ACHANG,aS3N,lolo_burmese:liver:1,lolo_burmese:liver:2
-lolo_burmese,liver,AKHA,sh~ach~aN,lolo_burmese:liver:1,lolo_burmese:liver:2
-lolo_burmese,liver,BISU,aNch~in,lolo_burmese:liver:1,lolo_burmese:liver:2
-lolo_burmese,liver,BIYUE,och~3,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,BURMESE,asa5,lolo_burmese:liver:1,lolo_burmese:liver:2
-lolo_burmese,liver,DAFANG,s3,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,JINO,a ch~3,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,LAHU,ose,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,LISU,s3,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,MPI,oth~3,lolo_burmese:liver:2,lolo_burmese:liver:1
-lolo_burmese,liver,NANJIANG,c3s3,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,NAXI,s3r,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,NUSU,ch~3*,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,XIDE,si,lolo_burmese:liver:1,lolo_burmese:liver:1
-lolo_burmese,liver,ZAIWA,siN,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,ACHANG,aS3N,lolo_burmese:liver:1,lolo_burmese:liver:1
+lolo_burmese,liver,AKHA,sh~ach~aN,lolo_burmese:liver:1,lolo_burmese:liver:1
+lolo_burmese,liver,BISU,aNch~in,lolo_burmese:liver:1,lolo_burmese:liver:1
+lolo_burmese,liver,BIYUE,och~3,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,BURMESE,asa5,lolo_burmese:liver:1,lolo_burmese:liver:1
+lolo_burmese,liver,DAFANG,s3,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,JINO,a ch~3,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,LAHU,ose,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,LISU,s3,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,MPI,oth~3,lolo_burmese:liver:2,lolo_burmese:liver:2
+lolo_burmese,liver,NANJIANG,c3s3,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,NAXI,s3r,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,NUSU,ch~3*,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,XIDE,si,lolo_burmese:liver:1,lolo_burmese:liver:2
+lolo_burmese,liver,ZAIWA,siN,lolo_burmese:liver:1,lolo_burmese:liver:1
 lolo_burmese,new,ACHANG,S3k,lolo_burmese:new:1,lolo_burmese:new:1
 lolo_burmese,new,AKHA,sjy7,lolo_burmese:new:1,lolo_burmese:new:1
 lolo_burmese,new,BISU,aNS3,lolo_burmese:new:2,lolo_burmese:new:1
@@ -99,51 +99,51 @@ lolo_burmese,new,NAXI,S3,lolo_burmese:new:3,lolo_burmese:new:1
 lolo_burmese,new,NUSU,dy~o,lolo_burmese:new:1,lolo_burmese:new:2
 lolo_burmese,new,XIDE,aS37,lolo_burmese:new:1,lolo_burmese:new:1
 lolo_burmese,new,ZAIWA,asik,lolo_burmese:new:1,lolo_burmese:new:1
-lolo_burmese,night,ACHANG,nich~ot,lolo_burmese:night:1,lolo_burmese:night:11
-lolo_burmese,night,AKHA,u7ty~i7,lolo_burmese:night:1,lolo_burmese:night:1
-lolo_burmese,night,BISU,muNkh~i,lolo_burmese:night:1,lolo_burmese:night:1
+lolo_burmese,night,ACHANG,nich~ot,lolo_burmese:night:1,lolo_burmese:night:1
+lolo_burmese,night,AKHA,u7ty~i7,lolo_burmese:night:1,lolo_burmese:night:2
+lolo_burmese,night,BISU,muNkh~i,lolo_burmese:night:1,lolo_burmese:night:2
 lolo_burmese,night,BIYUE,mekh~e7,lolo_burmese:night:1,lolo_burmese:night:3
-lolo_burmese,night,BURMESE,5a,lolo_burmese:night:1,lolo_burmese:night:10
-lolo_burmese,night,DAFANG,s3piha,lolo_burmese:night:1,lolo_burmese:night:9
-lolo_burmese,night,JINO,mh~e kh~a,lolo_burmese:night:1,lolo_burmese:night:8
-lolo_burmese,night,LAHU,takh~3,lolo_burmese:night:1,lolo_burmese:night:2
-lolo_burmese,night,LISU,sakh~ua,lolo_burmese:night:1,lolo_burmese:night:2
-lolo_burmese,night,MPI,uNkhw$i7,lolo_burmese:night:1,lolo_burmese:night:1
+lolo_burmese,night,BURMESE,5a,lolo_burmese:night:1,lolo_burmese:night:4
+lolo_burmese,night,DAFANG,s3piha,lolo_burmese:night:1,lolo_burmese:night:5
+lolo_burmese,night,JINO,mh~e kh~a,lolo_burmese:night:1,lolo_burmese:night:6
+lolo_burmese,night,LAHU,takh~3,lolo_burmese:night:1,lolo_burmese:night:7
+lolo_burmese,night,LISU,sakh~ua,lolo_burmese:night:1,lolo_burmese:night:8
+lolo_burmese,night,MPI,uNkhw$i7,lolo_burmese:night:1,lolo_burmese:night:2
 lolo_burmese,night,NANJIANG,mikh~3si,lolo_burmese:night:1,lolo_burmese:night:3
-lolo_burmese,night,NAXI,mvkh~v,lolo_burmese:night:1,lolo_burmese:night:7
-lolo_burmese,night,NUSU,suana,lolo_burmese:night:1,lolo_burmese:night:6
-lolo_burmese,night,XIDE,kh~3th~3mo,lolo_burmese:night:1,lolo_burmese:night:5
-lolo_burmese,night,ZAIWA,my~inle,lolo_burmese:night:1,lolo_burmese:night:4
-lolo_burmese,ear,ACHANG,niCua,lolo_burmese:ear:1,lolo_burmese:ear:3
-lolo_burmese,ear,AKHA,nabo,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,BISU,nas3N,lolo_burmese:ear:1,lolo_burmese:ear:2
-lolo_burmese,ear,BIYUE,nopu,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,BURMESE,na,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,DAFANG,lopo,lolo_burmese:ear:2,lolo_burmese:ear:1
-lolo_burmese,ear,JINO,nh~a kh~o,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,LAHU,napo,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,LISU,nopo,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,MPI,mph~a,lolo_burmese:ear:2,lolo_burmese:ear:5
-lolo_burmese,ear,NANJIANG,napu,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,NAXI,xEc3,lolo_burmese:ear:3,lolo_burmese:ear:4
-lolo_burmese,ear,NUSU,hnash~3*,lolo_burmese:ear:1,lolo_burmese:ear:2
-lolo_burmese,ear,XIDE,hn3po,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,ear,ZAIWA,nophy$o,lolo_burmese:ear:1,lolo_burmese:ear:1
-lolo_burmese,eye,ACHANG,5oci7,lolo_burmese:eye:1,lolo_burmese:eye:2
-lolo_burmese,eye,AKHA,my~any~7,lolo_burmese:eye:1,lolo_burmese:eye:3
-lolo_burmese,eye,BISU,mEn3,lolo_burmese:eye:1,lolo_burmese:eye:6
-lolo_burmese,eye,BIYUE,mac37,lolo_burmese:eye:1,lolo_burmese:eye:1
-lolo_burmese,eye,BURMESE,my~akTi,lolo_burmese:eye:1,lolo_burmese:eye:1
-lolo_burmese,eye,DAFANG,nadu,lolo_burmese:eye:1,lolo_burmese:eye:4
-lolo_burmese,eye,JINO,my~a ci,lolo_burmese:eye:1,lolo_burmese:eye:1
-lolo_burmese,eye,LAHU,mesi,lolo_burmese:eye:1,lolo_burmese:eye:1
-lolo_burmese,eye,LISU,miEs3,lolo_burmese:eye:1,lolo_burmese:eye:1
-lolo_burmese,eye,MPI,5ch~o,lolo_burmese:eye:2,lolo_burmese:eye:2
-lolo_burmese,eye,NANJIANG,mise,lolo_burmese:eye:1,lolo_burmese:eye:1
-lolo_burmese,eye,NAXI,mi3lv,lolo_burmese:eye:1,lolo_burmese:eye:5
-lolo_burmese,eye,NUSU,miady~i,lolo_burmese:eye:1,lolo_burmese:eye:1
-lolo_burmese,eye,XIDE,5oc3,lolo_burmese:eye:1,lolo_burmese:eye:2
-lolo_burmese,eye,ZAIWA,my~oCi,lolo_burmese:eye:1,lolo_burmese:eye:1
+lolo_burmese,night,NAXI,mvkh~v,lolo_burmese:night:1,lolo_burmese:night:9
+lolo_burmese,night,NUSU,suana,lolo_burmese:night:1,lolo_burmese:night:10
+lolo_burmese,night,XIDE,kh~3th~3mo,lolo_burmese:night:1,lolo_burmese:night:11
+lolo_burmese,night,ZAIWA,my~inle,lolo_burmese:night:1,lolo_burmese:night:12
+lolo_burmese,ear,ACHANG,niCua,lolo_burmese:ear:1,lolo_burmese:ear:1
+lolo_burmese,ear,AKHA,nabo,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,BISU,nas3N,lolo_burmese:ear:1,lolo_burmese:ear:3
+lolo_burmese,ear,BIYUE,nopu,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,BURMESE,na,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,DAFANG,lopo,lolo_burmese:ear:2,lolo_burmese:ear:2
+lolo_burmese,ear,JINO,nh~a kh~o,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,LAHU,napo,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,LISU,nopo,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,MPI,mph~a,lolo_burmese:ear:2,lolo_burmese:ear:4
+lolo_burmese,ear,NANJIANG,napu,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,NAXI,xEc3,lolo_burmese:ear:3,lolo_burmese:ear:5
+lolo_burmese,ear,NUSU,hnash~3*,lolo_burmese:ear:1,lolo_burmese:ear:3
+lolo_burmese,ear,XIDE,hn3po,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,ear,ZAIWA,nophy$o,lolo_burmese:ear:1,lolo_burmese:ear:2
+lolo_burmese,eye,ACHANG,5oci7,lolo_burmese:eye:1,lolo_burmese:eye:1
+lolo_burmese,eye,AKHA,my~any~7,lolo_burmese:eye:1,lolo_burmese:eye:2
+lolo_burmese,eye,BISU,mEn3,lolo_burmese:eye:1,lolo_burmese:eye:3
+lolo_burmese,eye,BIYUE,mac37,lolo_burmese:eye:1,lolo_burmese:eye:4
+lolo_burmese,eye,BURMESE,my~akTi,lolo_burmese:eye:1,lolo_burmese:eye:4
+lolo_burmese,eye,DAFANG,nadu,lolo_burmese:eye:1,lolo_burmese:eye:5
+lolo_burmese,eye,JINO,my~a ci,lolo_burmese:eye:1,lolo_burmese:eye:4
+lolo_burmese,eye,LAHU,mesi,lolo_burmese:eye:1,lolo_burmese:eye:4
+lolo_burmese,eye,LISU,miEs3,lolo_burmese:eye:1,lolo_burmese:eye:4
+lolo_burmese,eye,MPI,5ch~o,lolo_burmese:eye:2,lolo_burmese:eye:1
+lolo_burmese,eye,NANJIANG,mise,lolo_burmese:eye:1,lolo_burmese:eye:4
+lolo_burmese,eye,NAXI,mi3lv,lolo_burmese:eye:1,lolo_burmese:eye:6
+lolo_burmese,eye,NUSU,miady~i,lolo_burmese:eye:1,lolo_burmese:eye:4
+lolo_burmese,eye,XIDE,5oc3,lolo_burmese:eye:1,lolo_burmese:eye:1
+lolo_burmese,eye,ZAIWA,my~oCi,lolo_burmese:eye:1,lolo_burmese:eye:4
 lolo_burmese,hand,ACHANG,lo7,lolo_burmese:hand:1,lolo_burmese:hand:1
 lolo_burmese,hand,AKHA,la7,lolo_burmese:hand:1,lolo_burmese:hand:1
 lolo_burmese,hand,BISU,lapo,lolo_burmese:hand:1,lolo_burmese:hand:1
@@ -161,28 +161,28 @@ lolo_burmese,hand,XIDE,lo,lolo_burmese:hand:1,lolo_burmese:hand:1
 lolo_burmese,hand,ZAIWA,lo7,lolo_burmese:hand:1,lolo_burmese:hand:1
 lolo_burmese,sun,ACHANG,nimo,lolo_burmese:sun:1,lolo_burmese:sun:1
 lolo_burmese,sun,AKHA,naNma,lolo_burmese:sun:1,lolo_burmese:sun:1
-lolo_burmese,sun,BISU,muNhn3N,lolo_burmese:sun:1,lolo_burmese:sun:9
+lolo_burmese,sun,BISU,muNhn3N,lolo_burmese:sun:1,lolo_burmese:sun:2
 lolo_burmese,sun,BIYUE,5imo,lolo_burmese:sun:1,lolo_burmese:sun:1
-lolo_burmese,sun,BURMESE,niy,lolo_burmese:sun:1,lolo_burmese:sun:8
-lolo_burmese,sun,DAFANG,ndy$y,lolo_burmese:sun:1,lolo_burmese:sun:7
-lolo_burmese,sun,JINO,53 o,lolo_burmese:sun:1,lolo_burmese:sun:6
-lolo_burmese,sun,LAHU,mini,lolo_burmese:sun:1,lolo_burmese:sun:2
-lolo_burmese,sun,LISU,m3mi,lolo_burmese:sun:1,lolo_burmese:sun:2
+lolo_burmese,sun,BURMESE,niy,lolo_burmese:sun:1,lolo_burmese:sun:3
+lolo_burmese,sun,DAFANG,ndy$y,lolo_burmese:sun:1,lolo_burmese:sun:4
+lolo_burmese,sun,JINO,53 o,lolo_burmese:sun:1,lolo_burmese:sun:5
+lolo_burmese,sun,LAHU,mini,lolo_burmese:sun:1,lolo_burmese:sun:6
+lolo_burmese,sun,LISU,m3mi,lolo_burmese:sun:1,lolo_burmese:sun:6
 lolo_burmese,sun,MPI,5iwo,lolo_burmese:sun:1,lolo_burmese:sun:1
-lolo_burmese,sun,NANJIANG,amux3,lolo_burmese:sun:4,lolo_burmese:sun:5
+lolo_burmese,sun,NANJIANG,amux3,lolo_burmese:sun:4,lolo_burmese:sun:7
 lolo_burmese,sun,NAXI,5ime,lolo_burmese:sun:1,lolo_burmese:sun:1
 lolo_burmese,sun,NUSU,5ia,lolo_burmese:sun:1,lolo_burmese:sun:1
-lolo_burmese,sun,XIDE,hobu,lolo_burmese:sun:3,lolo_burmese:sun:4
-lolo_burmese,sun,ZAIWA,pui,lolo_burmese:sun:2,lolo_burmese:sun:3
-lolo_burmese,knee,ACHANG,ch~i5o7,lolo_burmese:knee:5,lolo_burmese:knee:9
-lolo_burmese,knee,AKHA,khy$cy~7,lolo_burmese:knee:5,lolo_burmese:knee:8
-lolo_burmese,knee,BISU,pato,lolo_burmese:knee:1,lolo_burmese:knee:7
-lolo_burmese,knee,BURMESE,du,lolo_burmese:knee:1,lolo_burmese:knee:6
+lolo_burmese,sun,XIDE,hobu,lolo_burmese:sun:3,lolo_burmese:sun:8
+lolo_burmese,sun,ZAIWA,pui,lolo_burmese:sun:2,lolo_burmese:sun:9
+lolo_burmese,knee,ACHANG,ch~i5o7,lolo_burmese:knee:5,lolo_burmese:knee:1
+lolo_burmese,knee,AKHA,khy$cy~7,lolo_burmese:knee:5,lolo_burmese:knee:2
+lolo_burmese,knee,BISU,pato,lolo_burmese:knee:1,lolo_burmese:knee:3
+lolo_burmese,knee,BURMESE,du,lolo_burmese:knee:1,lolo_burmese:knee:4
 lolo_burmese,knee,JINO,ph~3,lolo_burmese:knee:2,lolo_burmese:knee:5
-lolo_burmese,knee,LAHU,kh~3c3qi,lolo_burmese:knee:4,lolo_burmese:knee:4
-lolo_burmese,knee,MPI,NkoN,lolo_burmese:knee:4,lolo_burmese:knee:3
-lolo_burmese,knee,XIDE,baT37,lolo_burmese:knee:5,lolo_burmese:knee:2
-lolo_burmese,knee,ZAIWA,khy$iph~ut,lolo_burmese:knee:2,lolo_burmese:knee:1
+lolo_burmese,knee,LAHU,kh~3c3qi,lolo_burmese:knee:4,lolo_burmese:knee:6
+lolo_burmese,knee,MPI,NkoN,lolo_burmese:knee:4,lolo_burmese:knee:7
+lolo_burmese,knee,XIDE,baT37,lolo_burmese:knee:5,lolo_burmese:knee:8
+lolo_burmese,knee,ZAIWA,khy$iph~ut,lolo_burmese:knee:2,lolo_burmese:knee:9
 lolo_burmese,tooth,ACHANG,coi,lolo_burmese:tooth:2,lolo_burmese:tooth:1
 lolo_burmese,tooth,AKHA,sh~3,lolo_burmese:tooth:1,lolo_burmese:tooth:2
 lolo_burmese,tooth,BISU,soph~e,lolo_burmese:tooth:1,lolo_burmese:tooth:2
@@ -193,7 +193,7 @@ lolo_burmese,tooth,JINO,Cy~i,lolo_burmese:tooth:2,lolo_burmese:tooth:1
 lolo_burmese,tooth,LAHU,ci,lolo_burmese:tooth:2,lolo_burmese:tooth:1
 lolo_burmese,tooth,LISU,s3Ch~i,lolo_burmese:tooth:2,lolo_burmese:tooth:1
 lolo_burmese,tooth,MPI,oso,lolo_burmese:tooth:1,lolo_burmese:tooth:2
-lolo_burmese,tooth,NANJIANG,sy,lolo_burmese:tooth:2,lolo_burmese:tooth:2
+lolo_burmese,tooth,NANJIANG,sy,lolo_burmese:tooth:2,lolo_burmese:tooth:3
 lolo_burmese,tooth,NAXI,x3,lolo_burmese:tooth:1,lolo_burmese:tooth:2
 lolo_burmese,tooth,NUSU,sh~ua,lolo_burmese:tooth:1,lolo_burmese:tooth:2
 lolo_burmese,tooth,XIDE,j3,lolo_burmese:tooth:2,lolo_burmese:tooth:1
@@ -214,70 +214,70 @@ lolo_burmese,louse,NUSU,Sa,lolo_burmese:louse:1,lolo_burmese:louse:1
 lolo_burmese,louse,XIDE,ch~oS3,lolo_burmese:louse:1,lolo_burmese:louse:3
 lolo_burmese,louse,ZAIWA,Sin,lolo_burmese:louse:1,lolo_burmese:louse:1
 lolo_burmese,horn,ACHANG,kh~Zau,lolo_burmese:horn:1,lolo_burmese:horn:1
-lolo_burmese,horn,AKHA,u7ty~e,lolo_burmese:horn:1,lolo_burmese:horn:3
-lolo_burmese,horn,BISU,aNkhy$aw,lolo_burmese:horn:1,lolo_burmese:horn:4
-lolo_burmese,horn,BIYUE,vch~i,lolo_burmese:horn:1,lolo_burmese:horn:2
+lolo_burmese,horn,AKHA,u7ty~e,lolo_burmese:horn:1,lolo_burmese:horn:2
+lolo_burmese,horn,BISU,aNkhy$aw,lolo_burmese:horn:1,lolo_burmese:horn:3
+lolo_burmese,horn,BIYUE,vch~i,lolo_burmese:horn:1,lolo_burmese:horn:4
 lolo_burmese,horn,BURMESE,khy$ui,lolo_burmese:horn:1,lolo_burmese:horn:1
-lolo_burmese,horn,DAFANG,och~i,lolo_burmese:horn:1,lolo_burmese:horn:2
+lolo_burmese,horn,DAFANG,och~i,lolo_burmese:horn:1,lolo_burmese:horn:4
 lolo_burmese,horn,JINO,vu kh~i,lolo_burmese:horn:1,lolo_burmese:horn:1
 lolo_burmese,horn,LAHU,kh~o,lolo_burmese:horn:1,lolo_burmese:horn:1
-lolo_burmese,horn,LISU,oCh~3,lolo_burmese:horn:1,lolo_burmese:horn:2
+lolo_burmese,horn,LISU,oCh~3,lolo_burmese:horn:1,lolo_burmese:horn:4
 lolo_burmese,horn,MPI,Nkh~ui,lolo_burmese:horn:1,lolo_burmese:horn:1
 lolo_burmese,horn,NANJIANG,kh~u,lolo_burmese:horn:1,lolo_burmese:horn:1
 lolo_burmese,horn,NAXI,kh~o,lolo_burmese:horn:1,lolo_burmese:horn:1
 lolo_burmese,horn,NUSU,kh~r3a,lolo_burmese:horn:1,lolo_burmese:horn:1
 lolo_burmese,horn,XIDE,ofu,lolo_burmese:horn:2,lolo_burmese:horn:1
 lolo_burmese,horn,ZAIWA,khy$ui,lolo_burmese:horn:1,lolo_burmese:horn:1
-lolo_burmese,bone,ACHANG,aZau,lolo_burmese:bone:1,lolo_burmese:bone:3
-lolo_burmese,bone,AKHA,sh~aye,lolo_burmese:bone:1,lolo_burmese:bone:4
-lolo_burmese,bone,BISU,aNgaw,lolo_burmese:bone:1,lolo_burmese:bone:5
-lolo_burmese,bone,BIYUE,oyi,lolo_burmese:bone:1,lolo_burmese:bone:9
-lolo_burmese,bone,BURMESE,arui,lolo_burmese:bone:1,lolo_burmese:bone:3
-lolo_burmese,bone,DAFANG,xox3,lolo_burmese:bone:1,lolo_burmese:bone:1
-lolo_burmese,bone,JINO,So x3,lolo_burmese:bone:1,lolo_burmese:bone:1
+lolo_burmese,bone,ACHANG,aZau,lolo_burmese:bone:1,lolo_burmese:bone:1
+lolo_burmese,bone,AKHA,sh~aye,lolo_burmese:bone:1,lolo_burmese:bone:2
+lolo_burmese,bone,BISU,aNgaw,lolo_burmese:bone:1,lolo_burmese:bone:3
+lolo_burmese,bone,BIYUE,oyi,lolo_burmese:bone:1,lolo_burmese:bone:4
+lolo_burmese,bone,BURMESE,arui,lolo_burmese:bone:1,lolo_burmese:bone:1
+lolo_burmese,bone,DAFANG,xox3,lolo_burmese:bone:1,lolo_burmese:bone:5
+lolo_burmese,bone,JINO,So x3,lolo_burmese:bone:1,lolo_burmese:bone:5
 lolo_burmese,bone,LAHU,omi7ki,lolo_burmese:bone:2,lolo_burmese:bone:6
 lolo_burmese,bone,LISU,oto,lolo_burmese:bone:1,lolo_burmese:bone:7
-lolo_burmese,bone,MPI,o73,lolo_burmese:bone:1,lolo_burmese:bone:1
-lolo_burmese,bone,NANJIANG,uda,lolo_burmese:bone:3,lolo_burmese:bone:2
-lolo_burmese,bone,NAXI,Solo,lolo_burmese:bone:1,lolo_burmese:bone:1
-lolo_burmese,bone,NUSU,r3,lolo_burmese:bone:1,lolo_burmese:bone:8
-lolo_burmese,bone,XIDE,vudu,lolo_burmese:bone:1,lolo_burmese:bone:2
-lolo_burmese,bone,ZAIWA,Sovui,lolo_burmese:bone:1,lolo_burmese:bone:2
-lolo_burmese,drink,ACHANG,So7,lolo_burmese:drink:1,lolo_burmese:drink:2
-lolo_burmese,drink,AKHA,do,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,BISU,taN,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,BIYUE,tu,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,BURMESE,suak,lolo_burmese:drink:1,lolo_burmese:drink:2
+lolo_burmese,bone,MPI,o73,lolo_burmese:bone:1,lolo_burmese:bone:5
+lolo_burmese,bone,NANJIANG,uda,lolo_burmese:bone:3,lolo_burmese:bone:8
+lolo_burmese,bone,NAXI,Solo,lolo_burmese:bone:1,lolo_burmese:bone:5
+lolo_burmese,bone,NUSU,r3,lolo_burmese:bone:1,lolo_burmese:bone:9
+lolo_burmese,bone,XIDE,vudu,lolo_burmese:bone:1,lolo_burmese:bone:8
+lolo_burmese,bone,ZAIWA,Sovui,lolo_burmese:bone:1,lolo_burmese:bone:8
+lolo_burmese,drink,ACHANG,So7,lolo_burmese:drink:1,lolo_burmese:drink:1
+lolo_burmese,drink,AKHA,do,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,BISU,taN,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,BIYUE,tu,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,BURMESE,suak,lolo_burmese:drink:1,lolo_burmese:drink:1
 lolo_burmese,drink,DAFANG,nd~o,lolo_burmese:drink:2,lolo_burmese:drink:3
-lolo_burmese,drink,JINO,t3,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,LAHU,do,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,LISU,do,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,MPI,toN,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,NANJIANG,du,lolo_burmese:drink:2,lolo_burmese:drink:1
-lolo_burmese,drink,NAXI,th~3,lolo_burmese:drink:3,lolo_burmese:drink:1
-lolo_burmese,drink,NUSU,sh~u7,lolo_burmese:drink:1,lolo_burmese:drink:2
+lolo_burmese,drink,JINO,t3,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,LAHU,do,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,LISU,do,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,MPI,toN,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,NANJIANG,du,lolo_burmese:drink:2,lolo_burmese:drink:2
+lolo_burmese,drink,NAXI,th~3,lolo_burmese:drink:3,lolo_burmese:drink:2
+lolo_burmese,drink,NUSU,sh~u7,lolo_burmese:drink:1,lolo_burmese:drink:1
 lolo_burmese,drink,XIDE,nd~o,lolo_burmese:drink:2,lolo_burmese:drink:3
-lolo_burmese,drink,ZAIWA,Su7,lolo_burmese:drink:1,lolo_burmese:drink:2
-lolo_burmese,breast,AKHA,atyh~e,lolo_burmese:breast:2,lolo_burmese:breast:5
-lolo_burmese,breast,BISU,loNpEt,lolo_burmese:breast:4,lolo_burmese:breast:4
+lolo_burmese,drink,ZAIWA,Su7,lolo_burmese:drink:1,lolo_burmese:drink:1
+lolo_burmese,breast,AKHA,atyh~e,lolo_burmese:breast:2,lolo_burmese:breast:1
+lolo_burmese,breast,BISU,loNpEt,lolo_burmese:breast:4,lolo_burmese:breast:2
 lolo_burmese,breast,BURMESE,raN,lolo_burmese:breast:1,lolo_burmese:breast:3
-lolo_burmese,breast,MPI,mpo,lolo_burmese:breast:3,lolo_burmese:breast:2
-lolo_burmese,breast,XIDE,Nomo,lolo_burmese:breast:6,lolo_burmese:breast:1
-lolo_burmese,name,ACHANG,a5iN,lolo_burmese:name:1,lolo_burmese:name:2
-lolo_burmese,name,AKHA,tyh$Emy~aN,lolo_burmese:name:1,lolo_burmese:name:2
-lolo_burmese,name,BISU,aNhmEN,lolo_burmese:name:1,lolo_burmese:name:2
-lolo_burmese,name,BIYUE,omi,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,BURMESE,ama5,lolo_burmese:name:1,lolo_burmese:name:2
-lolo_burmese,name,DAFANG,mie,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,JINO,a mh~e,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,LAHU,omE,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,LISU,emi,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,MPI,mmi,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,NANJIANG,mi*c3,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,NAXI,mi,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,NUSU,hme*,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,XIDE,hmi,lolo_burmese:name:1,lolo_burmese:name:1
-lolo_burmese,name,ZAIWA,ny~iN,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,breast,MPI,mpo,lolo_burmese:breast:3,lolo_burmese:breast:4
+lolo_burmese,breast,XIDE,Nomo,lolo_burmese:breast:6,lolo_burmese:breast:5
+lolo_burmese,name,ACHANG,a5iN,lolo_burmese:name:1,lolo_burmese:name:1
+lolo_burmese,name,AKHA,tyh$Emy~aN,lolo_burmese:name:1,lolo_burmese:name:1
+lolo_burmese,name,BISU,aNhmEN,lolo_burmese:name:1,lolo_burmese:name:1
+lolo_burmese,name,BIYUE,omi,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,BURMESE,ama5,lolo_burmese:name:1,lolo_burmese:name:1
+lolo_burmese,name,DAFANG,mie,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,JINO,a mh~e,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,LAHU,omE,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,LISU,emi,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,MPI,mmi,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,NANJIANG,mi*c3,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,NAXI,mi,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,NUSU,hme*,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,XIDE,hmi,lolo_burmese:name:1,lolo_burmese:name:2
+lolo_burmese,name,ZAIWA,ny~iN,lolo_burmese:name:1,lolo_burmese:name:1
 lolo_burmese,hear,ACHANG,kZua,lolo_burmese:hear:1,lolo_burmese:hear:1
 lolo_burmese,hear,AKHA,ga,lolo_burmese:hear:1,lolo_burmese:hear:1
 lolo_burmese,hear,BISU,ky~a,lolo_burmese:hear:1,lolo_burmese:hear:1
@@ -293,20 +293,20 @@ lolo_burmese,hear,NAXI,kh~omi,lolo_burmese:hear:3,lolo_burmese:hear:1
 lolo_burmese,hear,NUSU,hna,lolo_burmese:hear:2,lolo_burmese:hear:2
 lolo_burmese,hear,XIDE,hna,lolo_burmese:hear:2,lolo_burmese:hear:2
 lolo_burmese,hear,ZAIWA,ky~o,lolo_burmese:hear:1,lolo_burmese:hear:1
-lolo_burmese,see,ACHANG,en,lolo_burmese:see:2,lolo_burmese:see:4
-lolo_burmese,see,AKHA,mo,lolo_burmese:see:1,lolo_burmese:see:1
-lolo_burmese,see,BISU,hmy~aN,lolo_burmese:see:1,lolo_burmese:see:1
-lolo_burmese,see,BIYUE,te,lolo_burmese:see:4,lolo_burmese:see:4
-lolo_burmese,see,BURMESE,mraN,lolo_burmese:see:1,lolo_burmese:see:1
-lolo_burmese,see,DAFANG,na,lolo_burmese:see:8,lolo_burmese:see:2
-lolo_burmese,see,JINO,my~3,lolo_burmese:see:4,lolo_burmese:see:1
-lolo_burmese,see,LAHU,ni,lolo_burmese:see:5,lolo_burmese:see:2
-lolo_burmese,see,LISU,5i,lolo_burmese:see:5,lolo_burmese:see:2
-lolo_burmese,see,MPI,my~oN,lolo_burmese:see:1,lolo_burmese:see:1
-lolo_burmese,see,NAXI,ly,lolo_burmese:see:7,lolo_burmese:see:5
-lolo_burmese,see,NUSU,ru,lolo_burmese:see:3,lolo_burmese:see:3
+lolo_burmese,see,ACHANG,en,lolo_burmese:see:2,lolo_burmese:see:1
+lolo_burmese,see,AKHA,mo,lolo_burmese:see:1,lolo_burmese:see:2
+lolo_burmese,see,BISU,hmy~aN,lolo_burmese:see:1,lolo_burmese:see:2
+lolo_burmese,see,BIYUE,te,lolo_burmese:see:4,lolo_burmese:see:1
+lolo_burmese,see,BURMESE,mraN,lolo_burmese:see:1,lolo_burmese:see:2
+lolo_burmese,see,DAFANG,na,lolo_burmese:see:8,lolo_burmese:see:3
+lolo_burmese,see,JINO,my~3,lolo_burmese:see:4,lolo_burmese:see:2
+lolo_burmese,see,LAHU,ni,lolo_burmese:see:5,lolo_burmese:see:3
+lolo_burmese,see,LISU,5i,lolo_burmese:see:5,lolo_burmese:see:3
+lolo_burmese,see,MPI,my~oN,lolo_burmese:see:1,lolo_burmese:see:2
+lolo_burmese,see,NAXI,ly,lolo_burmese:see:7,lolo_burmese:see:4
+lolo_burmese,see,NUSU,ru,lolo_burmese:see:3,lolo_burmese:see:5
 lolo_burmese,see,XIDE,h3,lolo_burmese:see:3,lolo_burmese:see:6
-lolo_burmese,see,ZAIWA,vu,lolo_burmese:see:3,lolo_burmese:see:3
+lolo_burmese,see,ZAIWA,vu,lolo_burmese:see:3,lolo_burmese:see:5
 lolo_burmese,full,ACHANG,pZ3N,lolo_burmese:full:1,lolo_burmese:full:1
 lolo_burmese,full,BISU,aNpl3N,lolo_burmese:full:1,lolo_burmese:full:1
 lolo_burmese,full,BIYUE,p3,lolo_burmese:full:1,lolo_burmese:full:1
@@ -321,21 +321,21 @@ lolo_burmese,full,NAXI,S3r,lolo_burmese:full:3,lolo_burmese:full:1
 lolo_burmese,full,NUSU,b3*,lolo_burmese:full:1,lolo_burmese:full:1
 lolo_burmese,full,XIDE,dy~i,lolo_burmese:full:1,lolo_burmese:full:2
 lolo_burmese,full,ZAIWA,py~iN,lolo_burmese:full:1,lolo_burmese:full:1
-lolo_burmese,star,ACHANG,kh~Ze,lolo_burmese:star:1,lolo_burmese:star:2
-lolo_burmese,star,AKHA,agy~,lolo_burmese:star:1,lolo_burmese:star:7
+lolo_burmese,star,ACHANG,kh~Ze,lolo_burmese:star:1,lolo_burmese:star:1
+lolo_burmese,star,AKHA,agy~,lolo_burmese:star:1,lolo_burmese:star:2
 lolo_burmese,star,BISU,3k3,lolo_burmese:star:1,lolo_burmese:star:3
-lolo_burmese,star,BIYUE,mici,lolo_burmese:star:1,lolo_burmese:star:1
-lolo_burmese,star,BURMESE,kray,lolo_burmese:star:1,lolo_burmese:star:2
-lolo_burmese,star,DAFANG,camo,lolo_burmese:star:1,lolo_burmese:star:4
-lolo_burmese,star,JINO,pu ki,lolo_burmese:star:1,lolo_burmese:star:1
+lolo_burmese,star,BIYUE,mici,lolo_burmese:star:1,lolo_burmese:star:4
+lolo_burmese,star,BURMESE,kray,lolo_burmese:star:1,lolo_burmese:star:1
+lolo_burmese,star,DAFANG,camo,lolo_burmese:star:1,lolo_burmese:star:5
+lolo_burmese,star,JINO,pu ki,lolo_burmese:star:1,lolo_burmese:star:4
 lolo_burmese,star,LAHU,m37k3,lolo_burmese:star:1,lolo_burmese:star:3
-lolo_burmese,star,LISU,komaze,lolo_burmese:star:1,lolo_burmese:star:5
-lolo_burmese,star,MPI,piki,lolo_burmese:star:1,lolo_burmese:star:1
-lolo_burmese,star,NANJIANG,ce,lolo_burmese:star:1,lolo_burmese:star:6
+lolo_burmese,star,LISU,komaze,lolo_burmese:star:1,lolo_burmese:star:6
+lolo_burmese,star,MPI,piki,lolo_burmese:star:1,lolo_burmese:star:4
+lolo_burmese,star,NANJIANG,ce,lolo_burmese:star:1,lolo_burmese:star:7
 lolo_burmese,star,NAXI,k3,lolo_burmese:star:1,lolo_burmese:star:3
-lolo_burmese,star,NUSU,krelo,lolo_burmese:star:1,lolo_burmese:star:2
-lolo_burmese,star,XIDE,mc3,lolo_burmese:star:1,lolo_burmese:star:1
-lolo_burmese,star,ZAIWA,ky~i,lolo_burmese:star:1,lolo_burmese:star:1
+lolo_burmese,star,NUSU,krelo,lolo_burmese:star:1,lolo_burmese:star:1
+lolo_burmese,star,XIDE,mc3,lolo_burmese:star:1,lolo_burmese:star:4
+lolo_burmese,star,ZAIWA,ky~i,lolo_burmese:star:1,lolo_burmese:star:4
 lolo_burmese,come,ACHANG,Z3,lolo_burmese:come:2,lolo_burmese:come:1
 lolo_burmese,come,AKHA,la7,lolo_burmese:come:1,lolo_burmese:come:1
 lolo_burmese,come,BISU,la,lolo_burmese:come:1,lolo_burmese:come:1
@@ -381,27 +381,27 @@ lolo_burmese,die,NAXI,S3,lolo_burmese:die:1,lolo_burmese:die:1
 lolo_burmese,die,NUSU,si,lolo_burmese:die:1,lolo_burmese:die:1
 lolo_burmese,die,XIDE,s3,lolo_burmese:die:1,lolo_burmese:die:1
 lolo_burmese,die,ZAIWA,Si,lolo_burmese:die:1,lolo_burmese:die:1
-lolo_burmese,two,ACHANG,s3k,lolo_burmese:two:3,lolo_burmese:two:3
-lolo_burmese,two,AKHA,ny~i,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,BISU,ni,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,BIYUE,ne7,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,BURMESE,hnaT,lolo_burmese:two:1,lolo_burmese:two:2
-lolo_burmese,two,DAFANG,5i,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,JINO,ni,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,LAHU,ni,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,LISU,5i,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,MPI,5i,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,NAXI,5i,lolo_burmese:two:1,lolo_burmese:two:1
-lolo_burmese,two,XIDE,5i,lolo_burmese:two:1,lolo_burmese:two:1
+lolo_burmese,two,ACHANG,s3k,lolo_burmese:two:3,lolo_burmese:two:1
+lolo_burmese,two,AKHA,ny~i,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,BISU,ni,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,BIYUE,ne7,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,BURMESE,hnaT,lolo_burmese:two:1,lolo_burmese:two:3
+lolo_burmese,two,DAFANG,5i,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,JINO,ni,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,LAHU,ni,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,LISU,5i,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,MPI,5i,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,NAXI,5i,lolo_burmese:two:1,lolo_burmese:two:2
+lolo_burmese,two,XIDE,5i,lolo_burmese:two:1,lolo_burmese:two:2
 lolo_burmese,dog,ACHANG,xui,lolo_burmese:dog:1,lolo_burmese:dog:1
-lolo_burmese,dog,AKHA,a7khy$,lolo_burmese:dog:1,lolo_burmese:dog:5
+lolo_burmese,dog,AKHA,a7khy$,lolo_burmese:dog:1,lolo_burmese:dog:2
 lolo_burmese,dog,BISU,kh~3,lolo_burmese:dog:1,lolo_burmese:dog:1
 lolo_burmese,dog,BIYUE,kh~3,lolo_burmese:dog:1,lolo_burmese:dog:1
 lolo_burmese,dog,BURMESE,khw$e,lolo_burmese:dog:1,lolo_burmese:dog:1
-lolo_burmese,dog,DAFANG,ch~y,lolo_burmese:dog:1,lolo_burmese:dog:4
+lolo_burmese,dog,DAFANG,ch~y,lolo_burmese:dog:1,lolo_burmese:dog:3
 lolo_burmese,dog,JINO,kh~3 yo,lolo_burmese:dog:1,lolo_burmese:dog:1
-lolo_burmese,dog,LAHU,ph~3,lolo_burmese:dog:1,lolo_burmese:dog:3
-lolo_burmese,dog,LISU,ana,lolo_burmese:dog:2,lolo_burmese:dog:2
+lolo_burmese,dog,LAHU,ph~3,lolo_burmese:dog:1,lolo_burmese:dog:4
+lolo_burmese,dog,LISU,ana,lolo_burmese:dog:2,lolo_burmese:dog:5
 lolo_burmese,dog,MPI,kh~3,lolo_burmese:dog:1,lolo_burmese:dog:1
 lolo_burmese,dog,NANJIANG,akh~3,lolo_burmese:dog:1,lolo_burmese:dog:1
 lolo_burmese,dog,NAXI,kh~3,lolo_burmese:dog:1,lolo_burmese:dog:1
@@ -424,7 +424,7 @@ lolo_burmese,fire,XIDE,mtu,lolo_burmese:fire:1,lolo_burmese:fire:1
 lolo_burmese,fire,ZAIWA,my~3,lolo_burmese:fire:1,lolo_burmese:fire:1
 lolo_burmese,fish,ACHANG,NaSua,lolo_burmese:fish:1,lolo_burmese:fish:1
 lolo_burmese,fish,AKHA,Nasyh$a,lolo_burmese:fish:1,lolo_burmese:fish:1
-lolo_burmese,fish,BISU,loNtE,lolo_burmese:fish:2,lolo_burmese:fish:3
+lolo_burmese,fish,BISU,loNtE,lolo_burmese:fish:2,lolo_burmese:fish:2
 lolo_burmese,fish,BIYUE,Noso,lolo_burmese:fish:1,lolo_burmese:fish:1
 lolo_burmese,fish,BURMESE,Na,lolo_burmese:fish:1,lolo_burmese:fish:1
 lolo_burmese,fish,DAFANG,No,lolo_burmese:fish:1,lolo_burmese:fish:1
@@ -433,22 +433,22 @@ lolo_burmese,fish,LAHU,Na,lolo_burmese:fish:1,lolo_burmese:fish:1
 lolo_burmese,fish,LISU,Nua,lolo_burmese:fish:1,lolo_burmese:fish:1
 lolo_burmese,fish,MPI,No,lolo_burmese:fish:1,lolo_burmese:fish:1
 lolo_burmese,fish,NUSU,Na,lolo_burmese:fish:1,lolo_burmese:fish:1
-lolo_burmese,fish,XIDE,h3,lolo_burmese:fish:1,lolo_burmese:fish:2
+lolo_burmese,fish,XIDE,h3,lolo_burmese:fish:1,lolo_burmese:fish:3
 lolo_burmese,fish,ZAIWA,Noco,lolo_burmese:fish:1,lolo_burmese:fish:1
 lolo_burmese,leaf,ACHANG,axro7,lolo_burmese:leaf:1,lolo_burmese:leaf:1
 lolo_burmese,leaf,AKHA,apa,lolo_burmese:leaf:2,lolo_burmese:leaf:1
 lolo_burmese,leaf,BISU,aNph~a,lolo_burmese:leaf:2,lolo_burmese:leaf:1
 lolo_burmese,leaf,BIYUE,aph~a7,lolo_burmese:leaf:2,lolo_burmese:leaf:1
-lolo_burmese,leaf,BURMESE,saTrw~ak,lolo_burmese:leaf:1,lolo_burmese:leaf:5
-lolo_burmese,leaf,DAFANG,seth~u,lolo_burmese:leaf:4,lolo_burmese:leaf:4
+lolo_burmese,leaf,BURMESE,saTrw~ak,lolo_burmese:leaf:1,lolo_burmese:leaf:2
+lolo_burmese,leaf,DAFANG,seth~u,lolo_burmese:leaf:4,lolo_burmese:leaf:3
 lolo_burmese,leaf,JINO,a ph~a,lolo_burmese:leaf:2,lolo_burmese:leaf:1
 lolo_burmese,leaf,LAHU,oph~a7,lolo_burmese:leaf:2,lolo_burmese:leaf:1
-lolo_burmese,leaf,LISU,eph~ia,lolo_burmese:leaf:2,lolo_burmese:leaf:2
+lolo_burmese,leaf,LISU,eph~ia,lolo_burmese:leaf:2,lolo_burmese:leaf:4
 lolo_burmese,leaf,MPI,oph~a7,lolo_burmese:leaf:2,lolo_burmese:leaf:1
 lolo_burmese,leaf,NANJIANG,s3ph~i7,lolo_burmese:leaf:2,lolo_burmese:leaf:1
-lolo_burmese,leaf,NAXI,ph~i3,lolo_burmese:leaf:2,lolo_burmese:leaf:2
+lolo_burmese,leaf,NAXI,ph~i3,lolo_burmese:leaf:2,lolo_burmese:leaf:4
 lolo_burmese,leaf,NUSU,ph~aLa,lolo_burmese:leaf:2,lolo_burmese:leaf:1
-lolo_burmese,leaf,XIDE,ch~ich~i,lolo_burmese:leaf:3,lolo_burmese:leaf:3
+lolo_burmese,leaf,XIDE,ch~ich~i,lolo_burmese:leaf:3,lolo_burmese:leaf:5
 lolo_burmese,leaf,ZAIWA,axa7,lolo_burmese:leaf:1,lolo_burmese:leaf:1
 lolo_burmese,mountain,ACHANG,pum,lolo_burmese:mountain:2,lolo_burmese:mountain:1
 lolo_burmese,mountain,AKHA,gody~o,lolo_burmese:mountain:3,lolo_burmese:mountain:2
@@ -465,21 +465,21 @@ lolo_burmese,mountain,NAXI,ko,lolo_burmese:mountain:3,lolo_burmese:mountain:2
 lolo_burmese,mountain,NUSU,5ua,lolo_burmese:mountain:7,lolo_burmese:mountain:6
 lolo_burmese,mountain,XIDE,bo,lolo_burmese:mountain:2,lolo_burmese:mountain:1
 lolo_burmese,mountain,ZAIWA,pum,lolo_burmese:mountain:2,lolo_burmese:mountain:1
-lolo_burmese,road (path),ACHANG,xamZua,lolo_burmese:road (path):1,lolo_burmese:road (path):10
-lolo_burmese,road (path),AKHA,gama,lolo_burmese:road (path):1,lolo_burmese:road (path):1
-lolo_burmese,road (path),BISU,kiba,lolo_burmese:road (path):1,lolo_burmese:road (path):11
-lolo_burmese,road (path),BIYUE,yamo,lolo_burmese:road (path):1,lolo_burmese:road (path):1
-lolo_burmese,road (path),BURMESE,lam,lolo_burmese:road (path):1,lolo_burmese:road (path):9
-lolo_burmese,road (path),DAFANG,dy~o,lolo_burmese:road (path):1,lolo_burmese:road (path):8
-lolo_burmese,road (path),JINO,yo kh~o,lolo_burmese:road (path):1,lolo_burmese:road (path):7
-lolo_burmese,road (path),LAHU,za7qo,lolo_burmese:road (path):1,lolo_burmese:road (path):2
-lolo_burmese,road (path),LISU,jagu,lolo_burmese:road (path):2,lolo_burmese:road (path):2
-lolo_burmese,road (path),MPI,kokh~uN,lolo_burmese:road (path):1,lolo_burmese:road (path):6
-lolo_burmese,road (path),NANJIANG,goma,lolo_burmese:road (path):1,lolo_burmese:road (path):1
-lolo_burmese,road (path),NAXI,z3gv,lolo_burmese:road (path):3,lolo_burmese:road (path):5
-lolo_burmese,road (path),NUSU,kh~raph~ro*,lolo_burmese:road (path):3,lolo_burmese:road (path):4
-lolo_burmese,road (path),XIDE,gamo,lolo_burmese:road (path):1,lolo_burmese:road (path):1
-lolo_burmese,road (path),ZAIWA,khy$o,lolo_burmese:road (path):1,lolo_burmese:road (path):3
+lolo_burmese,road (path),ACHANG,xamZua,lolo_burmese:road (path):1,lolo_burmese:road (path):1
+lolo_burmese,road (path),AKHA,gama,lolo_burmese:road (path):1,lolo_burmese:road (path):2
+lolo_burmese,road (path),BISU,kiba,lolo_burmese:road (path):1,lolo_burmese:road (path):3
+lolo_burmese,road (path),BIYUE,yamo,lolo_burmese:road (path):1,lolo_burmese:road (path):2
+lolo_burmese,road (path),BURMESE,lam,lolo_burmese:road (path):1,lolo_burmese:road (path):4
+lolo_burmese,road (path),DAFANG,dy~o,lolo_burmese:road (path):1,lolo_burmese:road (path):5
+lolo_burmese,road (path),JINO,yo kh~o,lolo_burmese:road (path):1,lolo_burmese:road (path):6
+lolo_burmese,road (path),LAHU,za7qo,lolo_burmese:road (path):1,lolo_burmese:road (path):7
+lolo_burmese,road (path),LISU,jagu,lolo_burmese:road (path):2,lolo_burmese:road (path):7
+lolo_burmese,road (path),MPI,kokh~uN,lolo_burmese:road (path):1,lolo_burmese:road (path):8
+lolo_burmese,road (path),NANJIANG,goma,lolo_burmese:road (path):1,lolo_burmese:road (path):2
+lolo_burmese,road (path),NAXI,z3gv,lolo_burmese:road (path):3,lolo_burmese:road (path):9
+lolo_burmese,road (path),NUSU,kh~raph~ro*,lolo_burmese:road (path):3,lolo_burmese:road (path):10
+lolo_burmese,road (path),XIDE,gamo,lolo_burmese:road (path):1,lolo_burmese:road (path):2
+lolo_burmese,road (path),ZAIWA,khy$o,lolo_burmese:road (path):1,lolo_burmese:road (path):11
 lolo_burmese,person,ACHANG,Co,lolo_burmese:person:1,lolo_burmese:person:1
 lolo_burmese,person,AKHA,ch~oha,lolo_burmese:person:1,lolo_burmese:person:1
 lolo_burmese,person,BISU,ch~aN,lolo_burmese:person:1,lolo_burmese:person:1
@@ -495,50 +495,50 @@ lolo_burmese,person,NAXI,si,lolo_burmese:person:1,lolo_burmese:person:1
 lolo_burmese,person,NUSU,su,lolo_burmese:person:1,lolo_burmese:person:1
 lolo_burmese,person,XIDE,ch~o,lolo_burmese:person:1,lolo_burmese:person:1
 lolo_burmese,skin,ACHANG,aZ3,lolo_burmese:skin:1,lolo_burmese:skin:1
-lolo_burmese,skin,AKHA,baxo7,lolo_burmese:skin:2,lolo_burmese:skin:3
-lolo_burmese,skin,BISU,aNkho,lolo_burmese:skin:2,lolo_burmese:skin:4
-lolo_burmese,skin,BIYUE,oci,lolo_burmese:skin:3,lolo_burmese:skin:2
+lolo_burmese,skin,AKHA,baxo7,lolo_burmese:skin:2,lolo_burmese:skin:2
+lolo_burmese,skin,BISU,aNkho,lolo_burmese:skin:2,lolo_burmese:skin:3
+lolo_burmese,skin,BIYUE,oci,lolo_burmese:skin:3,lolo_burmese:skin:4
 lolo_burmese,skin,BURMESE,are,lolo_burmese:skin:1,lolo_burmese:skin:5
 lolo_burmese,skin,DAFANG,ndy~i,lolo_burmese:skin:3,lolo_burmese:skin:6
 lolo_burmese,skin,JINO,a kh~o,lolo_burmese:skin:2,lolo_burmese:skin:1
 lolo_burmese,skin,LAHU,og3,lolo_burmese:skin:3,lolo_burmese:skin:1
-lolo_burmese,skin,LISU,koji,lolo_burmese:skin:3,lolo_burmese:skin:2
+lolo_burmese,skin,LISU,koji,lolo_burmese:skin:3,lolo_burmese:skin:4
 lolo_burmese,skin,MPI,okh~o,lolo_burmese:skin:2,lolo_burmese:skin:1
 lolo_burmese,skin,NANJIANG,d3Cu,lolo_burmese:skin:3,lolo_burmese:skin:7
 lolo_burmese,skin,NAXI,x3,lolo_burmese:skin:1,lolo_burmese:skin:8
-lolo_burmese,skin,NUSU,kh~uri,lolo_burmese:skin:1,lolo_burmese:skin:2
+lolo_burmese,skin,NUSU,kh~uri,lolo_burmese:skin:1,lolo_burmese:skin:4
 lolo_burmese,skin,XIDE,ndy$iS3,lolo_burmese:skin:3,lolo_burmese:skin:9
 lolo_burmese,skin,ZAIWA,Soku7,lolo_burmese:skin:2,lolo_burmese:skin:1
-lolo_burmese,stone,ACHANG,liNko7,lolo_burmese:stone:1,lolo_burmese:stone:2
-lolo_burmese,stone,AKHA,xh~alo,lolo_burmese:stone:1,lolo_burmese:stone:3
-lolo_burmese,stone,BISU,loba,lolo_burmese:stone:1,lolo_burmese:stone:1
+lolo_burmese,stone,ACHANG,liNko7,lolo_burmese:stone:1,lolo_burmese:stone:1
+lolo_burmese,stone,AKHA,xh~alo,lolo_burmese:stone:1,lolo_burmese:stone:2
+lolo_burmese,stone,BISU,loba,lolo_burmese:stone:1,lolo_burmese:stone:3
 lolo_burmese,stone,BIYUE,lv7mo,lolo_burmese:stone:1,lolo_burmese:stone:4
-lolo_burmese,stone,BURMESE,ky~auk,lolo_burmese:stone:1,lolo_burmese:stone:7
-lolo_burmese,stone,DAFANG,lomo,lolo_burmese:stone:1,lolo_burmese:stone:1
-lolo_burmese,stone,JINO,lo mo,lolo_burmese:stone:1,lolo_burmese:stone:1
+lolo_burmese,stone,BURMESE,ky~auk,lolo_burmese:stone:1,lolo_burmese:stone:5
+lolo_burmese,stone,DAFANG,lomo,lolo_burmese:stone:1,lolo_burmese:stone:3
+lolo_burmese,stone,JINO,lo mo,lolo_burmese:stone:1,lolo_burmese:stone:3
 lolo_burmese,stone,LAHU,xap3,lolo_burmese:stone:1,lolo_burmese:stone:6
-lolo_burmese,stone,LISU,loch~3,lolo_burmese:stone:1,lolo_burmese:stone:5
-lolo_burmese,stone,MPI,solo7,lolo_burmese:stone:1,lolo_burmese:stone:2
-lolo_burmese,stone,NANJIANG,kalo,lolo_burmese:stone:1,lolo_burmese:stone:3
+lolo_burmese,stone,LISU,loch~3,lolo_burmese:stone:1,lolo_burmese:stone:7
+lolo_burmese,stone,MPI,solo7,lolo_burmese:stone:1,lolo_burmese:stone:1
+lolo_burmese,stone,NANJIANG,kalo,lolo_burmese:stone:1,lolo_burmese:stone:2
 lolo_burmese,stone,NAXI,lvpa,lolo_burmese:stone:1,lolo_burmese:stone:4
-lolo_burmese,stone,NUSU,lu7,lolo_burmese:stone:1,lolo_burmese:stone:2
-lolo_burmese,stone,XIDE,luma,lolo_burmese:stone:1,lolo_burmese:stone:1
-lolo_burmese,stone,ZAIWA,luko7,lolo_burmese:stone:1,lolo_burmese:stone:2
+lolo_burmese,stone,NUSU,lu7,lolo_burmese:stone:1,lolo_burmese:stone:1
+lolo_burmese,stone,XIDE,luma,lolo_burmese:stone:1,lolo_burmese:stone:3
+lolo_burmese,stone,ZAIWA,luko7,lolo_burmese:stone:1,lolo_burmese:stone:1
 lolo_burmese,tree,ACHANG,saNceN,lolo_burmese:tree:1,lolo_burmese:tree:1
 lolo_burmese,tree,AKHA,abo,lolo_burmese:tree:3,lolo_burmese:tree:2
-lolo_burmese,tree,BISU,c3Nc3N,lolo_burmese:tree:2,lolo_burmese:tree:1
-lolo_burmese,tree,BIYUE,s3c3,lolo_burmese:tree:1,lolo_burmese:tree:1
+lolo_burmese,tree,BISU,c3Nc3N,lolo_burmese:tree:2,lolo_burmese:tree:3
+lolo_burmese,tree,BIYUE,s3c3,lolo_burmese:tree:1,lolo_burmese:tree:3
 lolo_burmese,tree,BURMESE,satpaN,lolo_burmese:tree:1,lolo_burmese:tree:1
-lolo_burmese,tree,DAFANG,se,lolo_burmese:tree:1,lolo_burmese:tree:1
-lolo_burmese,tree,JINO,a c3,lolo_burmese:tree:2,lolo_burmese:tree:1
-lolo_burmese,tree,LAHU,s37,lolo_burmese:tree:1,lolo_burmese:tree:1
-lolo_burmese,tree,LISU,s3c3,lolo_burmese:tree:1,lolo_burmese:tree:1
-lolo_burmese,tree,MPI,sot3,lolo_burmese:tree:1,lolo_burmese:tree:1
-lolo_burmese,tree,NANJIANG,s3c37,lolo_burmese:tree:1,lolo_burmese:tree:1
-lolo_burmese,tree,NAXI,nc~3r,lolo_burmese:tree:1,lolo_burmese:tree:3
-lolo_burmese,tree,NUSU,sic3*,lolo_burmese:tree:1,lolo_burmese:tree:1
+lolo_burmese,tree,DAFANG,se,lolo_burmese:tree:1,lolo_burmese:tree:3
+lolo_burmese,tree,JINO,a c3,lolo_burmese:tree:2,lolo_burmese:tree:3
+lolo_burmese,tree,LAHU,s37,lolo_burmese:tree:1,lolo_burmese:tree:2
+lolo_burmese,tree,LISU,s3c3,lolo_burmese:tree:1,lolo_burmese:tree:3
+lolo_burmese,tree,MPI,sot3,lolo_burmese:tree:1,lolo_burmese:tree:3
+lolo_burmese,tree,NANJIANG,s3c37,lolo_burmese:tree:1,lolo_burmese:tree:3
+lolo_burmese,tree,NAXI,nc~3r,lolo_burmese:tree:1,lolo_burmese:tree:4
+lolo_burmese,tree,NUSU,sic3*,lolo_burmese:tree:1,lolo_burmese:tree:3
 lolo_burmese,tree,XIDE,s3bo,lolo_burmese:tree:1,lolo_burmese:tree:2
-lolo_burmese,tree,ZAIWA,sik,lolo_burmese:tree:1,lolo_burmese:tree:4
+lolo_burmese,tree,ZAIWA,sik,lolo_burmese:tree:1,lolo_burmese:tree:5
 lolo_burmese,blood,ACHANG,sui,lolo_burmese:blood:1,lolo_burmese:blood:1
 lolo_burmese,blood,AKHA,sy~hi,lolo_burmese:blood:1,lolo_burmese:blood:1
 lolo_burmese,blood,BISU,Si,lolo_burmese:blood:1,lolo_burmese:blood:1
@@ -554,18 +554,18 @@ lolo_burmese,blood,NAXI,sa,lolo_burmese:blood:1,lolo_burmese:blood:1
 lolo_burmese,blood,NUSU,sui,lolo_burmese:blood:1,lolo_burmese:blood:1
 lolo_burmese,blood,XIDE,s3,lolo_burmese:blood:1,lolo_burmese:blood:1
 lolo_burmese,blood,ZAIWA,sui,lolo_burmese:blood:1,lolo_burmese:blood:1
-lolo_burmese,water,ACHANG,ti,lolo_burmese:water:4,lolo_burmese:water:2
-lolo_burmese,water,AKHA,ity~u,lolo_burmese:water:1,lolo_burmese:water:2
-lolo_burmese,water,BISU,laN,lolo_burmese:water:4,lolo_burmese:water:6
-lolo_burmese,water,BIYUE,vch~v7,lolo_burmese:water:1,lolo_burmese:water:7
-lolo_burmese,water,BURMESE,riy,lolo_burmese:water:1,lolo_burmese:water:3
+lolo_burmese,water,ACHANG,ti,lolo_burmese:water:4,lolo_burmese:water:1
+lolo_burmese,water,AKHA,ity~u,lolo_burmese:water:1,lolo_burmese:water:1
+lolo_burmese,water,BISU,laN,lolo_burmese:water:4,lolo_burmese:water:2
+lolo_burmese,water,BIYUE,vch~v7,lolo_burmese:water:1,lolo_burmese:water:3
+lolo_burmese,water,BURMESE,riy,lolo_burmese:water:1,lolo_burmese:water:1
 lolo_burmese,water,DAFANG,yi,lolo_burmese:water:1,lolo_burmese:water:4
-lolo_burmese,water,JINO,e Ch~o,lolo_burmese:water:1,lolo_burmese:water:1
-lolo_burmese,water,LAHU,ika7,lolo_burmese:water:1,lolo_burmese:water:3
-lolo_burmese,water,LISU,ejE,lolo_burmese:water:1,lolo_burmese:water:1
-lolo_burmese,water,MPI,ch~o7,lolo_burmese:water:3,lolo_burmese:water:1
-lolo_burmese,water,NANJIANG,x3,lolo_burmese:water:1,lolo_burmese:water:5
-lolo_burmese,water,NAXI,dy~i,lolo_burmese:water:1,lolo_burmese:water:2
-lolo_burmese,water,NUSU,rigra,lolo_burmese:water:1,lolo_burmese:water:3
+lolo_burmese,water,JINO,e Ch~o,lolo_burmese:water:1,lolo_burmese:water:5
+lolo_burmese,water,LAHU,ika7,lolo_burmese:water:1,lolo_burmese:water:6
+lolo_burmese,water,LISU,ejE,lolo_burmese:water:1,lolo_burmese:water:5
+lolo_burmese,water,MPI,ch~o7,lolo_burmese:water:3,lolo_burmese:water:5
+lolo_burmese,water,NANJIANG,x3,lolo_burmese:water:1,lolo_burmese:water:7
+lolo_burmese,water,NAXI,dy~i,lolo_burmese:water:1,lolo_burmese:water:1
+lolo_burmese,water,NUSU,rigra,lolo_burmese:water:1,lolo_burmese:water:1
 lolo_burmese,water,XIDE,y3,lolo_burmese:water:1,lolo_burmese:water:4
-lolo_burmese,water,ZAIWA,iCh~o,lolo_burmese:water:1,lolo_burmese:water:1
+lolo_burmese,water,ZAIWA,iCh~o,lolo_burmese:water:1,lolo_burmese:water:5

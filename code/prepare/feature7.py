@@ -61,9 +61,9 @@ def _create_pandas_frame(dataset_path, samples_path, targets_path):
 	synocc = []
 	for l,g in wordlist[['language','global_id']].values:
 		synDict[l,g] += 1
-		synocc.append(unicode(synDict[l,g]))
+		synocc.append(synDict[l,g])
 	wordlist['synonym_number'] = synocc
-	dDict = {'sample_id':unicode,
+	dDict = {'sample_id':str,
 				'feature1':double,
 				'feature2':double,
 				'feature3':double,
@@ -76,7 +76,7 @@ def _create_pandas_frame(dataset_path, samples_path, targets_path):
 							encoding='utf-8',na_filter=False,dtype=dDict)
 	# read in cognacy judgments
 	labels = pd.read_table(targets_path,
-							encoding='utf-8',na_filter=False,dtype={'sample_id':unicode,
+							encoding='utf-8',na_filter=False,dtype={'sample_id':str,
 																	'target':int})
 	# colect metadata for wordpairs in vectors
 	metaRaw = array([x.split('/') for x in vectors.sample_id.values])
@@ -85,6 +85,9 @@ def _create_pandas_frame(dataset_path, samples_path, targets_path):
 							[x.split(',') for x in metaRaw[:,2]]],
 						columns=['global_id','l1','l2','id1','id2'])
 	meta['sample_id'] = vectors.sample_id
+	meta['id1'] = meta['id1'].astype(int)
+	meta['id2'] = meta['id2'].astype(int)
+	
 	meta1 = pd.merge(wordlist[['global_id','language','gloss','synonym_number',
 								'transcription','cognate_class']],
 						meta,
@@ -95,6 +98,7 @@ def _create_pandas_frame(dataset_path, samples_path, targets_path):
 															'transcription',
 															'cognate_class',
 															'id2']]
+       
 	meta2 = pd.merge(wordlist[['global_id','language','gloss','synonym_number',
 								'transcription','cognate_class']],
 						meta1,
@@ -107,7 +111,9 @@ def _create_pandas_frame(dataset_path, samples_path, targets_path):
 															'cognate_class_x']]
 	meta2.columns = ['sample_id',u'gloss', 'l1', u'w1', u'cc1', 'l2',
 						u'w2', u'cc2']
-	meta2 = meta2.ix[pd.match(vectors.sample_id,meta2.sample_id)]
+	indices = pd.Index(meta2['sample_id']).get_indexer(vectors['sample_id'])
+	valid_indices = indices[indices >= 0]
+	meta2 = meta2.loc[valid_indices]
 	concepts = meta2.gloss.unique()
 	feature7 = pd.Series([abs(corrcoef(array(vectors[meta2.gloss==c][['feature2',
 																		'feature4']].values,
@@ -115,7 +121,7 @@ def _create_pandas_frame(dataset_path, samples_path, targets_path):
 							for c in concepts],
 							index=concepts,dtype=double)
 	feature7[feature7.isnull()] = 0
-	vectors['feature7'] = feature7.ix[meta2.gloss.values].values
+	vectors['feature7'] = feature7.loc[meta2.gloss.values].values
 	combined = pd.merge(pd.merge(meta2,vectors,on='sample_id'),
 						labels,on='sample_id')
 	combined = combined[combined.columns[1:]]
