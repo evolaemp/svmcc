@@ -1,7 +1,6 @@
 name: svmcc
 channels:
   - conda-forge
-  - anaconda
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=conda_forge
@@ -55,6 +54,7 @@ dependencies:
   - numpy=2.0.0=py310h515e003_0
   - openssl=3.3.1=h4ab18f5_0
   - packaging=24.1=pyhd8ed1ab_0
+  - pandas=2.2.2=py310hf9f9076_1
   - parso=0.8.4=pyhd8ed1ab_0
   - pexpect=4.9.0=pyhd8ed1ab_0
   - pickleshare=0.7.5=py_1003
@@ -68,6 +68,7 @@ dependencies:
   - python=3.10.14=hd12c33a_0_cpython
   - python-dateutil=2.9.0=pyhd8ed1ab_0
   - python-igraph=0.11.5=py310h0d84dc0_1
+  - python-tzdata=2023.3=pyhd3eb1b0_0
   - python_abi=3.10=4_cp310
   - pytz=2024.1=pyhd8ed1ab_0
   - pyzmq=26.0.3=py310h6883aea_0
@@ -89,3 +90,6 @@ dependencies:
   - xz=5.2.6=h166bdaf_0
   - zeromq=4.3.5=h75354e8_4
   - zipp=3.19.2=pyhd8ed1ab_0
+  - pip:
+      - lingpy==2.4
+      - networkx==3.3
