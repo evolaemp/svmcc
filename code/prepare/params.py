@@ -13,7 +13,7 @@ def load_params(params_dir):
 	return params
 
 
-
+#%%
 def _load_logodds(params_dir):
 	"""
 	Returns (1) [] of the ASJP sounds; (2) the logodds table ready for
@@ -43,7 +43,7 @@ def _load_logodds(params_dir):
 	
 	return sounds, lodict
 
-
+#%%
 
 def _load_gap_penalties(params_dir):
 	"""
@@ -65,3 +65,5 @@ def _load_gap_penalties(params_dir):
 		raise ValueError('Could not parse the PMI gap penalties file')
 	
 	return penalties
+
+# %%

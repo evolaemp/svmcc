@@ -115,11 +115,18 @@ def _create_pandas_frame(dataset_path, samples_path, targets_path):
 	valid_indices = indices[indices >= 0]
 	meta2 = meta2.loc[valid_indices]
 	concepts = meta2.gloss.unique()
-	feature7 = pd.Series([abs(corrcoef(array(vectors[meta2.gloss==c][['feature2',
-																		'feature4']].values,
-												double).T)[0,1])
-							for c in concepts],
-							index=concepts,dtype=double)
+	feature7 = pd.Series(
+    [
+        abs(
+            corrcoef(
+                array(vectors.loc[meta2['gloss'] == c, ['feature2', 'feature4']].values, dtype=double).T
+            )[0, 1]
+        )
+        for c in concepts
+    ],
+    index=concepts,
+    dtype=double
+)
 	feature7[feature7.isnull()] = 0
 	vectors['feature7'] = feature7.loc[meta2.gloss.values].values
 	combined = pd.merge(pd.merge(meta2,vectors,on='sample_id'),
