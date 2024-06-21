@@ -3,8 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1=conda_forge
-  - _openmp_mutex=4.5=2_gnu
   - appdirs=1.4.4=pyh9f0ad1d_0
   - arpack=3.9.1=nompi_h77f6705_101
   - asttokens=2.4.1=pyhd8ed1ab_0
@@ -91,5 +89,4 @@ dependencies:
   - zeromq=4.3.5=h75354e8_4
   - zipp=3.19.2=pyhd8ed1ab_0
   - pip:
-      - lingpy==2.4
-      - networkx==3.3
+      - git+https://github.com/lingpy/lingpy.git@710d708f869f263ac24f1bb60dc69e1b5684e913#egg=lingpy
