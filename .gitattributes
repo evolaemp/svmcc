@@ -1,0 +1,3 @@
+data/vectors/abvd.csv filter=lfs diff=lfs merge=lfs -text
+data/vectors/central_asian.csv filter=lfs diff=lfs merge=lfs -text
+data/vectors/ielex.csv filter=lfs diff=lfs merge=lfs -text
