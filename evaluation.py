@@ -46,3 +46,22 @@ for db in datasets:
     print(db)
     bcubes(wl, gold="cogid", test="lexstatid")
 # %%
+
+for db in datasets:
+    df = pd.read_table(f"data/inferred/{db}.lsCC.csv", sep=",")
+    df["ID"] = range(len(df))
+
+    df['cogid'] = [df.concept.loc[i]+":"+str(df.cogid.loc[i]) for i in range(len(df))]
+    df['lexstatid'] = [df.concept.loc[i]+":"+str(df.lpID.loc[i]) for i in range(len(df))]
+    df = df[['ID', 'concept', 'doculect', 'cogid', 'lexstatid']]
+    df = df.rename(columns={"counterpart": "forms"})
+    data_dict = {
+        0: df.columns.to_list()
+    }
+    for i in range(len(df)):
+        data_dict[i+1] = df.iloc[i].to_list() 
+    wl = lingpy.Wordlist(data_dict, row='concept', col='doculect')
+    print(db)
+    bcubes(wl, gold="cogid", test="lexstatid")
+
+#%%
