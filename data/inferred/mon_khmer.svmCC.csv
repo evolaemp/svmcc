@@ -11,8 +11,8 @@ mon_khmer,good,MON,kh~uih,mon_khmer:good:4,mon_khmer:good:6
 mon_khmer,good,MUNDARI,bugi,mon_khmer:good:13,mon_khmer:good:7
 mon_khmer,good,NYAKUR,hnap,mon_khmer:good:5,mon_khmer:good:8
 mon_khmer,good,RUC,yah,mon_khmer:good:14,mon_khmer:good:2
-mon_khmer,good,SEMAI,bor,mon_khmer:good:7,mon_khmer:good:9
-mon_khmer,good,VIETNAMESE,tot,mon_khmer:good:3,mon_khmer:good:10
+mon_khmer,good,SEMAI,bor,mon_khmer:good:7,mon_khmer:good:7
+mon_khmer,good,VIETNAMESE,tot,mon_khmer:good:3,mon_khmer:good:9
 mon_khmer,good,WA,mh~3m,mon_khmer:good:8,mon_khmer:good:3
 mon_khmer,hair,BAHNAR,sok,mon_khmer:hair:1,mon_khmer:hair:1
 mon_khmer,hair,CHRAU,so7,mon_khmer:hair:1,mon_khmer:hair:1
@@ -38,12 +38,12 @@ mon_khmer,many,KHASI,bun,mon_khmer:many:11,mon_khmer:many:5
 mon_khmer,many,KHMER,Cr~a3n,mon_khmer:many:6,mon_khmer:many:6
 mon_khmer,many,KHMU,k3,mon_khmer:many:10,mon_khmer:many:7
 mon_khmer,many,KSINMUL,gay,mon_khmer:many:10,mon_khmer:many:8
-mon_khmer,many,KUI_THAILAND,dal,mon_khmer:many:7,mon_khmer:many:1
+mon_khmer,many,KUI_THAILAND,dal,mon_khmer:many:7,mon_khmer:many:9
 mon_khmer,many,MON,gluiN,mon_khmer:many:5,mon_khmer:many:7
 mon_khmer,many,NYAKUR,kh~l3N,mon_khmer:many:5,mon_khmer:many:7
-mon_khmer,many,RUC,5iw,mon_khmer:many:4,mon_khmer:many:9
+mon_khmer,many,RUC,5iw,mon_khmer:many:4,mon_khmer:many:10
 mon_khmer,many,SEMAI,Z7~oy,mon_khmer:many:8,mon_khmer:many:8
-mon_khmer,many,VIETNAMESE,5ieu,mon_khmer:many:4,mon_khmer:many:9
+mon_khmer,many,VIETNAMESE,5ieu,mon_khmer:many:4,mon_khmer:many:10
 mon_khmer,many,WA,hun,mon_khmer:many:9,mon_khmer:many:5
 mon_khmer,feather,BAHNAR,sok,mon_khmer:feather:1,mon_khmer:feather:1
 mon_khmer,feather,CHRAU,sino7 sum,mon_khmer:feather:1,mon_khmer:feather:2
@@ -57,8 +57,8 @@ mon_khmer,feather,MON,s3neN,mon_khmer:feather:7,mon_khmer:feather:3
 mon_khmer,feather,MUNDARI,il,mon_khmer:feather:5,mon_khmer:feather:6
 mon_khmer,feather,NYAKUR,Ch~okCh~ok,mon_khmer:feather:1,mon_khmer:feather:1
 mon_khmer,feather,RUC,usuk,mon_khmer:feather:1,mon_khmer:feather:1
-mon_khmer,feather,SEMAI,sntol,mon_khmer:feather:4,mon_khmer:feather:7
-mon_khmer,feather,VIETNAMESE,loN tim,mon_khmer:feather:2,mon_khmer:feather:8
+mon_khmer,feather,SEMAI,sntol,mon_khmer:feather:4,mon_khmer:feather:3
+mon_khmer,feather,VIETNAMESE,loN tim,mon_khmer:feather:2,mon_khmer:feather:7
 mon_khmer,big,BAHNAR,tih,mon_khmer:big:1,mon_khmer:big:1
 mon_khmer,big,CHRAU,ma7,mon_khmer:big:2,mon_khmer:big:2
 mon_khmer,big,DEANG,daN,mon_khmer:big:13,mon_khmer:big:3
@@ -70,10 +70,10 @@ mon_khmer,big,KSINMUL,do,mon_khmer:big:5,mon_khmer:big:3
 mon_khmer,big,KUI_THAILAND,ph~3t,mon_khmer:big:7,mon_khmer:big:5
 mon_khmer,big,MON,Znok,mon_khmer:big:12,mon_khmer:big:6
 mon_khmer,big,MUNDARI,maraN,mon_khmer:big:11,mon_khmer:big:2
-mon_khmer,big,NYAKUR,3tol,mon_khmer:big:5,mon_khmer:big:3
+mon_khmer,big,NYAKUR,3tol,mon_khmer:big:5,mon_khmer:big:7
 mon_khmer,big,RUC,m3am,mon_khmer:big:4,mon_khmer:big:2
-mon_khmer,big,SEMAI,nt~oy,mon_khmer:big:5,mon_khmer:big:7
-mon_khmer,big,VIETNAMESE,lon,mon_khmer:big:3,mon_khmer:big:8
+mon_khmer,big,SEMAI,nt~oy,mon_khmer:big:5,mon_khmer:big:8
+mon_khmer,big,VIETNAMESE,lon,mon_khmer:big:3,mon_khmer:big:3
 mon_khmer,big,WA,tiN,mon_khmer:big:8,mon_khmer:big:1
 mon_khmer,long,BAHNAR,keZuN,mon_khmer:long:2,mon_khmer:long:1
 mon_khmer,long,CHRAU,joN,mon_khmer:long:2,mon_khmer:long:1
@@ -83,30 +83,30 @@ mon_khmer,long,KHASI,ZeroN,mon_khmer:long:2,mon_khmer:long:1
 mon_khmer,long,KHMER,vEN,mon_khmer:long:4,mon_khmer:long:3
 mon_khmer,long,KHMU,waN,mon_khmer:long:5,mon_khmer:long:3
 mon_khmer,long,KSINMUL,3loN,mon_khmer:long:2,mon_khmer:long:1
-mon_khmer,long,KUI_THAILAND,nth$r3N,mon_khmer:long:2,mon_khmer:long:1
+mon_khmer,long,KUI_THAILAND,nth$r3N,mon_khmer:long:2,mon_khmer:long:4
 mon_khmer,long,MON,ZliN,mon_khmer:long:2,mon_khmer:long:1
 mon_khmer,long,MUNDARI,ZiliN,mon_khmer:long:2,mon_khmer:long:1
 mon_khmer,long,NYAKUR,kh~li5,mon_khmer:long:2,mon_khmer:long:1
-mon_khmer,long,RUC,yal,mon_khmer:long:3,mon_khmer:long:4
-mon_khmer,long,SEMAI,Cr3kN,mon_khmer:long:2,mon_khmer:long:1
-mon_khmer,long,VIETNAMESE,Zai,mon_khmer:long:3,mon_khmer:long:1
+mon_khmer,long,RUC,yal,mon_khmer:long:3,mon_khmer:long:5
+mon_khmer,long,SEMAI,Cr3kN,mon_khmer:long:2,mon_khmer:long:4
+mon_khmer,long,VIETNAMESE,Zai,mon_khmer:long:3,mon_khmer:long:6
 mon_khmer,long,WA,laN,mon_khmer:long:2,mon_khmer:long:1
 mon_khmer,bark,BAHNAR,hmok,mon_khmer:bark:2,mon_khmer:bark:1
-mon_khmer,bark,CHRAU,mo7,mon_khmer:bark:2,mon_khmer:bark:1
-mon_khmer,bark,DEANG,go7,mon_khmer:bark:10,mon_khmer:bark:1
-mon_khmer,bark,JEH,k3duh,mon_khmer:bark:1,mon_khmer:bark:2
-mon_khmer,bark,KHASI,snep,mon_khmer:bark:8,mon_khmer:bark:3
+mon_khmer,bark,CHRAU,mo7,mon_khmer:bark:2,mon_khmer:bark:2
+mon_khmer,bark,DEANG,go7,mon_khmer:bark:10,mon_khmer:bark:2
+mon_khmer,bark,JEH,k3duh,mon_khmer:bark:1,mon_khmer:bark:3
+mon_khmer,bark,KHASI,snep,mon_khmer:bark:8,mon_khmer:bark:4
 mon_khmer,bark,KHMER,s3mbak,mon_khmer:bark:2,mon_khmer:bark:1
 mon_khmer,bark,KHMU,h3mpok,mon_khmer:bark:2,mon_khmer:bark:1
-mon_khmer,bark,KSINMUL,b3N,mon_khmer:bark:7,mon_khmer:bark:4
-mon_khmer,bark,KUI_THAILAND,mph~ua7,mon_khmer:bark:2,mon_khmer:bark:1
-mon_khmer,bark,MON,sakow,mon_khmer:bark:4,mon_khmer:bark:5
-mon_khmer,bark,MUNDARI,harta,mon_khmer:bark:9,mon_khmer:bark:6
-mon_khmer,bark,NYAKUR,Nku3r,mon_khmer:bark:4,mon_khmer:bark:7
-mon_khmer,bark,RUC,k3duh,mon_khmer:bark:1,mon_khmer:bark:2
-mon_khmer,bark,SEMAI,Ckop,mon_khmer:bark:5,mon_khmer:bark:8
-mon_khmer,bark,VIETNAMESE,vo kay,mon_khmer:bark:3,mon_khmer:bark:9
-mon_khmer,bark,WA,hlo7,mon_khmer:bark:6,mon_khmer:bark:1
+mon_khmer,bark,KSINMUL,b3N,mon_khmer:bark:7,mon_khmer:bark:5
+mon_khmer,bark,KUI_THAILAND,mph~ua7,mon_khmer:bark:2,mon_khmer:bark:2
+mon_khmer,bark,MON,sakow,mon_khmer:bark:4,mon_khmer:bark:6
+mon_khmer,bark,MUNDARI,harta,mon_khmer:bark:9,mon_khmer:bark:7
+mon_khmer,bark,NYAKUR,Nku3r,mon_khmer:bark:4,mon_khmer:bark:8
+mon_khmer,bark,RUC,k3duh,mon_khmer:bark:1,mon_khmer:bark:3
+mon_khmer,bark,SEMAI,Ckop,mon_khmer:bark:5,mon_khmer:bark:9
+mon_khmer,bark,VIETNAMESE,vo kay,mon_khmer:bark:3,mon_khmer:bark:10
+mon_khmer,bark,WA,hlo7,mon_khmer:bark:6,mon_khmer:bark:2
 mon_khmer,tongue,BAHNAR,r3piet,mon_khmer:tongue:1,mon_khmer:tongue:1
 mon_khmer,tongue,CHRAU,lapiet,mon_khmer:tongue:1,mon_khmer:tongue:1
 mon_khmer,tongue,DEANG,kta7,mon_khmer:tongue:3,mon_khmer:tongue:2
@@ -152,28 +152,28 @@ mon_khmer,you,CHRAU,mai,mon_khmer:you:1,mon_khmer:you:1
 mon_khmer,you,DEANG,moi,mon_khmer:you:1,mon_khmer:you:1
 mon_khmer,you,JEH,mi,mon_khmer:you:1,mon_khmer:you:1
 mon_khmer,you,KHASI,me,mon_khmer:you:1,mon_khmer:you:1
-mon_khmer,you,KHMER,EN,mon_khmer:you:4,mon_khmer:you:1
+mon_khmer,you,KHMER,EN,mon_khmer:you:4,mon_khmer:you:2
 mon_khmer,you,KHMU,me,mon_khmer:you:1,mon_khmer:you:1
 mon_khmer,you,KSINMUL,mih,mon_khmer:you:1,mon_khmer:you:1
-mon_khmer,you,KUI_THAILAND,muaN,mon_khmer:you:1,mon_khmer:you:1
-mon_khmer,you,MON,beh,mon_khmer:you:3,mon_khmer:you:2
-mon_khmer,you,MUNDARI,am,mon_khmer:you:1,mon_khmer:you:3
-mon_khmer,you,NYAKUR,ph~eh,mon_khmer:you:3,mon_khmer:you:2
+mon_khmer,you,KUI_THAILAND,muaN,mon_khmer:you:1,mon_khmer:you:2
+mon_khmer,you,MON,beh,mon_khmer:you:3,mon_khmer:you:3
+mon_khmer,you,MUNDARI,am,mon_khmer:you:1,mon_khmer:you:4
+mon_khmer,you,NYAKUR,ph~eh,mon_khmer:you:3,mon_khmer:you:3
 mon_khmer,you,RUC,mi,mon_khmer:you:1,mon_khmer:you:1
-mon_khmer,you,SEMAI,hE7,mon_khmer:you:2,mon_khmer:you:2
+mon_khmer,you,SEMAI,hE7,mon_khmer:you:2,mon_khmer:you:3
 mon_khmer,you,VIETNAMESE,may,mon_khmer:you:1,mon_khmer:you:1
 mon_khmer,you,WA,mai7,mon_khmer:you:1,mon_khmer:you:1
 mon_khmer,this,BAHNAR,nou,mon_khmer:this:1,mon_khmer:this:1
 mon_khmer,this,JEH,mou,mon_khmer:this:1,mon_khmer:this:1
 mon_khmer,this,KHASI,ne,mon_khmer:this:3,mon_khmer:this:1
-mon_khmer,this,KHMER,n3h,mon_khmer:this:3,mon_khmer:this:1
-mon_khmer,this,KHMU,k3 ki,mon_khmer:this:8,mon_khmer:this:2
-mon_khmer,this,MON,na7,mon_khmer:this:4,mon_khmer:this:1
+mon_khmer,this,KHMER,n3h,mon_khmer:this:3,mon_khmer:this:2
+mon_khmer,this,KHMU,k3 ki,mon_khmer:this:8,mon_khmer:this:3
+mon_khmer,this,MON,na7,mon_khmer:this:4,mon_khmer:this:2
 mon_khmer,this,MUNDARI,ni i7,mon_khmer:this:3,mon_khmer:this:1
-mon_khmer,this,NYAKUR,o7,mon_khmer:this:5,mon_khmer:this:1
+mon_khmer,this,NYAKUR,o7,mon_khmer:this:5,mon_khmer:this:2
 mon_khmer,this,RUC,ni,mon_khmer:this:3,mon_khmer:this:1
-mon_khmer,this,SEMAI,adEh,mon_khmer:this:3,mon_khmer:this:3
-mon_khmer,this,WA,in,mon_khmer:this:7,mon_khmer:this:4
+mon_khmer,this,SEMAI,adEh,mon_khmer:this:3,mon_khmer:this:4
+mon_khmer,this,WA,in,mon_khmer:this:7,mon_khmer:this:5
 mon_khmer,tail,BAHNAR,kieN,mon_khmer:tail:1,mon_khmer:tail:1
 mon_khmer,tail,CHRAU,tieN,mon_khmer:tail:1,mon_khmer:tail:1
 mon_khmer,tail,DEANG,sta,mon_khmer:tail:3,mon_khmer:tail:2
@@ -209,15 +209,15 @@ mon_khmer,nose,WA,m3ih,mon_khmer:nose:1,mon_khmer:nose:1
 mon_khmer,heart,BAHNAR,nuih,mon_khmer:heart:1,mon_khmer:heart:1
 mon_khmer,heart,CHRAU,play nuih,mon_khmer:heart:1,mon_khmer:heart:1
 mon_khmer,heart,DEANG,noih,mon_khmer:heart:1,mon_khmer:heart:1
-mon_khmer,heart,JEH,noyh~,mon_khmer:heart:1,mon_khmer:heart:1
-mon_khmer,heart,KHASI,kloN snam,mon_khmer:heart:5,mon_khmer:heart:2
-mon_khmer,heart,KHMU,h3rn3am,mon_khmer:heart:3,mon_khmer:heart:3
-mon_khmer,heart,KSINMUL,en,mon_khmer:heart:4,mon_khmer:heart:4
-mon_khmer,heart,KUI_THAILAND,ph~am,mon_khmer:heart:3,mon_khmer:heart:5
-mon_khmer,heart,MON,gruih,mon_khmer:heart:2,mon_khmer:heart:6
-mon_khmer,heart,NYAKUR,5y~um,mon_khmer:heart:3,mon_khmer:heart:1
+mon_khmer,heart,JEH,noyh~,mon_khmer:heart:1,mon_khmer:heart:2
+mon_khmer,heart,KHASI,kloN snam,mon_khmer:heart:5,mon_khmer:heart:3
+mon_khmer,heart,KHMU,h3rn3am,mon_khmer:heart:3,mon_khmer:heart:4
+mon_khmer,heart,KSINMUL,en,mon_khmer:heart:4,mon_khmer:heart:5
+mon_khmer,heart,KUI_THAILAND,ph~am,mon_khmer:heart:3,mon_khmer:heart:6
+mon_khmer,heart,MON,gruih,mon_khmer:heart:2,mon_khmer:heart:7
+mon_khmer,heart,NYAKUR,5y~um,mon_khmer:heart:3,mon_khmer:heart:8
 mon_khmer,heart,SEMAI,nus,mon_khmer:heart:1,mon_khmer:heart:1
-mon_khmer,heart,WA,rh~om,mon_khmer:heart:3,mon_khmer:heart:7
+mon_khmer,heart,WA,rh~om,mon_khmer:heart:3,mon_khmer:heart:9
 mon_khmer,liver,BAHNAR,kl3m,mon_khmer:liver:1,mon_khmer:liver:1
 mon_khmer,liver,CHRAU,kh~lom,mon_khmer:liver:1,mon_khmer:liver:1
 mon_khmer,liver,DEANG,ktom,mon_khmer:liver:1,mon_khmer:liver:1
@@ -283,21 +283,21 @@ mon_khmer,night,KSINMUL,p3t,mon_khmer:night:8,mon_khmer:night:2
 mon_khmer,night,KUI_THAILAND,kh~riau,mon_khmer:night:5,mon_khmer:night:5
 mon_khmer,night,MON,btam,mon_khmer:night:2,mon_khmer:night:2
 mon_khmer,night,NYAKUR,p3tam,mon_khmer:night:2,mon_khmer:night:2
-mon_khmer,night,SEMAI,t3pm~,mon_khmer:night:2,mon_khmer:night:2
+mon_khmer,night,SEMAI,t3pm~,mon_khmer:night:2,mon_khmer:night:6
 mon_khmer,night,VIETNAMESE,dem,mon_khmer:night:2,mon_khmer:night:2
 mon_khmer,night,WA,pomsom,mon_khmer:night:6,mon_khmer:night:2
 mon_khmer,who,BAHNAR,bu,mon_khmer:who:1,mon_khmer:who:1
 mon_khmer,who,DEANG,se,mon_khmer:who:7,mon_khmer:who:2
 mon_khmer,who,JEH,bau,mon_khmer:who:1,mon_khmer:who:1
 mon_khmer,who,KHMER,kh~3nao,mon_khmer:who:4,mon_khmer:who:3
-mon_khmer,who,KHMU,m3,mon_khmer:who:6,mon_khmer:who:4
+mon_khmer,who,KHMU,m3,mon_khmer:who:6,mon_khmer:who:1
 mon_khmer,who,KSINMUL,noh,mon_khmer:who:3,mon_khmer:who:4
 mon_khmer,who,KUI_THAILAND,naw,mon_khmer:who:4,mon_khmer:who:4
 mon_khmer,who,MUNDARI,okoy,mon_khmer:who:8,mon_khmer:who:5
 mon_khmer,who,NYAKUR,35ah,mon_khmer:who:3,mon_khmer:who:4
 mon_khmer,who,RUC,ay,mon_khmer:who:2,mon_khmer:who:6
 mon_khmer,who,SEMAI,bo7,mon_khmer:who:1,mon_khmer:who:1
-mon_khmer,who,WA,mo7,mon_khmer:who:6,mon_khmer:who:4
+mon_khmer,who,WA,mo7,mon_khmer:who:6,mon_khmer:who:1
 mon_khmer,what,BAHNAR,ki3,mon_khmer:what:2,mon_khmer:what:1
 mon_khmer,what,CHRAU,paC n7hy~a,mon_khmer:what:3,mon_khmer:what:2
 mon_khmer,what,DEANG,se muh,mon_khmer:what:4,mon_khmer:what:3
@@ -306,18 +306,18 @@ mon_khmer,what,KHMER,evi,mon_khmer:what:6,mon_khmer:what:5
 mon_khmer,what,KHMU,m3h,mon_khmer:what:4,mon_khmer:what:3
 mon_khmer,what,KSINMUL,h3lmoh,mon_khmer:what:4,mon_khmer:what:3
 mon_khmer,what,KUI_THAILAND,na,mon_khmer:what:5,mon_khmer:what:4
-mon_khmer,what,MON,nu,mon_khmer:what:5,mon_khmer:what:4
-mon_khmer,what,MUNDARI,Ca na,mon_khmer:what:10,mon_khmer:what:6
+mon_khmer,what,MON,nu,mon_khmer:what:5,mon_khmer:what:6
+mon_khmer,what,MUNDARI,Ca na,mon_khmer:what:10,mon_khmer:what:7
 mon_khmer,what,NYAKUR,mo7,mon_khmer:what:4,mon_khmer:what:3
-mon_khmer,what,RUC,Cam3,mon_khmer:what:4,mon_khmer:what:6
+mon_khmer,what,RUC,Cam3,mon_khmer:what:4,mon_khmer:what:7
 mon_khmer,what,SEMAI,mah,mon_khmer:what:4,mon_khmer:what:3
-mon_khmer,what,VIETNAMESE,kai gi,mon_khmer:what:2,mon_khmer:what:7
-mon_khmer,what,WA,pati7,mon_khmer:what:8,mon_khmer:what:8
+mon_khmer,what,VIETNAMESE,kai gi,mon_khmer:what:2,mon_khmer:what:8
+mon_khmer,what,WA,pati7,mon_khmer:what:8,mon_khmer:what:9
 mon_khmer,small,CHRAU,ken,mon_khmer:small:3,mon_khmer:small:1
-mon_khmer,small,DEANG,diat,mon_khmer:small:6,mon_khmer:small:1
-mon_khmer,small,JEH,t3si,mon_khmer:small:1,mon_khmer:small:2
-mon_khmer,small,KHASI,rit,mon_khmer:small:11,mon_khmer:small:1
-mon_khmer,small,KHMER,tuC,mon_khmer:small:6,mon_khmer:small:2
+mon_khmer,small,DEANG,diat,mon_khmer:small:6,mon_khmer:small:2
+mon_khmer,small,JEH,t3si,mon_khmer:small:1,mon_khmer:small:3
+mon_khmer,small,KHASI,rit,mon_khmer:small:11,mon_khmer:small:2
+mon_khmer,small,KHMER,tuC,mon_khmer:small:6,mon_khmer:small:3
 mon_khmer,small,KHMU,nE,mon_khmer:small:4,mon_khmer:small:3
 mon_khmer,small,KSINMUL,nek,mon_khmer:small:10,mon_khmer:small:3
 mon_khmer,small,KUI_THAILAND,kEt,mon_khmer:small:7,mon_khmer:small:1
@@ -327,7 +327,7 @@ mon_khmer,small,NYAKUR,nd~iC,mon_khmer:small:6,mon_khmer:small:3
 mon_khmer,small,RUC,dEdE,mon_khmer:small:5,mon_khmer:small:5
 mon_khmer,small,SEMAI,maCo*t,mon_khmer:small:8,mon_khmer:small:6
 mon_khmer,small,VIETNAMESE,5o,mon_khmer:small:4,mon_khmer:small:3
-mon_khmer,small,WA,iak,mon_khmer:small:9,mon_khmer:small:1
+mon_khmer,small,WA,iak,mon_khmer:small:9,mon_khmer:small:2
 mon_khmer,ear,BAHNAR,don,mon_khmer:ear:2,mon_khmer:ear:1
 mon_khmer,ear,CHRAU,tor,mon_khmer:ear:4,mon_khmer:ear:2
 mon_khmer,ear,DEANG,yo7,mon_khmer:ear:5,mon_khmer:ear:3
@@ -370,7 +370,7 @@ mon_khmer,belly,MON,buN,mon_khmer:belly:4,mon_khmer:belly:3
 mon_khmer,belly,MUNDARI,laZ,mon_khmer:belly:2,mon_khmer:belly:5
 mon_khmer,belly,NYAKUR,ph~uN,mon_khmer:belly:4,mon_khmer:belly:3
 mon_khmer,belly,RUC,kd3l,mon_khmer:belly:3,mon_khmer:belly:6
-mon_khmer,belly,SEMAI,k3t,mon_khmer:belly:6,mon_khmer:belly:4
+mon_khmer,belly,SEMAI,k3t,mon_khmer:belly:6,mon_khmer:belly:7
 mon_khmer,belly,WA,vaik,mon_khmer:belly:7,mon_khmer:belly:1
 mon_khmer,head,BAHNAR,k3l,mon_khmer:head:1,mon_khmer:head:1
 mon_khmer,head,CHRAU,vo7,mon_khmer:head:2,mon_khmer:head:2
@@ -410,7 +410,7 @@ mon_khmer,hand,MON,tay,mon_khmer:hand:1,mon_khmer:hand:1
 mon_khmer,hand,MUNDARI,ti,mon_khmer:hand:1,mon_khmer:hand:1
 mon_khmer,hand,NYAKUR,tEy,mon_khmer:hand:1,mon_khmer:hand:1
 mon_khmer,hand,RUC,si,mon_khmer:hand:1,mon_khmer:hand:1
-mon_khmer,hand,SEMAI,t3kN,mon_khmer:hand:1,mon_khmer:hand:1
+mon_khmer,hand,SEMAI,t3kN,mon_khmer:hand:1,mon_khmer:hand:3
 mon_khmer,hand,VIETNAMESE,tay,mon_khmer:hand:1,mon_khmer:hand:1
 mon_khmer,hand,WA,tai7,mon_khmer:hand:1,mon_khmer:hand:1
 mon_khmer,fat,JEH,p3dreN,mon_khmer:fat:1,mon_khmer:fat:1
@@ -430,12 +430,12 @@ mon_khmer,cold,KHASI,khr$eat,mon_khmer:cold:8,mon_khmer:cold:1
 mon_khmer,cold,KHMER,tr~3Zak,mon_khmer:cold:6,mon_khmer:cold:1
 mon_khmer,cold,KHMU,Nar,mon_khmer:cold:7,mon_khmer:cold:3
 mon_khmer,cold,KSINMUL,kh~reat,mon_khmer:cold:3,mon_khmer:cold:1
-mon_khmer,cold,KUI_THAILAND,CNEt,mon_khmer:cold:2,mon_khmer:cold:1
-mon_khmer,cold,MON,goak,mon_khmer:cold:5,mon_khmer:cold:4
-mon_khmer,cold,MUNDARI,tutukan,mon_khmer:cold:9,mon_khmer:cold:5
+mon_khmer,cold,KUI_THAILAND,CNEt,mon_khmer:cold:2,mon_khmer:cold:4
+mon_khmer,cold,MON,goak,mon_khmer:cold:5,mon_khmer:cold:5
+mon_khmer,cold,MUNDARI,tutukan,mon_khmer:cold:9,mon_khmer:cold:6
 mon_khmer,cold,NYAKUR,t3kat,mon_khmer:cold:3,mon_khmer:cold:1
 mon_khmer,cold,RUC,lubat,mon_khmer:cold:4,mon_khmer:cold:1
-mon_khmer,cold,SEMAI,sNEC,mon_khmer:cold:2,mon_khmer:cold:1
+mon_khmer,cold,SEMAI,sNEC,mon_khmer:cold:2,mon_khmer:cold:4
 mon_khmer,cold,WA,kuat,mon_khmer:cold:3,mon_khmer:cold:1
 mon_khmer,foot,BAHNAR,t3paNZ3N,mon_khmer:foot:1,mon_khmer:foot:1
 mon_khmer,foot,CHRAU,jaN,mon_khmer:foot:1,mon_khmer:foot:1
@@ -465,7 +465,7 @@ mon_khmer,moon,MON,gatu,mon_khmer:moon:3,mon_khmer:moon:7
 mon_khmer,moon,NYAKUR,ntu7,mon_khmer:moon:3,mon_khmer:moon:8
 mon_khmer,moon,SEMAI,gCE7,mon_khmer:moon:1,mon_khmer:moon:9
 mon_khmer,moon,VIETNAMESE,CaN,mon_khmer:moon:2,mon_khmer:moon:10
-mon_khmer,moon,WA,kh~i7,mon_khmer:moon:1,mon_khmer:moon:1
+mon_khmer,moon,WA,kh~i7,mon_khmer:moon:1,mon_khmer:moon:11
 mon_khmer,neck,BAHNAR,ako,mon_khmer:neck:1,mon_khmer:neck:1
 mon_khmer,neck,CHRAU,nko,mon_khmer:neck:1,mon_khmer:neck:1
 mon_khmer,neck,DEANG,amoN,mon_khmer:neck:5,mon_khmer:neck:2
@@ -473,11 +473,11 @@ mon_khmer,neck,KHASI,rindaN,mon_khmer:neck:7,mon_khmer:neck:3
 mon_khmer,neck,KHMER,ko,mon_khmer:neck:1,mon_khmer:neck:1
 mon_khmer,neck,KHMU,k3ntuar,mon_khmer:neck:6,mon_khmer:neck:4
 mon_khmer,neck,KSINMUL,kok,mon_khmer:neck:9,mon_khmer:neck:1
-mon_khmer,neck,KUI_THAILAND,kaN,mon_khmer:neck:2,mon_khmer:neck:1
-mon_khmer,neck,MON,ka7,mon_khmer:neck:1,mon_khmer:neck:1
+mon_khmer,neck,KUI_THAILAND,kaN,mon_khmer:neck:2,mon_khmer:neck:5
+mon_khmer,neck,MON,ka7,mon_khmer:neck:1,mon_khmer:neck:5
 mon_khmer,neck,MUNDARI,hoto7,mon_khmer:neck:8,mon_khmer:neck:1
 mon_khmer,neck,NYAKUR,ko7,mon_khmer:neck:1,mon_khmer:neck:1
-mon_khmer,neck,SEMAI,taN3n,mon_khmer:neck:3,mon_khmer:neck:5
+mon_khmer,neck,SEMAI,taN3n,mon_khmer:neck:3,mon_khmer:neck:6
 mon_khmer,neck,VIETNAMESE,ko,mon_khmer:neck:1,mon_khmer:neck:1
 mon_khmer,neck,WA,Nok,mon_khmer:neck:4,mon_khmer:neck:1
 mon_khmer,white,BAHNAR,kok,mon_khmer:white:9,mon_khmer:white:1
@@ -507,9 +507,9 @@ mon_khmer,eat,KUI_THAILAND,Ca,mon_khmer:eat:1,mon_khmer:eat:1
 mon_khmer,eat,MON,Ca,mon_khmer:eat:1,mon_khmer:eat:1
 mon_khmer,eat,MUNDARI,Zom,mon_khmer:eat:4,mon_khmer:eat:2
 mon_khmer,eat,NYAKUR,Ca7,mon_khmer:eat:1,mon_khmer:eat:1
-mon_khmer,eat,RUC,an,mon_khmer:eat:2,mon_khmer:eat:1
+mon_khmer,eat,RUC,an,mon_khmer:eat:2,mon_khmer:eat:5
 mon_khmer,eat,SEMAI,Ca7,mon_khmer:eat:1,mon_khmer:eat:1
-mon_khmer,eat,VIETNAMESE,an,mon_khmer:eat:2,mon_khmer:eat:1
+mon_khmer,eat,VIETNAMESE,an,mon_khmer:eat:2,mon_khmer:eat:5
 mon_khmer,eat,WA,som,mon_khmer:eat:4,mon_khmer:eat:2
 mon_khmer,sun,BAHNAR,nar,mon_khmer:sun:2,mon_khmer:sun:1
 mon_khmer,sun,CHRAU,mat nar,mon_khmer:sun:2,mon_khmer:sun:1
@@ -604,40 +604,40 @@ mon_khmer,bone,WA,sisaN,mon_khmer:bone:1,mon_khmer:bone:1
 mon_khmer,round,BAHNAR,h3pom,mon_khmer:round:1,mon_khmer:round:1
 mon_khmer,round,KHASI,pillun,mon_khmer:round:2,mon_khmer:round:2
 mon_khmer,round,KHMER,mul,mon_khmer:round:3,mon_khmer:round:3
-mon_khmer,round,KHMU,mon,mon_khmer:round:3,mon_khmer:round:4
-mon_khmer,round,KSINMUL,mon,mon_khmer:round:3,mon_khmer:round:4
-mon_khmer,round,KUI_THAILAND,dul,mon_khmer:round:4,mon_khmer:round:5
+mon_khmer,round,KHMU,mon,mon_khmer:round:3,mon_khmer:round:3
+mon_khmer,round,KSINMUL,mon,mon_khmer:round:3,mon_khmer:round:3
+mon_khmer,round,KUI_THAILAND,dul,mon_khmer:round:4,mon_khmer:round:3
 mon_khmer,round,MON,kh~dom,mon_khmer:round:1,mon_khmer:round:1
 mon_khmer,round,NYAKUR,k3lpum,mon_khmer:round:1,mon_khmer:round:1
 mon_khmer,round,RUC,klon,mon_khmer:round:2,mon_khmer:round:1
-mon_khmer,round,WA,lomle,mon_khmer:round:5,mon_khmer:round:6
+mon_khmer,round,WA,lomle,mon_khmer:round:5,mon_khmer:round:4
 mon_khmer,dry,BAHNAR,hreN,mon_khmer:dry:1,mon_khmer:dry:1
 mon_khmer,dry,CHRAU,sah,mon_khmer:dry:1,mon_khmer:dry:2
 mon_khmer,dry,JEH,raN,mon_khmer:dry:1,mon_khmer:dry:1
 mon_khmer,dry,KHASI,rikh~iaN,mon_khmer:dry:8,mon_khmer:dry:1
 mon_khmer,dry,KHMER,sNu3t,mon_khmer:dry:5,mon_khmer:dry:3
 mon_khmer,dry,KHMU,ras,mon_khmer:dry:2,mon_khmer:dry:4
-mon_khmer,dry,KUI_THAILAND,s7at,mon_khmer:dry:6,mon_khmer:dry:5
+mon_khmer,dry,KUI_THAILAND,s7at,mon_khmer:dry:6,mon_khmer:dry:3
 mon_khmer,dry,MON,s3mkah,mon_khmer:dry:4,mon_khmer:dry:2
-mon_khmer,dry,MUNDARI,roro,mon_khmer:dry:2,mon_khmer:dry:6
+mon_khmer,dry,MUNDARI,roro,mon_khmer:dry:2,mon_khmer:dry:5
 mon_khmer,dry,NYAKUR,C3kas,mon_khmer:dry:4,mon_khmer:dry:2
-mon_khmer,dry,SEMAI,hoC,mon_khmer:dry:7,mon_khmer:dry:7
+mon_khmer,dry,SEMAI,hoC,mon_khmer:dry:7,mon_khmer:dry:6
 mon_khmer,dry,WA,kroh,mon_khmer:dry:2,mon_khmer:dry:4
 mon_khmer,drink,BAHNAR,5a,mon_khmer:drink:2,mon_khmer:drink:1
 mon_khmer,drink,CHRAU,huC,mon_khmer:drink:1,mon_khmer:drink:1
 mon_khmer,drink,DEANG,rh~3p,mon_khmer:drink:7,mon_khmer:drink:2
 mon_khmer,drink,JEH,hut,mon_khmer:drink:1,mon_khmer:drink:1
 mon_khmer,drink,KHASI,dih,mon_khmer:drink:9,mon_khmer:drink:3
-mon_khmer,drink,KHMER,ph~3k,mon_khmer:drink:6,mon_khmer:drink:1
-mon_khmer,drink,KHMU,uak,mon_khmer:drink:8,mon_khmer:drink:1
-mon_khmer,drink,KSINMUL,uk,mon_khmer:drink:8,mon_khmer:drink:1
+mon_khmer,drink,KHMER,ph~3k,mon_khmer:drink:6,mon_khmer:drink:4
+mon_khmer,drink,KHMU,uak,mon_khmer:drink:8,mon_khmer:drink:4
+mon_khmer,drink,KSINMUL,uk,mon_khmer:drink:8,mon_khmer:drink:4
 mon_khmer,drink,KUI_THAILAND,NuaC,mon_khmer:drink:4,mon_khmer:drink:1
-mon_khmer,drink,MON,suN,mon_khmer:drink:5,mon_khmer:drink:4
+mon_khmer,drink,MON,suN,mon_khmer:drink:5,mon_khmer:drink:5
 mon_khmer,drink,MUNDARI,nu,mon_khmer:drink:2,mon_khmer:drink:1
-mon_khmer,drink,NYAKUR,Ch~oN,mon_khmer:drink:5,mon_khmer:drink:4
+mon_khmer,drink,NYAKUR,Ch~oN,mon_khmer:drink:5,mon_khmer:drink:5
 mon_khmer,drink,RUC,5u,mon_khmer:drink:2,mon_khmer:drink:1
 mon_khmer,drink,SEMAI,Nut,mon_khmer:drink:4,mon_khmer:drink:1
-mon_khmer,drink,VIETNAMESE,uoN,mon_khmer:drink:3,mon_khmer:drink:4
+mon_khmer,drink,VIETNAMESE,uoN,mon_khmer:drink:3,mon_khmer:drink:5
 mon_khmer,drink,WA,rh~3p,mon_khmer:drink:7,mon_khmer:drink:2
 mon_khmer,breast,BAHNAR,toh,mon_khmer:breast:1,mon_khmer:breast:1
 mon_khmer,breast,CHRAU,gatoh,mon_khmer:breast:1,mon_khmer:breast:1
@@ -646,14 +646,14 @@ mon_khmer,breast,JEH,tuh,mon_khmer:breast:1,mon_khmer:breast:1
 mon_khmer,breast,KHASI,sh~adem,mon_khmer:breast:5,mon_khmer:breast:3
 mon_khmer,breast,KHMER,toh,mon_khmer:breast:1,mon_khmer:breast:1
 mon_khmer,breast,KHMU,pu,mon_khmer:breast:2,mon_khmer:breast:2
-mon_khmer,breast,KSINMUL,um,mon_khmer:breast:4,mon_khmer:breast:2
+mon_khmer,breast,KSINMUL,um,mon_khmer:breast:4,mon_khmer:breast:4
 mon_khmer,breast,KUI_THAILAND,toh,mon_khmer:breast:1,mon_khmer:breast:1
 mon_khmer,breast,MON,tah,mon_khmer:breast:1,mon_khmer:breast:1
-mon_khmer,breast,MUNDARI,nunu,mon_khmer:breast:6,mon_khmer:breast:4
+mon_khmer,breast,MUNDARI,nunu,mon_khmer:breast:6,mon_khmer:breast:5
 mon_khmer,breast,NYAKUR,toh,mon_khmer:breast:1,mon_khmer:breast:1
-mon_khmer,breast,RUC,n3y,mon_khmer:breast:3,mon_khmer:breast:5
-mon_khmer,breast,SEMAI,nt~3h,mon_khmer:breast:1,mon_khmer:breast:5
-mon_khmer,breast,VIETNAMESE,Nuk,mon_khmer:breast:2,mon_khmer:breast:6
+mon_khmer,breast,RUC,n3y,mon_khmer:breast:3,mon_khmer:breast:6
+mon_khmer,breast,SEMAI,nt~3h,mon_khmer:breast:1,mon_khmer:breast:6
+mon_khmer,breast,VIETNAMESE,Nuk,mon_khmer:breast:2,mon_khmer:breast:7
 mon_khmer,breast,WA,t3ih,mon_khmer:breast:1,mon_khmer:breast:1
 mon_khmer,bite,BAHNAR,kap,mon_khmer:bite:1,mon_khmer:bite:1
 mon_khmer,bite,DEANG,ga7,mon_khmer:bite:4,mon_khmer:bite:1
@@ -686,14 +686,14 @@ mon_khmer,hear,KHASI,sNow,mon_khmer:hear:9,mon_khmer:hear:2
 mon_khmer,hear,KHMER,l3,mon_khmer:hear:6,mon_khmer:hear:3
 mon_khmer,hear,KHMU,meC,mon_khmer:hear:10,mon_khmer:hear:4
 mon_khmer,hear,KSINMUL,al,mon_khmer:hear:11,mon_khmer:hear:5
-mon_khmer,hear,KUI_THAILAND,saN,mon_khmer:hear:7,mon_khmer:hear:2
-mon_khmer,hear,MON,miN,mon_khmer:hear:5,mon_khmer:hear:6
-mon_khmer,hear,MUNDARI,ayum,mon_khmer:hear:12,mon_khmer:hear:7
-mon_khmer,hear,NYAKUR,kh~3m35,mon_khmer:hear:5,mon_khmer:hear:6
-mon_khmer,hear,RUC,CamaN,mon_khmer:hear:5,mon_khmer:hear:6
+mon_khmer,hear,KUI_THAILAND,saN,mon_khmer:hear:7,mon_khmer:hear:1
+mon_khmer,hear,MON,miN,mon_khmer:hear:5,mon_khmer:hear:1
+mon_khmer,hear,MUNDARI,ayum,mon_khmer:hear:12,mon_khmer:hear:6
+mon_khmer,hear,NYAKUR,kh~3m35,mon_khmer:hear:5,mon_khmer:hear:1
+mon_khmer,hear,RUC,CamaN,mon_khmer:hear:5,mon_khmer:hear:1
 mon_khmer,hear,SEMAI,g3rtek,mon_khmer:hear:2,mon_khmer:hear:1
-mon_khmer,hear,VIETNAMESE,Nhe,mon_khmer:hear:4,mon_khmer:hear:8
-mon_khmer,hear,WA,mh~oN,mon_khmer:hear:5,mon_khmer:hear:6
+mon_khmer,hear,VIETNAMESE,Nhe,mon_khmer:hear:4,mon_khmer:hear:7
+mon_khmer,hear,WA,mh~oN,mon_khmer:hear:5,mon_khmer:hear:1
 mon_khmer,see,BAHNAR,boh,mon_khmer:see:2,mon_khmer:see:1
 mon_khmer,see,CHRAU,say,mon_khmer:see:13,mon_khmer:see:2
 mon_khmer,see,DEANG,y3,mon_khmer:see:12,mon_khmer:see:3
@@ -715,12 +715,12 @@ mon_khmer,know,CHRAU,gut,mon_khmer:know:3,mon_khmer:know:1
 mon_khmer,know,DEANG,nap,mon_khmer:know:7,mon_khmer:know:2
 mon_khmer,know,JEH,lo,mon_khmer:know:1,mon_khmer:know:3
 mon_khmer,know,KHASI,tip,mon_khmer:know:10,mon_khmer:know:4
-mon_khmer,know,KHMER,t3N,mon_khmer:know:6,mon_khmer:know:5
-mon_khmer,know,KHMU,n3N,mon_khmer:know:8,mon_khmer:know:5
-mon_khmer,know,KSINMUL,zu3,mon_khmer:know:9,mon_khmer:know:6
-mon_khmer,know,KUI_THAILAND,di5,mon_khmer:know:6,mon_khmer:know:5
+mon_khmer,know,KHMER,t3N,mon_khmer:know:6,mon_khmer:know:4
+mon_khmer,know,KHMU,n3N,mon_khmer:know:8,mon_khmer:know:4
+mon_khmer,know,KSINMUL,zu3,mon_khmer:know:9,mon_khmer:know:5
+mon_khmer,know,KUI_THAILAND,di5,mon_khmer:know:6,mon_khmer:know:4
 mon_khmer,know,MON,tim,mon_khmer:know:5,mon_khmer:know:4
-mon_khmer,know,MUNDARI,itu,mon_khmer:know:11,mon_khmer:know:5
+mon_khmer,know,MUNDARI,itu,mon_khmer:know:11,mon_khmer:know:6
 mon_khmer,know,NYAKUR,C3d3m,mon_khmer:know:5,mon_khmer:know:4
 mon_khmer,know,RUC,hi,mon_khmer:know:4,mon_khmer:know:7
 mon_khmer,know,VIETNAMESE,biet,mon_khmer:know:2,mon_khmer:know:1
@@ -734,26 +734,26 @@ mon_khmer,lie,KHMU,Nim,mon_khmer:lie:10,mon_khmer:lie:6
 mon_khmer,lie,KSINMUL,em,mon_khmer:lie:10,mon_khmer:lie:6
 mon_khmer,lie,KUI_THAILAND,tiC,mon_khmer:lie:7,mon_khmer:lie:7
 mon_khmer,lie,MON,wat,mon_khmer:lie:3,mon_khmer:lie:3
-mon_khmer,lie,MUNDARI,giti7,mon_khmer:lie:7,mon_khmer:lie:2
-mon_khmer,lie,NYAKUR,pu5,mon_khmer:lie:12,mon_khmer:lie:8
-mon_khmer,lie,RUC,n3p,mon_khmer:lie:5,mon_khmer:lie:6
-mon_khmer,lie,SEMAI,da7,mon_khmer:lie:8,mon_khmer:lie:9
-mon_khmer,lie,VIETNAMESE,Nu,mon_khmer:lie:4,mon_khmer:lie:6
-mon_khmer,lie,WA,noi,mon_khmer:lie:9,mon_khmer:lie:6
+mon_khmer,lie,MUNDARI,giti7,mon_khmer:lie:7,mon_khmer:lie:8
+mon_khmer,lie,NYAKUR,pu5,mon_khmer:lie:12,mon_khmer:lie:9
+mon_khmer,lie,RUC,n3p,mon_khmer:lie:5,mon_khmer:lie:10
+mon_khmer,lie,SEMAI,da7,mon_khmer:lie:8,mon_khmer:lie:11
+mon_khmer,lie,VIETNAMESE,Nu,mon_khmer:lie:4,mon_khmer:lie:10
+mon_khmer,lie,WA,noi,mon_khmer:lie:9,mon_khmer:lie:12
 mon_khmer,sit,CHRAU,gu7,mon_khmer:sit:2,mon_khmer:sit:1
 mon_khmer,sit,DEANG,Noi,mon_khmer:sit:3,mon_khmer:sit:2
 mon_khmer,sit,JEH,sinan,mon_khmer:sit:1,mon_khmer:sit:3
 mon_khmer,sit,KHASI,sh~oN,mon_khmer:sit:9,mon_khmer:sit:4
-mon_khmer,sit,KHMER,3Nguy,mon_khmer:sit:3,mon_khmer:sit:1
+mon_khmer,sit,KHMER,3Nguy,mon_khmer:sit:3,mon_khmer:sit:2
 mon_khmer,sit,KHMU,ten,mon_khmer:sit:7,mon_khmer:sit:4
 mon_khmer,sit,KSINMUL,kli3n,mon_khmer:sit:8,mon_khmer:sit:5
 mon_khmer,sit,MON,gaZa7,mon_khmer:sit:4,mon_khmer:sit:6
 mon_khmer,sit,MUNDARI,dub,mon_khmer:sit:10,mon_khmer:sit:7
 mon_khmer,sit,NYAKUR,th~oN,mon_khmer:sit:5,mon_khmer:sit:4
 mon_khmer,sit,RUC,Noy,mon_khmer:sit:3,mon_khmer:sit:2
-mon_khmer,sit,SEMAI,g3y,mon_khmer:sit:3,mon_khmer:sit:1
+mon_khmer,sit,SEMAI,g3y,mon_khmer:sit:3,mon_khmer:sit:2
 mon_khmer,sit,VIETNAMESE,Noi,mon_khmer:sit:3,mon_khmer:sit:2
-mon_khmer,sit,WA,Nom,mon_khmer:sit:6,mon_khmer:sit:8
+mon_khmer,sit,WA,Nom,mon_khmer:sit:6,mon_khmer:sit:2
 mon_khmer,kill,BAHNAR,p3loC,mon_khmer:kill:2,mon_khmer:kill:1
 mon_khmer,kill,CHRAU,taCut,mon_khmer:kill:1,mon_khmer:kill:2
 mon_khmer,kill,DEANG,Nah,mon_khmer:kill:5,mon_khmer:kill:3
@@ -789,12 +789,12 @@ mon_khmer,green,BAHNAR,Z3k,mon_khmer:green:2,mon_khmer:green:1
 mon_khmer,green,DEANG,5iar,mon_khmer:green:6,mon_khmer:green:2
 mon_khmer,green,JEH,drih,mon_khmer:green:1,mon_khmer:green:3
 mon_khmer,green,KHMER,paytaN,mon_khmer:green:4,mon_khmer:green:4
-mon_khmer,green,KHMU,C3Nar,mon_khmer:green:6,mon_khmer:green:2
-mon_khmer,green,KSINMUL,le,mon_khmer:green:5,mon_khmer:green:5
-mon_khmer,green,MON,saNeak,mon_khmer:green:2,mon_khmer:green:6
-mon_khmer,green,MUNDARI,gaded,mon_khmer:green:8,mon_khmer:green:7
+mon_khmer,green,KHMU,C3Nar,mon_khmer:green:6,mon_khmer:green:5
+mon_khmer,green,KSINMUL,le,mon_khmer:green:5,mon_khmer:green:6
+mon_khmer,green,MON,saNeak,mon_khmer:green:2,mon_khmer:green:7
+mon_khmer,green,MUNDARI,gaded,mon_khmer:green:8,mon_khmer:green:8
 mon_khmer,green,NYAKUR,l3Cok,mon_khmer:green:3,mon_khmer:green:1
-mon_khmer,green,WA,klai,mon_khmer:green:5,mon_khmer:green:8
+mon_khmer,green,WA,klai,mon_khmer:green:5,mon_khmer:green:9
 mon_khmer,full,BAHNAR,be4,mon_khmer:full:1,mon_khmer:full:1
 mon_khmer,full,CHRAU,ve5,mon_khmer:full:1,mon_khmer:full:1
 mon_khmer,full,DEANG,no7,mon_khmer:full:5,mon_khmer:full:2
@@ -807,8 +807,8 @@ mon_khmer,full,MON,peN,mon_khmer:full:1,mon_khmer:full:1
 mon_khmer,full,NYAKUR,pi4,mon_khmer:full:1,mon_khmer:full:1
 mon_khmer,full,RUC,blam,mon_khmer:full:3,mon_khmer:full:4
 mon_khmer,full,SEMAI,t3bek,mon_khmer:full:1,mon_khmer:full:5
-mon_khmer,full,VIETNAMESE,day,mon_khmer:full:2,mon_khmer:full:6
-mon_khmer,full,WA,nauk,mon_khmer:full:5,mon_khmer:full:7
+mon_khmer,full,VIETNAMESE,day,mon_khmer:full:2,mon_khmer:full:3
+mon_khmer,full,WA,nauk,mon_khmer:full:5,mon_khmer:full:2
 mon_khmer,star,BAHNAR,s3NloN,mon_khmer:star:1,mon_khmer:star:1
 mon_khmer,star,CHRAU,sima5,mon_khmer:star:2,mon_khmer:star:2
 mon_khmer,star,DEANG,sman,mon_khmer:star:2,mon_khmer:star:2
@@ -816,12 +816,12 @@ mon_khmer,star,JEH,hloN,mon_khmer:star:1,mon_khmer:star:1
 mon_khmer,star,KHASI,kh~lur,mon_khmer:star:5,mon_khmer:star:3
 mon_khmer,star,KHMER,ph~3kay,mon_khmer:star:3,mon_khmer:star:4
 mon_khmer,star,KHMU,s3rmin,mon_khmer:star:2,mon_khmer:star:2
-mon_khmer,star,KSINMUL,m35,mon_khmer:star:2,mon_khmer:star:2
-mon_khmer,star,KUI_THAILAND,ntar,mon_khmer:star:4,mon_khmer:star:5
+mon_khmer,star,KSINMUL,m35,mon_khmer:star:2,mon_khmer:star:5
+mon_khmer,star,KUI_THAILAND,ntar,mon_khmer:star:4,mon_khmer:star:6
 mon_khmer,star,MON,saman,mon_khmer:star:2,mon_khmer:star:2
-mon_khmer,star,MUNDARI,ipil,mon_khmer:star:6,mon_khmer:star:6
-mon_khmer,star,RUC,kumi5,mon_khmer:star:2,mon_khmer:star:2
-mon_khmer,star,SEMAI,prloy,mon_khmer:star:5,mon_khmer:star:7
+mon_khmer,star,MUNDARI,ipil,mon_khmer:star:6,mon_khmer:star:7
+mon_khmer,star,RUC,kumi5,mon_khmer:star:2,mon_khmer:star:5
+mon_khmer,star,SEMAI,prloy,mon_khmer:star:5,mon_khmer:star:8
 mon_khmer,star,WA,sim7~uiN,mon_khmer:star:2,mon_khmer:star:2
 mon_khmer,swim,BAHNAR,gl3i,mon_khmer:swim:1,mon_khmer:swim:1
 mon_khmer,swim,DEANG,lam Na,mon_khmer:swim:8,mon_khmer:swim:2
@@ -876,7 +876,7 @@ mon_khmer,walk,KHMER,ta3r,mon_khmer:walk:6,mon_khmer:walk:6
 mon_khmer,walk,KHMU,yoh,mon_khmer:walk:10,mon_khmer:walk:7
 mon_khmer,walk,KSINMUL,zu,mon_khmer:walk:10,mon_khmer:walk:3
 mon_khmer,walk,KUI_THAILAND,huC,mon_khmer:walk:7,mon_khmer:walk:3
-mon_khmer,walk,MUNDARI,sen,mon_khmer:walk:12,mon_khmer:walk:8
+mon_khmer,walk,MUNDARI,sen,mon_khmer:walk:12,mon_khmer:walk:2
 mon_khmer,walk,NYAKUR,ar,mon_khmer:walk:5,mon_khmer:walk:6
 mon_khmer,walk,RUC,ti,mon_khmer:walk:4,mon_khmer:walk:4
 mon_khmer,walk,SEMAI,Cip,mon_khmer:walk:8,mon_khmer:walk:4
@@ -931,11 +931,11 @@ mon_khmer,one,KHMER,muey,mon_khmer:one:1,mon_khmer:one:1
 mon_khmer,one,KHMU,moy,mon_khmer:one:1,mon_khmer:one:1
 mon_khmer,one,KUI_THAILAND,mui,mon_khmer:one:1,mon_khmer:one:1
 mon_khmer,one,MON,mw~ay,mon_khmer:one:1,mon_khmer:one:1
-mon_khmer,one,MUNDARI,miyod,mon_khmer:one:1,mon_khmer:one:3
+mon_khmer,one,MUNDARI,miyod,mon_khmer:one:1,mon_khmer:one:1
 mon_khmer,one,NYAKUR,mu3y,mon_khmer:one:1,mon_khmer:one:1
 mon_khmer,one,RUC,moiC,mon_khmer:one:1,mon_khmer:one:1
-mon_khmer,one,SEMAI,nan37,mon_khmer:one:2,mon_khmer:one:4
-mon_khmer,one,VIETNAMESE,mot,mon_khmer:one:1,mon_khmer:one:3
+mon_khmer,one,SEMAI,nan37,mon_khmer:one:2,mon_khmer:one:3
+mon_khmer,one,VIETNAMESE,mot,mon_khmer:one:1,mon_khmer:one:1
 mon_khmer,die,BAHNAR,k3teC,mon_khmer:die:7,mon_khmer:die:1
 mon_khmer,die,CHRAU,Cut,mon_khmer:die:1,mon_khmer:die:1
 mon_khmer,die,DEANG,yam,mon_khmer:die:5,mon_khmer:die:2
@@ -995,14 +995,14 @@ mon_khmer,sleep,BAHNAR,tep,mon_khmer:sleep:2,mon_khmer:sleep:1
 mon_khmer,sleep,DEANG,it,mon_khmer:sleep:9,mon_khmer:sleep:2
 mon_khmer,sleep,JEH,kat,mon_khmer:sleep:1,mon_khmer:sleep:2
 mon_khmer,sleep,KHASI,th~iah,mon_khmer:sleep:13,mon_khmer:sleep:3
-mon_khmer,sleep,KHMER,t3k,mon_khmer:sleep:6,mon_khmer:sleep:3
-mon_khmer,sleep,KHMU,sis,mon_khmer:sleep:11,mon_khmer:sleep:4
-mon_khmer,sleep,KSINMUL,em,mon_khmer:sleep:12,mon_khmer:sleep:5
+mon_khmer,sleep,KHMER,t3k,mon_khmer:sleep:6,mon_khmer:sleep:4
+mon_khmer,sleep,KHMU,sis,mon_khmer:sleep:11,mon_khmer:sleep:5
+mon_khmer,sleep,KSINMUL,em,mon_khmer:sleep:12,mon_khmer:sleep:6
 mon_khmer,sleep,KUI_THAILAND,NEt,mon_khmer:sleep:8,mon_khmer:sleep:2
-mon_khmer,sleep,MON,stik,mon_khmer:sleep:6,mon_khmer:sleep:3
-mon_khmer,sleep,MUNDARI,durum,mon_khmer:sleep:14,mon_khmer:sleep:6
-mon_khmer,sleep,NYAKUR,pu5Nkuy,mon_khmer:sleep:7,mon_khmer:sleep:7
-mon_khmer,sleep,RUC,53p,mon_khmer:sleep:5,mon_khmer:sleep:8
+mon_khmer,sleep,MON,stik,mon_khmer:sleep:6,mon_khmer:sleep:4
+mon_khmer,sleep,MUNDARI,durum,mon_khmer:sleep:14,mon_khmer:sleep:7
+mon_khmer,sleep,NYAKUR,pu5Nkuy,mon_khmer:sleep:7,mon_khmer:sleep:8
+mon_khmer,sleep,RUC,53p,mon_khmer:sleep:5,mon_khmer:sleep:9
 mon_khmer,sleep,SEMAI,bEt,mon_khmer:sleep:3,mon_khmer:sleep:2
 mon_khmer,sleep,WA,it,mon_khmer:sleep:9,mon_khmer:sleep:2
 mon_khmer,speak,BAHNAR,p3ma,mon_khmer:speak:2,mon_khmer:speak:1
@@ -1023,19 +1023,19 @@ mon_khmer,speak,WA,krai,mon_khmer:speak:8,mon_khmer:speak:3
 mon_khmer,black,BAHNAR,gam,mon_khmer:black:2,mon_khmer:black:1
 mon_khmer,black,CHRAU,ju7,mon_khmer:black:3,mon_khmer:black:2
 mon_khmer,black,DEANG,vaN,mon_khmer:black:8,mon_khmer:black:3
-mon_khmer,black,JEH,5uN,mon_khmer:black:1,mon_khmer:black:4
-mon_khmer,black,KHASI,ioN,mon_khmer:black:10,mon_khmer:black:5
-mon_khmer,black,KHMER,kh~3maw,mon_khmer:black:7,mon_khmer:black:6
+mon_khmer,black,JEH,5uN,mon_khmer:black:1,mon_khmer:black:2
+mon_khmer,black,KHASI,ioN,mon_khmer:black:10,mon_khmer:black:4
+mon_khmer,black,KHMER,kh~3maw,mon_khmer:black:7,mon_khmer:black:5
 mon_khmer,black,KHMU,h3aN,mon_khmer:black:1,mon_khmer:black:3
-mon_khmer,black,KSINMUL,oC,mon_khmer:black:9,mon_khmer:black:7
-mon_khmer,black,KUI_THAILAND,tw~E5,mon_khmer:black:8,mon_khmer:black:8
-mon_khmer,black,MON,l3mCok,mon_khmer:black:5,mon_khmer:black:9
-mon_khmer,black,MUNDARI,hend~e,mon_khmer:black:11,mon_khmer:black:10
-mon_khmer,black,NYAKUR,ph~li3t,mon_khmer:black:6,mon_khmer:black:11
-mon_khmer,black,RUC,tEntEn,mon_khmer:black:4,mon_khmer:black:8
-mon_khmer,black,SEMAI,bl7$ak,mon_khmer:black:9,mon_khmer:black:12
-mon_khmer,black,VIETNAMESE,den,mon_khmer:black:4,mon_khmer:black:8
-mon_khmer,black,WA,luN,mon_khmer:black:10,mon_khmer:black:4
+mon_khmer,black,KSINMUL,oC,mon_khmer:black:9,mon_khmer:black:6
+mon_khmer,black,KUI_THAILAND,tw~E5,mon_khmer:black:8,mon_khmer:black:7
+mon_khmer,black,MON,l3mCok,mon_khmer:black:5,mon_khmer:black:8
+mon_khmer,black,MUNDARI,hend~e,mon_khmer:black:11,mon_khmer:black:9
+mon_khmer,black,NYAKUR,ph~li3t,mon_khmer:black:6,mon_khmer:black:10
+mon_khmer,black,RUC,tEntEn,mon_khmer:black:4,mon_khmer:black:7
+mon_khmer,black,SEMAI,bl7$ak,mon_khmer:black:9,mon_khmer:black:11
+mon_khmer,black,VIETNAMESE,den,mon_khmer:black:4,mon_khmer:black:7
+mon_khmer,black,WA,luN,mon_khmer:black:10,mon_khmer:black:2
 mon_khmer,dog,BAHNAR,ko,mon_khmer:dog:2,mon_khmer:dog:1
 mon_khmer,dog,CHRAU,so,mon_khmer:dog:1,mon_khmer:dog:1
 mon_khmer,dog,DEANG,a7o7,mon_khmer:dog:5,mon_khmer:dog:1
@@ -1056,12 +1056,12 @@ mon_khmer,burn,CHRAU,Nit,mon_khmer:burn:1,mon_khmer:burn:1
 mon_khmer,burn,KHASI,iN,mon_khmer:burn:7,mon_khmer:burn:2
 mon_khmer,burn,KHMER,tut,mon_khmer:burn:2,mon_khmer:burn:3
 mon_khmer,burn,KHMU,pok,mon_khmer:burn:6,mon_khmer:burn:4
-mon_khmer,burn,KUI_THAILAND,CaN,mon_khmer:burn:9,mon_khmer:burn:2
+mon_khmer,burn,KUI_THAILAND,CaN,mon_khmer:burn:9,mon_khmer:burn:5
 mon_khmer,burn,MON,tau,mon_khmer:burn:4,mon_khmer:burn:3
-mon_khmer,burn,MUNDARI,ro,mon_khmer:burn:8,mon_khmer:burn:5
-mon_khmer,burn,NYAKUR,kh~lak,mon_khmer:burn:5,mon_khmer:burn:6
+mon_khmer,burn,MUNDARI,ro,mon_khmer:burn:8,mon_khmer:burn:6
+mon_khmer,burn,NYAKUR,kh~lak,mon_khmer:burn:5,mon_khmer:burn:7
 mon_khmer,burn,RUC,takat,mon_khmer:burn:3,mon_khmer:burn:3
-mon_khmer,burn,WA,k3ik,mon_khmer:burn:10,mon_khmer:burn:6
+mon_khmer,burn,WA,k3ik,mon_khmer:burn:10,mon_khmer:burn:7
 mon_khmer,fire,BAHNAR,u5,mon_khmer:fire:1,mon_khmer:fire:1
 mon_khmer,fire,CHRAU,u5,mon_khmer:fire:1,mon_khmer:fire:1
 mon_khmer,fire,DEANG,Nar,mon_khmer:fire:7,mon_khmer:fire:2
@@ -1075,9 +1075,9 @@ mon_khmer,fire,MON,pamat,mon_khmer:fire:4,mon_khmer:fire:8
 mon_khmer,fire,MUNDARI,seNgel,mon_khmer:fire:10,mon_khmer:fire:9
 mon_khmer,fire,NYAKUR,k3mat,mon_khmer:fire:4,mon_khmer:fire:8
 mon_khmer,fire,RUC,kurh~,mon_khmer:fire:3,mon_khmer:fire:10
-mon_khmer,fire,SEMAI,os,mon_khmer:fire:1,mon_khmer:fire:7
+mon_khmer,fire,SEMAI,os,mon_khmer:fire:1,mon_khmer:fire:11
 mon_khmer,fire,VIETNAMESE,lua,mon_khmer:fire:2,mon_khmer:fire:5
-mon_khmer,fire,WA,Nu,mon_khmer:fire:7,mon_khmer:fire:1
+mon_khmer,fire,WA,Nu,mon_khmer:fire:7,mon_khmer:fire:12
 mon_khmer,fish,BAHNAR,ka,mon_khmer:fish:1,mon_khmer:fish:1
 mon_khmer,fish,CHRAU,ka,mon_khmer:fish:1,mon_khmer:fish:1
 mon_khmer,fish,DEANG,ka,mon_khmer:fish:1,mon_khmer:fish:1
@@ -1113,19 +1113,19 @@ mon_khmer,leaf,WA,hla7,mon_khmer:leaf:1,mon_khmer:leaf:1
 mon_khmer,meat,BAHNAR,5em,mon_khmer:meat:2,mon_khmer:meat:1
 mon_khmer,meat,CHRAU,goN,mon_khmer:meat:3,mon_khmer:meat:2
 mon_khmer,meat,DEANG,yoN,mon_khmer:meat:7,mon_khmer:meat:2
-mon_khmer,meat,JEH,sinek,mon_khmer:meat:1,mon_khmer:meat:1
-mon_khmer,meat,KHASI,doh,mon_khmer:meat:10,mon_khmer:meat:3
-mon_khmer,meat,KHMER,saC,mon_khmer:meat:1,mon_khmer:meat:4
-mon_khmer,meat,KHMU,ah,mon_khmer:meat:8,mon_khmer:meat:3
+mon_khmer,meat,JEH,sinek,mon_khmer:meat:1,mon_khmer:meat:3
+mon_khmer,meat,KHASI,doh,mon_khmer:meat:10,mon_khmer:meat:4
+mon_khmer,meat,KHMER,saC,mon_khmer:meat:1,mon_khmer:meat:3
+mon_khmer,meat,KHMU,ah,mon_khmer:meat:8,mon_khmer:meat:4
 mon_khmer,meat,KSINMUL,ksoN,mon_khmer:meat:9,mon_khmer:meat:2
-mon_khmer,meat,KUI_THAILAND,saC,mon_khmer:meat:1,mon_khmer:meat:4
+mon_khmer,meat,KUI_THAILAND,saC,mon_khmer:meat:1,mon_khmer:meat:3
 mon_khmer,meat,MON,Cun,mon_khmer:meat:4,mon_khmer:meat:5
 mon_khmer,meat,MUNDARI,Zilu,mon_khmer:meat:11,mon_khmer:meat:6
-mon_khmer,meat,NYAKUR,hw~a7,mon_khmer:meat:5,mon_khmer:meat:3
-mon_khmer,meat,RUC,sit,mon_khmer:meat:1,mon_khmer:meat:4
-mon_khmer,meat,SEMAI,sEC,mon_khmer:meat:1,mon_khmer:meat:4
-mon_khmer,meat,VIETNAMESE,8it,mon_khmer:meat:1,mon_khmer:meat:4
-mon_khmer,meat,WA,ne7,mon_khmer:meat:6,mon_khmer:meat:1
+mon_khmer,meat,NYAKUR,hw~a7,mon_khmer:meat:5,mon_khmer:meat:4
+mon_khmer,meat,RUC,sit,mon_khmer:meat:1,mon_khmer:meat:3
+mon_khmer,meat,SEMAI,sEC,mon_khmer:meat:1,mon_khmer:meat:3
+mon_khmer,meat,VIETNAMESE,8it,mon_khmer:meat:1,mon_khmer:meat:3
+mon_khmer,meat,WA,ne7,mon_khmer:meat:6,mon_khmer:meat:7
 mon_khmer,mountain,BAHNAR,koN,mon_khmer:mountain:2,mon_khmer:mountain:1
 mon_khmer,mountain,CHRAU,guN,mon_khmer:mountain:2,mon_khmer:mountain:1
 mon_khmer,mountain,DEANG,svr,mon_khmer:mountain:8,mon_khmer:mountain:2
@@ -1139,8 +1139,8 @@ mon_khmer,mountain,MON,duiw,mon_khmer:mountain:3,mon_khmer:mountain:6
 mon_khmer,mountain,MUNDARI,buru,mon_khmer:mountain:6,mon_khmer:mountain:2
 mon_khmer,mountain,NYAKUR,kur,mon_khmer:mountain:10,mon_khmer:mountain:1
 mon_khmer,mountain,RUC,C3t,mon_khmer:mountain:4,mon_khmer:mountain:7
-mon_khmer,mountain,SEMAI,lot,mon_khmer:mountain:7,mon_khmer:mountain:8
-mon_khmer,mountain,VIETNAMESE,nui,mon_khmer:mountain:3,mon_khmer:mountain:9
+mon_khmer,mountain,SEMAI,lot,mon_khmer:mountain:7,mon_khmer:mountain:7
+mon_khmer,mountain,VIETNAMESE,nui,mon_khmer:mountain:3,mon_khmer:mountain:8
 mon_khmer,mountain,WA,goN,mon_khmer:mountain:2,mon_khmer:mountain:1
 mon_khmer,ashes,BAHNAR,h3yok,mon_khmer:ashes:9,mon_khmer:ashes:1
 mon_khmer,ashes,CHRAU,vuh,mon_khmer:ashes:3,mon_khmer:ashes:2
@@ -1172,21 +1172,21 @@ mon_khmer,rain,MUNDARI,gama,mon_khmer:rain:2,mon_khmer:rain:5
 mon_khmer,rain,NYAKUR,ph~rEy,mon_khmer:rain:1,mon_khmer:rain:6
 mon_khmer,rain,RUC,kum3a,mon_khmer:rain:2,mon_khmer:rain:5
 mon_khmer,rain,SEMAI,mani7,mon_khmer:rain:4,mon_khmer:rain:7
-mon_khmer,rain,VIETNAMESE,mua,mon_khmer:rain:2,mon_khmer:rain:1
+mon_khmer,rain,VIETNAMESE,mua,mon_khmer:rain:2,mon_khmer:rain:5
 mon_khmer,rain,WA,lh~E7,mon_khmer:rain:5,mon_khmer:rain:8
 mon_khmer,road (path),BAHNAR,troN,mon_khmer:road (path):1,mon_khmer:road (path):1
 mon_khmer,road (path),CHRAU,tr~oN,mon_khmer:road (path):1,mon_khmer:road (path):1
-mon_khmer,road (path),DEANG,ndEN,mon_khmer:road (path):3,mon_khmer:road (path):1
+mon_khmer,road (path),DEANG,ndEN,mon_khmer:road (path):3,mon_khmer:road (path):2
 mon_khmer,road (path),JEH,traN,mon_khmer:road (path):1,mon_khmer:road (path):1
-mon_khmer,road (path),KHASI,surok,mon_khmer:road (path):9,mon_khmer:road (path):2
-mon_khmer,road (path),KHMER,Z3luw th~3nal,mon_khmer:road (path):2,mon_khmer:road (path):3
-mon_khmer,road (path),KHMU,Nor,mon_khmer:road (path):6,mon_khmer:road (path):4
+mon_khmer,road (path),KHASI,surok,mon_khmer:road (path):9,mon_khmer:road (path):3
+mon_khmer,road (path),KHMER,Z3luw th~3nal,mon_khmer:road (path):2,mon_khmer:road (path):4
+mon_khmer,road (path),KHMU,Nor,mon_khmer:road (path):6,mon_khmer:road (path):5
 mon_khmer,road (path),KSINMUL,tum,mon_khmer:road (path):8,mon_khmer:road (path):1
-mon_khmer,road (path),KUI_THAILAND,k3na,mon_khmer:road (path):4,mon_khmer:road (path):5
+mon_khmer,road (path),KUI_THAILAND,k3na,mon_khmer:road (path):4,mon_khmer:road (path):6
 mon_khmer,road (path),MON,traw,mon_khmer:road (path):2,mon_khmer:road (path):1
-mon_khmer,road (path),MUNDARI,hora,mon_khmer:road (path):5,mon_khmer:road (path):6
+mon_khmer,road (path),MUNDARI,hora,mon_khmer:road (path):5,mon_khmer:road (path):7
 mon_khmer,road (path),NYAKUR,trew,mon_khmer:road (path):2,mon_khmer:road (path):1
-mon_khmer,road (path),SEMAI,nuN,mon_khmer:road (path):5,mon_khmer:road (path):1
+mon_khmer,road (path),SEMAI,nuN,mon_khmer:road (path):5,mon_khmer:road (path):2
 mon_khmer,road (path),VIETNAMESE,duoN,mon_khmer:road (path):1,mon_khmer:road (path):1
 mon_khmer,road (path),WA,kra7,mon_khmer:road (path):6,mon_khmer:road (path):1
 mon_khmer,root,BAHNAR,r3h,mon_khmer:root:1,mon_khmer:root:1
@@ -1224,15 +1224,15 @@ mon_khmer,mouth,JEH,t3mun,mon_khmer:mouth:1,mon_khmer:mouth:3
 mon_khmer,mouth,KHASI,sh~intur,mon_khmer:mouth:10,mon_khmer:mouth:4
 mon_khmer,mouth,KHMER,mat,mon_khmer:mouth:5,mon_khmer:mouth:5
 mon_khmer,mouth,KHMU,t3noh,mon_khmer:mouth:6,mon_khmer:mouth:6
-mon_khmer,mouth,KSINMUL,5uk,mon_khmer:mouth:9,mon_khmer:mouth:6
+mon_khmer,mouth,KSINMUL,5uk,mon_khmer:mouth:9,mon_khmer:mouth:7
 mon_khmer,mouth,KUI_THAILAND,noh,mon_khmer:mouth:6,mon_khmer:mouth:6
-mon_khmer,mouth,MON,paN,mon_khmer:mouth:3,mon_khmer:mouth:7
-mon_khmer,mouth,MUNDARI,moCa,mon_khmer:mouth:11,mon_khmer:mouth:8
-mon_khmer,mouth,NYAKUR,paN,mon_khmer:mouth:3,mon_khmer:mouth:7
-mon_khmer,mouth,RUC,kaN,mon_khmer:mouth:4,mon_khmer:mouth:7
+mon_khmer,mouth,MON,paN,mon_khmer:mouth:3,mon_khmer:mouth:8
+mon_khmer,mouth,MUNDARI,moCa,mon_khmer:mouth:11,mon_khmer:mouth:9
+mon_khmer,mouth,NYAKUR,paN,mon_khmer:mouth:3,mon_khmer:mouth:8
+mon_khmer,mouth,RUC,kaN,mon_khmer:mouth:4,mon_khmer:mouth:8
 mon_khmer,mouth,SEMAI,mp~akN,mon_khmer:mouth:3,mon_khmer:mouth:5
-mon_khmer,mouth,VIETNAMESE,mieN,mon_khmer:mouth:12,mon_khmer:mouth:9
-mon_khmer,mouth,WA,yh~3ih,mon_khmer:mouth:7,mon_khmer:mouth:10
+mon_khmer,mouth,VIETNAMESE,mieN,mon_khmer:mouth:12,mon_khmer:mouth:10
+mon_khmer,mouth,WA,yh~3ih,mon_khmer:mouth:7,mon_khmer:mouth:11
 mon_khmer,person,BAHNAR,b3Nai,mon_khmer:person:1,mon_khmer:person:1
 mon_khmer,person,CHRAU,tamun,mon_khmer:person:2,mon_khmer:person:2
 mon_khmer,person,DEANG,to i,mon_khmer:person:5,mon_khmer:person:3
@@ -1242,10 +1242,10 @@ mon_khmer,person,KHMU,k3mmu,mon_khmer:person:6,mon_khmer:person:5
 mon_khmer,person,KSINMUL,ksiN,mon_khmer:person:7,mon_khmer:person:6
 mon_khmer,person,KUI_THAILAND,kui,mon_khmer:person:3,mon_khmer:person:7
 mon_khmer,person,MUNDARI,horo,mon_khmer:person:9,mon_khmer:person:8
-mon_khmer,person,RUC,Nay,mon_khmer:person:1,mon_khmer:person:1
-mon_khmer,person,SEMAI,sn7~oy,mon_khmer:person:1,mon_khmer:person:1
-mon_khmer,person,VIETNAMESE,Nuoi,mon_khmer:person:1,mon_khmer:person:9
-mon_khmer,person,WA,pui,mon_khmer:person:4,mon_khmer:person:10
+mon_khmer,person,RUC,Nay,mon_khmer:person:1,mon_khmer:person:9
+mon_khmer,person,SEMAI,sn7~oy,mon_khmer:person:1,mon_khmer:person:9
+mon_khmer,person,VIETNAMESE,Nuoi,mon_khmer:person:1,mon_khmer:person:10
+mon_khmer,person,WA,pui,mon_khmer:person:4,mon_khmer:person:7
 mon_khmer,seed,DEANG,kau,mon_khmer:seed:6,mon_khmer:seed:1
 mon_khmer,seed,KHASI,sinai,mon_khmer:seed:8,mon_khmer:seed:2
 mon_khmer,seed,KHMER,grap,mon_khmer:seed:2,mon_khmer:seed:3
@@ -1274,32 +1274,32 @@ mon_khmer,nail (claw),VIETNAMESE,moN,mon_khmer:nail (claw):2,mon_khmer:nail (cla
 mon_khmer,nail (claw),WA,Nh~im,mon_khmer:nail (claw):4,mon_khmer:nail (claw):11
 mon_khmer,egg,CHRAU,Cap,mon_khmer:egg:1,mon_khmer:egg:1
 mon_khmer,egg,DEANG,krau,mon_khmer:egg:6,mon_khmer:egg:2
-mon_khmer,egg,JEH,t3tap,mon_khmer:egg:1,mon_khmer:egg:1
-mon_khmer,egg,KHASI,pilleN,mon_khmer:egg:2,mon_khmer:egg:3
-mon_khmer,egg,KHMER,boN,mon_khmer:egg:4,mon_khmer:egg:4
-mon_khmer,egg,KHMU,k3toN,mon_khmer:egg:7,mon_khmer:egg:5
-mon_khmer,egg,KSINMUL,kloN,mon_khmer:egg:2,mon_khmer:egg:5
-mon_khmer,egg,KUI_THAILAND,nth$rEl,mon_khmer:egg:8,mon_khmer:egg:6
-mon_khmer,egg,MON,kh~amhay,mon_khmer:egg:3,mon_khmer:egg:7
-mon_khmer,egg,MUNDARI,Zarom,mon_khmer:egg:9,mon_khmer:egg:8
-mon_khmer,egg,RUC,t3lul,mon_khmer:egg:8,mon_khmer:egg:9
-mon_khmer,egg,SEMAI,pNl3kN~,mon_khmer:egg:2,mon_khmer:egg:10
-mon_khmer,egg,VIETNAMESE,CuN,mon_khmer:egg:2,mon_khmer:egg:11
-mon_khmer,egg,WA,tom,mon_khmer:egg:5,mon_khmer:egg:12
+mon_khmer,egg,JEH,t3tap,mon_khmer:egg:1,mon_khmer:egg:3
+mon_khmer,egg,KHASI,pilleN,mon_khmer:egg:2,mon_khmer:egg:4
+mon_khmer,egg,KHMER,boN,mon_khmer:egg:4,mon_khmer:egg:5
+mon_khmer,egg,KHMU,k3toN,mon_khmer:egg:7,mon_khmer:egg:6
+mon_khmer,egg,KSINMUL,kloN,mon_khmer:egg:2,mon_khmer:egg:6
+mon_khmer,egg,KUI_THAILAND,nth$rEl,mon_khmer:egg:8,mon_khmer:egg:7
+mon_khmer,egg,MON,kh~amhay,mon_khmer:egg:3,mon_khmer:egg:8
+mon_khmer,egg,MUNDARI,Zarom,mon_khmer:egg:9,mon_khmer:egg:9
+mon_khmer,egg,RUC,t3lul,mon_khmer:egg:8,mon_khmer:egg:10
+mon_khmer,egg,SEMAI,pNl3kN~,mon_khmer:egg:2,mon_khmer:egg:11
+mon_khmer,egg,VIETNAMESE,CuN,mon_khmer:egg:2,mon_khmer:egg:12
+mon_khmer,egg,WA,tom,mon_khmer:egg:5,mon_khmer:egg:13
 mon_khmer,skin,BAHNAR,3kar,mon_khmer:skin:2,mon_khmer:skin:1
 mon_khmer,skin,CHRAU,nto,mon_khmer:skin:3,mon_khmer:skin:2
-mon_khmer,skin,DEANG,hur,mon_khmer:skin:8,mon_khmer:skin:1
-mon_khmer,skin,JEH,pal,mon_khmer:skin:1,mon_khmer:skin:3
-mon_khmer,skin,KHASI,kh~oh,mon_khmer:skin:10,mon_khmer:skin:4
-mon_khmer,skin,KHMER,s3pEk,mon_khmer:skin:6,mon_khmer:skin:5
-mon_khmer,skin,KHMU,h3mpur,mon_khmer:skin:8,mon_khmer:skin:1
-mon_khmer,skin,KSINMUL,b3N,mon_khmer:skin:9,mon_khmer:skin:6
-mon_khmer,skin,MON,snam,mon_khmer:skin:5,mon_khmer:skin:7
-mon_khmer,skin,MUNDARI,ur,mon_khmer:skin:8,mon_khmer:skin:1
-mon_khmer,skin,NYAKUR,hnam,mon_khmer:skin:5,mon_khmer:skin:7
-mon_khmer,skin,SEMAI,gt37,mon_khmer:skin:3,mon_khmer:skin:8
-mon_khmer,skin,VIETNAMESE,Za,mon_khmer:skin:4,mon_khmer:skin:9
-mon_khmer,skin,WA,hak,mon_khmer:skin:7,mon_khmer:skin:10
+mon_khmer,skin,DEANG,hur,mon_khmer:skin:8,mon_khmer:skin:3
+mon_khmer,skin,JEH,pal,mon_khmer:skin:1,mon_khmer:skin:4
+mon_khmer,skin,KHASI,kh~oh,mon_khmer:skin:10,mon_khmer:skin:5
+mon_khmer,skin,KHMER,s3pEk,mon_khmer:skin:6,mon_khmer:skin:6
+mon_khmer,skin,KHMU,h3mpur,mon_khmer:skin:8,mon_khmer:skin:3
+mon_khmer,skin,KSINMUL,b3N,mon_khmer:skin:9,mon_khmer:skin:7
+mon_khmer,skin,MON,snam,mon_khmer:skin:5,mon_khmer:skin:8
+mon_khmer,skin,MUNDARI,ur,mon_khmer:skin:8,mon_khmer:skin:3
+mon_khmer,skin,NYAKUR,hnam,mon_khmer:skin:5,mon_khmer:skin:8
+mon_khmer,skin,SEMAI,gt37,mon_khmer:skin:3,mon_khmer:skin:9
+mon_khmer,skin,VIETNAMESE,Za,mon_khmer:skin:4,mon_khmer:skin:10
+mon_khmer,skin,WA,hak,mon_khmer:skin:7,mon_khmer:skin:11
 mon_khmer,smoke,BAHNAR,5ui,mon_khmer:smoke:1,mon_khmer:smoke:1
 mon_khmer,smoke,CHRAU,5u7,mon_khmer:smoke:2,mon_khmer:smoke:1
 mon_khmer,smoke,DEANG,to7,mon_khmer:smoke:6,mon_khmer:smoke:2
@@ -1315,35 +1315,35 @@ mon_khmer,smoke,NYAKUR,yak,mon_khmer:smoke:2,mon_khmer:smoke:5
 mon_khmer,smoke,RUC,kahoy,mon_khmer:smoke:1,mon_khmer:smoke:7
 mon_khmer,smoke,SEMAI,Cul,mon_khmer:smoke:5,mon_khmer:smoke:6
 mon_khmer,smoke,VIETNAMESE,kx~oi,mon_khmer:smoke:1,mon_khmer:smoke:8
-mon_khmer,smoke,WA,tau7,mon_khmer:smoke:6,mon_khmer:smoke:2
+mon_khmer,smoke,WA,tau7,mon_khmer:smoke:6,mon_khmer:smoke:1
 mon_khmer,that,BAHNAR,ni,mon_khmer:that:1,mon_khmer:that:1
 mon_khmer,that,DEANG,d3,mon_khmer:that:8,mon_khmer:that:2
 mon_khmer,that,KHASI,ba,mon_khmer:that:9,mon_khmer:that:3
-mon_khmer,that,KHMER,noh,mon_khmer:that:5,mon_khmer:that:1
-mon_khmer,that,KHMU,k3 ni,mon_khmer:that:1,mon_khmer:that:4
+mon_khmer,that,KHMER,noh,mon_khmer:that:5,mon_khmer:that:4
+mon_khmer,that,KHMU,k3 ni,mon_khmer:that:1,mon_khmer:that:1
 mon_khmer,that,KSINMUL,p37ow,mon_khmer:that:7,mon_khmer:that:5
-mon_khmer,that,KUI_THAILAND,k3i,mon_khmer:that:2,mon_khmer:that:4
+mon_khmer,that,KUI_THAILAND,k3i,mon_khmer:that:2,mon_khmer:that:1
 mon_khmer,that,MON,te7,mon_khmer:that:4,mon_khmer:that:6
-mon_khmer,that,MUNDARI,han i7,mon_khmer:that:10,mon_khmer:that:4
+mon_khmer,that,MUNDARI,han i7,mon_khmer:that:10,mon_khmer:that:1
 mon_khmer,that,NYAKUR,te7,mon_khmer:that:4,mon_khmer:that:6
 mon_khmer,that,RUC,he,mon_khmer:that:3,mon_khmer:that:7
-mon_khmer,that,SEMAI,aZeh,mon_khmer:that:6,mon_khmer:that:6
-mon_khmer,that,WA,an,mon_khmer:that:7,mon_khmer:that:8
+mon_khmer,that,SEMAI,aZeh,mon_khmer:that:6,mon_khmer:that:8
+mon_khmer,that,WA,an,mon_khmer:that:7,mon_khmer:that:9
 mon_khmer,stone,BAHNAR,t3mo,mon_khmer:stone:1,mon_khmer:stone:1
 mon_khmer,stone,CHRAU,tamo,mon_khmer:stone:1,mon_khmer:stone:1
-mon_khmer,stone,DEANG,mau,mon_khmer:stone:1,mon_khmer:stone:2
+mon_khmer,stone,DEANG,mau,mon_khmer:stone:1,mon_khmer:stone:1
 mon_khmer,stone,JEH,t3mou,mon_khmer:stone:1,mon_khmer:stone:1
-mon_khmer,stone,KHASI,maw,mon_khmer:stone:1,mon_khmer:stone:2
+mon_khmer,stone,KHASI,maw,mon_khmer:stone:1,mon_khmer:stone:1
 mon_khmer,stone,KHMER,th~3mo,mon_khmer:stone:1,mon_khmer:stone:1
-mon_khmer,stone,KHMU,klaN,mon_khmer:stone:3,mon_khmer:stone:3
-mon_khmer,stone,KSINMUL,3li3N,mon_khmer:stone:3,mon_khmer:stone:4
+mon_khmer,stone,KHMU,klaN,mon_khmer:stone:3,mon_khmer:stone:2
+mon_khmer,stone,KSINMUL,3li3N,mon_khmer:stone:3,mon_khmer:stone:3
 mon_khmer,stone,KUI_THAILAND,t3mau,mon_khmer:stone:1,mon_khmer:stone:1
 mon_khmer,stone,MON,tmo7,mon_khmer:stone:1,mon_khmer:stone:1
-mon_khmer,stone,MUNDARI,diri,mon_khmer:stone:4,mon_khmer:stone:5
+mon_khmer,stone,MUNDARI,diri,mon_khmer:stone:4,mon_khmer:stone:4
 mon_khmer,stone,NYAKUR,hmo7,mon_khmer:stone:1,mon_khmer:stone:1
-mon_khmer,stone,RUC,lata,mon_khmer:stone:2,mon_khmer:stone:6
-mon_khmer,stone,VIETNAMESE,da,mon_khmer:stone:2,mon_khmer:stone:6
-mon_khmer,stone,WA,si mau7,mon_khmer:stone:1,mon_khmer:stone:2
+mon_khmer,stone,RUC,lata,mon_khmer:stone:2,mon_khmer:stone:5
+mon_khmer,stone,VIETNAMESE,da,mon_khmer:stone:2,mon_khmer:stone:5
+mon_khmer,stone,WA,si mau7,mon_khmer:stone:1,mon_khmer:stone:1
 mon_khmer,tree,BAHNAR,loN,mon_khmer:tree:1,mon_khmer:tree:1
 mon_khmer,tree,CHRAU,Ch~o,mon_khmer:tree:2,mon_khmer:tree:2
 mon_khmer,tree,DEANG,he,mon_khmer:tree:5,mon_khmer:tree:3
@@ -1388,7 +1388,7 @@ mon_khmer,blood,MUNDARI,mayam,mon_khmer:blood:1,mon_khmer:blood:1
 mon_khmer,blood,NYAKUR,Ch~im,mon_khmer:blood:1,mon_khmer:blood:1
 mon_khmer,blood,RUC,asam,mon_khmer:blood:1,mon_khmer:blood:1
 mon_khmer,blood,SEMAI,bh~ipm~,mon_khmer:blood:1,mon_khmer:blood:2
-mon_khmer,blood,VIETNAMESE,mau,mon_khmer:blood:2,mon_khmer:blood:3
+mon_khmer,blood,VIETNAMESE,mau,mon_khmer:blood:2,mon_khmer:blood:1
 mon_khmer,blood,WA,nh~am,mon_khmer:blood:1,mon_khmer:blood:1
 mon_khmer,water,BAHNAR,dak,mon_khmer:water:1,mon_khmer:water:1
 mon_khmer,water,CHRAU,da7,mon_khmer:water:1,mon_khmer:water:1
@@ -1422,4 +1422,4 @@ mon_khmer,all,KHMER,tamN,mon_khmer:all:1,mon_khmer:all:3
 mon_khmer,all,KHMU,ku,mon_khmer:all:7,mon_khmer:all:4
 mon_khmer,all,KUI_THAILAND,ai th~e,mon_khmer:all:4,mon_khmer:all:5
 mon_khmer,all,MON,pa7uit,mon_khmer:all:3,mon_khmer:all:6
-mon_khmer,all,SEMAI,diC,mon_khmer:all:5,mon_khmer:all:1
+mon_khmer,all,SEMAI,diC,mon_khmer:all:5,mon_khmer:all:7

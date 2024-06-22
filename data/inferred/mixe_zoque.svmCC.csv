@@ -176,7 +176,7 @@ mixe_zoque,warm,MARIA_CHIMALAPA,nuc,mixe_zoque:warm:5,mixe_zoque:warm:3
 mixe_zoque,warm,MIGUEL_CHIMALAPA,yuk nuc,mixe_zoque:warm:5,mixe_zoque:warm:3
 mixe_zoque,warm,NORTH_HIGHLAND_MIXE,an,mixe_zoque:warm:1,mixe_zoque:warm:2
 mixe_zoque,warm,OLUTA_POPOLUCA,hokoS,mixe_zoque:warm:3,mixe_zoque:warm:4
-mixe_zoque,warm,SAYULA_POPOLUCA,powik,mixe_zoque:warm:2,mixe_zoque:warm:5
+mixe_zoque,warm,SAYULA_POPOLUCA,powik,mixe_zoque:warm:2,mixe_zoque:warm:1
 mixe_zoque,warm,SOUTH_HIGHLAND_MIXE,an,mixe_zoque:warm:1,mixe_zoque:warm:2
 mixe_zoque,night,CHIAPAS_ZOQUE,cu7,mixe_zoque:night:1,mixe_zoque:night:1
 mixe_zoque,night,LOWLAND_MIXE,acu737,mixe_zoque:night:1,mixe_zoque:night:1
@@ -227,14 +227,14 @@ mixe_zoque,ear,SOUTH_HIGHLAND_MIXE,tack,mixe_zoque:ear:1,mixe_zoque:ear:1
 mixe_zoque,ear,TEXISTEPEC_ZOQUE,tac3k,mixe_zoque:ear:1,mixe_zoque:ear:1
 mixe_zoque,eye,CHIAPAS_ZOQUE,win,mixe_zoque:eye:1,mixe_zoque:eye:1
 mixe_zoque,eye,LOWLAND_MIXE,win,mixe_zoque:eye:1,mixe_zoque:eye:1
-mixe_zoque,eye,MARIA_CHIMALAPA,wit3m,mixe_zoque:eye:3,mixe_zoque:eye:1
-mixe_zoque,eye,MIGUEL_CHIMALAPA,wot3m,mixe_zoque:eye:3,mixe_zoque:eye:1
+mixe_zoque,eye,MARIA_CHIMALAPA,wit3m,mixe_zoque:eye:3,mixe_zoque:eye:2
+mixe_zoque,eye,MIGUEL_CHIMALAPA,wot3m,mixe_zoque:eye:3,mixe_zoque:eye:2
 mixe_zoque,eye,NORTH_HIGHLAND_MIXE,vin,mixe_zoque:eye:1,mixe_zoque:eye:1
 mixe_zoque,eye,OLUTA_POPOLUCA,vin3,mixe_zoque:eye:1,mixe_zoque:eye:1
 mixe_zoque,eye,SAYULA_POPOLUCA,win,mixe_zoque:eye:1,mixe_zoque:eye:1
-mixe_zoque,eye,SOTEAPAN_ZOQUE,iS kuy,mixe_zoque:eye:2,mixe_zoque:eye:2
+mixe_zoque,eye,SOTEAPAN_ZOQUE,iS kuy,mixe_zoque:eye:2,mixe_zoque:eye:3
 mixe_zoque,eye,SOUTH_HIGHLAND_MIXE,wen,mixe_zoque:eye:1,mixe_zoque:eye:1
-mixe_zoque,eye,TEXISTEPEC_ZOQUE,eS ku7,mixe_zoque:eye:2,mixe_zoque:eye:2
+mixe_zoque,eye,TEXISTEPEC_ZOQUE,eS ku7,mixe_zoque:eye:2,mixe_zoque:eye:3
 mixe_zoque,belly,CHIAPAS_ZOQUE,cek,mixe_zoque:belly:4,mixe_zoque:belly:1
 mixe_zoque,belly,LOWLAND_MIXE,mo7oSak,mixe_zoque:belly:2,mixe_zoque:belly:2
 mixe_zoque,belly,MARIA_CHIMALAPA,cek,mixe_zoque:belly:4,mixe_zoque:belly:1
@@ -299,8 +299,8 @@ mixe_zoque,foot,MARIA_CHIMALAPA,maN kuy,mixe_zoque:foot:7,mixe_zoque:foot:3
 mixe_zoque,foot,MIGUEL_CHIMALAPA,maN kuy7,mixe_zoque:foot:7,mixe_zoque:foot:3
 mixe_zoque,foot,NORTH_HIGHLAND_MIXE,tek,mixe_zoque:foot:1,mixe_zoque:foot:2
 mixe_zoque,foot,OLUTA_POPOLUCA,k3Sta,mixe_zoque:foot:3,mixe_zoque:foot:4
-mixe_zoque,foot,SAYULA_POPOLUCA,tan,mixe_zoque:foot:2,mixe_zoque:foot:4
-mixe_zoque,foot,SOTEAPAN_ZOQUE,puy,mixe_zoque:foot:6,mixe_zoque:foot:5
+mixe_zoque,foot,SAYULA_POPOLUCA,tan,mixe_zoque:foot:2,mixe_zoque:foot:5
+mixe_zoque,foot,SOTEAPAN_ZOQUE,puy,mixe_zoque:foot:6,mixe_zoque:foot:6
 mixe_zoque,foot,SOUTH_HIGHLAND_MIXE,teky,mixe_zoque:foot:1,mixe_zoque:foot:2
 mixe_zoque,foot,TEXISTEPEC_ZOQUE,pak,mixe_zoque:foot:5,mixe_zoque:foot:1
 mixe_zoque,moon,CHIAPAS_ZOQUE,poyah,mixe_zoque:moon:1,mixe_zoque:moon:1
@@ -331,14 +331,14 @@ mixe_zoque,white,SOTEAPAN_ZOQUE,po7obap,mixe_zoque:white:1,mixe_zoque:white:1
 mixe_zoque,white,SOUTH_HIGHLAND_MIXE,pop,mixe_zoque:white:1,mixe_zoque:white:1
 mixe_zoque,white,TEXISTEPEC_ZOQUE,popo7,mixe_zoque:white:1,mixe_zoque:white:1
 mixe_zoque,eat,CHIAPAS_ZOQUE,k3s,mixe_zoque:eat:3,mixe_zoque:eat:1
-mixe_zoque,eat,LOWLAND_MIXE,kay,mixe_zoque:eat:2,mixe_zoque:eat:2
+mixe_zoque,eat,LOWLAND_MIXE,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
 mixe_zoque,eat,MARIA_CHIMALAPA,k3s oy,mixe_zoque:eat:3,mixe_zoque:eat:1
 mixe_zoque,eat,MIGUEL_CHIMALAPA,k3S,mixe_zoque:eat:3,mixe_zoque:eat:1
-mixe_zoque,eat,NORTH_HIGHLAND_MIXE,kay,mixe_zoque:eat:2,mixe_zoque:eat:2
-mixe_zoque,eat,OLUTA_POPOLUCA,kay,mixe_zoque:eat:2,mixe_zoque:eat:2
-mixe_zoque,eat,SAYULA_POPOLUCA,kay,mixe_zoque:eat:2,mixe_zoque:eat:2
+mixe_zoque,eat,NORTH_HIGHLAND_MIXE,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
+mixe_zoque,eat,OLUTA_POPOLUCA,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
+mixe_zoque,eat,SAYULA_POPOLUCA,kay,mixe_zoque:eat:2,mixe_zoque:eat:1
 mixe_zoque,eat,SOTEAPAN_ZOQUE,k373s,mixe_zoque:eat:3,mixe_zoque:eat:1
-mixe_zoque,eat,SOUTH_HIGHLAND_MIXE,kEy,mixe_zoque:eat:2,mixe_zoque:eat:2
+mixe_zoque,eat,SOUTH_HIGHLAND_MIXE,kEy,mixe_zoque:eat:2,mixe_zoque:eat:1
 mixe_zoque,eat,TEXISTEPEC_ZOQUE,k373s,mixe_zoque:eat:3,mixe_zoque:eat:1
 mixe_zoque,sun,CHIAPAS_ZOQUE,hama,mixe_zoque:sun:2,mixe_zoque:sun:1
 mixe_zoque,sun,LOWLAND_MIXE,S3,mixe_zoque:sun:1,mixe_zoque:sun:2
@@ -431,16 +431,16 @@ mixe_zoque,breast,MIGUEL_CHIMALAPA,cuci7,mixe_zoque:breast:5,mixe_zoque:breast:1
 mixe_zoque,breast,NORTH_HIGHLAND_MIXE,huta,mixe_zoque:breast:1,mixe_zoque:breast:3
 mixe_zoque,breast,SAYULA_POPOLUCA,moy,mixe_zoque:breast:3,mixe_zoque:breast:4
 mixe_zoque,breast,SOTEAPAN_ZOQUE,nunu,mixe_zoque:breast:4,mixe_zoque:breast:5
-mixe_zoque,breast,SOUTH_HIGHLAND_MIXE,ceck,mixe_zoque:breast:2,mixe_zoque:breast:6
-mixe_zoque,breast,TEXISTEPEC_ZOQUE,dun,mixe_zoque:breast:4,mixe_zoque:breast:7
+mixe_zoque,breast,SOUTH_HIGHLAND_MIXE,ceck,mixe_zoque:breast:2,mixe_zoque:breast:1
+mixe_zoque,breast,TEXISTEPEC_ZOQUE,dun,mixe_zoque:breast:4,mixe_zoque:breast:6
 mixe_zoque,bite,CHIAPAS_ZOQUE,kec,mixe_zoque:bite:5,mixe_zoque:bite:1
 mixe_zoque,bite,LOWLAND_MIXE,noc,mixe_zoque:bite:2,mixe_zoque:bite:2
 mixe_zoque,bite,MIGUEL_CHIMALAPA,waS,mixe_zoque:bite:6,mixe_zoque:bite:3
-mixe_zoque,bite,NORTH_HIGHLAND_MIXE,cu7uc,mixe_zoque:bite:1,mixe_zoque:bite:4
-mixe_zoque,bite,OLUTA_POPOLUCA,cuc,mixe_zoque:bite:4,mixe_zoque:bite:4
-mixe_zoque,bite,SAYULA_POPOLUCA,kuto7,mixe_zoque:bite:3,mixe_zoque:bite:5
+mixe_zoque,bite,NORTH_HIGHLAND_MIXE,cu7uc,mixe_zoque:bite:1,mixe_zoque:bite:2
+mixe_zoque,bite,OLUTA_POPOLUCA,cuc,mixe_zoque:bite:4,mixe_zoque:bite:2
+mixe_zoque,bite,SAYULA_POPOLUCA,kuto7,mixe_zoque:bite:3,mixe_zoque:bite:4
 mixe_zoque,bite,SOTEAPAN_ZOQUE,was,mixe_zoque:bite:6,mixe_zoque:bite:3
-mixe_zoque,bite,SOUTH_HIGHLAND_MIXE,cu7uc,mixe_zoque:bite:1,mixe_zoque:bite:4
+mixe_zoque,bite,SOUTH_HIGHLAND_MIXE,cu7uc,mixe_zoque:bite:1,mixe_zoque:bite:2
 mixe_zoque,bite,TEXISTEPEC_ZOQUE,kec,mixe_zoque:bite:5,mixe_zoque:bite:1
 mixe_zoque,name,CHIAPAS_ZOQUE,n3y,mixe_zoque:name:2,mixe_zoque:name:1
 mixe_zoque,name,LOWLAND_MIXE,S3,mixe_zoque:name:1,mixe_zoque:name:2
@@ -475,10 +475,10 @@ mixe_zoque,know,CHIAPAS_ZOQUE,mus,mixe_zoque:know:3,mixe_zoque:know:1
 mixe_zoque,know,LOWLAND_MIXE,new3y,mixe_zoque:know:2,mixe_zoque:know:2
 mixe_zoque,know,MARIA_CHIMALAPA,mus,mixe_zoque:know:3,mixe_zoque:know:1
 mixe_zoque,know,MIGUEL_CHIMALAPA,muS,mixe_zoque:know:3,mixe_zoque:know:1
-mixe_zoque,know,NORTH_HIGHLAND_MIXE,n3hava,mixe_zoque:know:1,mixe_zoque:know:2
-mixe_zoque,know,OLUTA_POPOLUCA,viniy,mixe_zoque:know:2,mixe_zoque:know:3
-mixe_zoque,know,SAYULA_POPOLUCA,hawi,mixe_zoque:know:2,mixe_zoque:know:2
-mixe_zoque,know,SOTEAPAN_ZOQUE,hodoN,mixe_zoque:know:4,mixe_zoque:know:4
+mixe_zoque,know,NORTH_HIGHLAND_MIXE,n3hava,mixe_zoque:know:1,mixe_zoque:know:3
+mixe_zoque,know,OLUTA_POPOLUCA,viniy,mixe_zoque:know:2,mixe_zoque:know:4
+mixe_zoque,know,SAYULA_POPOLUCA,hawi,mixe_zoque:know:2,mixe_zoque:know:3
+mixe_zoque,know,SOTEAPAN_ZOQUE,hodoN,mixe_zoque:know:4,mixe_zoque:know:5
 mixe_zoque,know,SOUTH_HIGHLAND_MIXE,naw,mixe_zoque:know:1,mixe_zoque:know:2
 mixe_zoque,know,TEXISTEPEC_ZOQUE,bus,mixe_zoque:know:3,mixe_zoque:know:1
 mixe_zoque,lie,CHIAPAS_ZOQUE,3kgek,mixe_zoque:lie:8,mixe_zoque:lie:1
@@ -493,14 +493,14 @@ mixe_zoque,lie,SOUTH_HIGHLAND_MIXE,ko7ok,mixe_zoque:lie:2,mixe_zoque:lie:2
 mixe_zoque,lie,TEXISTEPEC_ZOQUE,kas de7,mixe_zoque:lie:5,mixe_zoque:lie:8
 mixe_zoque,sit,CHIAPAS_ZOQUE,poks,mixe_zoque:sit:4,mixe_zoque:sit:1
 mixe_zoque,sit,LOWLAND_MIXE,iny3y,mixe_zoque:sit:2,mixe_zoque:sit:2
-mixe_zoque,sit,MARIA_CHIMALAPA,c3nay,mixe_zoque:sit:1,mixe_zoque:sit:2
-mixe_zoque,sit,MIGUEL_CHIMALAPA,c3n,mixe_zoque:sit:1,mixe_zoque:sit:2
-mixe_zoque,sit,NORTH_HIGHLAND_MIXE,cuna,mixe_zoque:sit:1,mixe_zoque:sit:2
-mixe_zoque,sit,OLUTA_POPOLUCA,huni,mixe_zoque:sit:3,mixe_zoque:sit:2
-mixe_zoque,sit,SAYULA_POPOLUCA,c3na,mixe_zoque:sit:1,mixe_zoque:sit:2
-mixe_zoque,sit,SOTEAPAN_ZOQUE,ko5,mixe_zoque:sit:5,mixe_zoque:sit:3
-mixe_zoque,sit,SOUTH_HIGHLAND_MIXE,c3n,mixe_zoque:sit:1,mixe_zoque:sit:2
-mixe_zoque,sit,TEXISTEPEC_ZOQUE,kon,mixe_zoque:sit:5,mixe_zoque:sit:3
+mixe_zoque,sit,MARIA_CHIMALAPA,c3nay,mixe_zoque:sit:1,mixe_zoque:sit:3
+mixe_zoque,sit,MIGUEL_CHIMALAPA,c3n,mixe_zoque:sit:1,mixe_zoque:sit:3
+mixe_zoque,sit,NORTH_HIGHLAND_MIXE,cuna,mixe_zoque:sit:1,mixe_zoque:sit:3
+mixe_zoque,sit,OLUTA_POPOLUCA,huni,mixe_zoque:sit:3,mixe_zoque:sit:3
+mixe_zoque,sit,SAYULA_POPOLUCA,c3na,mixe_zoque:sit:1,mixe_zoque:sit:3
+mixe_zoque,sit,SOTEAPAN_ZOQUE,ko5,mixe_zoque:sit:5,mixe_zoque:sit:4
+mixe_zoque,sit,SOUTH_HIGHLAND_MIXE,c3n,mixe_zoque:sit:1,mixe_zoque:sit:3
+mixe_zoque,sit,TEXISTEPEC_ZOQUE,kon,mixe_zoque:sit:5,mixe_zoque:sit:4
 mixe_zoque,kill,CHIAPAS_ZOQUE,yah ka7,mixe_zoque:kill:2,mixe_zoque:kill:1
 mixe_zoque,kill,LOWLAND_MIXE,yah o7ok,mixe_zoque:kill:1,mixe_zoque:kill:1
 mixe_zoque,kill,MARIA_CHIMALAPA,yak kah,mixe_zoque:kill:2,mixe_zoque:kill:1
@@ -639,14 +639,14 @@ mixe_zoque,one,SOTEAPAN_ZOQUE,tum,mixe_zoque:one:2,mixe_zoque:one:1
 mixe_zoque,one,SOUTH_HIGHLAND_MIXE,tu7uk,mixe_zoque:one:1,mixe_zoque:one:1
 mixe_zoque,one,TEXISTEPEC_ZOQUE,tum,mixe_zoque:one:2,mixe_zoque:one:1
 mixe_zoque,die,CHIAPAS_ZOQUE,ka7,mixe_zoque:die:2,mixe_zoque:die:1
-mixe_zoque,die,LOWLAND_MIXE,o7ok,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,LOWLAND_MIXE,o7ok,mixe_zoque:die:1,mixe_zoque:die:2
 mixe_zoque,die,MARIA_CHIMALAPA,kah,mixe_zoque:die:2,mixe_zoque:die:1
 mixe_zoque,die,MIGUEL_CHIMALAPA,ka7,mixe_zoque:die:2,mixe_zoque:die:1
-mixe_zoque,die,NORTH_HIGHLAND_MIXE,o7k,mixe_zoque:die:1,mixe_zoque:die:1
-mixe_zoque,die,OLUTA_POPOLUCA,ok,mixe_zoque:die:1,mixe_zoque:die:1
-mixe_zoque,die,SAYULA_POPOLUCA,o7k,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,NORTH_HIGHLAND_MIXE,o7k,mixe_zoque:die:1,mixe_zoque:die:2
+mixe_zoque,die,OLUTA_POPOLUCA,ok,mixe_zoque:die:1,mixe_zoque:die:2
+mixe_zoque,die,SAYULA_POPOLUCA,o7k,mixe_zoque:die:1,mixe_zoque:die:2
 mixe_zoque,die,SOTEAPAN_ZOQUE,ka7,mixe_zoque:die:2,mixe_zoque:die:1
-mixe_zoque,die,SOUTH_HIGHLAND_MIXE,ok,mixe_zoque:die:1,mixe_zoque:die:1
+mixe_zoque,die,SOUTH_HIGHLAND_MIXE,ok,mixe_zoque:die:1,mixe_zoque:die:2
 mixe_zoque,die,TEXISTEPEC_ZOQUE,ka7,mixe_zoque:die:2,mixe_zoque:die:1
 mixe_zoque,two,CHIAPAS_ZOQUE,meca,mixe_zoque:two:1,mixe_zoque:two:1
 mixe_zoque,two,LOWLAND_MIXE,mec,mixe_zoque:two:1,mixe_zoque:two:1
@@ -664,7 +664,7 @@ mixe_zoque,man,MARIA_CHIMALAPA,p3n,mixe_zoque:man:4,mixe_zoque:man:1
 mixe_zoque,man,MIGUEL_CHIMALAPA,p3n,mixe_zoque:man:4,mixe_zoque:man:1
 mixe_zoque,man,NORTH_HIGHLAND_MIXE,yaty3k,mixe_zoque:man:1,mixe_zoque:man:2
 mixe_zoque,man,OLUTA_POPOLUCA,yo7owa,mixe_zoque:man:3,mixe_zoque:man:3
-mixe_zoque,man,SAYULA_POPOLUCA,hayaw,mixe_zoque:man:2,mixe_zoque:man:4
+mixe_zoque,man,SAYULA_POPOLUCA,hayaw,mixe_zoque:man:2,mixe_zoque:man:2
 mixe_zoque,man,SOTEAPAN_ZOQUE,p3Si5,mixe_zoque:man:4,mixe_zoque:man:1
 mixe_zoque,man,SOUTH_HIGHLAND_MIXE,h3ty3k,mixe_zoque:man:1,mixe_zoque:man:2
 mixe_zoque,man,TEXISTEPEC_ZOQUE,p35,mixe_zoque:man:4,mixe_zoque:man:1
@@ -700,24 +700,24 @@ mixe_zoque,black,SOUTH_HIGHLAND_MIXE,y3k,mixe_zoque:black:1,mixe_zoque:black:1
 mixe_zoque,black,TEXISTEPEC_ZOQUE,y3k,mixe_zoque:black:1,mixe_zoque:black:1
 mixe_zoque,dog,CHIAPAS_ZOQUE,tuwi,mixe_zoque:dog:4,mixe_zoque:dog:1
 mixe_zoque,dog,LOWLAND_MIXE,uk,mixe_zoque:dog:1,mixe_zoque:dog:2
-mixe_zoque,dog,MARIA_CHIMALAPA,nu7u,mixe_zoque:dog:6,mixe_zoque:dog:3
-mixe_zoque,dog,MIGUEL_CHIMALAPA,nu7,mixe_zoque:dog:6,mixe_zoque:dog:3
+mixe_zoque,dog,MARIA_CHIMALAPA,nu7u,mixe_zoque:dog:6,mixe_zoque:dog:2
+mixe_zoque,dog,MIGUEL_CHIMALAPA,nu7,mixe_zoque:dog:6,mixe_zoque:dog:2
 mixe_zoque,dog,NORTH_HIGHLAND_MIXE,uk,mixe_zoque:dog:1,mixe_zoque:dog:2
-mixe_zoque,dog,OLUTA_POPOLUCA,Suni,mixe_zoque:dog:3,mixe_zoque:dog:4
-mixe_zoque,dog,SAYULA_POPOLUCA,tak,mixe_zoque:dog:2,mixe_zoque:dog:5
-mixe_zoque,dog,SOTEAPAN_ZOQUE,Cimpa,mixe_zoque:dog:5,mixe_zoque:dog:6
+mixe_zoque,dog,OLUTA_POPOLUCA,Suni,mixe_zoque:dog:3,mixe_zoque:dog:3
+mixe_zoque,dog,SAYULA_POPOLUCA,tak,mixe_zoque:dog:2,mixe_zoque:dog:4
+mixe_zoque,dog,SOTEAPAN_ZOQUE,Cimpa,mixe_zoque:dog:5,mixe_zoque:dog:5
 mixe_zoque,dog,SOUTH_HIGHLAND_MIXE,uk,mixe_zoque:dog:1,mixe_zoque:dog:2
-mixe_zoque,dog,TEXISTEPEC_ZOQUE,Cempa7,mixe_zoque:dog:5,mixe_zoque:dog:6
+mixe_zoque,dog,TEXISTEPEC_ZOQUE,Cempa7,mixe_zoque:dog:5,mixe_zoque:dog:5
 mixe_zoque,burn,CHIAPAS_ZOQUE,poN,mixe_zoque:burn:4,mixe_zoque:burn:1
 mixe_zoque,burn,LOWLAND_MIXE,no7ok,mixe_zoque:burn:2,mixe_zoque:burn:2
-mixe_zoque,burn,MARIA_CHIMALAPA,k3N,mixe_zoque:burn:7,mixe_zoque:burn:1
+mixe_zoque,burn,MARIA_CHIMALAPA,k3N,mixe_zoque:burn:7,mixe_zoque:burn:3
 mixe_zoque,burn,MIGUEL_CHIMALAPA,poN,mixe_zoque:burn:4,mixe_zoque:burn:1
-mixe_zoque,burn,NORTH_HIGHLAND_MIXE,toy,mixe_zoque:burn:1,mixe_zoque:burn:3
-mixe_zoque,burn,OLUTA_POPOLUCA,yak toy,mixe_zoque:burn:3,mixe_zoque:burn:3
-mixe_zoque,burn,SAYULA_POPOLUCA,ak toy,mixe_zoque:burn:3,mixe_zoque:burn:3
+mixe_zoque,burn,NORTH_HIGHLAND_MIXE,toy,mixe_zoque:burn:1,mixe_zoque:burn:4
+mixe_zoque,burn,OLUTA_POPOLUCA,yak toy,mixe_zoque:burn:3,mixe_zoque:burn:4
+mixe_zoque,burn,SAYULA_POPOLUCA,ak toy,mixe_zoque:burn:3,mixe_zoque:burn:4
 mixe_zoque,burn,SOTEAPAN_ZOQUE,no7,mixe_zoque:burn:6,mixe_zoque:burn:2
-mixe_zoque,burn,SOUTH_HIGHLAND_MIXE,ca7ay,mixe_zoque:burn:8,mixe_zoque:burn:4
-mixe_zoque,burn,TEXISTEPEC_ZOQUE,do7 toke5,mixe_zoque:burn:5,mixe_zoque:burn:5
+mixe_zoque,burn,SOUTH_HIGHLAND_MIXE,ca7ay,mixe_zoque:burn:8,mixe_zoque:burn:5
+mixe_zoque,burn,TEXISTEPEC_ZOQUE,do7 toke5,mixe_zoque:burn:5,mixe_zoque:burn:6
 mixe_zoque,fire,CHIAPAS_ZOQUE,huk3t3k,mixe_zoque:fire:2,mixe_zoque:fire:1
 mixe_zoque,fire,MARIA_CHIMALAPA,hukut3,mixe_zoque:fire:2,mixe_zoque:fire:1
 mixe_zoque,fire,MIGUEL_CHIMALAPA,a7c37,mixe_zoque:fire:3,mixe_zoque:fire:2
@@ -859,9 +859,9 @@ mixe_zoque,egg,MIGUEL_CHIMALAPA,pohok,mixe_zoque:egg:3,mixe_zoque:egg:1
 mixe_zoque,egg,NORTH_HIGHLAND_MIXE,tu7ut,mixe_zoque:egg:1,mixe_zoque:egg:2
 mixe_zoque,egg,OLUTA_POPOLUCA,tutik,mixe_zoque:egg:1,mixe_zoque:egg:2
 mixe_zoque,egg,SAYULA_POPOLUCA,koy,mixe_zoque:egg:2,mixe_zoque:egg:3
-mixe_zoque,egg,SOTEAPAN_ZOQUE,kanpu,mixe_zoque:egg:4,mixe_zoque:egg:1
+mixe_zoque,egg,SOTEAPAN_ZOQUE,kanpu,mixe_zoque:egg:4,mixe_zoque:egg:4
 mixe_zoque,egg,SOUTH_HIGHLAND_MIXE,tucah,mixe_zoque:egg:1,mixe_zoque:egg:2
-mixe_zoque,egg,TEXISTEPEC_ZOQUE,kanpuk,mixe_zoque:egg:4,mixe_zoque:egg:1
+mixe_zoque,egg,TEXISTEPEC_ZOQUE,kanpuk,mixe_zoque:egg:4,mixe_zoque:egg:4
 mixe_zoque,skin,CHIAPAS_ZOQUE,naka,mixe_zoque:skin:2,mixe_zoque:skin:1
 mixe_zoque,skin,LOWLAND_MIXE,ak,mixe_zoque:skin:1,mixe_zoque:skin:1
 mixe_zoque,skin,MARIA_CHIMALAPA,naka,mixe_zoque:skin:2,mixe_zoque:skin:1
@@ -885,11 +885,11 @@ mixe_zoque,smoke,TEXISTEPEC_ZOQUE,hok,mixe_zoque:smoke:1,mixe_zoque:smoke:1
 mixe_zoque,that,CHIAPAS_ZOQUE,37,mixe_zoque:that:4,mixe_zoque:that:1
 mixe_zoque,that,LOWLAND_MIXE,heh3mb3,mixe_zoque:that:2,mixe_zoque:that:2
 mixe_zoque,that,MIGUEL_CHIMALAPA,gad3,mixe_zoque:that:5,mixe_zoque:that:3
-mixe_zoque,that,NORTH_HIGHLAND_MIXE,Si7,mixe_zoque:that:1,mixe_zoque:that:4
+mixe_zoque,that,NORTH_HIGHLAND_MIXE,Si7,mixe_zoque:that:1,mixe_zoque:that:1
 mixe_zoque,that,OLUTA_POPOLUCA,hamah,mixe_zoque:that:2,mixe_zoque:that:2
-mixe_zoque,that,SAYULA_POPOLUCA,yay3n,mixe_zoque:that:3,mixe_zoque:that:5
+mixe_zoque,that,SAYULA_POPOLUCA,yay3n,mixe_zoque:that:3,mixe_zoque:that:4
 mixe_zoque,that,SOTEAPAN_ZOQUE,heam,mixe_zoque:that:2,mixe_zoque:that:2
-mixe_zoque,that,SOUTH_HIGHLAND_MIXE,hE7E,mixe_zoque:that:6,mixe_zoque:that:6
+mixe_zoque,that,SOUTH_HIGHLAND_MIXE,hE7E,mixe_zoque:that:6,mixe_zoque:that:5
 mixe_zoque,stone,CHIAPAS_ZOQUE,ca7,mixe_zoque:stone:1,mixe_zoque:stone:1
 mixe_zoque,stone,LOWLAND_MIXE,ca,mixe_zoque:stone:1,mixe_zoque:stone:1
 mixe_zoque,stone,MARIA_CHIMALAPA,ca7,mixe_zoque:stone:1,mixe_zoque:stone:1
