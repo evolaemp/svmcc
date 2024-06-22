@@ -48,10 +48,9 @@ TRAIN_SETS = ['afrasian', 'bai', 'chinese_1964', 'chinese_2004', 'huon',
 
 
 """
-The names of the datasets used for testing. Note that central_asian is manually
-split in two files because of file size limits.
+The names of the datasets used for testing.
 """
-TEST_SETS = ['abvd', 'central_asian', 'central_asian_2', 'ielex']
+TEST_SETS = ['abvd', 'central_asian', 'ielex']
 
 
 """
